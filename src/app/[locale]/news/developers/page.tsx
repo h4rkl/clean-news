@@ -1,7 +1,17 @@
 import { NewsCallout } from "@/components/callout";
 import { NewsList } from "@/components/news-list";
+import {
+  FilterSearchParams,
+  parseTopicsFromSearchParams,
+} from "@/lib/search-params";
 
-export default function DevelopersPage() {
+export default function DevelopersPage({
+  searchParams,
+}: {
+  searchParams?: FilterSearchParams;
+}) {
+  const topics = parseTopicsFromSearchParams(searchParams);
+
   return (
     <>
       <NewsCallout
@@ -22,6 +32,7 @@ export default function DevelopersPage() {
         description="Articles for developers."
         audience="developers"
         enOnly
+        topics={topics}
       />
     </>
   );

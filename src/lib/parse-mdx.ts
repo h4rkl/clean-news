@@ -11,12 +11,9 @@ export type ContentMetadata = {
   title: string;
   description: string;
   slug: string;
-  date: string; // or Date if you parse it
+  date: string;
   audiences: string[];
-  section: string;
   topics: string[];
   heroImage?: string;
-  // Section-specific fields (optional, e.g., for 'upgrades' section)
   simdNumber?: number;
-  // Add more section-specific fields as needed
 };

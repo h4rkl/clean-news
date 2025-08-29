@@ -9,17 +9,36 @@ import {
   CardContent,
 } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
+import {
+  parseAudienceFromSearchParams,
+  parseTopicsFromSearchParams,
+  type FilterSearchParams,
+} from "@/lib/search-params";
 
-export default async function Home() {
+export default async function Home({
+  searchParams,
+}: {
+  searchParams?: FilterSearchParams;
+}) {
   const locale = await getLocale();
   const index = await getNewsIndex();
 
   const normalize = (l: string) => l.toLowerCase().split("-")[0];
 
+  const topics = parseTopicsFromSearchParams(searchParams);
+  const audience = parseAudienceFromSearchParams(searchParams);
+
   const articles = filterArticles({
     items: index.filter((i) => normalize(i.locale) === normalize(locale)),
     status: "published",
+    audience,
+    topics,
   });
+
+  const topicHref = (t: string) =>
+    `/${locale}/news?topics=${encodeURIComponent(t)}`;
+
+  const audienceHref = (a: string) => `/${locale}/news/${a}`;
 
   return (
     <div className="min-h-screen p-8 sm:p-20">
@@ -37,37 +56,37 @@ export default async function Home() {
           <ul className="space-y-4">
             {articles.map((a) => (
               <li key={`${a.locale}:${a.slug}`}>
-                <Link href={`/${locale}/news/${a.slug}`} className="block">
-                  <Card className="hover:bg-accent/40 transition-colors">
-                    <CardHeader>
-                      <div className="flex items-center gap-2">
-                        <span className="text-xs text-muted-foreground">
-                          {a.date ? new Date(a.date).toLocaleDateString() : ""}
-                        </span>
-                        {a.audiences?.map((aud) => (
-                          <Badge key={aud} variant="outline">
-                            {aud}
-                          </Badge>
+                <Card className="hover:bg-accent/40 transition-colors">
+                  <CardHeader>
+                    <div className="flex items-center gap-2 flex-wrap">
+                      <span className="text-xs text-muted-foreground">
+                        {a.date ? new Date(a.date).toLocaleDateString() : ""}
+                      </span>
+                      {a.audiences?.map((aud) => (
+                        <Link key={aud} href={audienceHref(aud)}>
+                          <Badge variant="outline">{aud}</Badge>
+                        </Link>
+                      ))}
+                    </div>
+                    <CardTitle className="mt-1">
+                      <Link href={`/${locale}/news/${a.slug}`}>{a.title}</Link>
+                    </CardTitle>
+                    {a.description ? (
+                      <CardDescription>{a.description}</CardDescription>
+                    ) : null}
+                  </CardHeader>
+                  {a.topics?.length ? (
+                    <CardContent>
+                      <div className="flex flex-wrap gap-2">
+                        {a.topics.map((t) => (
+                          <Link key={t} href={topicHref(t)}>
+                            <Badge variant="outline">{t}</Badge>
+                          </Link>
                         ))}
                       </div>
-                      <CardTitle className="mt-1">{a.title}</CardTitle>
-                      {a.description ? (
-                        <CardDescription>{a.description}</CardDescription>
-                      ) : null}
-                    </CardHeader>
-                    {a.topics?.length ? (
-                      <CardContent>
-                        <div className="flex flex-wrap gap-2">
-                          {a.topics.map((t) => (
-                            <Badge key={t} variant="outline">
-                              {t}
-                            </Badge>
-                          ))}
-                        </div>
-                      </CardContent>
-                    ) : null}
-                  </Card>
-                </Link>
+                    </CardContent>
+                  ) : null}
+                </Card>
               </li>
             ))}
           </ul>

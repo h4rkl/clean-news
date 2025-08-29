@@ -10,7 +10,6 @@ export const NEWS_INDEX_TAG = "news-index";
 export type ArticleStatus = "draft" | "published" | "archived";
 
 export type ArticleIndexItem = Omit<ContentMetadata, "slug" | "date"> & {
-  // Use string for frontmatter date for portability; keep as-is from file.
   date: string;
   slug: string;
   locale: string;
@@ -166,7 +165,6 @@ export function filterArticles(opts: {
   } = opts;
   let out = items;
   if (audience) out = filterByAudience(out, audience);
-  if (section) out = filterBySection(out, section);
   if (topics.length) out = filterByTopics(out, topics, topicMode);
   if (status) out = filterByStatus(out, status);
   return out;
