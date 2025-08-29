@@ -52,7 +52,7 @@ export async function NewsList({
   const audienceHref = (a: string) => `/${locale}/news/${a}`;
 
   return (
-    <div className="min-h-screen p-8 sm:p-20">
+    <div className="min-h-screen">
       <main className="mx-auto max-w-3xl space-y-8">
         <header className="space-y-2">
           <h1 className="text-3xl font-semibold">{title}</h1>
