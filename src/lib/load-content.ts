@@ -1,21 +1,27 @@
 import { parseMdx } from "./parse-mdx";
 import { notFound } from "next/navigation";
 import fs from "node:fs/promises";
-import path from "node:path";
+import { getNewsIndex } from "@/lib/content-index";
 
 export async function loadLocalizedContent(slug: string, locale: string) {
-  const filePath = (loc: string) =>
-    path.join(process.cwd(), "content", "news", loc, `${slug}.mdx`);
+  const normalize = (l: string) => l.toLowerCase().split("-")[0];
+  const normalizedLocale = normalize(locale);
 
-  try {
-    const content = await fs.readFile(filePath(locale), "utf8");
-    return parseMdx(content);
-  } catch {
-    try {
-      const fallbackContent = await fs.readFile(filePath("en"), "utf8");
-      return parseMdx(fallbackContent);
-    } catch {
-      notFound();
-    }
+  const index = await getNewsIndex();
+
+  const matchForLocale = index.find(
+    (item) => item.slug === slug && normalize(item.locale) === normalizedLocale
+  );
+
+  const matchForEn = index.find(
+    (item) => item.slug === slug && normalize(item.locale) === "en"
+  );
+
+  const match = matchForLocale ?? matchForEn;
+  if (!match) {
+    notFound();
   }
+
+  const content = await fs.readFile(match.path, "utf8");
+  return parseMdx(content);
 }
