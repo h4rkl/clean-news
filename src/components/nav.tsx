@@ -24,9 +24,27 @@ export function Nav() {
   const localePrefix = new RegExp(`^/(${routing.locales.join("|")})(?=(/|$))`);
   const pathnameNoLocale = pathname.replace(localePrefix, "");
 
+  const isHomeActive = pathnameNoLocale === "/news";
+
   return (
     <NavigationMenu className="w-full flex justify-center bg-white shadow-md py-1 mb-4">
       <NavigationMenuList className="flex space-x-6">
+        <NavigationMenuItem>
+          <NavigationMenuLink
+            asChild
+            className={[
+              "px-3 py-2 rounded-md transition-colors",
+              isHomeActive
+                ? "text-blue-600 font-semibold"
+                : "text-gray-700 hover:text-blue-500",
+            ].join(" ")}
+            aria-current={isHomeActive ? "page" : undefined}
+          >
+            <Link href="/news" aria-label={t("all")} title={t("all")}>
+              {t("all")}
+            </Link>
+          </NavigationMenuLink>
+        </NavigationMenuItem>
         {NAV_ITEMS.map((item) => {
           const isActive =
             pathnameNoLocale === item.href ||
