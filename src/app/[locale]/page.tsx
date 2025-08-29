@@ -16,7 +16,6 @@ export default async function Home() {
 
   const normalize = (l: string) => l.toLowerCase().split("-")[0];
 
-  // Show only published articles for the current locale (normalized)
   const articles = filterArticles({
     items: index.filter((i) => normalize(i.locale) === normalize(locale)),
     status: "published",
@@ -38,7 +37,7 @@ export default async function Home() {
           <ul className="space-y-4">
             {articles.map((a) => (
               <li key={`${a.locale}:${a.slug}`}>
-                <Link href={`/news/${a.slug}`} className="block">
+                <Link href={`/${locale}/news/${a.slug}`} className="block">
                   <Card className="hover:bg-accent/40 transition-colors">
                     <CardHeader>
                       <div className="flex items-center gap-2">
