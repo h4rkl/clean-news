@@ -10,14 +10,33 @@ import {
 } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
-export default async function Home() {
+type NewsListProps = {
+  title: string;
+  description?: string;
+  audience?: string;
+  section?: string;
+  enOnly?: boolean;
+};
+
+export async function NewsList({
+  title,
+  description,
+  audience,
+  section,
+  enOnly = true,
+}: NewsListProps) {
   const locale = await getLocale();
   const index = await getNewsIndex();
 
   const normalize = (l: string) => l.toLowerCase().split("-")[0];
+  const base = enOnly
+    ? index.filter((i) => normalize(i.locale) === "en")
+    : index.filter((i) => normalize(i.locale) === normalize(locale));
 
   const articles = filterArticles({
-    items: index.filter((i) => normalize(i.locale) === normalize(locale)),
+    items: base,
+    audience,
+    section,
     status: "published",
   });
 
@@ -25,10 +44,10 @@ export default async function Home() {
     <div className="min-h-screen p-8 sm:p-20">
       <main className="mx-auto max-w-3xl space-y-8">
         <header className="space-y-2">
-          <h1 className="text-3xl font-semibold">Latest news</h1>
-          <p className="text-muted-foreground">
-            Updates, ecosystem news, and more.
-          </p>
+          <h1 className="text-3xl font-semibold">{title}</h1>
+          {description ? (
+            <p className="text-muted-foreground">{description}</p>
+          ) : null}
         </header>
 
         {articles.length === 0 ? (

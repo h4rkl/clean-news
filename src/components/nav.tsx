@@ -7,6 +7,7 @@ import {
   NavigationMenuList,
 } from "@radix-ui/react-navigation-menu";
 import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 
 export function Nav() {
   const t = useTranslations("Nav");
@@ -15,17 +16,22 @@ export function Nav() {
       <NavigationMenuList className="flex space-x-6">
         <NavigationMenuItem>
           <NavigationMenuLink className="text-gray-700 hover:text-blue-500 px-3 py-2 rounded-md transition-colors">
-            {t("link1")}
+            <Link href="/news/developers">{t("developers")}</Link>
           </NavigationMenuLink>
         </NavigationMenuItem>
         <NavigationMenuItem>
           <NavigationMenuLink className="text-gray-700 hover:text-blue-500 px-3 py-2 rounded-md transition-colors">
-            {t("link2")}
+            <Link href="/news/finance">{t("finance")}</Link>
           </NavigationMenuLink>
         </NavigationMenuItem>
         <NavigationMenuItem>
           <NavigationMenuLink className="text-gray-700 hover:text-blue-500 px-3 py-2 rounded-md transition-colors">
-            {t("link3")}
+            <Link href="/news/governance">{t("governance")}</Link>
+          </NavigationMenuLink>
+        </NavigationMenuItem>
+        <NavigationMenuItem>
+          <NavigationMenuLink className="text-gray-700 hover:text-blue-500 px-3 py-2 rounded-md transition-colors">
+            <Link href="/news/upgrades">{t("upgrades")}</Link>
           </NavigationMenuLink>
         </NavigationMenuItem>
       </NavigationMenuList>

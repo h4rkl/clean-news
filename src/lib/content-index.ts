@@ -63,7 +63,6 @@ async function scanNewsDirectory(): Promise<ArticleIndexItem[]> {
         audiences: Array.isArray(fm.audiences)
           ? (fm.audiences as string[])
           : [],
-        section: String(fm.section ?? ""),
         topics: Array.isArray(fm.topics) ? (fm.topics as string[]) : [],
         heroImage: fm.heroImage ? String(fm.heroImage) : undefined,
         simdNumber:
@@ -123,13 +122,6 @@ export function filterByAudience(
   audience: string
 ): ArticleIndexItem[] {
   return items.filter((it) => it.audiences?.includes(audience));
-}
-
-export function filterBySection(
-  items: ArticleIndexItem[],
-  section: string
-): ArticleIndexItem[] {
-  return items.filter((it) => it.section === section);
 }
 
 export type TopicMatchMode = "any" | "all";
