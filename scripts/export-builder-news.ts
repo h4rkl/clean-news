@@ -61,8 +61,119 @@ function toYYYYMMDD(iso?: string) {
   }
 }
 
+// Safely unwrap Builder LocalizedValue and other shapes to a string
+function asString(val: any): string {
+  if (val == null) return "";
+  if (typeof val === "string") return val;
+  if (typeof val === "number" || typeof val === "boolean") return String(val);
+  if (Array.isArray(val)) return val.map(asString).filter(Boolean).join(", ");
+  if (typeof val === "object") {
+    if (val["@type"] === "@builder.io/core:LocalizedValue") {
+      const primary = (val as any).Default ?? (val as any).en;
+      if (primary != null) return asString(primary);
+      const firstStr = Object.values(val as any).find(
+        (v) => typeof v === "string"
+      );
+      if (firstStr != null) return asString(firstStr);
+      return "";
+    }
+    if (typeof (val as any).value !== "undefined")
+      return asString((val as any).value);
+    if (typeof (val as any).text !== "undefined")
+      return asString((val as any).text);
+    if (typeof (val as any).html !== "undefined")
+      return asString((val as any).html);
+    if (typeof (val as any).markdown !== "undefined")
+      return asString((val as any).markdown);
+    if (typeof (val as any).longText !== "undefined")
+      return asString((val as any).longText);
+  }
+  return "";
+}
+
+// Recursively collect text/html from arbitrary Builder blocks/content
+function collectTextualContent(input: any): {
+  htmlParts: string[];
+  mdParts: string[];
+} {
+  const htmlParts: string[] = [];
+  const mdParts: string[] = [];
+
+  const visit = (val: any, key?: string) => {
+    if (val == null) return;
+    if (typeof val === "string") {
+      // Heuristic: treat strings with tags as HTML, others as markdown text
+      if (/<[a-z][\s\S]*>/i.test(val)) htmlParts.push(val);
+      else mdParts.push(val);
+      return;
+    }
+    if (typeof val === "number" || typeof val === "boolean") {
+      mdParts.push(String(val));
+      return;
+    }
+    if (Array.isArray(val)) {
+      val.forEach((v) => visit(v));
+      return;
+    }
+    if (typeof val === "object") {
+      // Localized value or simple wrappers
+      const unwrapped = asString(val);
+      if (unwrapped) {
+        visit(unwrapped);
+        return;
+      }
+      for (const [k, v] of Object.entries(val)) {
+        const lower = k.toLowerCase();
+        // Skip common non-body fields
+        if (lower === "title" || lower === "description" || lower === "slug")
+          continue;
+
+        if (lower.includes("html")) {
+          const s = asString(v);
+          if (s) htmlParts.push(s);
+          continue;
+        }
+        if (lower.includes("markdown") || lower === "md") {
+          const s = asString(v);
+          if (s) mdParts.push(s);
+          continue;
+        }
+        if (lower.includes("text") || lower.includes("longtext")) {
+          const s = asString(v);
+          if (s) mdParts.push(s);
+          continue;
+        }
+        // Common Builder shapes
+        if (
+          lower === "options" ||
+          lower === "component" ||
+          lower === "children" ||
+          lower === "blocks" ||
+          lower === "content" ||
+          lower === "body"
+        ) {
+          visit(v, k);
+          continue;
+        }
+        // Generic fallback recursion
+        visit(v, k);
+      }
+    }
+  };
+
+  visit(input);
+  return {
+    htmlParts: htmlParts.filter(Boolean),
+    mdParts: mdParts.filter(Boolean),
+  };
+}
+
 function deriveSlug(entry: BuilderEntry) {
-  const raw = entry?.data?.slug || entry.slug || entry.name || "untitled";
+  const raw =
+    asString(entry?.data?.slug) ||
+    asString(entry.slug) ||
+    asString(entry.name) ||
+    "untitled";
   return slugify(String(raw), { lower: true, strict: true });
 }
 
@@ -71,21 +182,37 @@ function extractHtmlOrText(entry: BuilderEntry): {
   markdown?: string;
 } {
   const d = entry.data || {};
-  if (typeof d.bodyHtml === "string") return { html: d.bodyHtml };
-  if (typeof d.html === "string") return { html: d.html };
-  if (typeof d.richTextHtml === "string") return { html: d.richTextHtml };
-  if (typeof d.markdown === "string") return { markdown: d.markdown };
-  if (typeof d.longText === "string") return { markdown: d.longText };
-  if (Array.isArray(d.blocks)) {
-    try {
-      const text = d.blocks
-        .map((b: any) => b?.options?.text || "")
-        .filter(Boolean)
-        .join("\n\n");
-      if (text) return { markdown: text };
-    } catch {}
-  }
-  return { markdown: "" };
+
+  // Obvious direct fields
+  const htmlDirect =
+    asString(d.bodyHtml) || asString(d.html) || asString(d.richTextHtml);
+
+  const mdDirect = asString(d.markdown) || asString(d.longText);
+
+  // Heuristic collection from nested content/blocks/children/etc.
+  const fromNested = collectTextualContent({
+    blocks: d.blocks,
+    content: d.content,
+    body: d.body,
+    article: d.article,
+    postContent: d.postContent,
+    richText: (d as any).richText,
+  });
+
+  const htmlCollected = fromNested.htmlParts.join("\n\n");
+  const mdCollected = fromNested.mdParts.join("\n\n");
+
+  const html =
+    (htmlDirect && htmlDirect.trim()) ||
+    (htmlCollected && htmlCollected.trim()) ||
+    undefined;
+
+  const markdown =
+    (mdDirect && mdDirect.trim()) ||
+    (mdCollected && mdCollected.trim()) ||
+    undefined;
+
+  return { html, markdown };
 }
 
 function htmlToMarkdown(html: string) {
@@ -127,28 +254,30 @@ type Frontmatter = {
 
 function composeFrontmatter(
   entry: BuilderEntry,
-  mdBody: string,
+  body: string,
   heroPath?: string
 ): Frontmatter {
   const d = entry.data || {};
-  const title = d.title || entry.name || "Untitled";
-  const description = d.description || "";
+  const title = asString(d.title) || asString(entry.name) || "Untitled";
+  const description = asString(d.description) || "";
   const slug = deriveSlug(entry);
   const date = toYYYYMMDD(
     entry.firstPublished || entry.published || entry.createdDate
   );
-  // Public CDN returns only published entries; default to "published"
   const status: "draft" | "published" | "archived" = entry.published
     ? "published"
     : "published";
+
   const audiences: string[] = Array.isArray(d.audiences)
-    ? d.audiences.filter(Boolean).map(String)
+    ? d.audiences.map(asString).filter(Boolean)
     : [];
+
   const topics: string[] = Array.isArray(d.topics)
-    ? d.topics.filter(Boolean).map(String)
+    ? d.topics.map(asString).filter(Boolean)
     : [];
+
   const simdNumber =
-    d.simdNumber || detectSimdNumber(title + " " + description + " " + mdBody);
+    d.simdNumber || detectSimdNumber(title + " " + description + " " + body);
   const heroImage = heroPath;
 
   return {
@@ -172,11 +301,11 @@ function sanitizeFrontmatter(fm: Frontmatter): Record<string, any> {
   return out;
 }
 
-async function writeMdx(fm: Frontmatter, bodyMd: string) {
+async function writeMdx(fm: Frontmatter, body: string) {
   const file = path.join(OUT_DIR, `${fm.slug}.mdx`);
   const cleanFm = sanitizeFrontmatter(fm);
   const src = matter.stringify(
-    String(bodyMd ?? "").trim() + "\n",
+    String(body ?? "").trim() + "\n",
     cleanFm as any
   );
   await fs.writeFile(file, src, "utf8");
@@ -192,18 +321,20 @@ async function run() {
 
   for (const e of entries) {
     const { html, markdown } = extractHtmlOrText(e);
-    const bodyMd = html
-      ? htmlToMarkdown(html)
-      : typeof markdown === "string"
-      ? markdown
-      : "";
 
-    const heroUrl = e.data?.heroImage || e.data?.image || "";
+    // Prefer raw HTML to preserve markup; fall back to markdown
+    const rawBody = html && html.trim() ? html : markdown || "";
+
+    const heroUrlRaw = e.data?.heroImage || e.data?.image || "";
+    const heroUrl = asString(heroUrlRaw);
     const heroPath = heroUrl ? await downloadAsset(heroUrl) : undefined;
 
-    const fm = composeFrontmatter(e, bodyMd, heroPath);
+    const fm = composeFrontmatter(e, rawBody, heroPath);
 
-    const outfile = await writeMdx(fm, bodyMd || fm.description || fm.title);
+    // Ensure body is never empty
+    const body = rawBody || fm.description || fm.title;
+
+    const outfile = await writeMdx(fm, body);
     console.log(`Wrote ${outfile}`);
   }
 }
