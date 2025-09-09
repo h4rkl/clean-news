@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Builder exports
+
+To export posts from builder and format to markdown use:
+
+- Export posts from builder:
+
+```
+NEXT_PUBLIC_BUILDER_API_KEY=983ae1dad0ba4ca4ac6dd4ac310edee1 \
+NEXT_PUBLIC_BUILDER_NEWS_SETTINGS_ID=983ae1dad0ba4ca4ac6dd4ac310edee1_de254e309a264d9ebe965dc894715005 \
+NEXT_PUBLIC_BUILDER_ENV=production \
+pnpm dlx tsx scripts/export-builder.ts
+```
+
 ## Getting Started
 
 First, run the development server:

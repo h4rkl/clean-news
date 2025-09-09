@@ -43,3 +43,4 @@ next-env.d.ts
 # temp
 content/news/en
 public/news-assets
+@builder

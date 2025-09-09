@@ -39,18 +39,18 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@builder.io/sdk": "^6.1.2",
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@types/js-yaml": "^4.0.9",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@types/turndown": "^5.0.5",
-    "date-fns": "^4.1.0",
     "eslint": "^9",
     "eslint-config-next": "15.5.2",
+    "js-yaml": "^4.1.0",
     "slugify": "^1.6.6",
     "tailwindcss": "^4",
-    "turndown": "^7.2.1",
     "typescript": "^5"
   }
 }
