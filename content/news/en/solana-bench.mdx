@@ -1,0 +1,122 @@
+---
+title: 'Introducing Solana Bench: How well can LLMs build complex transactions?'
+description: >-
+  Learn about Solana Bench, a new tool for benchmarking LLMs knowledge about
+  crypto transactions.
+slug: solana-bench
+date: '2025-08-21'
+audiences: []
+topics: []
+heroImage: >-
+  https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2602a7b3aac1463fa30989b4cd876674
+status: published
+locale: en
+seo:
+  title: 'Introducing Solana Bench: How well can LLMs build complex transactions?'
+  description: >-
+    Learn about Solana Bench, a new tool for benchmarking LLMs knowledge about
+    crypto transactions.
+  image: >-
+    https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2602a7b3aac1463fa30989b4cd876674
+  noIndex: false
+  noFollow: false
+---
+
+<BuilderBlock name="Content Editor" options={{
+  "callToAction": {
+    "button": {
+      "label": {
+        "@type": "@builder.io/core:LocalizedValue",
+        "Default": "Learn More"
+      },
+      "hierarchy": "outline",
+      "url": "https://solana.com/developers"
+    },
+    "eyebrow": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": ""
+    },
+    "headline": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Solana Bench"
+    },
+    "description": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Dive into the developer docs to integrate your product or business with Solana."
+    }
+  },
+  "tocHeadline": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": "In this article"
+  }
+}}>
+
+</BuilderBlock>
+
+## Introducing Solana Bench
+
+At the Solana Foundation, we want to fund open-source AI tooling that measurably improves how developers and applications use Solana. The challenge is measuring the usefulness of these tools. Until now, we haven't had a simple, reproducible way to evaluate whether new tools actually make it easier for language models to build and run transactions on Solana. We've experimented with Q&A benchmarks (too costly to maintain), tool-calling benchmarks in agent kits (too brittle and fragmented across stacks), and funding one-off toolkits (hard to track impact). Each attempt has taught us something, but none have given us a sustainable standard. That's why we're introducing [Solana Bench](https://solana-foundation.github.io/solana-gym-env/) — two lightweight, open-ended environments designed to test LLMs' operational competence on Solana in a way that is **simple, reproducible, and objective**.
+
+1.  **Basic** - maximize the number of **new instructions** successfully executed using only foundational SDKs (e.g. @solana/web3.js, Anchor, etc)
+2.  **Swap** - same success criterion, but within a Defi-leaning surface (Jupiter, Orca, Raydium, Phoenix, Meteora) using additional example prompts and preinstalled SDKs
+
+These environments are not about measuring profit and loss. They are about **operational Solana competence**. These environments reward composing valid transactions, choosing accounts appropriately, using SDKs correctly, recovering from errors, and exploring breadth across programs. These environments are inspired by other open-ended benchmarks like [ClaudePlaysPokemon](https://www.anthropic.com/news/visible-extended-thinking), [TextQuest](https://huggingface.co/blog/textquests), and Nvidia's [Voyager.](https://voyager.minedojo.org/)
+
+![](/solana-bench/image-1.jpg)
+
+_Benchmark Solana operational competence trajectories measured by Solana Bench across common LLMs such as Claude-Sonnet-4, GPT-5, and Gemini-2.5-Flash._
+
+## **Read more about Solana Bench, Solana Foundation grant opportunities for contributing, and get started building** [here](https://solana-foundation.github.io/solana-gym-env/).
+
+<BuilderBlock name="Switchback" options={{
+  "assetSide": "right",
+  "image": {
+    "alt": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": ""
+    },
+    "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1ea9ccd7db6e46389d77f825c9499b4f"
+  },
+  "eyebrow": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": ""
+  },
+  "headline": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": "Start building with Solana Bench."
+  },
+  "body": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": "\u003cp>\u003cspan style=\"font-size: 18px;\">Expand on this research! The Solana Foundation is funding open-sourced research on high-quality Solana LLM benchmarks.\u003c/span>\u003c/p>"
+  },
+  "placeholder": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": ""
+  },
+  "emailError": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": ""
+  },
+  "submitError": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": ""
+  },
+  "successMessge": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": ""
+  },
+  "buttons": [
+    {
+      "hierarchy": "primary",
+      "size": "md",
+      "iconSize": "md",
+      "label": {
+        "@type": "@builder.io/core:LocalizedValue",
+        "Default": "Get started with Solana Bench"
+      },
+      "url": "https://solana-foundation.github.io/solana-gym-env/"
+    }
+  ]
+}}>
+
+</BuilderBlock>

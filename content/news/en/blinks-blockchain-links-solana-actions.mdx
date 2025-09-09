@@ -1,0 +1,442 @@
+---
+title: 'Blockchain Links and Actions: Bringing Solana to the Whole Internet'
+description: >-
+  New technical primitives to allow Solana transactions on every website,
+  everywhere
+slug: blinks-blockchain-links-solana-actions
+date: '2024-06-25'
+audiences: []
+topics: []
+heroImage: >-
+  https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F830a99b13f9448d59208b648e4122113
+status: published
+locale: en
+seo:
+  title: 'Blockchain Links and Actions: Bringing Solana to the Whole Internet'
+  description: >-
+    New technical primitives to allow Solana transactions on every website,
+    everywhere
+  image: >-
+    https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F830a99b13f9448d59208b648e4122113
+  noIndex: false
+  noFollow: false
+---
+
+<BuilderBlock name="Content Editor" options={{
+  "callToAction": {
+    "button": {
+      "label": {
+        "@type": "@builder.io/core:LocalizedValue",
+        "Default": "Learn More"
+      },
+      "hierarchy": "outline",
+      "url": "https://solana.com/solutions/actions"
+    },
+    "eyebrow": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "SOLUTIONS"
+    },
+    "headline": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Blinks and Solana Actions"
+    },
+    "description": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "See how blockchain links and the Solana Actions API are bringing crypto to the rest of the internet."
+    }
+  },
+  "tocHeadline": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": "In This Article"
+  }
+}}>
+
+</BuilderBlock>
+
+_Jon Wong is the Head of Ecosystem Engineering at the Solana Foundation._
+
+How do we introduce a billion people to crypto? Our answer is simple: we must reach the “first billion" users where they already are — on their favorite apps and websites.
+
+**It’s time to connect Solana to the entire internet.**
+
+Blockchain applications are powerful because they provide a globally accessible interface that can be used for payments, DeFi, games, governance, and more. But they’ve long been trapped in their own corner of the internet. Today, that changes with the launch of Solana Blinks.
+
+## Blockchain Links: Onchain in the Blink of an Eye
+
+Blockchain links (or blinks) are a specification that allow a user to complete an onchain transaction on any website capable of displaying a URL. Just by clicking a link, you can prompt to send a transaction on the Solana network.
+
+<BuilderBlock name="Youtube" options={{
+  "url": "https://youtu.be/m_feBl0ROik"
+}}>
+
+</BuilderBlock>
+
+Once a user clicks on a blink, blink-aware wallets such as Backpack and Phantom will inform end-users about the transaction they are about to perform — either by connecting to the actual dApp or sending users to an interstitial signing site. Additionally, other applications can support deeply integrated experiences and surface interactive buttons, appearing as an interactive “link preview” or “social card.” Blinks can surface one or many onchain transactions and can be shared like any other URL.
+
+## Solana Actions: APIs for Transactions on Solana
+
+Blinks are powered by Solana Actions, a specification framework for API endpoints that return serialized Solana transaction messages. Actions facilitate deep integrations with the Solana blockchain from surfaces well-beyond the prototypical dApp — think transactions embedded into social media posts, mobile applications, QR codes, links, buttons, and more. This allows for complex offchain and onchain logic that can move across many mediums, turning every surface on the web into a dApp.
+
+Imagine:
+
+<BuilderBlock name="Columns" options={{
+  "space": 30,
+  "columns": [
+    {
+      "blocks": [
+        {
+          "@type": "@builder.io/sdk:Element",
+          "@version": 2,
+          "id": "builder-3ca7e9043f934eca985748599d1b15c6",
+          "meta": {
+            "localizedTextInputs": [
+              "rawHtml"
+            ]
+          },
+          "component": {
+            "name": "Copy",
+            "options": {
+              "rawHtml": {
+                "@type": "@builder.io/core:LocalizedValue",
+                "Default": "\u003cp>Bob is a fan of a content creator on X for their free, well-researched posts. One day, the writer starts a donation campaign using Solana Actions and blockchain links. At the bottom of one of the posts, Bob sees buttons to donate $1 PYUSD, $5 PYUSD, or input their own amount. Bob clicks on the $5 PYUSD, and his wallet Chrome extension opens automatically to sign the transaction. The transaction confirms; the time from seeing the post to executing is a few seconds, and Bob doesn’t have to leave X.\u003c/p>"
+              }
+            }
+          },
+          "responsiveStyles": {
+            "large": {
+              "display": "flex",
+              "flexDirection": "column",
+              "position": "relative",
+              "flexShrink": "0",
+              "boxSizing": "border-box",
+              "marginTop": "auto",
+              "marginBottom": "auto"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "blocks": [
+        {
+          "@type": "@builder.io/sdk:Element",
+          "@version": 2,
+          "id": "builder-102b1bd5fbba4c168da6dec889216b88",
+          "component": {
+            "name": "Custom Code",
+            "options": {
+              "code": "\u003cvideo autoplay muted loop controls width=\"575\" height=\"325\">\n  \u003csource\n    src=\"https://player.vimeo.com/progressive_redirect/playback/967239233/rendition/1080p/file.mp4?loc=external&signature=8bcd4ecdc41de4bfa3925a3692f01dc302dff9929b8132c36ffca1a3fff1f9b0\"\n    type=\"video/mp4\"\n  />\n\u003c/video>",
+              "scriptsClientOnly": true
+            }
+          },
+          "responsiveStyles": {
+            "large": {
+              "display": "flex",
+              "flexDirection": "column",
+              "position": "relative",
+              "flexShrink": "0",
+              "boxSizing": "border-box",
+              "marginTop": "auto",
+              "marginBottom": "auto"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "stackColumnsAt": "tablet"
+}}>
+
+</BuilderBlock>
+
+<BuilderBlock name="Columns" options={{
+  "space": 30,
+  "columns": [
+    {
+      "blocks": [
+        {
+          "@type": "@builder.io/sdk:Element",
+          "@version": 2,
+          "id": "builder-e281b5fdefd348c0ab648fa3f7ff095c",
+          "meta": {
+            "previousId": "builder-71fb4d6077264e9586ef5945a244a7c6"
+          },
+          "component": {
+            "name": "Image",
+            "options": {
+              "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdb59725123c04c098b4c539a1c426d09?width=436",
+              "backgroundSize": "contain",
+              "backgroundPosition": "center",
+              "lazy": false,
+              "fitContent": true,
+              "aspectRatio": 0.792,
+              "lockAspectRatio": false,
+              "sizes": "(max-width: 998px) 44vw, 30vw",
+              "height": 1425,
+              "width": 1800
+            }
+          },
+          "responsiveStyles": {
+            "large": {
+              "display": "flex",
+              "flexDirection": "column",
+              "position": "relative",
+              "flexShrink": "0",
+              "boxSizing": "border-box",
+              "width": "100%",
+              "minHeight": "20px",
+              "minWidth": "20px",
+              "overflow": "hidden",
+              "marginTop": "20px",
+              "marginBottom": "20px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            },
+            "medium": {
+              "display": "flex"
+            },
+            "small": {
+              "display": "none"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "blocks": [
+        {
+          "@type": "@builder.io/sdk:Element",
+          "@version": 2,
+          "id": "builder-16c4fb8f8488444a9779849c9eb19fa7",
+          "meta": {
+            "localizedTextInputs": [
+              "rawHtml"
+            ]
+          },
+          "component": {
+            "name": "Copy",
+            "options": {
+              "rawHtml": {
+                "@type": "@builder.io/core:LocalizedValue",
+                "Default": "\u003cp>Alice is a&nbsp;fan of RST WNG and owns many of their original works. She goes to Reddit and encourages people there to buy the floor. Using a blink provided by Tensor in a post on Reddit will unfurl into a “buy the floor” button, letting readers execute the transaction within Reddit itself.\u003c/p>"
+              }
+            }
+          },
+          "responsiveStyles": {
+            "large": {
+              "display": "flex",
+              "flexDirection": "column",
+              "position": "relative",
+              "flexShrink": "0",
+              "boxSizing": "border-box",
+              "marginTop": "auto",
+              "marginBottom": "auto"
+            }
+          }
+        },
+        {
+          "@type": "@builder.io/sdk:Element",
+          "@version": 2,
+          "id": "builder-390a622f1f064189beb32760b7b7fe85",
+          "meta": {
+            "previousId": "builder-71fb4d6077264e9586ef5945a244a7c6"
+          },
+          "component": {
+            "name": "Image",
+            "options": {
+              "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdb59725123c04c098b4c539a1c426d09?width=574",
+              "backgroundSize": "contain",
+              "backgroundPosition": "center",
+              "lazy": false,
+              "fitContent": true,
+              "aspectRatio": 0.792,
+              "lockAspectRatio": false,
+              "sizes": "90vw",
+              "height": 1425,
+              "width": 1800
+            }
+          },
+          "responsiveStyles": {
+            "large": {
+              "display": "none",
+              "flexDirection": "column",
+              "position": "relative",
+              "flexShrink": "0",
+              "boxSizing": "border-box",
+              "width": "100%",
+              "minHeight": "20px",
+              "minWidth": "20px",
+              "overflow": "hidden",
+              "marginTop": "20px",
+              "marginBottom": "20px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            },
+            "medium": {
+              "display": "none"
+            },
+            "small": {
+              "display": "flex"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "stackColumnsAt": "tablet"
+}}>
+
+</BuilderBlock>
+
+<BuilderBlock name="Columns" options={{
+  "space": 30,
+  "columns": [
+    {
+      "blocks": [
+        {
+          "@type": "@builder.io/sdk:Element",
+          "@version": 2,
+          "id": "builder-871e61e4f6674678a163a75b5f0d33fb",
+          "meta": {
+            "localizedTextInputs": [
+              "rawHtml"
+            ]
+          },
+          "component": {
+            "name": "Copy",
+            "options": {
+              "rawHtml": {
+                "@type": "@builder.io/core:LocalizedValue",
+                "Default": "\u003cp>A DAO that uses governance tokens sets up a “voting” channel on their chat server of choice (say, Discord). When a proposal is up for a vote, an Action is sent to the voting channel, allowing people to vote via an in-chat poll. The votes are recorded onchain, and once the results are in the proposal executes automatically.\u003c/p>"
+              }
+            }
+          },
+          "responsiveStyles": {
+            "large": {
+              "display": "flex",
+              "flexDirection": "column",
+              "position": "relative",
+              "flexShrink": "0",
+              "boxSizing": "border-box",
+              "marginTop": "auto",
+              "marginBottom": "auto"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "blocks": [
+        {
+          "@type": "@builder.io/sdk:Element",
+          "@version": 2,
+          "id": "builder-69cf059d37af4bc180b5ce941e68395f",
+          "component": {
+            "name": "Image",
+            "options": {
+              "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0e0dd7c09f1d4d9ca78ea4a9cfa799d8?width=574",
+              "backgroundSize": "contain",
+              "backgroundPosition": "center",
+              "lazy": false,
+              "fitContent": true,
+              "aspectRatio": 0.792,
+              "lockAspectRatio": false,
+              "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 44vw, 30vw",
+              "height": 1425,
+              "width": 1800
+            }
+          },
+          "responsiveStyles": {
+            "large": {
+              "display": "flex",
+              "flexDirection": "column",
+              "position": "relative",
+              "flexShrink": "0",
+              "boxSizing": "border-box",
+              "width": "100%",
+              "minHeight": "20px",
+              "minWidth": "20px",
+              "overflow": "hidden",
+              "marginTop": "20px",
+              "marginBottom": "20px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "stackColumnsAt": "tablet"
+}}>
+
+</BuilderBlock>
+
+Solana Actions builds on the success of the tried-and-tested, widely-used Solana Pay transaction request specification., Solana Actions provide a clean, well-specified API to all programs in the Solana ecosystem bringing their services directly to end users. Developers can start building with Solana Actions right now.
+
+## Actions in the Solana Ecosystem
+
+Like any interaction with the blockchain, user trust and safety should be your primary concern. Actions, like other transactions, must be opted into through your wallet, and you should only interact with apps you trust or use regularly.
+
+Blinks are currently supported by Backpack and Phantom. Those who opt in will be able to perform a variety of actions on any website, including:
+
+-   Send money directly from a wallet, via the SPL token program
+-   Buy a floor NFT from a collection on Tensor
+-   Vote on a Realms proposal
+-   Subscribe to a newsletter or content series via Access Protocol
+-   Swap on Jupiter
+
+Read more about the Solana Actions API specification here. The creative space for Actions and blinks remains unexplored, and we’re hoping it serves as a canvas for our ecosystem developers and creators. Start building today!
+
+<BuilderBlock name="Switchback" options={{
+  "assetSide": "right",
+  "image": {
+    "alt": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": ""
+    },
+    "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8394a7c13a8b4714a3df212f0799b409"
+  },
+  "eyebrow": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": ""
+  },
+  "headline": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": "Unchain Crypto with Blinks and Solana Actions"
+  },
+  "body": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": "\u003cp>Mint, swap, sell, vote, and process any Solana transaction — from anywhere. Start building blockchain links and Solana Actions today.\u003c/p>"
+  },
+  "placeholder": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": ""
+  },
+  "emailError": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": ""
+  },
+  "submitError": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": ""
+  },
+  "successMessge": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": ""
+  },
+  "buttons": [
+    {
+      "hierarchy": "primary",
+      "size": "md",
+      "iconSize": "md",
+      "label": {
+        "@type": "@builder.io/core:LocalizedValue",
+        "Default": "Read the docs"
+      },
+      "url": "https://solana.com/docs/advanced/actions"
+    }
+  ]
+}}>
+
+</BuilderBlock>

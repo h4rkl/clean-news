@@ -1,0 +1,153 @@
+---
+title: Moving from Rust to Solana
+description: >-
+  Setup details, restrictions, macro changes, and compute limits for developing
+  on Solana.
+slug: rust-to-solana
+date: '2024-05-23'
+audiences: []
+topics: []
+heroImage: >-
+  https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F099d607233a0479bb4f50320a12cdbfe
+status: published
+locale: en
+seo:
+  title: Moving from Rust to Solana
+  description: >-
+    Setup details, restrictions, macro changes, and compute limits for
+    developing on Solana.
+  image: >-
+    https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F099d607233a0479bb4f50320a12cdbfe
+  noIndex: false
+  noFollow: false
+---
+
+<p>Developers looking to get into Solana development who already know Rust have a great head start. Rust is an officially supported language for writing on-chain programs for Solana. However, several key differences in the language's usage could otherwise be confusing.</p><p>This article will walk through several of those differences, specifically the setup details, restrictions, macro changes, and compute limits. Additionally, this article will cover the development environments and frameworks needed to start with Solana.</p><p>By the end of this article, Rust developers will understand the differences they need to know to start their Solana journeys.</p><h2>Understanding the Core Differences&nbsp;</h2><p>First, note that this article aims at understanding <strong>the differences in using Rust as a language when working with Solana.</strong> It won’t cover <a href="https://solana.com/learn/blockchain-basics" rel="noopener noreferrer" target="_blank">Blockchain or Solana basics</a>.</p><p>It also won’t cover core Solana concepts that must be understood in order to program in Solana, such as:</p><ul><li><a href="https://solana.com/docs/core/programs" rel="noopener noreferrer" target="_blank">Programs</a> - Solana’s version of smart contracts</li><li><a href="https://solana.com/docs/core/accounts" rel="noopener noreferrer" target="_blank">Accounts</a> - A record in the Solana ledger that either holds data (a data account) or is an executable program</li><li>Various <a href="https://solana.com/docs/core/fees#why-pay-transaction-fees" rel="noopener noreferrer" target="_blank">fees</a> - Such as base fee, priority fee, and rent</li><li><a href="https://solana.com/docs/core/transactions" rel="noopener noreferrer" target="_blank">Transactions</a> - Interactions with the network that contain instructions, signatures, and more.</li></ul><p>For more information on those core concepts, check out the <a href="https://solana.com/developers" rel="noopener noreferrer" target="_blank">Solana developer documentation</a>.</p><p>Let’s now look at the differences in <strong>project setup.</strong></p><h2><strong>Key Setup Details</strong></h2><p>On-chain programs for Solana in Rust are still Rust programs at heart. They still follow the standard Rust project with a <code>/src</code> folder and <code>Cargo.toml </code>file in the root. That said, there are several key differences.</p><h3><strong>Project Dependencies</strong></h3><p>To get started, the <a href="https://crates.io/crates/solana-program" rel="noopener noreferrer" target="_blank">solana-program crate</a> is required for every on-chain Solana program written with Rust. This is the base library for all on-chain Rust programs. The library defines macros for the required <strong>program entrypoint </strong>(see below), <strong>core data types</strong>, <strong>logging macros</strong>, and more.</p><h3>Program Entrypoint</h3><p>Instead of a <code>main</code> function, Solana programs use the <code>entrypoint!</code> macro. This symbol is exported and then called by the Solana runtime when the program runs. The entrypoint macro calls a given function, which must have the following type signature:</p><p><br></p>
+
+<BuilderBlock name="Code Block" options={{
+  "code": "   pub fn process_instruction(\n        program_id: &Pubkey,\n        accounts: &[AccountInfo],\n        instruction_data: &[u8],\n    ) -> ProgramResult {\n\n        //program code goes here\n\n    }\n",
+  "language": "rust"
+}}>
+
+</BuilderBlock>
+
+<p>These three parameters are passed to every on-chain program.</p><ol><li>The <code>program_id</code> is the public key of the current program.</li><li>The <code>accounts</code> are all accounts that are required to process the instruction.</li><li>The <code>instruction_data</code> is data specific to that instruction.</li></ol><p>Every program must then call the entrypoint! macro on the instruction, as follows:</p>
+
+<BuilderBlock name="Code Block" options={{
+  "code": "entrypoint!(process_instruction);",
+  "language": "rust"
+}}>
+
+</BuilderBlock>
+
+<h3>Building and Testing</h3><p>After installing the Solana command-line tools, projects can be built to target host machines as normal with<code> cargo build</code>.&nbsp;</p><p>However, to target the Solana runtime, use cargo <code>build-bpf</code> or c<code>argo build-spf </code>which will compile the program to the bytecode necessary to run it on the Solana runtime.</p><p>Unit testing can be achieved via <code>cargo test</code> with standard <code>#test </code>attributes. For more integrated testing, the <a href="https://crates.io/crates/solana-program-test" rel="noopener noreferrer" target="_blank">solana-program-test</a> crate provides a local Solana runtime instance which can be used in conjunction with outside tests sending transactions.</p><p>Finally, a full test cluster can be started with the <a href="https://docs.solanalabs.com/cli/examples/test-validator" rel="noopener noreferrer" target="_blank">solana-test-validator</a>, installed along with the Solana CLI. This creates a fully featured test cluster on a local machine, which can then deploy programs and run tests.</p><h2>Understanding Restrictions</h2><p>While most standard Rust crates are available in the Solana runtime, and third-party crates are supported as well, there are several limitations. Since the Solana runtime has resource constraints and must run deterministically, here are the differences to be aware of:</p><h3>Package Limitations</h3><p>The following packages are unavailable:</p><ul><li>rand</li><li>std::fs</li><li>std::net</li><li>std::future</li><li>std::process</li><li>std::sync</li><li>std::task</li><li>std::thread</li><li>std::time</li></ul><p>The following packages have limited functionality:</p><ul><li>std::hash</li><li>std::os</li></ul><h3>Rand Dependencies</h3><p>Because programs must run deterministically, the <code>rand</code> crate is not available. Using an additional crate that depends on <code>rand</code> will also cause compile errors.&nbsp;</p><p>However, if the crate used simply depends on <code>rand</code> but does not actually generate random numbers, then it is possible to work around this by adding the following to the program’s Cargo.toml:</p>
+
+<BuilderBlock name="Code Block" options={{
+  "code": "getrandom = { version = \"0.1.14\", features = [\"dummy\"] }",
+  "language": "rust"
+}}>
+
+</BuilderBlock>
+
+<h3>Macro Changes</h3><p>Several standard macros have been replaced or have modified behavior to be aware of. First, the<code> println!</code> has been replaced with the computationally simpler <code>msg!</code> macro. The <code>msg!</code> macro outputs to the program logs, and it can be used as follows:</p>
+
+<BuilderBlock name="Code Block" options={{
+  "code": "msg!(“Your message”);\nmsg!(0_64, 1_64, 2_64);\nmsg!(“Your variable: {:?}”, variable);\n",
+  "language": "rust"
+}}>
+
+</BuilderBlock>
+
+<p>The <code>panic!, assert!</code>, and any internal panics are also output to the program logs by default. However, this can be modified with a custom panic handler.</p><h2>Compute Budget</h2><p>As a Rust developer, efficient computing is nothing new. What may be different is that in Solana, each transaction has a fixed <a href="https://solana.com/docs/core/runtime#compute-budget" rel="noopener noreferrer" target="_blank">compute budget</a> that it must not surpass. When transactions exceed the compute budget, they are halted and return an error.</p><p>Programs can access the number of remaining compute units via the <code>sol_remaining_compute_units</code> system call, and can log the remaining number of compute units with <code>sol_log_compute_units</code>.</p><h2>Learning the Development Environments and Frameworks</h2><p>While the Solana CLI and the <code>solana_program</code> crate are all that is needed to get started, there are a couple of helpful tools which can accelerate learning.</p>
+
+![](/rust-to-solana/image-1.jpg)
+
+### Solana Playground
+
+The [Solana Playground](https://beta.solpg.io/) is a browser-based IDE that allows developers to develop and deploy Solana programs.
+
+![](/rust-to-solana/image-2.jpg)
+
+It’s the easiest way to begin developing with Solana, and it supports building, testing, and deploying Solana Rust programs. Additionally, a number of built-in tutorials are available to guide learning.
+
+![](/rust-to-solana/image-3.jpg)
+
+### Using Anchor
+
+[Anchor](https://www.anchor-lang.com/) is a framework that seeks to accelerate the building of secure Solana programs. It can help by handling standard boilerplate code, speeding up the development cycle. Additionally, it provides some security checks by default, making Solana programs more secure.
+
+To create a new program, simply create a new Anchor project in the Solana playground:
+
+![](/rust-to-solana/image-4.jpg)
+
+<p>Alternatively, install the Anchor CLI locally, and then use <code>anchor init &lt;project-name&gt;</code> to create a new Anchor project.</p><h2>Creating Off-chain Programs</h2><p>So far, this article has covered the key details of developing <strong>on-chain Solana programs</strong> in Rust. However, it’s also possible to develop <strong>off-chain Solana clients</strong> in Rust. This can be done by using the <a href="https://docs.rs/solana-sdk/latest/solana_sdk/" rel="noopener noreferrer" target="_blank">solana_sdk crate</a>. This contains the <a href="https://docs.rs/solana-client/latest/solana_client/" rel="noopener noreferrer" target="_blank">solana_client crate</a> that allows Rust programs to interact with a Solana node via the JSON RPC API.</p><p>Another option is to use the <a href="https://docs.rs/anchor-client/latest/anchor_client/" rel="noopener noreferrer" target="_blank">anchor_client crate</a> which interacts with Solana programs written in Anchor via RPC. Alternatively, consider writing on-chain programs in Rust, and off-chain clients in JS/TS.</p><h2>Wrap-up</h2><p>This article has covered the basics of developing for Solana with Rust, from setup details and restrictions to development environments and frameworks. Ready to put all that into practice? Check out <a href="https://solana.com/vi/developers/guides/getstarted/rust-to-solana" rel="noopener noreferrer" target="_blank">this guide</a> for Rust developers writing their first Solana program.</p><p>For more Rust-related Solana resources, check out the <a href="https://solana.com/docs/programs/lang-rust" rel="noopener noreferrer" target="_blank">Developing with Rust page</a>. And for other Solana program examples written with Rust, check out these <a href="https://github.com/solana-labs/solana-program-library/tree/master/examples/rust" rel="noopener noreferrer" target="_blank">examples on GitHub</a>.</p>
+
+<BuilderBlock name="Heading" options={{
+  "eyebrow": "",
+  "headline": "Learn from Solana Developers",
+  "body": "",
+  "variant": "standard"
+}}>
+
+</BuilderBlock>
+
+<BuilderBlock name="Card Deck" options={{
+  "cards": [
+    {
+      "type": "image",
+      "heading": "Intro to Solana Development",
+      "backgroundImage": {
+        "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+      },
+      "callToAction": {
+        "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+        "endIcon": "arrow-right",
+        "hierarchy": "outline"
+      },
+      "headingAs": "h3"
+    },
+    {
+      "type": "image",
+      "heading": "Solana Development Course",
+      "backgroundImage": {
+        "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+      },
+      "callToAction": {
+        "url": "https://www.soldev.app/course",
+        "endIcon": "arrow-right",
+        "hierarchy": "outline"
+      },
+      "headingAs": "h3"
+    },
+    {
+      "type": "image",
+      "heading": "Solana Bootcamp",
+      "backgroundImage": {
+        "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+      },
+      "callToAction": {
+        "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+        "endIcon": "arrow-right",
+        "hierarchy": "outline"
+      },
+      "headingAs": "h3"
+    },
+    {
+      "type": "image",
+      "heading": "More Solana Developer Tools",
+      "backgroundImage": {
+        "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+      },
+      "callToAction": {
+        "url": "/developers",
+        "endIcon": "arrow-right",
+        "hierarchy": "outline"
+      },
+      "headingAs": "h3"
+    }
+  ],
+  "featured": true,
+  "numCols": 3
+}}>
+
+</BuilderBlock>

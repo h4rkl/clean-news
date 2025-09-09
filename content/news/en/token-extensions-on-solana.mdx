@@ -1,0 +1,131 @@
+---
+title: Token Extensions Enable Native Support for Enterprise-Grade Use Cases
+description: >-
+  The next-generation of SPL tokens unlock confidential transfers, transfer
+  hooks, and other specialized tooling without the use of third parties. 
+slug: token-extensions-on-solana
+date: '2024-01-24'
+audiences: []
+topics: []
+heroImage: >-
+  https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa898174340b34faeb6c95c40cfcaa4a0
+status: published
+locale: en
+seo:
+  title: Token Extensions Enable Native Support for Enterprise-Grade Use Cases
+  description: >-
+    The next-generation of SPL tokens unlock confidential transfers, transfer
+    hooks, and other specialized tooling without the use of third parties. 
+  image: >-
+    https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa898174340b34faeb6c95c40cfcaa4a0
+  noIndex: false
+  noFollow: false
+---
+
+Introducing token extensions, the newest iteration of the Solana token program. Built in collaboration with large, regulated institutions, token extensions use a standard interface to connect to Solana applications, allowing the creation of specialized tooling and functionality at the token level. The result is plug-and-play, regulation-friendly, versatile token functionality that significantly decreases engineering time and resources.
+
+<BuilderBlock name="Youtube" options={{
+  "url": "https://youtu.be/CEuKahqOYbs"
+}}>
+
+</BuilderBlock>
+
+The first token extensions were included as part of [the v.1.17 release](https://solana.com/news/solana-validators-v1-17-update) of the Solana Labs validator client. Some of them include:
+
+<BuilderBlock name="Custom Code" options={{
+  "code": "\u003cstyle type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .gray{\n      background-color: #424242;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n\u003c/style>\n\u003ctable class=\"custom\">\n  \u003cthead>\n    \u003ctr>\n      \u003ctd>Extension\u003c/td>\n      \u003ctd>Description\u003c/td>\n      \u003ctd>Potential use cases\u003c/td>\n    \u003c/tr>\n  \u003c/thead>\n  \u003ctbody>\n    \u003ctr>\n      \u003ctd>Confidential transfers\u003c/td>\n      \u003ctd>\n        \u003cp>\n          Protects the confidentiality of users balances within a transfer, as\n          well as hiding transaction amounts\n        \u003c/p>\n      \u003c/td>\n      \u003ctd>\u003cp>Onchain payroll, B2B payments, treasury management\u003c/p>\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>Transfer hooks\u003c/td>\n      \u003ctd>\n        \u003cp>\n          Gives the token issuer control over which wallets can interact with\n          their token and how tokens and users interact\n        \u003c/p>\n      \u003c/td>\n      \u003ctd>\u003cp>KYC verification, token- gated access, royalty enforcement\u003c/p>\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>Transfer fees\u003c/td>\n      \u003ctd>\u003cp>The ability to charge fees at the protocol level\u003c/p>\u003c/td>\n      \u003ctd>\u003cp>Permanent royalties, publisher fees, transaction fees\u003c/p>\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>Permanent delegation\u003c/td>\n      \u003ctd>\u003cp>Allow a program to have irrevocable authority over a token\u003c/p>\u003c/td>\n      \u003ctd>\n        \u003cp>\n          Automatic subscription services, updating real world assets to reflect\n          reality, stablecoin regulatory compliance with freeze & seize orders\n        \u003c/p>\n      \u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>Metadata pointer\u003c/td>\n      \u003ctd>\u003cp>Establish verifiable links between tokens and metadata\u003c/p>\u003c/td>\n      \u003ctd>\u003cp>Token verification, accounts receivable attribution\u003c/p>\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>Default account state\u003c/td>\n      \u003ctd>\u003cp>Configure and enforce token account permissions\u003c/p>\u003c/td>\n      \u003ctd>\u003cp>KYC verification\u003c/p>\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>Non-transferrable tokens\u003c/td>\n      \u003ctd>\n        \u003cp>\n          Makes it impossible to reassign the owner of a token, except by issuer\n        \u003c/p>\n      \u003c/td>\n      \u003ctd>\n        \u003cp>\n          Managing an external database, non-transferrable mints of NFTs or\n          other assets\n        \u003c/p>\n      \u003c/td>\n    \u003c/tr>\n  \u003c/tbody>\n\u003c/table>\n",
+  "scriptsClientOnly": true
+}}>
+
+</BuilderBlock>
+
+**Confidential transfers**
+
+-   Protects the confidentiality of users balances within a transfer, as well as hiding transaction amounts
+-   **Use cases:** Onchain payroll, B2B payments, treasury management
+
+**Transfer hooks**
+
+-   Gives the token issuer control over which wallets can interact with their token and how tokens and users interact
+-   **Use cases:** KYC verification, token- gated access, royalty enforcement
+
+**Transfer fees**
+
+-   The ability to charge fees at the protocol level
+-   **Use cases:** Permanent royalties, publisher fees, transaction fees
+
+**Permanent delegation**
+
+-   Allow a program to have irrevocable authority over a token
+-   **Use cases:** Automatic subscription services, updating real world assets to reflect reality, stablecoin regulatory compliance with freeze & seize orders
+
+**Metadata pointer**
+
+-   Establish verifiable links between tokens and metadata.
+-   **Use cases:** Token verification, accounts receivable attribution
+
+**Default account state**
+
+-   Configure and enforce token account permissions
+-   **Use cases:** KYC verification
+
+**Non-transferrable tokens**
+
+-   Makes it impossible to reassign the owner of a token, except by issuer
+-   **Use cases:** Managing an external database, non-transferrable mints of NFTs or other assets
+
+_Start digging into developer resources:_ [_Documentation_](https://spl.solana.com/token-2022), [_Guides_](https://solana.com/developers/guides?tags=token+extensions), [_Tutorial playlist_](https://www.youtube.com/playlist?list=PLilwLeBwGuK6imBuGLSLmzMEyj6yVHGDO)_._ 
+
+Some stablecoin issuers using Solana have already started implementing token extensions. Paxos, for example, recently leveraged permanent delegation, metadata pointer, transfer hooks, and more to [launch their USDP stablecoin](https://paxos.com/2023/12/22/paxos-expands-to-the-solana-blockchain/). GMO Trust announced the first regulated Japanese yen stablecoin as well as their own U.S. dollar stablecoin on the Solana network, which uses permanent delegation, default account state, and the metadata pointer. 
+
+Solana, already a leading blockchain network due the protocol’s scalability-focused design and ecosystem-wide innovations such as [state compression](https://solana.com/news/state-compression-compressed-nfts-solana), has become the place for developers to innovate and build businesses using blockchain technology. [Recent reports noted](https://solana.com/2024outlook) that the Solana network processed 40.7m daily user transactions in Q4 2023, and Solana was the top non-EVM chain for new developers. The last twelve months have seen payments giants [Visa](https://fortune.com/crypto/2023/09/05/visa-stablecoin-usdc-solana-worldpay-nuvei-merchants-payments/) and [Mastercard](https://www.theblock.co/post/228809/mastercard-crypto-credential-standards) choose to build with Solana, the launch of new stablecoins like [Paxos](https://fortune.com/crypto/2023/12/22/paxos-solana-ethereum-department-financial-services-stablecoin-circle-tether/), and the rise of new business use cases from [Helium’s decentralized sensor network](https://blog.helium.com/a-new-era-for-helium-begins-with-upgrade-to-solana-blockchain-88b742276ec1) to real-life tea house company Boba Guys’ [Solana-powered loyalty program](https://blockster.com/introducing-boba-guys-passport-a-new-loyalty-program-powered-by-hang).
+
+Interested in building with token extensions? Developers can learn [how to set up token extensions here](https://solana.com/news/token-extensions-developer-guide), or [reach out](https://solanafoundation.typeform.com/to/ST7YdGSz) to set up a call with the Solana Foundation to learn more.
+
+<BuilderBlock name="Conversion Panel" options={{
+  "variant": "centered",
+  "buttons": [
+    {
+      "hierarchy": "primary",
+      "size": "lg",
+      "url": "https://solanafoundation.typeform.com/to/ST7YdGSz",
+      "label": {
+        "@type": "@builder.io/core:LocalizedValue",
+        "Default": "Contact US"
+      },
+      "endIcon": "arrow-up-right"
+    },
+    {
+      "hierarchy": "outline",
+      "size": "lg",
+      "url": "https://solana.com/developers/guides/token-extensions/getting-started",
+      "label": "See the Docs"
+    }
+  ],
+  "heading": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": "Token extensions unlocks new business standards and use cases on the Solana blockchain.",
+    "ar": "",
+    "it": "",
+    "nl": "",
+    "zh": "",
+    "hi": "",
+    "fi": "",
+    "ru": "",
+    "fr": ""
+  },
+  "body": {
+    "@type": "@builder.io/core:LocalizedValue",
+    "Default": "Want to build? Get in touch.",
+    "ar": "",
+    "it": "",
+    "nl": "",
+    "zh": "",
+    "hi": "",
+    "fi": "",
+    "ru": "",
+    "fr": ""
+  }
+}}>
+
+</BuilderBlock>
