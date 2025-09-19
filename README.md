@@ -19,7 +19,7 @@ pnpm dlx tsx scripts/export-builder.ts
 
 Converts all BuilderBlocks with a youtube embed to an iframe.
 
-Run script in `scripts/convert-builder-youtube.ts` with `pnpm tsx scripts/convert-builder-youtube.ts`
+Run script in `scripts/convert-builder-youtube.ts` with `pnpm convert:youtube`
 
 ## Getting Started
 

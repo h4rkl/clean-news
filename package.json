@@ -6,7 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "convert:youtube": "tsx scripts/convert-builder-youtube.ts"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.0",
