@@ -80,12 +80,23 @@ This report provided a dynamic analysis that can be recalculated as the network 
 
 Here is how the energy use of a single Solana transaction compares to other common activities:
 
-<BuilderBlock name="Custom Code" options={{
-  "code": "\u003cstyle type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .solana{\n      background-color: #9945FF;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n\u003c/style>\n\u003ctable class=\"custom\">\n  \u003cthead>\n    \u003ctr>\n      \u003ctd>Activity\u003c/td>\n      \u003ctd>Power Consumed, in Joules\u003c/td>\n    \u003c/tr>\n  \u003c/thead>\n  \u003ctbody>\n    \u003ctr>\n      \u003ctd>\u003cp>One Google search\u003c/p>\u003c/td>\n      \u003ctd>1,080 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd class=\"solana\">\u003cp>One Solana transaction\u003c/p>\u003c/td>\n      \u003ctd class=\"solana\">1,837 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>\u003cp>Keeping an LED light bulb on for one hour\u003c/p>\u003c/td>\n      \u003ctd>36,000 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>\u003cp>Fully charging an iPhone 13 battery\u003c/p>\u003c/td>\n      \u003ctd>44,676 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>\u003cp>Doing an hour of work on the internet with a computer and monitor\u003c/p>\u003c/td>\n      \u003ctd>46,800 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>\u003cp>One eth2 transaction \u003csup>\u003ca href=\"#footnotes\">1\u003c/a>\u003c/p>\u003c/td>\n      \u003ctd>126,000 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>\u003cp>Watching an hour of television on a 40 inch+ LCD TV\u003c/p>\u003c/td>\n      \u003ctd>540,000 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>\u003cp>Playing one hour of a Playstation 5 game\u003c/p>\u003c/td>\n      \u003ctd>708,840 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>\u003cp>Running a refrigerator for one hour\u003c/p>\u003c/td>\n      \u003ctd>810,000 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>\u003cp>One hour of central air conditioning\u003c/p>\u003c/td>\n      \u003ctd>12,600,000 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>\u003cp>Using a gallon of gasoline \u003c/p>\u003c/td>\n      \u003ctd>121,320,000 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>\u003cp>One Ethereum transaction \u003csup>\u003ca href=\"#footnotes\">2\u003c/a>\u003c/p>\u003c/td>\n      \u003ctd>692,820,000 J\u003c/td>\n    \u003c/tr>\n    \u003ctr>\n      \u003ctd>\u003cp>One Bitcoin transaction \u003csup>\u003ca href=\"#footnotes\">3\u003c/a>\u003c/p>\u003c/td>\n      \u003ctd>6,995,592,000 J\u003c/td>\n    \u003c/tr>\n  \u003c/tbody>\n\u003c/table>",
-  "scriptsClientOnly": true
-}}>
 
-</BuilderBlock>
+| Activity                                                          | Power Consumed, in Joules |
+| ----------------------------------------------------------------- | ------------------------- |
+| One Google search                                                 | 1,080 J                   |
+| One Solana transaction                                            | 1,837 J                   |
+| Keeping an LED light bulb on for one hour                         | 36,000 J                  |
+| Fully charging an iPhone 13 battery                               | 44,676 J                  |
+| Doing an hour of work on the internet with a computer and monitor | 46,800 J                  |
+| One eth2 transaction [1](#footnotes)                              | 126,000 J                 |
+| Watching an hour of television on a 40 inch+ LCD TV               | 540,000 J                 |
+| Playing one hour of a Playstation 5 game                          | 708,840 J                 |
+| Running a refrigerator for one hour                               | 810,000 J                 |
+| One hour of central air conditioning                              | 12,600,000 J              |
+| Using a gallon of gasoline                                        | 121,320,000 J             |
+| One Ethereum transaction [2](#footnotes)                          | 692,820,000 J             |
+| One Bitcoin transaction [3](#footnotes)                           | 6,995,592,000 J           |
+
 
 In total, the entire Solana network — with 1,196 validator nodes and an estimated 20,000,000 transactions — uses an estimated **3,186,000 kWh per year**. This is the equivalent of the average electricity usage of **986 American households.**
 

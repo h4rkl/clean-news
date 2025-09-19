@@ -21,6 +21,12 @@ Converts all BuilderBlocks with a youtube embed to an iframe.
 
 Run script in `scripts/convert-builder-youtube.ts` with `pnpm convert:youtube`
 
+### Tables Builderblocks
+
+Converts all BuilderBlocks with a table to mdx
+
+Run script in `scripts/convert-builder-tables-to-md.ts` with `pnpm convert:tables`
+
 ## Getting Started
 
 First, run the development server:
