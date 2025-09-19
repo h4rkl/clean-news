@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "convert:youtube": "tsx scripts/convert-builder-youtube.ts",
-    "convert:tables": "tsx scripts/convert-builder-tables-to-md.ts"
+    "convert:tables": "tsx scripts/convert-builder-tables-to-md.ts",
+    "convert:h2": "tsx scripts/convert-builder-heading-to-md.ts"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.0",

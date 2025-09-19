@@ -19,8 +19,7 @@ Converts all BuilderBlocks to the MDX equivalent.
 
 - Youtube: `pnpm convert:youtube`
 - Tables `pnpm convert:tables`
-- Code `pnpm convert:code`
-- html `pnpm convert:html`
+- Headings `pnpm convert:h2`
 
 ## Getting Started
 
