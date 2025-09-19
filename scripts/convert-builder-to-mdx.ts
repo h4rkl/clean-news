@@ -1,4 +1,13 @@
-/* scripts/convert-builder-to-mdx.ts */
+/**
+ * Convert Builder content to MDX
+ *
+ * This script converts raw Builder json in @builder directory to MDX format.
+ * It uses the `turndown` library to convert HTML to MDX.
+ *
+ * It also downloads images to the `public` directory and emits standard Markdown.
+ *
+ * It also saves a component inventory for future mapping.
+ */
 import fs from "node:fs/promises";
 import path from "node:path";
 import { dump as toYAML } from "js-yaml";
