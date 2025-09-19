@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Solana Media
 
 ## Builder exports
 
@@ -12,6 +12,14 @@ NEXT_PUBLIC_BUILDER_NEWS_SETTINGS_ID=983ae1dad0ba4ca4ac6dd4ac310edee1_de254e309a
 NEXT_PUBLIC_BUILDER_ENV=production \
 pnpm dlx tsx scripts/export-builder.ts
 ```
+
+## Convert BuilderBlock to Components
+
+### Youtube BuilderBlocks
+
+Converts all BuilderBlocks with a youtube embed to an iframe.
+
+Run script in `scripts/convert-builder-youtube.ts` with `pnpm tsx scripts/convert-builder-youtube.ts`
 
 ## Getting Started
 
