@@ -25,7 +25,7 @@ function parseOptions(optionsStr: string): any | null {
     const func = new Function(`return ({${optionsStr}})`);
     return func();
   } catch (e) {
-    console.error("Failed to parse options:", e);
+    console.error("Failed to parse options:", e, "\nOriginal:", optionsStr);
     return null;
   }
 }
@@ -36,7 +36,17 @@ function convertBlock(block: any): string {
 
   switch (component.name) {
     case "Copy":
-      const rawHtml = component.options?.rawHtml?.Default || "";
+      let rawHtml =
+        block.component.options?.rawHtml?.Default ||
+        block.component.options?.rawHtml ||
+        "";
+      // Unescape common HTML entities
+      rawHtml = rawHtml
+        .replace(/\\u003c/g, "<")
+        .replace(/\\u003e/g, ">")
+        .replace(/\\"/g, '"')
+        .replace(/&lt;/g, "<")
+        .replace(/&gt;/g, ">");
       return htmlToMarkdown(rawHtml) + "\n\n";
     case "Image":
       const src = component.options?.image || "";
@@ -46,7 +56,10 @@ function convertBlock(block: any): string {
       const url = component.options?.url || "";
       return `[Watch Video](${url})\n\n`; // Simple link for YouTube
     default:
-      return ""; // Ignore unknown components or handle as needed
+      // For unknown, try to convert any rawHtml if present
+      const unknownHtml = component.options?.rawHtml?.Default || "";
+      if (unknownHtml) return htmlToMarkdown(unknownHtml) + "\n\n";
+      return "";
   }
 }
 
