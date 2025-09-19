@@ -5,7 +5,7 @@ description: >
   Understand the tech breakthroughs that make Solana’s 50,000 TPS blockchain
   network possible
 slug: 8-innovations-that-make-solana-the-first-web-scale-blockchain
-date: '2019-07-28'
+date: "2019-07-28"
 audiences: []
 topics: []
 status: published
@@ -50,25 +50,25 @@ Since its inception, the Solana team — comprised of pioneering technologis
 
 In order to create a decentralized, permissionless network that matches the performance of a single node, the Solana team developed 8 key technologies:
 
--   [**Proof of History (POH)**](http://solana.com/news/proof-of-history--a-clock-for-blockchain) — a clock before consensus;
--   [**Tower BFT**](http://solana.com/news/tower-bft--solana-s-high-performance-implementation-of-pbft) — a PoH-optimized version of PBFT;
--   [**Turbine**](http://solana.com/news/turbine---solana-s-block-propagation-protocol-solves-the-scalability-trilemma) — a block propagation protocol;
--   [**Gulf Stream**](http://solana.com/news/gulf-stream--solana-s-mempool-less-transaction-forwarding-protocol) — Mempool-less transaction forwarding protocol;
--   [**Sealevel**](http://solana.com/news/sealevel---parallel-processing-thousands-of-smart-contracts) — Parallel smart contracts run-time;
--   [**Pipelining**](https://solana.com/news/pipelining-in-solana-the-transaction-processing-unit) — a Transaction Processing Unit for validation optimization
--   [**Cloudbreak**](https://solana.com/news/cloudbreak---solana-s-horizontally-scaled-state-architecture) — Horizontally-Scaled Accounts Database; and
--   [**Archivers**](https://solana.com/news/archivers---solana-s-solution-to-petabytes-of-blockchain-data-storage) — Distributed ledger storage
+- [**Proof of History (POH)**](http://solana.com/news/proof-of-history--a-clock-for-blockchain) — a clock before consensus;
+- [**Tower BFT**](http://solana.com/news/tower-bft--solana-s-high-performance-implementation-of-pbft) — a PoH-optimized version of PBFT;
+- [**Turbine**](http://solana.com/news/turbine---solana-s-block-propagation-protocol-solves-the-scalability-trilemma) — a block propagation protocol;
+- [**Gulf Stream**](http://solana.com/news/gulf-stream--solana-s-mempool-less-transaction-forwarding-protocol) — Mempool-less transaction forwarding protocol;
+- [**Sealevel**](http://solana.com/news/sealevel---parallel-processing-thousands-of-smart-contracts) — Parallel smart contracts run-time;
+- [**Pipelining**](https://solana.com/news/pipelining-in-solana-the-transaction-processing-unit) — a Transaction Processing Unit for validation optimization
+- [**Cloudbreak**](https://solana.com/news/cloudbreak---solana-s-horizontally-scaled-state-architecture) — Horizontally-Scaled Accounts Database; and
+- [**Archivers**](https://solana.com/news/archivers---solana-s-solution-to-petabytes-of-blockchain-data-storage) — Distributed ledger storage
 
 In this essay, we’ll briefly explain each of the above. If you’d like to learn more about each, we’ve also written detailed explainers that you can access by clicking the links above.
 
 ## **Proof of History**
 
-<BuilderBlock name="Custom Code" options={{
-  "code": "\u003ciframe src=\"https://www.youtube.com/embed/rywOYfGu4EA?feature=oembed\" width=\"700\" height=\"393\" frameborder=\"0\" scrolling=\"no\">\u003c/iframe>\n",
-  "scriptsClientOnly": true
-}}>
-
-</BuilderBlock>
+<iframe
+  src="https://www.youtube.com/embed/rywOYfGu4EA?feature=oembed"
+  width="700"
+  height="393"
+  scrolling="no"
+></iframe>
 
 If a blockchain network as a whole is going to match the performance of a single node, that implies that bandwidth cannot be the bottleneck, but rather computation. To achieve this, we need to first optimize how the nodes in the network communicate.
 
@@ -120,8 +120,8 @@ Using LLVM, the same compiler that targets WASM, we provide a great set of tools
 
 Ethereum has had a history of bugs resulting from the software architecture. Two relevant examples:
 
--   Multiple [parity hacks](https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7) through [Delegate Call](https://github.com/paritytech/parity-ethereum/issues/6995)
--   The [DAO rentrancy bug](https://medium.com/@MyPaoG/explaining-the-dao-exploit-for-beginners-in-solidity-80ee84f0d470) through ‘call’
+- Multiple [parity hacks](https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7) through [Delegate Call](https://github.com/paritytech/parity-ethereum/issues/6995)
+- The [DAO rentrancy bug](https://medium.com/@MyPaoG/explaining-the-dao-exploit-for-beginners-in-solidity-80ee84f0d470) through ‘call’
 
 It’s definitely possible to write safe Solidity code, just like it’s possible to write complex software in C without memory protection. But as long as unsafe behavior is easy to add and hard to detect, it becomes geometrically harder to verify the behavior of complex software. Both Solana and the Libra team recognized this problem early on and developed architectures that maintain a strict separation of state between different modules.
 
@@ -163,14 +163,14 @@ Solana’s software is designed to get out of the way and let the hardware opera
 
 For deeper explanation of the 8 innovations that make the Solana network possible, please refer to the blog posts below:
 
--   [**Proof of History (POH)**](http://solana.com/news/proof-of-history--a-clock-for-blockchain) — a clock before consensus;
--   [**Tower BFT**](http://solana.com/news/tower-bft--solana-s-high-performance-implementation-of-pbft) — a PoH-optimized version of PBFT;
--   [**Turbine**](http://solana.com/news/turbine---solana-s-block-propagation-protocol-solves-the-scalability-trilemma) — a block propagation protocol;
--   [**Gulf Stream**](http://solana.com/news/gulf-stream--solana-s-mempool-less-transaction-forwarding-protocol) — Mempool-less transaction forwarding protocol;
--   [**Sealevel**](http://solana.com/news/sealevel---parallel-processing-thousands-of-smart-contracts) — Parallel smart contracts run-time;
--   [**Pipelining**](https://solana.com/news/pipelining-in-solana-the-transaction-processing-unit) — a Transaction Processing Unit for validation optimization
--   [**Cloudbreak**](https://solana.com/news/cloudbreak---solana-s-horizontally-scaled-state-architecture) — Horizontally-Scaled Accounts Database; and
--   [**Archivers**](https://solana.com/news/archivers---solana-s-solution-to-petabytes-of-blockchain-data-storage) — Distributed ledger storage
+- [**Proof of History (POH)**](http://solana.com/news/proof-of-history--a-clock-for-blockchain) — a clock before consensus;
+- [**Tower BFT**](http://solana.com/news/tower-bft--solana-s-high-performance-implementation-of-pbft) — a PoH-optimized version of PBFT;
+- [**Turbine**](http://solana.com/news/turbine---solana-s-block-propagation-protocol-solves-the-scalability-trilemma) — a block propagation protocol;
+- [**Gulf Stream**](http://solana.com/news/gulf-stream--solana-s-mempool-less-transaction-forwarding-protocol) — Mempool-less transaction forwarding protocol;
+- [**Sealevel**](http://solana.com/news/sealevel---parallel-processing-thousands-of-smart-contracts) — Parallel smart contracts run-time;
+- [**Pipelining**](https://solana.com/news/pipelining-in-solana-the-transaction-processing-unit) — a Transaction Processing Unit for validation optimization
+- [**Cloudbreak**](https://solana.com/news/cloudbreak---solana-s-horizontally-scaled-state-architecture) — Horizontally-Scaled Accounts Database; and
+- [**Archivers**](https://solana.com/news/archivers---solana-s-solution-to-petabytes-of-blockchain-data-storage) — Distributed ledger storage
 
 ## **State of the Network**
 
