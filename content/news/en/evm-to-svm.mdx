@@ -26,21 +26,64 @@ By the end, developers will have the knowledge needed to start their Solana jour
 
 <h2>Understanding the Core Differences&nbsp;</h2><p>To start, let’s look at the most significant difference between EVM and SVM—the account model design.</p><h3>Account Model</h3><p>Unlike Ethereum, Solana was designed to take advantage of multiple cores and support parallel <a href="https://solana.com/docs/core/transactions" rel="noopener noreferrer" target="_blank">transactions</a>. To achieve this, Solana uses an account model.</p><p>An <a href="https://solana.com/developers/evm-to-svm/accounts" rel="noopener noreferrer" target="_blank">account</a> on Solana is a record in the Solana ledger that either holds data (a data account) or is an executable program (a smart contract or <a href="https://solana.com/developers/evm-to-svm/smart-contracts" rel="noopener noreferrer" target="_blank"><em>program</em></a> on Solana).&nbsp;</p><p>Like Ethereum, each account has an address identifier. However, unlike Ethereum—where each smart contract is an account with the execution logic and storage tied together—Solana’s smart contracts are entirely stateless. State must be passed to accounts for them to execute on.</p><p>Let’s look at a code example. In the Solidity code below, state is tied to the smart contract with the line <code>int private count = 0.</code></p>
 
-<BuilderBlock name="Code Block" options={{
-  "code": "contract Counter {\n  int private count = 0;\n  function incrementCounter() public\n    { count += 1;\n    }\n  function getCount() public constant returns (int) {\n    return count;\n  }\n}",
-  "language": "solidity"
-}}>
 
-</BuilderBlock>
+```solidity
+contract Counter {
+  int private count = 0;
+  function incrementCounter() public
+    { count += 1;
+    }
+  function getCount() public constant returns (int) {
+    return count;
+  }
+}
+```
+
 
 With Rust (Solana) there is a struct within the smart contract stating initialize\_counter. This initial counter creates an account with a count of 0. The account is passed to this counter to increment the count. This keeps state from being kept within the smart contract itself.
 
-<BuilderBlock name="Code Block" options={{
-  "code": "#[program]\npub mod counter_anchor {\n  use super::*;\n\n  pub fn initialize_counter(_ctx: Context\u003cInitializeCounter>) -> Result\u003c()> {\n    Ok(())\n  }\n\n  pub fn increment(ctx: Context\u003cIncrement>) -> Result\u003c()> {\n  ctx.accounts.counter.count = ctx.accounts.counter.count.checked_add(1).unwrap();\n    Ok(())\n  }\n}\n\n#[derive(Accounts)]\npub struct InitializeCounter\u003c'info> {\n  #[account(mut)]\n  pub payer: Signer\u003c'info>,\n  #[account(\n    init,\n    space = 8 + Counter::INIT_SPACE,\n    payer = payer\n    )]\n  pub counter: Account\u003c'info, Counter>,\n  pub system_program: Program\u003c'info, System>,\n}\n\n#[derive(Accounts)]\npub struct Increment\u003c'info> {\n  #[account(mut)]\n  pub counter: Account\u003c'info, Counter>,\n}\n\n#[account]\n#[derive(InitSpace)]\npub struct Counter {\n  count: u64,\n}\n",
-  "language": "rust"
-}}>
 
-</BuilderBlock>
+```rust
+#[program]
+pub mod counter_anchor {
+  use super::*;
+
+  pub fn initialize_counter(_ctx: Context\u003cInitializeCounter>) -> Result\u003c()> {
+    Ok(())
+  }
+
+  pub fn increment(ctx: Context\u003cIncrement>) -> Result\u003c()> {
+  ctx.accounts.counter.count = ctx.accounts.counter.count.checked_add(1).unwrap();
+    Ok(())
+  }
+}
+
+#[derive(Accounts)]
+pub struct InitializeCounter\u003c'info> {
+  #[account(mut)]
+  pub payer: Signer\u003c'info>,
+  #[account(
+    init,
+    space = 8 + Counter::INIT_SPACE,
+    payer = payer
+    )]
+  pub counter: Account\u003c'info, Counter>,
+  pub system_program: Program\u003c'info, System>,
+}
+
+#[derive(Accounts)]
+pub struct Increment\u003c'info> {
+  #[account(mut)]
+  pub counter: Account\u003c'info, Counter>,
+}
+
+#[account]
+#[derive(InitSpace)]
+pub struct Counter {
+  count: u64,
+}
+```
+
 
 With Solana, data is stored in separate accounts outside of the program. To execute the logic in a program, pass the account to be performed on. 
 
@@ -56,12 +99,11 @@ But with Solana, it’s not necessary to create and deploy a new smart contract 
 
 And this can be done by simply sending a transaction to the Token Program. Using the Solana Program Library CLI, for example, it’s just a single command:
 
-<BuilderBlock name="Code Block" options={{
-  "code": "$ spl-token create-token",
-  "language": "rust"
-}}>
 
-</BuilderBlock>
+```rust
+$ spl-token create-token
+```
+
 
 ### Local Fee Markets
 
