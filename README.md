@@ -15,17 +15,12 @@ pnpm dlx tsx scripts/export-builder.ts
 
 ## Convert BuilderBlock to Components
 
-### Youtube BuilderBlocks
+Converts all BuilderBlocks to the MDX equivalent.
 
-Converts all BuilderBlocks with a youtube embed to an iframe.
-
-Run script in `scripts/convert-builder-youtube.ts` with `pnpm convert:youtube`
-
-### Tables Builderblocks
-
-Converts all BuilderBlocks with a table to mdx
-
-Run script in `scripts/convert-builder-tables-to-md.ts` with `pnpm convert:tables`
+- Youtube: `pnpm convert:youtube`
+- Tables `pnpm convert:tables`
+- Code `pnpm convert:code`
+- html `pnpm convert:html`
 
 ## Getting Started
 
