@@ -50,15 +50,58 @@ function convertBlock(block: any): string {
       return htmlToMarkdown(rawHtml) + "\n\n";
     case "Image":
       const src = component.options?.image || "";
-      const alt = component.options?.alt?.Default || "";
+      const alt =
+        component.options?.altText || component.options?.alt?.Default || "";
       return `![${alt}](${src})\n\n`;
     case "Youtube":
       const url = component.options?.url || "";
       return `[Watch Video](${url})\n\n`; // Simple link for YouTube
+    case "Core:Section":
+      let sectionMd = "";
+      if (block.children) {
+        for (const child of block.children) {
+          sectionMd += convertBlock(child);
+        }
+      }
+      return sectionMd;
+    case "Text":
+      const text = block.component.options?.text || "";
+      return htmlToMarkdown(text) + "\n\n";
+    case "Feature Highlight":
+      let fhMd = "";
+      if (component.options.eyebrow)
+        fhMd += `### ${component.options.eyebrow}\n\n`;
+      if (component.options.headline)
+        fhMd += `#### ${component.options.headline}\n\n`;
+      if (component.options.body) fhMd += `${component.options.body}\n\n`;
+      if (component.options.cards) {
+        for (const card of component.options.cards) {
+          fhMd += `**${card.feature}**\n\n${card.body}\n\n`;
+        }
+      }
+      return fhMd;
+    case "Embed":
+      const embedContent = component.options?.content || "";
+      const embedUrl = component.options?.url || "";
+      let embedMd = "";
+      if (embedContent) {
+        embedMd += htmlToMarkdown(embedContent) + "\n\n";
+      } else if (embedUrl) {
+        embedMd += `[Embedded Content](${embedUrl})\n\n`;
+      }
+      return embedMd;
     default:
       // For unknown, try to convert any rawHtml if present
       const unknownHtml = component.options?.rawHtml?.Default || "";
-      if (unknownHtml) return htmlToMarkdown(unknownHtml) + "\n\n";
+      if (unknownHtml) {
+        let unescaped = unknownHtml
+          .replace(/\\u003c/g, "<")
+          .replace(/\\u003e/g, ">")
+          .replace(/\\"/g, '"')
+          .replace(/&lt;/g, "<")
+          .replace(/&gt;/g, ">");
+        return htmlToMarkdown(unescaped) + "\n\n";
+      }
       return "";
   }
 }
