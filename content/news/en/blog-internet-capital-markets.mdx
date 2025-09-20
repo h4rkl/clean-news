@@ -6,7 +6,7 @@ description: >-
   Learn how compounding infrastructure improvements are scaling Solana to serve
   internet capital markets globally.
 slug: blog-internet-capital-markets
-date: '2025-08-21'
+date: "2025-08-21"
 audiences: []
 topics: []
 heroImage: >-
@@ -61,27 +61,24 @@ seo:
 
 Compounding infrastructure improvements are scaling Solana to serve global markets:
 
--   Solana block capacity expanded by 25% this year, with [Solana Improvement Document (SIMD)](https://github.com/solana-foundation/solana-improvement-documents/pull/286) proposals for another 66% increase planned for later this year
--   A new Token Program rewrite ([P-token SIMD](https://github.com/solana-foundation/solana-improvement-documents/pull/266)) reduces transaction compute requirements of Solana’s most used program by over 95%
--   Jump’s [Firedancer](https://jumpcrypto.com/firedancer/) validator client has demonstrated 1M+ TPS in testing and 100k TPS on mainnet
--   [Alpenglow](http://www.anza.xyz/blog/alpenglow-a-new-consensus-for-solana), a new Solana consensus protocol proposed by Anza Research promises sub 150ms median finality
+- Solana block capacity expanded by 25% this year, with [Solana Improvement Document (SIMD)](https://github.com/solana-foundation/solana-improvement-documents/pull/286) proposals for another 66% increase planned for later this year
+- A new Token Program rewrite ([P-token SIMD](https://github.com/solana-foundation/solana-improvement-documents/pull/266)) reduces transaction compute requirements of Solana’s most used program by over 95%
+- Jump’s [Firedancer](https://jumpcrypto.com/firedancer/) validator client has demonstrated 1M+ TPS in testing and 100k TPS on mainnet
+- [Alpenglow](http://www.anza.xyz/blog/alpenglow-a-new-consensus-for-solana), a new Solana consensus protocol proposed by Anza Research promises sub 150ms median finality
 
 ## Global Financial Infrastructure for Internet Capital Markets
 
 Internet Capital Markets are here and in full force on Solana. Last quarter, Solana processed 8.5 billion transactions, more than all other chains combined ([source: Artemis)](https://app.artemisanalytics.com/asset/solana?from=assets&tab=metrics&category=KEY_METRICS&metric=CHAIN_TXNS). Here are just a few notable highlights from that period:
 
--   Raydium DEX realized $1 Trillion in lifetime volume
--   Pump.fun token launch: $600 million raised. 12 minutes.
--   xStocks debuted, already exceeding $2B in tokenized stock trading volume
+- Raydium DEX realized $1 Trillion in lifetime volume
+- Pump.fun token launch: $600 million raised. 12 minutes.
+- xStocks debuted, already exceeding $2B in tokenized stock trading volume
 
 The future of finance is unfolding right now, and the Solana community is systematically enhancing the infrastructure to support it. These improvements are building toward one inevitable outcome: a financial system where every market for every asset operates with the speed and accessibility of the internet.
 
-<BuilderBlock name="Embed" options={{
-  "url": "https://x.com/anza_xyz/status/1948408290112889240",
-  "content": "\u003cblockquote class=\"twitter-tweet\" data-dnt=\"true\" align=\"center\">\u003cp lang=\"en\" dir=\"ltr\">1/ Solana is taking major steps towards becoming the home of internet capital markets. 🧵👇\u003cbr>Upcoming changes are designed to give developers ALL the tools they need to build efficient, liquid markets on-chain. \u003ca href=\"https://t.co/IHHyHomMC2\">pic.twitter.com/IHHyHomMC2\u003c/a>\u003c/p>&mdash; Anza (@anza_xyz) \u003ca href=\"https://twitter.com/anza_xyz/status/1948408290112889240?ref_src=twsrc%5Etfw\">July 24, 2025\u003c/a>\u003c/blockquote>\n\u003cscript async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\">\u003c/script>\n\n"
-}}>
-
-</BuilderBlock>
+<div data-theme="dark">
+  <Tweet id="1948408290112889240" />
+</div>
 
 ## **More Block Capacity:** [SIMD-0207](https://github.com/solana-foundation/solana-improvement-documents/pull/207)**,** [SIMD-0256](https://github.com/solana-foundation/solana-improvement-documents/pull/256)**, and** [SIMD-0286](https://github.com/solana-foundation/solana-improvement-documents/pull/286)
 
@@ -93,7 +90,22 @@ Next stop? 100M! A Solana Improvement Document Proposal (SIMD) outlines a plan t
 
 Each upgrade proves itself under real-world load before the next expansion, maintaining velocity without compromising reliability.
 
-<h2><strong>Increased Efficiency: P-Token</strong></h2><p>The Solana SPL Token Program is integral to many common activities on the platform, including DeFi swaps, lending, NFT marketplaces, stablecoin payments, airdrops, and more. The Program processes over 1.5 million transactions hourly (nearly 40% of Solana’s non-vote transactions).&nbsp;</p><p style="text-align: center;"><strong><em>Hourly Breakdown: SPL Token vs Other Solana Programs (non-vote)&nbsp;</em></strong></p>
+<h2>
+  <strong>Increased Efficiency: P-Token</strong>
+</h2>
+<p>
+  The Solana SPL Token Program is integral to many common activities on the
+  platform, including DeFi swaps, lending, NFT marketplaces, stablecoin
+  payments, airdrops, and more. The Program processes over 1.5 million
+  transactions hourly (nearly 40% of Solana’s non-vote transactions).&nbsp;
+</p>
+<p style="text-align: center;">
+  <strong>
+    <em>
+      Hourly Breakdown: SPL Token vs Other Solana Programs (non-vote)&nbsp;
+    </em>
+  </strong>
+</p>
 
 ![Image source: XStocks](/blog-internet-capital-markets/image-2.jpg)
 
@@ -120,7 +132,59 @@ Under the hood, P-Token eliminates unnecessary data copying, reduces memory usag
 
 </BuilderBlock>
 
-<p><sub style="vertical-align: sub; font-size: smaller;"><strong><em>P-Token delivers similar 95%+ efficiency gains across all 20+ token operations.</em></strong></sub></p><p>In <a href="https://neodyme.io/en/" rel="noopener noreferrer" target="_blank">Neodyme’s</a> audit of P-Token, they replayed 9 days of actual mainnet transactions, simulating how the upgraded program would have performed under real conditions (in lieu of the existing program). The findings were striking: P-Token would have slashed the network's total compute consumption by 12% (<a href="https://x.com/Neodyme/status/1958234163376717904" rel="noopener noreferrer" target="_blank">source</a>). This isn't just a marginal improvement—it's the equivalent of adding an extra 5 million CUs of capacity to every block (enough to handle an additional 20,000 p-token transfers) without any hardware upgrades.</p><p>In practice, this translates to:</p><ul><li>Lower fees: Reduced compute usage means lower priority-related transaction fees (estimate your savings with <a href="https://ptoken.sendai.fun/" rel="noopener noreferrer" target="_blank">this tool</a> from SendAI)</li><li>Better composability: More headroom enables more sophisticated cross-program interactions</li><li>Higher landing rates: Abundant compute headroom improves transaction landing reliability across the network</li></ul>
+<p>
+  <sub style="vertical-align: sub; font-size: smaller;">
+    <strong>
+      <em>
+        P-Token delivers similar 95%+ efficiency gains across all 20+ token
+        operations.
+      </em>
+    </strong>
+  </sub>
+</p>
+<p>
+  In{" "}
+  <a href="https://neodyme.io/en/" rel="noopener noreferrer" target="_blank">
+    Neodyme’s
+  </a>{" "}
+  audit of P-Token, they replayed 9 days of actual mainnet transactions,
+  simulating how the upgraded program would have performed under real conditions
+  (in lieu of the existing program). The findings were striking: P-Token would
+  have slashed the network's total compute consumption by 12% (
+  <a
+    href="https://x.com/Neodyme/status/1958234163376717904"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    source
+  </a>
+  ). This isn't just a marginal improvement—it's the equivalent of adding an extra
+  5 million CUs of capacity to every block (enough to handle an additional 20,000
+  p-token transfers) without any hardware upgrades.
+</p>
+<p>In practice, this translates to:</p>
+<ul>
+  <li>
+    Lower fees: Reduced compute usage means lower priority-related transaction
+    fees (estimate your savings with{" "}
+    <a
+      href="https://ptoken.sendai.fun/"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      this tool
+    </a>{" "}
+    from SendAI)
+  </li>
+  <li>
+    Better composability: More headroom enables more sophisticated cross-program
+    interactions
+  </li>
+  <li>
+    Higher landing rates: Abundant compute headroom improves transaction landing
+    reliability across the network
+  </li>
+</ul>
 
 ## **More Throughput, Sub-Second Finality**
 
@@ -128,27 +192,22 @@ Solana has never settled for 'fast enough.’ Ecosystem engineers are working on
 
 Firedancer is a new client written from the ground up in C++ and maintained by [Jump Crypto](https://jumpcrypto.com/). In testing, the new client has demonstrated:
 
--   1.2M transactions per second (~100x current mainnet) with geographically distributed nodes
--   6-8 million signature verifications/second
+- 1.2M transactions per second (~100x current mainnet) with geographically distributed nodes
+- 6-8 million signature verifications/second
 
-<BuilderBlock name="Embed" options={{
-  "url": "https://youtu.be/AkqCgmgFxEM?feature=shared&amp;t=420",
-  "content": "\u003cdiv style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\">\u003ciframe src=\"https://www.youtube.com/embed/AkqCgmgFxEM?rel=0&start=420\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;\">\u003c/iframe>\u003c/div>"
-}}>
+<YouTube videoId="AkqCgmgFxEM" />
 
-</BuilderBlock>
-
-The transition is happening gradually through "Frankendancer," a hybrid deployment of Firedancer and Agave clients. It already represents about 28% of testnet stake and 10% of mainnet stake with stable operation since mid-2024. A Frakendancer validator recently [demonstrated](https://x.com/cavemanloverboy/status/1957091396953034966) a burst of 100,000 TPS on Solana’s mainnet. 
+The transition is happening gradually through "Frankendancer," a hybrid deployment of Firedancer and Agave clients. It already represents about 28% of testnet stake and 10% of mainnet stake with stable operation since mid-2024. A Frakendancer validator recently [demonstrated](https://x.com/cavemanloverboy/status/1957091396953034966) a burst of 100,000 TPS on Solana’s mainnet.
 
 Alpenglow is the biggest change to Solana's core protocol since launch. It is a complete replacement of Solana's consensus system (the mechanism that allows thousands of validators worldwide to agree on transaction order). The upgrade aims to reduce transaction finality from 12.8 seconds to under 150ms. At these speeds, Solana could realize Web2-level responsiveness with L1 finality, unlocking new use cases that require both speed and cryptographic certainty.
 
-Alpenglow is actively being considered by the Community. Check out [SIMD 0326](https://github.com/solana-foundation/solana-improvement-documents/pull/326) to vote on its future and join the discussion [here](https://forum.solana.com/t/simd-0326-proposal-for-the-new-alpenglow-consensus-protocol/4236/50). 
+Alpenglow is actively being considered by the Community. Check out [SIMD 0326](https://github.com/solana-foundation/solana-improvement-documents/pull/326) to vote on its future and join the discussion [here](https://forum.solana.com/t/simd-0326-proposal-for-the-new-alpenglow-consensus-protocol/4236/50).
 
 Combined with Firedancer's throughput gains, the practical implications are transformative:
 
--   For traders: Sub-second execution with cryptographic finality for price-sensitive strategies
--   For applications: Responsive interfaces that feel native, not blockchain-constrained
--   For users: Instant feedback with mathematical certainty, not probabilistic confidence
+- For traders: Sub-second execution with cryptographic finality for price-sensitive strategies
+- For applications: Responsive interfaces that feel native, not blockchain-constrained
+- For users: Instant feedback with mathematical certainty, not probabilistic confidence
 
 ## Internet-Speed Finance
 
@@ -158,10 +217,10 @@ The compounding effect of these initiatives and the many others in the Solana ec
 
 At this scale and speed, entirely new categories of financial applications become possible.
 
--   Real-time global price discovery across every asset class simultaneously
--   Composable financial products where complex multi-step transactions execute reliably at scale
--   Micro-transaction economies that unlock entirely new product verticals
--   Institutional-grade settlement that rivals traditional financial rails
+- Real-time global price discovery across every asset class simultaneously
+- Composable financial products where complex multi-step transactions execute reliably at scale
+- Micro-transaction economies that unlock entirely new product verticals
+- Institutional-grade settlement that rivals traditional financial rails
 
 These achievements aren't accidental. They are milestones in a [roadmap toward Internet Capital Markets](https://www.anza.xyz/blog/the-internet-capital-markets-roadmap), where every financial instrument operates with the speed and accessibility of the internet itself. The improvements highlighted here represent just a fraction of the engineering momentum across the ecosystem. Teams are advancing everything from network packet processing to market microstructure optimization, each improvement compounding to power infrastructure capable of serving global markets.
 
@@ -171,17 +230,17 @@ Every asset and every market on a single state machine, distributed around the w
 
 **Want to dive deeper? Explore these technical resources and get involved:**
 
--   [P-Token Implementation](https://github.com/solana-program/token/tree/main/p-token)
--   [Firedancer Documentation](https://jumpcrypto.com/firedancer/)
--   [SIMD Proposals](https://github.com/solana-foundation/solana-improvement-documents)
--   [Solana Developer Documentation](https://docs.solana.com)
--   [Anza Blog: Why Solana Transaction Costs and Compute Units Matter for Developers](https://www.anza.xyz/blog/why-solana-transaction-costs-and-compute-units-matter-for-developers)
--   [Anza Blog: Alpenglow: A New Consensus for Solana](https://www.anza.xyz/blog/alpenglow-a-new-consensus-for-solana)
--   [The Internet Capital Markets Roadmap](https://www.anza.xyz/blog/the-internet-capital-markets-roadmap) - Anza's vision for Solana's evolution
--   [Alpenglow Vote](https://x.com/SolanaStatus/status/1956090001810497591) 
--   [Ship or Die at Accelerate 2025: IBRL (Kevin Bowers - Firedancer, Brennan Watt - Anza)](https://www.youtube.com/watch?v=AkqCgmgFxEM)
--   [Solana Compute Unit Dashboard](https://dune.com/solana_team/solana-compute-units)
--   [Jito Labs Block Assembly Marketplace](https://bam.dev/blog/understanding-bam/) (BAM)
+- [P-Token Implementation](https://github.com/solana-program/token/tree/main/p-token)
+- [Firedancer Documentation](https://jumpcrypto.com/firedancer/)
+- [SIMD Proposals](https://github.com/solana-foundation/solana-improvement-documents)
+- [Solana Developer Documentation](https://docs.solana.com)
+- [Anza Blog: Why Solana Transaction Costs and Compute Units Matter for Developers](https://www.anza.xyz/blog/why-solana-transaction-costs-and-compute-units-matter-for-developers)
+- [Anza Blog: Alpenglow: A New Consensus for Solana](https://www.anza.xyz/blog/alpenglow-a-new-consensus-for-solana)
+- [The Internet Capital Markets Roadmap](https://www.anza.xyz/blog/the-internet-capital-markets-roadmap) - Anza's vision for Solana's evolution
+- [Alpenglow Vote](https://x.com/SolanaStatus/status/1956090001810497591)
+- [Ship or Die at Accelerate 2025: IBRL (Kevin Bowers - Firedancer, Brennan Watt - Anza)](https://www.youtube.com/watch?v=AkqCgmgFxEM)
+- [Solana Compute Unit Dashboard](https://dune.com/solana_team/solana-compute-units)
+- [Jito Labs Block Assembly Marketplace](https://bam.dev/blog/understanding-bam/) (BAM)
 
 <BuilderBlock name="Switchback" options={{
   "assetSide": "right",

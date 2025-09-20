@@ -6,6 +6,7 @@ import {
   AlertDescription,
 } from "@/components/ui/alert";
 import { cn } from "@/lib/utils";
+import { LiteYouTubeEmbed, Tweet } from "@/components/mdx-client";
 
 type CodeProps = React.HTMLAttributes<HTMLElement> & {
   "data-language"?: string;
@@ -106,6 +107,12 @@ export const mdxComponents = {
   code: Code,
   Alert,
   SpecViewer,
+  YouTube: ({ videoId, ...props }) => (
+    <div className="my-4">
+      <LiteYouTubeEmbed id={videoId ?? ""} {...props} />
+    </div>
+  ),
+  Tweet,
 } satisfies MDXRemoteProps["components"];
 
 // Convenience wrapper to render MDX source string with our components

@@ -1,10 +1,10 @@
 ---
-title: 'Case Study: A Technical Deep Dive on Helium'
+title: "Case Study: A Technical Deep Dive on Helium"
 description: >-
   Learn how to scale your hardware and physical infrastructure faster on Solana
   in this technical deep dive on Helium, a decentralized wireless network.
 slug: case-study-helium-technical-guide
-date: '2025-07-30'
+date: "2025-07-30"
 audiences: []
 topics: []
 heroImage: >-
@@ -12,7 +12,7 @@ heroImage: >-
 status: published
 locale: en
 seo:
-  title: 'Case Study: A Technical Deep Dive on Helium, Decentralized Wireless Provider'
+  title: "Case Study: A Technical Deep Dive on Helium, Decentralized Wireless Provider"
   description: >-
     Learn how to scale your hardware and physical infrastructure faster on
     Solana in this technical deep dive on Helium, a decentralized wireless
@@ -56,11 +56,11 @@ seo:
 
 **Highlights**
 
--   **Massive Scale:** Helium operates 400,000+ active hotspots across 80 countries, processing 576TB of data in Q4 2024 alone (555% quarter-over-quarter growth) while serving 124,000+ mobile users with real consumer demand
--   **"Lazy Claiming" Architecture:** Instead of expensive daily blockchain payouts, Helium's oracles track earnings off-chain while users claim rewards on-demand, reducing transaction costs to just $0.07 per year for daily claims
--   **Enterprise-Grade Anti-Gaming System:** Helium's Proof of Coverage requires hotspots to beacon every 6 hours with cryptographic verification from ~12 nearby witnesses, plus hardware authentication with embedded ECC/RSA keys to prevent location spoofing and device clustering
--   **Solana Migration Benefits:** Moving from 10 TPS to 1,600+ TPS unlocked massive scalability, with hotspots minted as compressed NFTs at ~$0.50-$1.00 each (1000x cheaper than traditional NFTs) and seamless composability with Solana DeFi protocols. Transactions on Helium's previously operated chain cost $0.30 on average vs. Solana's average fee of ~$0.01 and ~$0.001 median fee ([source](https://blockworks.co/analytics/solana/solana-onchain-activity/solana-transaction-fees))
--   If you prefer a video, you can watch the full [Helium DePIN Case Study interview here](https://www.youtube.com/watch?v=TJNXM9xVZo8)
+- **Massive Scale:** Helium operates 400,000+ active hotspots across 80 countries, processing 576TB of data in Q4 2024 alone (555% quarter-over-quarter growth) while serving 124,000+ mobile users with real consumer demand
+- **"Lazy Claiming" Architecture:** Instead of expensive daily blockchain payouts, Helium's oracles track earnings off-chain while users claim rewards on-demand, reducing transaction costs to just $0.07 per year for daily claims
+- **Enterprise-Grade Anti-Gaming System:** Helium's Proof of Coverage requires hotspots to beacon every 6 hours with cryptographic verification from ~12 nearby witnesses, plus hardware authentication with embedded ECC/RSA keys to prevent location spoofing and device clustering
+- **Solana Migration Benefits:** Moving from 10 TPS to 1,600+ TPS unlocked massive scalability, with hotspots minted as compressed NFTs at ~$0.50-$1.00 each (1000x cheaper than traditional NFTs) and seamless composability with Solana DeFi protocols. Transactions on Helium's previously operated chain cost $0.30 on average vs. Solana's average fee of ~$0.01 and ~$0.001 median fee ([source](https://blockworks.co/analytics/solana/solana-onchain-activity/solana-transaction-fees))
+- If you prefer a video, you can watch the full [Helium DePIN Case Study interview here](https://www.youtube.com/watch?v=TJNXM9xVZo8)
 
 ## **Helium at a Glance**
 
@@ -68,11 +68,11 @@ Launched in 2019 by Amir Haleem, [Helium](https://www.helium.com/) set out to bu
 
 By 2024, Helium had:
 
--   Over 400,000 active hotspots. 1 million on-chain. 32,900 new IoT hotspots and 24,800 new 5G mobile hotspots added in Q4 2024
--   Offloaded more than 576 TB of data traffic for operators in Q4 2024. A 555% quarter-over-quarter increase
--   Surpassed 124,000 cumulative [Helium Mobile](https://www.helium.com/mobile) users, with real consumer demand finally materialising
--   Expanded from IoT to 5G mobile, and has become the backbone for other DePIN projects, such as mapping
--   [Migrated from its blockchain to Solana](https://docs.helium.com/solana/) on April 18, 2023, enabling true global scale and composability
+- Over 400,000 active hotspots. 1 million on-chain. 32,900 new IoT hotspots and 24,800 new 5G mobile hotspots added in Q4 2024
+- Offloaded more than 576 TB of data traffic for operators in Q4 2024. A 555% quarter-over-quarter increase
+- Surpassed 124,000 cumulative [Helium Mobile](https://www.helium.com/mobile) users, with real consumer demand finally materialising
+- Expanded from IoT to 5G mobile, and has become the backbone for other DePIN projects, such as mapping
+- [Migrated from its blockchain to Solana](https://docs.helium.com/solana/) on April 18, 2023, enabling true global scale and composability
 
 ## **Hardware Evolution From Raspberry Pi to Enterprise-Grade Devices**
 
@@ -80,18 +80,13 @@ By 2024, Helium had:
 
 Helium’s journey began with a grassroots approach: the original blockchain ran on Raspberry Pi devices, making it accessible for hobbyists and early adopters. As the network scaled, the hardware evolved to support more robust, enterprise-grade deployments.
 
--   Early Days: Raspberry Pi-based hotspots, easy for individuals to deploy.
--   Scaling Up: Transition to custom hardware and integration with existing devices (e.g., Ubiquiti, Eero).
--   Enterprise Deployments: Large-scale rollouts in retail and enterprise environments, leveraging existing infrastructure for rapid expansion.
+- Early Days: Raspberry Pi-based hotspots, easy for individuals to deploy.
+- Scaling Up: Transition to custom hardware and integration with existing devices (e.g., Ubiquiti, Eero).
+- Enterprise Deployments: Large-scale rollouts in retail and enterprise environments, leveraging existing infrastructure for rapid expansion.
 
 A key growth lever for Helium has been converting existing WiFi and networking hardware into Helium-compatible hotspots. In fact, 60,000 of 100,000 mobile hotspots are converted devices (e.g., Ubiquiti routers), accelerating growth and reducing deployment costs.
 
-<BuilderBlock name="Embed" options={{
-  "url": "https://www.youtube.com/watch?v=TJNXM9xVZo8",
-  "content": "\u003cdiv style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\">\u003ciframe src=\"https://www.youtube.com/embed/TJNXM9xVZo8?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;\">\u003c/iframe>\u003c/div>"
-}}>
-
-</BuilderBlock>
+<YouTube videoId="TJNXM9xVZo8" />
 
 ## How Helium is Built
 
@@ -107,9 +102,9 @@ Instead, Helium's system works more like a bank account: [oracles track each hot
 
 A Concrete Example:
 
--   Day 1: Hotspot earns 5 HNT, claimed = 0 → User can claim 5 HNT.
--   Day 2: Hotspot earns 5 more HNT (total = 10 HNT), claimed = 5 → User can claim 5 more HNT.
--   On-Chain State: Only the difference between total earned and previously claimed is processed, minimising blockchain transactions.
+- Day 1: Hotspot earns 5 HNT, claimed = 0 → User can claim 5 HNT.
+- Day 2: Hotspot earns 5 more HNT (total = 10 HNT), claimed = 5 → User can claim 5 more HNT.
+- On-Chain State: Only the difference between total earned and previously claimed is processed, minimising blockchain transactions.
 
 ### **Anti-Spam & Gaming**
 
@@ -127,17 +122,17 @@ Think of it like a neighbourhood watch system where each house (hotspot) periodi
 
 **d) ECC Verifier:** Rust Service for Key Validation
 
--   Solana can’t natively verify some hardware keys, so Helium built an external verifier.
--   The ECC verifier is a Rust service that validates ECC keys, bridging the gap between hardware and blockchain.
--   This ensures only genuine, factory-authorized devices can join the network.
+- Solana can’t natively verify some hardware keys, so Helium built an external verifier.
+- The ECC verifier is a Rust service that validates ECC keys, bridging the gap between hardware and blockchain.
+- This ensures only genuine, factory-authorized devices can join the network.
 
 ### **Scale & Performance**
 
 Helium has expanded to over 350,000 hotspots across 80 countries as of Q4 2024. The network structure includes:
 
--   **IoT Hotspots**: Provide LoRaWAN coverage for IoT devices
--   **Mobile Hotspots**: Support 5G/WiFi coverage, with hundreds of thousands of Hotspots deployed by a global community
--   **Organisational Users (OUIs)**: Over 100 organisations running applications and solutions on the Helium IOT Network
+- **IoT Hotspots**: Provide LoRaWAN coverage for IoT devices
+- **Mobile Hotspots**: Support 5G/WiFi coverage, with hundreds of thousands of Hotspots deployed by a global community
+- **Organisational Users (OUIs)**: Over 100 organisations running applications and solutions on the Helium IOT Network
 
 Their original chain capacity was around 10 transactions per second, which was insufficient for a network where hundreds of thousands of devices needed to transact daily. But the [migration to Solana](https://docs.helium.com/solana/) in April 2023 unlocked massive scalability improvements.
 
@@ -165,14 +160,14 @@ Helium's rewards run on daily epochs, meaning rewards are calculated every 24 ho
 
 **Why 24 hours specifically?** This interval strikes a careful balance between multiple constraints:
 
--   **User expectations**: People expect regular updates, and daily feels natural (like checking your bank balance)
--   **Computational overhead**: More frequent calculations would exponentially increase oracle processing costs and complexity
--   **Network stability**: Shorter epochs would create more blockchain congestion; longer ones would frustrate users waiting for rewards
--   **Oracle coordination**: Off-chain Oracles distribute PoC rewards to rewardable assets, and daily synchronisation allows multiple oracles to stay coordinated without overwhelming the system
+- **User expectations**: People expect regular updates, and daily feels natural (like checking your bank balance)
+- **Computational overhead**: More frequent calculations would exponentially increase oracle processing costs and complexity
+- **Network stability**: Shorter epochs would create more blockchain congestion; longer ones would frustrate users waiting for rewards
+- **Oracle coordination**: Off-chain Oracles distribute PoC rewards to rewardable assets, and daily synchronisation allows multiple oracles to stay coordinated without overwhelming the system
 
-For Helium, reward calculations are incredibly complex, factoring in coverage quality, witness validity, network demand, and anti-gaming measures across hundreds of thousands of devices. 
+For Helium, reward calculations are incredibly complex, factoring in coverage quality, witness validity, network demand, and anti-gaming measures across hundreds of thousands of devices.
 
-Daily epochs give the system enough time to process this data thoroughly while keeping users engaged. By decoupling reward calculation from reward claiming, Helium made the system robust to spikes, outages, and user behaviour. 
+Daily epochs give the system enough time to process this data thoroughly while keeping users engaged. By decoupling reward calculation from reward claiming, Helium made the system robust to spikes, outages, and user behaviour.
 
 Users can claim rewards whenever they want, regardless of when the calculation happened. It's a subtle shift, but one that makes the network feel "always on" – even when the blockchain isn't.
 
@@ -184,11 +179,11 @@ Helium's onboarding has evolved from WiFi-based device setup (painful) to factor
 
 **Onboarding costs breakdown**:
 
--   IoT hotspot onboarding: $10 in Data Credits (DC) + ~$0.0037 SOL
--   Mobile hotspot onboarding: $40 in Data Credits (DC) + ~$0.0053 SOL
--   Total cost for users: $0 (these fees are built into the device purchase price)
+- IoT hotspot onboarding: $10 in Data Credits (DC) + ~$0.0037 SOL
+- Mobile hotspot onboarding: $40 in Data Credits (DC) + ~$0.0053 SOL
+- Total cost for users: $0 (these fees are built into the device purchase price)
 
-Why these fees? The Data Credits (DC) pay for Helium network usage and device registration. 
+Why these fees? The Data Credits (DC) pay for Helium network usage and device registration.
 
 The small amount of SOL covers the cost of creating new accounts and assets (like wallets and cNFTs) on the Solana blockchain. Solana requires a minimal fee to initialise and store each new account, which keeps the network efficient and prevents spam. These blockchain fees are standard for onboarding any new asset or user, and are bundled into the device price so users never have to think about them.
 
@@ -198,9 +193,9 @@ However, do note that the $10-40 onboarding fee isn't an additional cost to user
 
 **"Welcome Pack" System (In Development)**:
 
--   Scan QR code → receives hotspot CNFT + small SOL amount for transactions
--   Integration with email-login wallets (Privy)
--   Goal: "Feels like web2 company" experience
+- Scan QR code → receives hotspot CNFT + small SOL amount for transactions
+- Integration with email-login wallets (Privy)
+- Goal: "Feels like web2 company" experience
 
 As Helium's network effects depend on mass adoption, making onboarding as simple as setting up a WiFi router became an existential necessity.
 
@@ -226,20 +221,20 @@ Here, Helium faces a real-world challenge: only 6% of token emissions are alloca
 
 The result? Helium’s DAO operates with lean resources, forcing a focus on efficiency and real-world value creation. Yet, the system has proven its worth. The community points to its ability to steer the project wisely:
 
--   **Checks and Balances**: The governance process is “really good at stopping us from doing stupid things,” as one participant put it.
--   **Pragmatic Direction**: The community pushed back against over-engineering the oracle system, favouring practical solutions over unnecessary complexity.
--   **Grassroots Proposals**: Some of the most impactful changes – like the successful return to a single HNT token – originated from community members, not just core developers.
--   **Clear Roles**: Representatives propose, but the community always has the final say.
+- **Checks and Balances**: The governance process is “really good at stopping us from doing stupid things,” as one participant put it.
+- **Pragmatic Direction**: The community pushed back against over-engineering the oracle system, favouring practical solutions over unnecessary complexity.
+- **Grassroots Proposals**: Some of the most impactful changes – like the successful return to a single HNT token – originated from community members, not just core developers.
+- **Clear Roles**: Representatives propose, but the community always has the final say.
 
 ### Resources and Further Reading
 
--   [Solana DePIN Quick Start Guide](https://solana.com/developers/guides/depin/getting-started)
--   [Helium Official Website](https://www.helium.com/)
--   [Helium Documentation](https://docs.helium.com/)
--   [Helium IoT Network Guide](https://docs.helium.com/iot/)
--   [Helium Mobile Network](https://docs.helium.com/mobile/5g-on-helium/)
--   [Helium Improvement Proposals (HIPs)](https://github.com/helium/HIP)
--   [Helium Foundation](https://www.helium.foundation/)
+- [Solana DePIN Quick Start Guide](https://solana.com/developers/guides/depin/getting-started)
+- [Helium Official Website](https://www.helium.com/)
+- [Helium Documentation](https://docs.helium.com/)
+- [Helium IoT Network Guide](https://docs.helium.com/iot/)
+- [Helium Mobile Network](https://docs.helium.com/mobile/5g-on-helium/)
+- [Helium Improvement Proposals (HIPs)](https://github.com/helium/HIP)
+- [Helium Foundation](https://www.helium.foundation/)
 
 _Want to see more case studies or contribute your own? The DePIN space is rapidly evolving, and documenting these lessons helps the entire ecosystem learn faster._
 
