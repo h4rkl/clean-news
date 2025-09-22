@@ -1,12 +1,13 @@
 import fs from "fs";
 import path from "path";
 
-const dir = "/Users/karambit/Sites/solana-news/content/news/en";
+const ROOT = path.resolve(__dirname, "..");
+const TARGET_DIR = path.join(ROOT, "content", "news", "en");
 
-const files = fs.readdirSync(dir).filter((f) => f.endsWith(".mdx"));
+const files = fs.readdirSync(TARGET_DIR).filter((f) => f.endsWith(".mdx"));
 
 for (const file of files) {
-  const fullPath = path.join(dir, file);
+  const fullPath = path.join(TARGET_DIR, file);
   let content = fs.readFileSync(fullPath, "utf8");
 
   // Regex to match YouTube iframe tags, capturing the video ID
