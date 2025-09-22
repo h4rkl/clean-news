@@ -8,6 +8,7 @@ import {
 import { cn } from "@/lib/utils";
 import { LiteYouTubeEmbed, Tweet } from "@/components/mdx-client";
 import { StatCards } from "@/components/stats-cards";
+import { Switchback } from "@/components/switchback";
 
 type CodeProps = React.HTMLAttributes<HTMLElement> & {
   "data-language"?: string;
@@ -101,20 +102,27 @@ const SpecViewer = ({
   );
 };
 
-// Map MDX elements to shadcn-styled components
 export const mdxComponents = {
-  // MDX flows code fences into <pre><code>, and inline into <code>
   pre: Pre,
   code: Code,
   Alert,
   SpecViewer,
   StatCards,
+  Switchback,
   YouTube: ({ videoId, ...props }) => (
     <div className="my-4">
       <LiteYouTubeEmbed id={videoId ?? ""} {...props} />
     </div>
   ),
   Tweet,
+  BuilderBlock: ({ name, options = {} }: { name: string; options?: any }) => {
+    const registry: Record<string, React.ComponentType<any>> = {
+      Switchback,
+    };
+    const Comp = registry[name];
+    if (!Comp) return null;
+    return <Comp {...options} />;
+  },
 } satisfies MDXRemoteProps["components"];
 
 // Convenience wrapper to render MDX source string with our components
