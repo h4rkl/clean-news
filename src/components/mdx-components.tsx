@@ -7,6 +7,7 @@ import {
 } from "@/components/ui/alert";
 import { cn } from "@/lib/utils";
 import { LiteYouTubeEmbed, Tweet } from "@/components/mdx-client";
+import { StatCards } from "@/components/stats-cards";
 
 type CodeProps = React.HTMLAttributes<HTMLElement> & {
   "data-language"?: string;
@@ -107,6 +108,7 @@ export const mdxComponents = {
   code: Code,
   Alert,
   SpecViewer,
+  StatCards,
   YouTube: ({ videoId, ...props }) => (
     <div className="my-4">
       <LiteYouTubeEmbed id={videoId ?? ""} {...props} />
