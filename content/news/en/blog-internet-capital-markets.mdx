@@ -97,13 +97,11 @@ Each upgrade proves itself under real-world load before the next expansion, main
   The Solana SPL Token Program is integral to many common activities on the
   platform, including DeFi swaps, lending, NFT marketplaces, stablecoin
   payments, airdrops, and more. The Program processes over 1.5 million
-  transactions hourly (nearly 40% of Solana’s non-vote transactions).&nbsp;
+  transactions hourly (nearly 40% of Solana’s non-vote transactions).
 </p>
 <p style="text-align: center;">
   <strong>
-    <em>
-      Hourly Breakdown: SPL Token vs Other Solana Programs (non-vote)&nbsp;
-    </em>
+    <em>Hourly Breakdown: SPL Token vs Other Solana Programs (non-vote)</em>
   </strong>
 </p>
 
@@ -125,12 +123,11 @@ Under the hood, P-Token eliminates unnecessary data copying, reduces memory usag
 
 **_P-token Compute Saving for Some Common Token Instructions_**
 
-<BuilderBlock name="Custom Code" options={{
-  "code": "\u003cstyle>\n  .table-wrapper {\n    width: 100%;\n    overflow-x: auto;\n    -webkit-overflow-scrolling: touch;\n  }\n\n  .validator-table {\n    width: 100%;\n    max-width: 100%;\n    border-collapse: collapse;\n    table-layout: fixed;\n    font-family: system-ui, sans-serif;\n    font-size: 1rem;\n    box-sizing: border-box;\n  }\n\n  .validator-table th {\n    padding: 0.75rem 1rem;\n    text-align: left;\n    border-bottom: 1px solid #2e2e2e;\n    white-space: normal;\n    overflow: visible;\n    text-overflow: clip;\n    word-break: keep-all;\n    overflow-wrap: normal;\n    hyphens: none;\n  }\n\n  .validator-table td {\n    padding: 0.75rem 1rem;\n    text-align: left;\n    border-bottom: 1px solid #2e2e2e;\n    white-space: nowrap;\n    overflow: hidden;\n    text-overflow: ellipsis;\n  }\n\n  .validator-table thead {\n    background: #2af8a7;\n    color: #000;\n  }\n\n  .validator-table tbody tr:nth-child(odd) {\n    background: rgba(255, 255, 255, 0.04);\n  }\n\n  /* mobile override */\n  @media (max-width: 600px) {\n    .validator-table thead {\n      display: none;\n    }\n\n    .validator-table,\n    .validator-table tbody,\n    .validator-table tr,\n    .validator-table td {\n      display: block;\n      width: 100%;\n    }\n\n    .validator-table tr {\n      margin-bottom: 1.25rem;\n    }\n\n    .validator-table td {\n      white-space: normal;\n      overflow: visible;\n      text-overflow: clip;\n      text-align: right;\n      position: relative;\n      padding-left: 50%;\n    }\n\n    .validator-table td::before {\n      content: attr(data-label);\n      position: absolute;\n      left: 1rem;\n      top: 0;\n      bottom: 0;\n      display: flex;\n      align-items: center;\n      font-weight: 600;\n      text-align: left;\n      white-space: normal;\n    }\n  }\n\u003c/style>\n\u003c/head>\n\u003cbody>\n\u003cdiv class=\"table-wrapper\">\n  \u003ctable class=\"validator-table\">\n    \u003cthead>\n      \u003ctr>\n        \u003cth>Operation\u003c/th>\n        \u003cth>Current CUs\u003c/th>\n        \u003cth>P-Token CUs\u003c/th>\n        \u003cth>Improvement\u003c/th>\n      \u003c/tr>\n    \u003c/thead>\n\n    \u003ctbody>\n      \u003ctr>\n        \u003ctd data-label=\"Operation\">Token Transfer\u003c/td>\n        \u003ctd data-label=\"Current CUs\">4,645\u003c/td>\n        \u003ctd data-label=\"P-Token CUs\">249\u003c/td>\n        \u003ctd data-label=\"Improvement\">\u003c/td>\n      \u003c/tr>\n\n      \u003ctr>\n        \u003ctd data-label=\"Operation\">MintTo\u003c/td>\n        \u003ctd data-label=\"Current CUs\">4538\u003c/td>\n        \u003ctd data-label=\"P-Token CUs\">155\u003c/td>\n        \u003ctd data-label=\"Improvement\">&gt; 95% reduction\u003c/td>\n      \u003c/tr>\n\n      \u003ctr>\n        \u003ctd data-label=\"Operation\">Burn\u003c/td>\n        \u003ctd data-label=\"Current CUs\">4753\u003c/td>\n        \u003ctd data-label=\"P-Token CUs\">168\u003c/td>\n        \u003ctd data-label=\"Improvement\">\u003c/td>\n      \u003c/tr>\n    \u003c/tbody>\n  \u003c/table>\n\u003c/div>",
-  "scriptsClientOnly": true
-}}>
-
-</BuilderBlock>
+| Operation      | Current CUs | P-Token CUs | Improvement      |
+| -------------- | ----------- | ----------- | ---------------- |
+| Token Transfer | 4,645       | 249         |                  |
+| MintTo         | 4538        | 155         | \> 95% reduction |
+| Burn           | 4753        | 168         |                  |
 
 <p>
   <sub style="vertical-align: sub; font-size: smaller;">

@@ -1,10 +1,10 @@
 ---
-title: 'Validator Health Report: August 2022'
+title: "Validator Health Report: August 2022"
 description: >-
   The August 2022 version of the data-driven analysis of the health of the
   Solana validator network.
 slug: validator-health-report-august-2022
-date: '2022-08-09'
+date: "2022-08-09"
 audiences: []
 topics: []
 heroImage: >-
@@ -12,7 +12,7 @@ heroImage: >-
 status: published
 locale: en
 seo:
-  title: 'Validator Health Report: August 2022'
+  title: "Validator Health Report: August 2022"
   description: >-
     The August 2022 version of the data-driven analysis of the health of the
     Solana validator network.
@@ -21,21 +21,21 @@ seo:
   noIndex: false
   noFollow: false
   openGraph:
-    ogTitle: 'Validator Health Report: August 2022'
-    ogUrl: ''
+    ogTitle: "Validator Health Report: August 2022"
+    ogUrl: ""
     ogDescription: A data-driven analysis of the health of the Solana validator network
     ogType:
       - article
   twitter:
-    twitterTitle: 'Validator Health Report: August 2022'
+    twitterTitle: "Validator Health Report: August 2022"
     twitterDescription: A data-driven analysis of the health of the Solana validator network
 ---
 
-<p>Solana is a public, open-source blockchain that anyone in the world can build on.</p><p>Our mandate at the Solana Foundation is to support the decentralization, security, resilience, and adoption of the Solana blockchain. We run a range of programs in support of this mission, ranging from creating documentation for validators to issuing grants for projects furthering network decentralization. We also monitor the health and resilience of the Solana network.</p><p>Our approach to date in commenting on the health of the network has been focused on surfacing data that make it easy for the community to monitor key metrics, like validator count or the length of network outages. As the network continues to mature and broaden its user base, we think it’s important to provide the Solana ecosystem and broader web3 community with more context on how we think about the health of the network.</p><p>In the coming months, the Solana Foundation will release a series of pieces that touch on various components of network health, including network performance, software, and client updates. We welcome input and engagement from the community on this series.&nbsp;<a href="https://solanafoundation.typeform.com/to/ffGy5y9t?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">Fill out this form</a>&nbsp;with feedback, questions, and metrics that you’d like to see tracked.</p><p>In this first report, we’ll dive into the validator network and key metrics we track to assess its health.</p><p><a href="https://drive.google.com/file/d/1lUU7BkaWetLXCOhPDbFbr43a6pgEKcLV/view?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">You can download this report here.</a></p><h2><strong>Validator Health Overview</strong></h2><p>The Solana network is formed by a collection of individuals and entities that choose to run Solana validator software.&nbsp;Anyone in the world can view, download, modify the validator source code, and run the software to participate in the operation and security of the network.&nbsp;There is no single entity that controls how the network runs, or what kinds of applications or services can be built or used on top of the network. In this way, Solana is “permissionless”, meaning that nobody needs anyone’s permission to participate, develop, extend or use the network.</p><p>A growing community of core developers write, test and publish a version of the Solana validator software that is free to use for the community of validator operators.</p><p>Today, the Solana blockchain consists of over 3,400 validators on six different continents. The long term success of Solana is dependent on a strong, healthy validator network.&nbsp;A large, diverse set of validator operators are essential to maintain a resilient, distributed and credibly neutral network for the world to use.</p><p>There are many ways to assess the health of the validator network. Some of the metrics we track include:</p><ul><li><strong>Total Validator Count:</strong>&nbsp;Every validator independently verifies the current state of the blockchain data and any new transactions that are proposed to the network. The total validator count represents the number of separate copies of the current network state that exists on computers all over the world. A high validator count indicates greater guarantees of permanently survivable data storage and network function and recovery, in the event of a catastrophic event or major data loss.</li><li><br></li><li><strong>Nakamoto Coefficient:</strong>&nbsp;This metric,&nbsp;<a href="https://news.earn.com/quantifying-decentralization-e39db233c28e?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">first coined</a>&nbsp;by Balaji Srinivasan, is defined as the minimum number of nodes that must collude or become compromised to stop or selectively alter block production in a network, thereby “censoring” all or part of the network. A high Nakamoto Coefficient is desired to ensure a censorship-resistant network, meaning any user can be ensured that their usage of the network will never be hampered.</li><li><br></li><li><strong>Distribution:</strong>&nbsp;A blockchain with many validators and a high Nakamoto Coefficient is still vulnerable to external factors that can influence the functioning of a blockchain. Here, we look at the role of geography, data center ownership, and entity control over validators to better understand Solana’s resilience in the case of exogenous variables.</li></ul><h2><strong>Total Validator Count</strong></h2><p>Blockchains with more validators tend to be more resilient. When a user performs a transaction on a blockchain, they want to be confident that their transaction will be recorded. Ideally, each transaction on a blockchain is recorded on every validator on that chain, which is why a higher number of validators is important: The more times that a transaction is recorded, the more confident a user can be that their transaction won’t be tampered with.</p><p>There are two types of validators on the Solana network:</p><ul><li><strong>Consensus nodes:</strong>&nbsp;Consensus nodes are central to the functioning of the network by providing two essential functions: creating and proposing new blocks to the rest of the network, and voting on the validity of new blocks proposed by other nodes on the network.</li><li><br></li><li>Each block contains many transactions that are submitted by various users and applications on the network. Every consensus node independently verifies all new transactions in a proposed block before voting on its validity. The more nodes that participate in this consensus process, the more confidence a user or third party has that a change to the network or a transaction was verified by a large population.</li><li><br></li><li><strong>RPC nodes:</strong>&nbsp;Remote Procedure Call nodes are an application’s gateway to the Solana infrastructure. RPC node operators can offer API, indexing, or other services to provide a convenient interface for users and applications to the core Solana network. These are often commissioned or run by individual applications and are dedicated to that program’s particular task, rather than maintaining consensus on the blockchain. RPC nodes, like consensus nodes, all independently verify all new blocks and changes to the network.</li></ul><p>A large number of nodes is critical for the health of the network. There’s no brightline for how many nodes is enough. What’s important is that:</p><ul><li><strong>Users feel confident that their transaction will be recorded, no matter what.</strong>&nbsp;This is why it’s important to have a large number of copies of the current “state” available on many nodes, and that they exist in a broad distribution across the world. The “state” tracks the latest balance of each wallet, updated in real time and always up to date.</li><li><br></li><li><strong>Nodes operate independently of each other.</strong>&nbsp;A failure of a single node or set of nodes (say, run by a single entity or in a particular geography) should not impact the functioning of the network.</li><li><br></li><li><strong>Users can verify the accuracy of transactions by looking at other nodes.</strong>&nbsp;If a single node goes down or has an issue recording a transaction, users can rely on other nodes to verify the accuracy of the blockchain.</li></ul><h3><strong>How Solana is doing:</strong></h3><p>The Solana Mainnet Beta network went live in March 2020. Since then, it’s grown into a network of over 3,400 validators across six continents, including over 1,900 consensus nodes.<a href="https://solana.com/news/validator-health-report-august-2022#fn1" rel="noopener noreferrer" target="_blank"><sup style="vertical-align: super;">1</sup></a>&nbsp;An average of 95 new consensus nodes and 99 RPC nodes have joined the network every month since June 2021.</p>
+<p>Solana is a public, open-source blockchain that anyone in the world can build on.</p><p>Our mandate at the Solana Foundation is to support the decentralization, security, resilience, and adoption of the Solana blockchain. We run a range of programs in support of this mission, ranging from creating documentation for validators to issuing grants for projects furthering network decentralization. We also monitor the health and resilience of the Solana network.</p><p>Our approach to date in commenting on the health of the network has been focused on surfacing data that make it easy for the community to monitor key metrics, like validator count or the length of network outages. As the network continues to mature and broaden its user base, we think it’s important to provide the Solana ecosystem and broader web3 community with more context on how we think about the health of the network.</p><p>In the coming months, the Solana Foundation will release a series of pieces that touch on various components of network health, including network performance, software, and client updates. We welcome input and engagement from the community on this series.<a href="https://solanafoundation.typeform.com/to/ffGy5y9t?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">Fill out this form</a>with feedback, questions, and metrics that you’d like to see tracked.</p><p>In this first report, we’ll dive into the validator network and key metrics we track to assess its health.</p><p><a href="https://drive.google.com/file/d/1lUU7BkaWetLXCOhPDbFbr43a6pgEKcLV/view?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">You can download this report here.</a></p><h2><strong>Validator Health Overview</strong></h2><p>The Solana network is formed by a collection of individuals and entities that choose to run Solana validator software.Anyone in the world can view, download, modify the validator source code, and run the software to participate in the operation and security of the network.There is no single entity that controls how the network runs, or what kinds of applications or services can be built or used on top of the network. In this way, Solana is “permissionless”, meaning that nobody needs anyone’s permission to participate, develop, extend or use the network.</p><p>A growing community of core developers write, test and publish a version of the Solana validator software that is free to use for the community of validator operators.</p><p>Today, the Solana blockchain consists of over 3,400 validators on six different continents. The long term success of Solana is dependent on a strong, healthy validator network.A large, diverse set of validator operators are essential to maintain a resilient, distributed and credibly neutral network for the world to use.</p><p>There are many ways to assess the health of the validator network. Some of the metrics we track include:</p><ul><li><strong>Total Validator Count:</strong>Every validator independently verifies the current state of the blockchain data and any new transactions that are proposed to the network. The total validator count represents the number of separate copies of the current network state that exists on computers all over the world. A high validator count indicates greater guarantees of permanently survivable data storage and network function and recovery, in the event of a catastrophic event or major data loss.</li><li><br></li><li><strong>Nakamoto Coefficient:</strong>This metric,<a href="https://news.earn.com/quantifying-decentralization-e39db233c28e?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">first coined</a>by Balaji Srinivasan, is defined as the minimum number of nodes that must collude or become compromised to stop or selectively alter block production in a network, thereby “censoring” all or part of the network. A high Nakamoto Coefficient is desired to ensure a censorship-resistant network, meaning any user can be ensured that their usage of the network will never be hampered.</li><li><br></li><li><strong>Distribution:</strong>A blockchain with many validators and a high Nakamoto Coefficient is still vulnerable to external factors that can influence the functioning of a blockchain. Here, we look at the role of geography, data center ownership, and entity control over validators to better understand Solana’s resilience in the case of exogenous variables.</li></ul><h2><strong>Total Validator Count</strong></h2><p>Blockchains with more validators tend to be more resilient. When a user performs a transaction on a blockchain, they want to be confident that their transaction will be recorded. Ideally, each transaction on a blockchain is recorded on every validator on that chain, which is why a higher number of validators is important: The more times that a transaction is recorded, the more confident a user can be that their transaction won’t be tampered with.</p><p>There are two types of validators on the Solana network:</p><ul><li><strong>Consensus nodes:</strong>Consensus nodes are central to the functioning of the network by providing two essential functions: creating and proposing new blocks to the rest of the network, and voting on the validity of new blocks proposed by other nodes on the network.</li><li><br></li><li>Each block contains many transactions that are submitted by various users and applications on the network. Every consensus node independently verifies all new transactions in a proposed block before voting on its validity. The more nodes that participate in this consensus process, the more confidence a user or third party has that a change to the network or a transaction was verified by a large population.</li><li><br></li><li><strong>RPC nodes:</strong>Remote Procedure Call nodes are an application’s gateway to the Solana infrastructure. RPC node operators can offer API, indexing, or other services to provide a convenient interface for users and applications to the core Solana network. These are often commissioned or run by individual applications and are dedicated to that program’s particular task, rather than maintaining consensus on the blockchain. RPC nodes, like consensus nodes, all independently verify all new blocks and changes to the network.</li></ul><p>A large number of nodes is critical for the health of the network. There’s no brightline for how many nodes is enough. What’s important is that:</p><ul><li><strong>Users feel confident that their transaction will be recorded, no matter what.</strong>This is why it’s important to have a large number of copies of the current “state” available on many nodes, and that they exist in a broad distribution across the world. The “state” tracks the latest balance of each wallet, updated in real time and always up to date.</li><li><br></li><li><strong>Nodes operate independently of each other.</strong>A failure of a single node or set of nodes (say, run by a single entity or in a particular geography) should not impact the functioning of the network.</li><li><br></li><li><strong>Users can verify the accuracy of transactions by looking at other nodes.</strong>If a single node goes down or has an issue recording a transaction, users can rely on other nodes to verify the accuracy of the blockchain.</li></ul><h3><strong>How Solana is doing:</strong></h3><p>The Solana Mainnet Beta network went live in March 2020. Since then, it’s grown into a network of over 3,400 validators across six continents, including over 1,900 consensus nodes.<a href="https://solana.com/news/validator-health-report-august-2022#fn1" rel="noopener noreferrer" target="_blank"><sup style="vertical-align: super;">1</sup></a>An average of 95 new consensus nodes and 99 RPC nodes have joined the network every month since June 2021.</p>
 
 ![](/validator-health-report-august-2022/image-1.jpg)
 
-Last updated 7/31/22. 
+Last updated 7/31/22.
 
 In the next section, we’ll discuss the Solana network’s health in terms of its Nakamoto Coefficient.
 
@@ -59,12 +59,93 @@ On Solana, the Nakamoto Coefficient is 31. This means the lowest number of valid
 
 We’ve also included the Nakamoto Coefficient of several other Proof of Stake blockchains, for the sake of benchmarking.
 
-<BuilderBlock name="Custom Code" options={{
-  "code": "\u003ctable>\n\u003ctbody>\n\u003ctr>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>\u003cb>Blockchain \u003csup>\u003ca href=\"#fn2\" id=\"ref2\">2\u003c/a>\u003c/sup>\u003c/b>\u003c/p>\u003c/td>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>\u003cb>Nakamoto Coefficient (as of 8/7/22)\u003c/b>\u003c/p>\u003c/td>\n    \u003c/tr>\n\u003ctr>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>Solana\u003c/p>\u003c/td>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>31\u003c/p>\u003c/td>\n    \u003c/tr>\n\u003ctr>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>Avalanche\u003c/p>\u003c/td>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>28\u003c/p>\u003c/td>\n    \u003c/tr>\n\u003ctr>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>Thorchain\u003c/p>\u003c/td>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>27\u003c/p>\u003c/td>\n    \u003c/tr>\n\u003ctr>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>Binance\u003c/p>\u003c/td>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>7\u003c/p>\u003c/td>\n    \u003c/tr>\n\u003ctr>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>Cosmos\u003c/p>\u003c/td>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>7\u003c/p>\u003c/td>\n    \u003c/tr>\n\u003ctr>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>Osmosis\u003c/p>\u003c/td>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>7\u003c/p>\u003c/td>\n    \u003c/tr>\n\u003ctr>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>Near\u003c/p>\u003c/td>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>7\u003c/p>\u003c/td>\n    \u003c/tr>\n\u003ctr>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>Polygon\u003c/p>\u003c/td>\n    \u003ctd style=\"padding:10px; border: 1px solid white; border-collapse: collapse;\">\u003cp>3\u003c/p>\u003c/td>\n    \u003c/tr>\n    \u003c/tbody>\n\u003c/table>",
-  "scriptsClientOnly": true
-}}>
-
-</BuilderBlock>
+<table>
+  <tbody>
+    <tr>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>
+          <b>
+            Blockchain{" "}
+            <sup>
+              <a href="#fn2" id="ref2">
+                2
+              </a>
+            </sup>
+          </b>
+        </p>
+      </td>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>
+          <b>Nakamoto Coefficient (as of 8/7/22)</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>Solana</p>
+      </td>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>31</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>Avalanche</p>
+      </td>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>28</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>Thorchain</p>
+      </td>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>27</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>Binance</p>
+      </td>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>7</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>Cosmos</p>
+      </td>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>7</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>Osmosis</p>
+      </td>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>7</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>Near</p>
+      </td>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>7</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>Polygon</p>
+      </td>
+      <td style="padding:10px; border: 1px solid white; border-collapse: collapse;">
+        <p>3</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 The Nakamoto Coefficient is important, but paints an incomplete picture of the resilience of a blockchain. A compromise of the Nakamoto Coefficient would impact the blockchain’s real-time ability to guarantee that new blocks be voted on and added to the chain. In the event that the Nakamoto Coefficient is compromised, the blockchain could recover by excising the affected validators and restarting consensus without them. A successful recovery depends on a large total validator count, which is why the first metric in this report is important.
 
@@ -78,10 +159,9 @@ The Nakamoto Coefficient is a critical metric, but doesn’t capture the human e
 
 A global, resilient blockchain has to continue operating, no matter the events in a given part of the world. Consider:
 
--   A dissident facing retribution from a dictatorial regime has to feel confident she can access funds, even if that regime chooses to shut down servers running a chain in-country.
--     
-    
--   A natural disaster disrupts all the nodes in a particular region. Users of a blockchain in any part of the world still need to feel confident that chain will keep running, even when many validators are unexpectedly knocked offline
+- A dissident facing retribution from a dictatorial regime has to feel confident she can access funds, even if that regime chooses to shut down servers running a chain in-country.
+-
+- A natural disaster disrupts all the nodes in a particular region. Users of a blockchain in any part of the world still need to feel confident that chain will keep running, even when many validators are unexpectedly knocked offline
 
 ### **How Solana is doing:**
 
@@ -89,7 +169,17 @@ Here’s a snapshot of the geographic distribution of the network, organized bas
 
 ![](/validator-health-report-august-2022/image-3.jpg)
 
-<p><a href="https://www.validators.app/data-centers?locale=en&amp;network=mainnet&amp;ref=solana.ghost.io" rel="noopener noreferrer" target="_blank" style="font-size: 20px;">Source</a><span style="font-size: 20px;">&nbsp;(last updated 8/1/22)</span></p>
+<p>
+  <a
+    href="https://www.validators.app/data-centers?locale=en&amp;network=mainnet&amp;ref=solana.ghost.io"
+    rel="noopener noreferrer"
+    target="_blank"
+    style="font-size: 20px;"
+  >
+    Source
+  </a>
+  <span style="font-size: 20px;">(last updated 8/1/22)</span>
+</p>
 
 ![](/validator-health-report-august-2022/image-4.png)
 
@@ -103,10 +193,9 @@ The option to rent privately owned servers has made it significantly easier for 
 
 Let’s take Amazon Web Services or Microsoft Azure, for instance. Consider:
 
--   A large company observes that an app competitive to their service is being built on the Solana blockchain. That company enters into an agreement with AWS or Azure to halt transactions related to that particular app. If Amazon or Azure has sufficient control over the servers running the Solana network, they could agree to this deal and effectively shut the competitive app down.
--     
-    
--   An app on the Solana blockchain emerges that enables dissidents to easily message or send funds to each other. A country could place political pressure on Microsoft or Amazon to halt transactions on that particular app, thereby censoring the blockchain.
+- A large company observes that an app competitive to their service is being built on the Solana blockchain. That company enters into an agreement with AWS or Azure to halt transactions related to that particular app. If Amazon or Azure has sufficient control over the servers running the Solana network, they could agree to this deal and effectively shut the competitive app down.
+-
+- An app on the Solana blockchain emerges that enables dissidents to easily message or send funds to each other. A country could place political pressure on Microsoft or Amazon to halt transactions on that particular app, thereby censoring the blockchain.
 
 ### **How Solana is doing:**
 
@@ -114,4 +203,137 @@ We’ve split out the data below based on the Autonomous System Number (ASNs) of
 
 ![](/validator-health-report-august-2022/image-5.jpg)
 
-<p><a href="https://www.validators.app/data-centers?+locale=en&amp;network=mainnet&amp;sort_by=asn&amp;ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">Source</a>&nbsp;(last updated 7/22/22)</p><p>Stake on Solana is relatively distributed among ASNs, with no one autonomous system hosting anything close to 33.3% of active stake. The Solana Foundation continues to monitor this distribution over private data centers and encourages users to continue distributing their stake to a broader set of data centers.</p><h3><strong>Validator ownership across entities:</strong></h3><p>There are over 1,900<a href="https://solana.com/news/validator-health-report-august-2022#fn3" rel="noopener noreferrer" target="_blank"><sup style="vertical-align: super; font-size: smaller;">3</sup></a>&nbsp;block-producing nodes on the Solana network, but that doesn’t mean that 1,900 separate entities are running each of these nodes. Several companies have built businesses off of running multiple validators on multiple chains. In many ways, this is healthy for blockchains: It means that people have a strong business interest in investing in the security and resilience of a chain. However, it’s critical that no one entity builds up too much control over the validator network of a chain, even if they are running multiple validators.</p><h3><strong>How Solana is doing:</strong></h3><p>The Solana Foundation has verified that of 1,915 consensus-producing validators, at least 1,688 (88.14%) are run by independent entities (updated as of August 1, 2022). The remainder may also be independent of each other, but the Solana Foundation has not verified this.</p><h2><strong>Looking to the future</strong></h2><p>The Solana Foundation is continuously working to improve the health of the validator network by providing tools and education to our global community of validators and stakers. In particular, we recognize that continuing to encourage broader distribution of stake across data centers and entities is critical to the health of the validator network. We will continue to monitor this data and report on it regularly.</p><p>We&nbsp;<a href="https://solanafoundation.typeform.com/to/ffGy5y9t?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">welcome feedback</a>&nbsp;and questions as we engage with the community.</p><p>This report is the output of many hours of work from both the Solana Foundation team and several external stakeholders that provided input, edits, and feedback on our methodology. Thank you to&nbsp;<a href="https://twitter.com/chainflowpos?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">Chainflow</a>,&nbsp;<a href="https://twitter.com/coincenter?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">Coin Center</a>,&nbsp;<a href="https://twitter.com/MessariCrypto?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">Messari</a>,&nbsp;<a href="http://www.twitter.com/variantfund?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">Variant</a>,&nbsp;<a href="https://twitter.com/paradigm?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">Paradigm</a>,&nbsp;<a href="https://twitter.com/GenesysGo?ref=solana.ghost.io" rel="noopener noreferrer" target="_blank">GenesysGo</a>&nbsp;and everyone who helped support this report. We are deeply appreciative to have you as thought partners.</p><p>Disclaimer: The information in this post solely represents the analysis of the Solana Foundation. It is not intended for purposes other than creating a broader public understanding of the Solana network. For the avoidance of doubt, this post does not represent investment advice, nor does it present an official opinion of the Solana Foundation on any other blockchain, application, or node operator. Much of the information in this post is gathered from publicly available sources, and the Solana Foundation is not responsible for the accuracy or completeness of these sources. We encourage readers to do their own research.</p><p>Footnotes (Click to expand)</p>
+<p>
+  <a
+    href="https://www.validators.app/data-centers?+locale=en&amp;network=mainnet&amp;sort_by=asn&amp;ref=solana.ghost.io"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Source
+  </a>
+  (last updated 7/22/22)
+</p>
+<p>
+  Stake on Solana is relatively distributed among ASNs, with no one autonomous
+  system hosting anything close to 33.3% of active stake. The Solana Foundation
+  continues to monitor this distribution over private data centers and
+  encourages users to continue distributing their stake to a broader set of data
+  centers.
+</p>
+<h3>
+  <strong>Validator ownership across entities:</strong>
+</h3>
+<p>
+  There are over 1,900
+  <a
+    href="https://solana.com/news/validator-health-report-august-2022#fn3"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    <sup style="vertical-align: super; font-size: smaller;">3</sup>
+  </a>
+  block-producing nodes on the Solana network, but that doesn’t mean that 1,900
+  separate entities are running each of these nodes. Several companies have
+  built businesses off of running multiple validators on multiple chains. In
+  many ways, this is healthy for blockchains: It means that people have a strong
+  business interest in investing in the security and resilience of a chain.
+  However, it’s critical that no one entity builds up too much control over the
+  validator network of a chain, even if they are running multiple validators.
+</p>
+<h3>
+  <strong>How Solana is doing:</strong>
+</h3>
+<p>
+  The Solana Foundation has verified that of 1,915 consensus-producing
+  validators, at least 1,688 (88.14%) are run by independent entities (updated
+  as of August 1, 2022). The remainder may also be independent of each other,
+  but the Solana Foundation has not verified this.
+</p>
+<h2>
+  <strong>Looking to the future</strong>
+</h2>
+<p>
+  The Solana Foundation is continuously working to improve the health of the
+  validator network by providing tools and education to our global community of
+  validators and stakers. In particular, we recognize that continuing to
+  encourage broader distribution of stake across data centers and entities is
+  critical to the health of the validator network. We will continue to monitor
+  this data and report on it regularly.
+</p>
+<p>
+  We
+  <a
+    href="https://solanafoundation.typeform.com/to/ffGy5y9t?ref=solana.ghost.io"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    welcome feedback
+  </a>
+  and questions as we engage with the community.
+</p>
+<p>
+  This report is the output of many hours of work from both the Solana
+  Foundation team and several external stakeholders that provided input, edits,
+  and feedback on our methodology. Thank you to
+  <a
+    href="https://twitter.com/chainflowpos?ref=solana.ghost.io"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Chainflow
+  </a>
+  ,
+  <a
+    href="https://twitter.com/coincenter?ref=solana.ghost.io"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Coin Center
+  </a>
+  ,
+  <a
+    href="https://twitter.com/MessariCrypto?ref=solana.ghost.io"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Messari
+  </a>
+  ,
+  <a
+    href="http://www.twitter.com/variantfund?ref=solana.ghost.io"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Variant
+  </a>
+  ,
+  <a
+    href="https://twitter.com/paradigm?ref=solana.ghost.io"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Paradigm
+  </a>
+  ,
+  <a
+    href="https://twitter.com/GenesysGo?ref=solana.ghost.io"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    GenesysGo
+  </a>
+  and everyone who helped support this report. We are deeply appreciative to
+  have you as thought partners.
+</p>
+<p>
+  Disclaimer: The information in this post solely represents the analysis of the
+  Solana Foundation. It is not intended for purposes other than creating a
+  broader public understanding of the Solana network. For the avoidance of
+  doubt, this post does not represent investment advice, nor does it present an
+  official opinion of the Solana Foundation on any other blockchain,
+  application, or node operator. Much of the information in this post is
+  gathered from publicly available sources, and the Solana Foundation is not
+  responsible for the accuracy or completeness of these sources. We encourage
+  readers to do their own research.
+</p>
+<p>Footnotes (Click to expand)</p>

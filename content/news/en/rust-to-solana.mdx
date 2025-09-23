@@ -22,7 +22,134 @@ seo:
   noFollow: false
 ---
 
-<p>Developers looking to get into Solana development who already know Rust have a great head start. Rust is an officially supported language for writing on-chain programs for Solana. However, several key differences in the language's usage could otherwise be confusing.</p><p>This article will walk through several of those differences, specifically the setup details, restrictions, macro changes, and compute limits. Additionally, this article will cover the development environments and frameworks needed to start with Solana.</p><p>By the end of this article, Rust developers will understand the differences they need to know to start their Solana journeys.</p><h2>Understanding the Core Differences&nbsp;</h2><p>First, note that this article aims at understanding <strong>the differences in using Rust as a language when working with Solana.</strong> It won’t cover <a href="https://solana.com/learn/blockchain-basics" rel="noopener noreferrer" target="_blank">Blockchain or Solana basics</a>.</p><p>It also won’t cover core Solana concepts that must be understood in order to program in Solana, such as:</p><ul><li><a href="https://solana.com/docs/core/programs" rel="noopener noreferrer" target="_blank">Programs</a> - Solana’s version of smart contracts</li><li><a href="https://solana.com/docs/core/accounts" rel="noopener noreferrer" target="_blank">Accounts</a> - A record in the Solana ledger that either holds data (a data account) or is an executable program</li><li>Various <a href="https://solana.com/docs/core/fees#why-pay-transaction-fees" rel="noopener noreferrer" target="_blank">fees</a> - Such as base fee, priority fee, and rent</li><li><a href="https://solana.com/docs/core/transactions" rel="noopener noreferrer" target="_blank">Transactions</a> - Interactions with the network that contain instructions, signatures, and more.</li></ul><p>For more information on those core concepts, check out the <a href="https://solana.com/developers" rel="noopener noreferrer" target="_blank">Solana developer documentation</a>.</p><p>Let’s now look at the differences in <strong>project setup.</strong></p><h2><strong>Key Setup Details</strong></h2><p>On-chain programs for Solana in Rust are still Rust programs at heart. They still follow the standard Rust project with a <code>/src</code> folder and <code>Cargo.toml </code>file in the root. That said, there are several key differences.</p><h3><strong>Project Dependencies</strong></h3><p>To get started, the <a href="https://crates.io/crates/solana-program" rel="noopener noreferrer" target="_blank">solana-program crate</a> is required for every on-chain Solana program written with Rust. This is the base library for all on-chain Rust programs. The library defines macros for the required <strong>program entrypoint </strong>(see below), <strong>core data types</strong>, <strong>logging macros</strong>, and more.</p><h3>Program Entrypoint</h3><p>Instead of a <code>main</code> function, Solana programs use the <code>entrypoint!</code> macro. This symbol is exported and then called by the Solana runtime when the program runs. The entrypoint macro calls a given function, which must have the following type signature:</p><p><br></p>
+<p>
+  Developers looking to get into Solana development who already know Rust have a
+  great head start. Rust is an officially supported language for writing
+  on-chain programs for Solana. However, several key differences in the
+  language's usage could otherwise be confusing.
+</p>
+<p>
+  This article will walk through several of those differences, specifically the
+  setup details, restrictions, macro changes, and compute limits. Additionally,
+  this article will cover the development environments and frameworks needed to
+  start with Solana.
+</p>
+<p>
+  By the end of this article, Rust developers will understand the differences
+  they need to know to start their Solana journeys.
+</p>
+<h2>Understanding the Core Differences</h2>
+<p>
+  First, note that this article aims at understanding{" "}
+  <strong>
+    the differences in using Rust as a language when working with Solana.
+  </strong>{" "}
+  It won’t cover{" "}
+  <a
+    href="https://solana.com/learn/blockchain-basics"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Blockchain or Solana basics
+  </a>
+  .
+</p>
+<p>
+  It also won’t cover core Solana concepts that must be understood in order to
+  program in Solana, such as:
+</p>
+<ul>
+  <li>
+    <a
+      href="https://solana.com/docs/core/programs"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Programs
+    </a>{" "}
+    - Solana’s version of smart contracts
+  </li>
+  <li>
+    <a
+      href="https://solana.com/docs/core/accounts"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Accounts
+    </a>{" "}
+    - A record in the Solana ledger that either holds data (a data account) or
+    is an executable program
+  </li>
+  <li>
+    Various{" "}
+    <a
+      href="https://solana.com/docs/core/fees#why-pay-transaction-fees"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      fees
+    </a>{" "}
+    - Such as base fee, priority fee, and rent
+  </li>
+  <li>
+    <a
+      href="https://solana.com/docs/core/transactions"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Transactions
+    </a>{" "}
+    - Interactions with the network that contain instructions, signatures, and
+    more.
+  </li>
+</ul>
+<p>
+  For more information on those core concepts, check out the{" "}
+  <a
+    href="https://solana.com/developers"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Solana developer documentation
+  </a>
+  .
+</p>
+<p>
+  Let’s now look at the differences in <strong>project setup.</strong>
+</p>
+<h2>
+  <strong>Key Setup Details</strong>
+</h2>
+<p>
+  On-chain programs for Solana in Rust are still Rust programs at heart. They
+  still follow the standard Rust project with a <code>/src</code> folder and{" "}
+  <code>Cargo.toml </code>file in the root. That said, there are several key
+  differences.
+</p>
+<h3>
+  <strong>Project Dependencies</strong>
+</h3>
+<p>
+  To get started, the{" "}
+  <a
+    href="https://crates.io/crates/solana-program"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    solana-program crate
+  </a>{" "}
+  is required for every on-chain Solana program written with Rust. This is the
+  base library for all on-chain Rust programs. The library defines macros for
+  the required <strong>program entrypoint </strong>(see below),{" "}
+  <strong>core data types</strong>, <strong>logging macros</strong>, and more.
+</p>
+<h3>Program Entrypoint</h3>
+<p>
+  Instead of a <code>main</code> function, Solana programs use the{" "}
+  <code>entrypoint!</code> macro. This symbol is exported and then called by the
+  Solana runtime when the program runs. The entrypoint macro calls a given
+  function, which must have the following type signature:
+</p>
 
 ```rust
 pub fn process_instruction(
@@ -61,7 +188,7 @@ entrypoint!(process_instruction);
 <h3>Building and Testing</h3>
 <p>
   After installing the Solana command-line tools, projects can be built to
-  target host machines as normal with<code> cargo build</code>.&nbsp;
+  target host machines as normal with<code> cargo build</code>.
 </p>
 <p>
   However, to target the Solana runtime, use cargo <code>build-bpf</code> or c
@@ -90,8 +217,8 @@ entrypoint!(process_instruction);
   >
     solana-test-validator
   </a>
-  , installed along with the Solana CLI. This creates a fully featured test
-  cluster on a local machine, which can then deploy programs and run tests.
+  , installed along with the Solana CLI. This creates a fully featured test cluster
+  on a local machine, which can then deploy programs and run tests.
 </p>
 <h2>Understanding Restrictions</h2>
 <p>
@@ -122,7 +249,7 @@ entrypoint!(process_instruction);
 <p>
   Because programs must run deterministically, the <code>rand</code> crate is
   not available. Using an additional crate that depends on <code>rand</code>{" "}
-  will also cause compile errors.&nbsp;
+  will also cause compile errors.
 </p>
 <p>
   However, if the crate used simply depends on <code>rand</code> but does not
@@ -216,15 +343,14 @@ To create a new program, simply create a new Anchor project in the Solana playgr
   >
     solana_sdk crate
   </a>
-  . This contains the{" "}
-  <a
+  . This contains the <a
     href="https://docs.rs/solana-client/latest/solana_client/"
     rel="noopener noreferrer"
     target="_blank"
   >
     solana_client crate
-  </a>{" "}
-  that allows Rust programs to interact with a Solana node via the JSON RPC API.
+  </a> that allows Rust programs to interact with a Solana node via the JSON RPC
+  API.
 </p>
 <p>
   Another option is to use the{" "}
@@ -261,15 +387,13 @@ To create a new program, simply create a new Anchor project in the Solana playgr
   >
     Developing with Rust page
   </a>
-  . And for other Solana program examples written with Rust, check out these{" "}
-  <a
+  . And for other Solana program examples written with Rust, check out these <a
     href="https://github.com/solana-labs/solana-program-library/tree/master/examples/rust"
     rel="noopener noreferrer"
     target="_blank"
   >
     examples on GitHub
-  </a>
-  .
+  </a>.
 </p>
 
 ## Learn from Solana Developers

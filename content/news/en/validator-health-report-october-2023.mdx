@@ -43,7 +43,7 @@ As of Sept. 6, 2023, Solana continues to be one of the largest proof of stake ne
 <p>
   The Solana Foundation has also seen a noticeable uptick in the engagement of
   the validator network in recent months. These are hard metrics to put a number
-  to, but some indicators of validator community engagement include:&nbsp;
+  to, but some indicators of validator community engagement include:
 </p>
 <ul>
   <li>
@@ -55,18 +55,16 @@ As of Sept. 6, 2023, Solana continues to be one of the largest proof of stake ne
     >
       community led validator calls
     </a>
-    : In March 2023, the validator ecosystem began planning and convening
-    consistent calls for the validator community to share notes and best
-    practices.
+    : In March 2023, the validator ecosystem began planning and convening consistent
+    calls for the validator community to share notes and best practices.
   </li>
   <li>
     <a href="https://lu.ma/0k9m99s1" rel="noopener noreferrer" target="_blank">
       Block 0
     </a>
     , a conference for Solana validators: The validator community is hosting the
-    first ever Block 0 in Amsterdam on Oct. 30, 2023. This is an entirely
-    community-run event to discuss the evolution of the Solana network and
-    reinforce social ties.&nbsp;
+    first ever Block 0 in Amsterdam on Oct. 30, 2023. This is an entirely community-run
+    event to discuss the evolution of the Solana network and reinforce social ties.
   </li>
 </ul>
 <p>
@@ -96,7 +94,7 @@ As of Sept. 6, 2023, Solana continues to be one of the largest proof of stake ne
   </strong>{" "}
   In this vein, the Foundation has focused on encouraging the development of new
   software clients and reinforcing a network of core contributing developers
-  from multiple organizations.&nbsp;
+  from multiple organizations.
 </p>
 <p>
   Validators are computers that run a Solana validator client, which is the
@@ -105,7 +103,7 @@ As of Sept. 6, 2023, Solana continues to be one of the largest proof of stake ne
   client; this helps ensure that there’s no single failure point in the
   network’s software. One of the biggest victories for the ecosystem is Solana
   becoming a multi-client network, which means validators have a choice of
-  clients to run.&nbsp;
+  clients to run.
 </p>
 <h4>
   <em>How Solana is doing:</em>
@@ -181,11 +179,15 @@ Solana’s Nakamoto Coefficient grew steadily from the chain’s launch in March
 
 ![](/validator-health-report-october-2023/image-5.jpg)
 
-<p>Listed below are the Nakamoto Coefficient of several other proof of stake blockchains, for the sake of benchmarking.&nbsp;<sup style="vertical-align: super; font-size: smaller;">10</sup></p><p><br></p>
+<p>
+  Listed below are the Nakamoto Coefficient of several other proof of stake
+  blockchains, for the sake of benchmarking.
+  <sup style="vertical-align: super; font-size: smaller;">10</sup>
+</p>
 
 <p>
   Listed below are the Nakamoto Coefficient of several other proof of stake
-  blockchains, for the sake of benchmarking.&nbsp;
+  blockchains, for the sake of benchmarking.
   <sup style="vertical-align: super; font-size: smaller;">10</sup>
 </p>
 
@@ -261,12 +263,10 @@ _Special thanks to:_
 - _The team at_ [_Chainflow_](https://solana.chainflow.io/)_, who always offers incredibly valuable feedback._
 - _Elias and the team_ [_Rated_](http://rated.network/)_, for their excellent data and willingness to walk through Ethereum Nakamoto Coefficient calculations; and, @larry0x on Threads, whose_ [_excellent thread_](https://twitter.com/larry0x/status/1608844203748102144?s=46&t=qVn5uMZcVxlNDBABN8wK3A) _explains the various ways one might calculate Ethereum’s Nakamoto Coefficient._
 
-<BuilderBlock name="Custom Code" options={{
-  "code": "\u003cbr />\n\u003chr />\n\u003cbr />\n\u003cp id=\"appendix\">\u003c/p>\n",
-  "scriptsClientOnly": true
-}}>
-
-</BuilderBlock>
+<br />
+<hr />
+<br />
+<p id="appendix"></p>
 
 <BuilderBlock name="Accordion" options={{
   "headline": "Footnotes and Appendices",
@@ -278,11 +278,11 @@ _Special thanks to:_
     },
     {
       "title": "Appendix A: Validators on the Solana Network",
-      "body": "\u003cp>Blockchains with more validators tend to be more resilient. When a user executes on a contract on a blockchain, they need to be confident that their transmission will be recorded. Ideally, each transmission on a blockchain is recorded on every validator on that chain, which is why a higher number of validators is important: The more times that a message is recorded, the more confident a user can be that their message is accurately recorded and won’t be tampered with.&nbsp;\u003c/p>\u003cp>There are two types of validators on the Solana network:\u003c/p>\u003cp>\u003cu>Consensus nodes:\u003c/u> Consensus nodes are central to the functioning of the network by providing two essential functions: (1) creating and proposing new blocks to the rest of the network and (2) voting on the validity of new blocks proposed by other nodes on the network.\u003c/p>\u003cp>Each block contains many messages that are submitted by various users and applications on the network. Every consensus node independently verifies all new messages in a proposed block before voting on its validity. The more nodes that participate in this consensus process, the more confidence a user or third party has that a change to the network or a transaction was verified by a large population.&nbsp;\u003c/p>\u003cp>\u003cu>RPC nodes:\u003c/u> Remote Procedure Call (RPC) nodes are an application’s gateway to the Solana infrastructure. RPC node operators can offer API, indexing, or other services to provide a convenient interface for users and applications to the core Solana network. These are often commissioned or run by individual applications and are dedicated to that program’s particular task, rather than maintaining consensus on the blockchain. RPC nodes, like consensus nodes, all independently verify all new blocks and changes to the network. They do not vote.&nbsp;\u003c/p>\u003cp>A large number of nodes is critical for the health of the network. There’s no clear number for how many nodes is enough. What’s important is that:\u003c/p>\u003cul>\u003cli>\u003cu>Users feel confident that their submission will be recorded, no matter what.\u003c/u> This is why it’s important to have a large number of copies of the current state available on many nodes, and that they exist in a broad distribution across the world. Solana’s single global state tracks the latest contents of each account, updated in real time with the latest information.&nbsp;\u003c/li>\u003cli>\u003cu>Nodes operate independently of each other.\u003c/u> A failure of a single node or set of nodes (say, run by a single entity or in a particular geography) should not impact the functioning of the network.&nbsp;\u003c/li>\u003cli>\u003cu>Users can verify the accuracy of submissions by looking at other nodes.\u003c/u> If a single node goes down or has an issue recording a message, users can rely on other nodes to verify the accuracy of the blockchain.&nbsp;\u003c/li>\u003cli>\u003cu>Having 100% uptime in the period since the last Validator Health Report intersects with the above points.\u003c/u> Having nodes or sets of nodes act independently helps ensure the functioning of the network, while having a high uptime percentage ensures users are confident their submissions will be recorded and they can verify the accuracy of submissions.\u003c/li>\u003c/ul>"
+      "body": "\u003cp>Blockchains with more validators tend to be more resilient. When a user executes on a contract on a blockchain, they need to be confident that their transmission will be recorded. Ideally, each transmission on a blockchain is recorded on every validator on that chain, which is why a higher number of validators is important: The more times that a message is recorded, the more confident a user can be that their message is accurately recorded and won’t be tampered with.\u003c/p>\u003cp>There are two types of validators on the Solana network:\u003c/p>\u003cp>\u003cu>Consensus nodes:\u003c/u> Consensus nodes are central to the functioning of the network by providing two essential functions: (1) creating and proposing new blocks to the rest of the network and (2) voting on the validity of new blocks proposed by other nodes on the network.\u003c/p>\u003cp>Each block contains many messages that are submitted by various users and applications on the network. Every consensus node independently verifies all new messages in a proposed block before voting on its validity. The more nodes that participate in this consensus process, the more confidence a user or third party has that a change to the network or a transaction was verified by a large population.\u003c/p>\u003cp>\u003cu>RPC nodes:\u003c/u> Remote Procedure Call (RPC) nodes are an application’s gateway to the Solana infrastructure. RPC node operators can offer API, indexing, or other services to provide a convenient interface for users and applications to the core Solana network. These are often commissioned or run by individual applications and are dedicated to that program’s particular task, rather than maintaining consensus on the blockchain. RPC nodes, like consensus nodes, all independently verify all new blocks and changes to the network. They do not vote.\u003c/p>\u003cp>A large number of nodes is critical for the health of the network. There’s no clear number for how many nodes is enough. What’s important is that:\u003c/p>\u003cul>\u003cli>\u003cu>Users feel confident that their submission will be recorded, no matter what.\u003c/u> This is why it’s important to have a large number of copies of the current state available on many nodes, and that they exist in a broad distribution across the world. Solana’s single global state tracks the latest contents of each account, updated in real time with the latest information.\u003c/li>\u003cli>\u003cu>Nodes operate independently of each other.\u003c/u> A failure of a single node or set of nodes (say, run by a single entity or in a particular geography) should not impact the functioning of the network.\u003c/li>\u003cli>\u003cu>Users can verify the accuracy of submissions by looking at other nodes.\u003c/u> If a single node goes down or has an issue recording a message, users can rely on other nodes to verify the accuracy of the blockchain.\u003c/li>\u003cli>\u003cu>Having 100% uptime in the period since the last Validator Health Report intersects with the above points.\u003c/u> Having nodes or sets of nodes act independently helps ensure the functioning of the network, while having a high uptime percentage ensures users are confident their submissions will be recorded and they can verify the accuracy of submissions.\u003c/li>\u003c/ul>"
     },
     {
       "title": "Appendix B: Nakamoto Coefficient",
-      "body": "\u003cp>Users of a blockchain must be confident that any valid message they submit will be included in a block and then confirmed through consensus. If a group of consensus nodes becomes compromised or acts maliciously in a coordinated manner, it can attempt to alter or prevent the network from achieving consensus on new blocks.&nbsp;The Nakamoto Coefficient is a common way to measure a blockchain’s resilience against such behavior. The Nakamoto Coefficient, a metric \u003ca href=\"https://news.earn.com/quantifying-decentralization-e39db233c28e\" rel=\"noopener noreferrer\" target=\"_blank\">first proposed\u003c/a> by Balaji Srinivasan, is defined as the minimum number of nodes that would need to be compromised to alter or stop consensus in a network, thereby preventing some or all new blocks (and therefore the transactions within them) from being confirmed. This process is known as censorship, and could impact the entire network or some subset of users or applications. In proof of stake networks, the Nakamoto Coefficient is the minimum number of nodes required to represent at least 33.4% of voting power.&nbsp;\u003c/p>\u003cp>This set of validators with a cumulative 33% of the network’s stake delegation is known as a superminority.&nbsp;A compromise of a superminority would impact the blockchain’s real-time ability to guarantee that new blocks be voted on and added to the chain. In the event that a superminority is compromised, the blockchain could recover by excising the affected validators and restarting consensus without them. The Nakamoto Coefficient for stake distribution represents the size of the smallest population of individual validators which comprise a superminority of stake delegations. When stake distribution is highly centralized, a smaller number of validators may represent 33% (superminority) of total stake delegations.&nbsp;In a more decentralized distribution of stake and consensus power, this set is larger, making it more difficult for a business, rogue actor, or other entity to manipulate the blockchain through censorship.\u003c/p>"
+      "body": "\u003cp>Users of a blockchain must be confident that any valid message they submit will be included in a block and then confirmed through consensus. If a group of consensus nodes becomes compromised or acts maliciously in a coordinated manner, it can attempt to alter or prevent the network from achieving consensus on new blocks.The Nakamoto Coefficient is a common way to measure a blockchain’s resilience against such behavior. The Nakamoto Coefficient, a metric \u003ca href=\"https://news.earn.com/quantifying-decentralization-e39db233c28e\" rel=\"noopener noreferrer\" target=\"_blank\">first proposed\u003c/a> by Balaji Srinivasan, is defined as the minimum number of nodes that would need to be compromised to alter or stop consensus in a network, thereby preventing some or all new blocks (and therefore the transactions within them) from being confirmed. This process is known as censorship, and could impact the entire network or some subset of users or applications. In proof of stake networks, the Nakamoto Coefficient is the minimum number of nodes required to represent at least 33.4% of voting power.\u003c/p>\u003cp>This set of validators with a cumulative 33% of the network’s stake delegation is known as a superminority.A compromise of a superminority would impact the blockchain’s real-time ability to guarantee that new blocks be voted on and added to the chain. In the event that a superminority is compromised, the blockchain could recover by excising the affected validators and restarting consensus without them. The Nakamoto Coefficient for stake distribution represents the size of the smallest population of individual validators which comprise a superminority of stake delegations. When stake distribution is highly centralized, a smaller number of validators may represent 33% (superminority) of total stake delegations.In a more decentralized distribution of stake and consensus power, this set is larger, making it more difficult for a business, rogue actor, or other entity to manipulate the blockchain through censorship.\u003c/p>"
     }
   ]
 }}>

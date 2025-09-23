@@ -106,14 +106,14 @@ Compressed NFTs eschew the typical on-chain account approach, and because data r
   information) requires a modification of the storage tree itself. In order to
   do so, one must compute the <em>proofs</em> needed to signify that you know
   the latest state of the tree, along with the signature of the leaf owner (or
-  delegate).&nbsp;
+  delegate).
 </p>
 <p>
   Merkle tree proofs are the set of hashes that can be used to prove that the
-  leaf was in the tree to begin with.&nbsp;RPC nodes can provide this with the{" "}
+  leaf was in the tree to begin with.RPC nodes can provide this with the{" "}
   <code>`getAssetProof` </code>Read API RPC method. Depending on the canopy
   height of the tree, one can submit a subset of the proof path and let the
-  on-chain program handle reconciling the rest of it.&nbsp;
+  on-chain program handle reconciling the rest of it.
 </p>
 <p>
   Submit the proofs along with the modification you want to make (a new owner!)

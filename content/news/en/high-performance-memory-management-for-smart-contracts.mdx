@@ -131,12 +131,11 @@ So a contract can move balances freely around any of the pages that have been as
 
 Signals are asynchronous but guaranteed calls. They are created just like pages are allocated and assigned to a contract. The memory that is owned by the signal’s page stores a Call structure that the runtime can examine.
 
-<BuilderBlock name="Custom Code" options={{
-  "code": "\u003ccode>create_signal(page_address: PublicKey, contract: PublicKey)\u003c/code>\n",
-  "scriptsClientOnly": true
-}}>
 
-</BuilderBlock>
+
+`create_signal(page_address: PublicKey, contract: PublicKey)`
+
+
 
 A signal is a way for a contract to schedule itself, or call other contracts in the future. Once a signal becomes set, the runtime guarantees its eventual execution.
 

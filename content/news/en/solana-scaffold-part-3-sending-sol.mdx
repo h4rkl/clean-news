@@ -5,7 +5,7 @@ description: >-
   with this top-down approach tutorial. In this part, we will learn how to send
   SOL.
 slug: solana-scaffold-part-3-sending-sol
-date: '2022-05-24'
+date: "2022-05-24"
 audiences: []
 topics: []
 heroImage: >-
@@ -24,7 +24,7 @@ seo:
   noFollow: false
   openGraph:
     ogTitle: Scaffold Series - Part 3 Sending SOL
-    ogUrl: ''
+    ogUrl: ""
     ogDescription: >-
       Become a Solana blockchain developer. Let's unroll The Solana Path
       together with this top-down approach tutorial. In this part, we will learn
@@ -43,17 +43,17 @@ seo:
 
 ### **🍀 What Will I Get From This?**
 
--   \[ \] Learn where to fish for code examples.
--   \[ \] Learn how to send some SOL.
--   \[ \] Travel the world with Transactions.
--   \[ \] Meet the Solana Native Programs, aka the SNP Crew.
+- \[ \] Learn where to fish for code examples.
+- \[ \] Learn how to send some SOL.
+- \[ \] Travel the world with Transactions.
+- \[ \] Meet the Solana Native Programs, aka the SNP Crew.
 
 ### **🎬 Previously In Scaffold Starter...**
 
 Nice to see you again, friend 😁 ! Now we are transacting!!! (ahem... I mean talking). So let's see:
 
--   We connected the user wallet. ✅
--   We funded the user wallet. ✅
+- We connected the user wallet. ✅
+- We funded the user wallet. ✅
 
 Now that we have a wallet connected with funds, we can actually start putting our footprint on the blockchain. Instead of just querying data, we can start modifying the blockchain and add data to it with transactions. This is where the web3 line starts!
 
@@ -81,9 +81,16 @@ Nothing crazy here. We just import our soon-to-be-created SendTransaction /> c
 
 Now let's create that <SendTransaction /> component in components/SendTransaction.tsx:
 
-<p><span style="font-size: 20px;">Nothing's happening? Let's rewrite this with some error handling and connect it to our notify UI:</span></p>
+<p>
+  <span style="font-size: 20px;">
+    Nothing's happening? Let's rewrite this with some error handling and connect
+    it to our notify UI:
+  </span>
+</p>
 
-<p><span style="font-size: 20px;">Result:</span></p>
+<p>
+  <span style="font-size: 20px;">Result:</span>
+</p>
 
 ![](/solana-scaffold-part-3-sending-sol/image-2.gif)
 
@@ -93,8 +100,8 @@ Thanks to the cookbook, we just had to copy-paste the code. But we are better th
 
 The cookbook is awesome, but what I want you to get from this is not just how to look for code. We are here to dig deeper. Let's look again at the recipe and see what can we learn about it:
 
--   SystemProgram: looks interesting; what is this?
--   Transaction: we hadn't seen this before, or did we?
+- SystemProgram: looks interesting; what is this?
+- Transaction: we hadn't seen this before, or did we?
 
 Feel free to take some water, get a deep breath, and congratulate yourself for getting things done. And be ready to dive deeper into these two concepts when you return.
 
@@ -122,8 +129,8 @@ All Solana Validators Nodes are born with a set of Solana Native Programs. And t
 
 What is the difference between the native ones and the library ones?
 
--   Native Programs are the essential programs that a Validator Node needs. I listed the System Program in the diagram, but there are other ones: [https://docs.solana.com/developing/runtime-facilities/programs](https://docs.solana.com/developing/runtime-facilities/programs?ref=solana.ghost.io)
--   Library Programs are additional helpers programs deployed by the Solana team.
+- Native Programs are the essential programs that a Validator Node needs. I listed the System Program in the diagram, but there are other ones: [https://docs.solana.com/developing/runtime-facilities/programs](https://docs.solana.com/developing/runtime-facilities/programs?ref=solana.ghost.io)
+- Library Programs are additional helpers programs deployed by the Solana team.
 
 Ok, we solved one part of the equation: the WHO! Solana needs to know which program you want to talk to when we make a transaction. In the case of sending SOL, we had to talk to the System Program. But what is a transaction anyway?
 
@@ -140,11 +147,24 @@ Clients can invoke programs by submitting a transaction to a cluster. \[...\] Wh
 
 ![](/solana-scaffold-part-3-sending-sol/image-4.jpg)
 
-<p><span style="font-size: 20px;">The above image in code:</span></p>
+<p>
+  <span style="font-size: 20px;">The above image in code:</span>
+</p>
 
-<p><span style="font-size: 20px;">In our use case, when we wanted to send SOL, we only had one instruction in our transaction:</span></p>
+<p>
+  <span style="font-size: 20px;">
+    In our use case, when we wanted to send SOL, we only had one instruction in
+    our transaction:
+  </span>
+</p>
 
-<p><span style="font-size: 20px;">Wait, what instruction are you talking about? The solution is... not in the cookbook! Got you! We just have to right-click and go to definition in the code directly. Code is truth, always:</span></p>
+<p>
+  <span style="font-size: 20px;">
+    Wait, what instruction are you talking about? The solution is... not in the
+    cookbook! Got you! We just have to right-click and go to definition in the
+    code directly. Code is truth, always:
+  </span>
+</p>
 
 ![](/solana-scaffold-part-3-sending-sol/image-5.jpg)
 
@@ -180,19 +200,19 @@ In [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn
 
 So, it's not time for you to learn about instruction yet my [Padawan](https://www.starwars.com/news/what-is-a-padawan?ref=solana.ghost.io#:~:text=A%20Padawan%20was%20an%20apprentice,Temple%20bustled%20with%20Padawan%20learners.). There is a time for everything, but since you are asking, here's what's in our next adventures:
 
--   Blockhashes.
--   How to write an Instruction.
--   Signatures.
--   Transaction Fees (you thought it was free? 😗)
--   Accounts (the dreaded one 👹).
--   The Transaction Processing Unit.
+- Blockhashes.
+- How to write an Instruction.
+- Signatures.
+- Transaction Fees (you thought it was free? 😗)
+- Accounts (the dreaded one 👹).
+- The Transaction Processing Unit.
 
 **Before moving on, let's do some** [**mnemonics**](https://en.wikipedia.org/wiki/Mnemonic?ref=solana.ghost.io)**:**
 
--   "An instruction is like writing a love **letter** to a program **(the WHO)**.
--   "We can send many of these love letters by batching them into a **transaction**" (do not try this at home).
--   "The super letter is collected by the guardian of Solana Realm; the Solana RPC."
--   "And dispatched to **Solana Validators** (the little bees of the blockchain)."
+- "An instruction is like writing a love **letter** to a program **(the WHO)**.
+- "We can send many of these love letters by batching them into a **transaction**" (do not try this at home).
+- "The super letter is collected by the guardian of Solana Realm; the Solana RPC."
+- "And dispatched to **Solana Validators** (the little bees of the blockchain)."
 
 Who still writes letters...?
 
@@ -202,14 +222,14 @@ The final code is here: [https://github.com/mwrites/dapp-scaffold/commit/60d719
 
 ### **💡 Quiz**
 
--   \[ \] Why do we need to specify SystemProgram when sending SOL?
--   \[ \] What is a **Transaction**?
--   \[ \] Who owns the **Solana Native Programs**?
--   \[ \] What is a **Solana RPC Node**?
+- \[ \] Why do we need to specify SystemProgram when sending SOL?
+- \[ \] What is a **Transaction**?
+- \[ \] Who owns the **Solana Native Programs**?
+- \[ \] What is a **Solana RPC Node**?
 
 ### **🎙 Optional: Your Turn To Get The Mic!**
 
--   \[ \] Our send SOL button is always sending 1 SOL, and on top of that, it's sending to a random address. Can you add an input box to specify the receiver address and the amount?
+- \[ \] Our send SOL button is always sending 1 SOL, and on top of that, it's sending to a random address. Can you add an input box to specify the receiver address and the amount?
 
 ### **🏆 Achievement - Transactions**
 
@@ -217,8 +237,8 @@ The final code is here: [https://github.com/mwrites/dapp-scaffold/commit/60d719
 
 ### **📙 Cookbook References**
 
--   [https://solanacookbook.com/references/basic-transactions.html#how-to-send-sol](https://solanacookbook.com/references/basic-transactions.html?ref=solana.ghost.io#how-to-send-sol)
--   [https://solanacookbook.com/core-concepts/programs.html#native-programs-the-solana-program-library-spl](https://solanacookbook.com/core-concepts/programs.html?ref=solana.ghost.io#native-programs-the-solana-program-library-spl)
+- [https://solanacookbook.com/references/basic-transactions.html#how-to-send-sol](https://solanacookbook.com/references/basic-transactions.html?ref=solana.ghost.io#how-to-send-sol)
+- [https://solanacookbook.com/core-concepts/programs.html#native-programs-the-solana-program-library-spl](https://solanacookbook.com/core-concepts/programs.html?ref=solana.ghost.io#native-programs-the-solana-program-library-spl)
 
 # **🎬 Stay Tuned For The Next Series!**
 
@@ -228,11 +248,11 @@ The final code is here: [https://github.com/mwrites/dapp-scaffold/commit/60d719
 
 It's very typical, and it's a full-time part of our job as devs to learn how to deal with errors. But, unfortunately, nothing ever goes smoothly when playing with cutting-edge tech and even more so in blockchains as the code evolves sooo quickly. At this point, you might have encountered two errors:
 
--   "Transaction simulation failed: Attempt to debit an account but found no record of a prior credit." aka "Where's the money?"
+- "Transaction simulation failed: Attempt to debit an account but found no record of a prior credit." aka "Where's the money?"
 
 Your wallet is probably on the mainnet while the dapp is trying to work with devnet.
 
--   "Transaction leaves an account with a lower balance than rent-exempt minimum" -> aka "Where's the money?" Number 2.
+- "Transaction leaves an account with a lower balance than rent-exempt minimum" -> aka "Where's the money?" Number 2.
 
 Since May 2022, all accounts need to be rent-exempt, we haven't talked about rent yet, but basically, it means you are not sending enough SOL to cover the rent fee. How can you find out about the rent fee? Run solana rent with the Solana CLI.
 
@@ -240,29 +260,58 @@ Cool, but about the other errors? Where can I read about them and understand wha
 
 ### **Where To Ask Questions?**
 
--   [https://stackoverflow.com/questions/tagged/solana](https://stackoverflow.com/questions/tagged/solana?ref=solana.ghost.io)
--   Come vote on [https://area51.stackexchange.com/proposals/126615/solana](https://area51.stackexchange.com/proposals/126615/solana?ref=solana.ghost.io) to have our dedicated Solana stack exchange!
+- [https://stackoverflow.com/questions/tagged/solana](https://stackoverflow.com/questions/tagged/solana?ref=solana.ghost.io)
+- Come vote on [https://area51.stackexchange.com/proposals/126615/solana](https://area51.stackexchange.com/proposals/126615/solana?ref=solana.ghost.io) to have our dedicated Solana stack exchange!
 
 ### **How To Stay Up To Date With Solana?**
 
--   [What's New In Solana?](https://hashnode.com/@solanaroundup?ref=solana.ghost.io)
--   [Solana Dev Twitter](https://twitter.com/solana_devs?ref=solana.ghost.io)
--   [Solana Tech Discord](https://discord.com/invite/pquxPsq?ref=solana.ghost.io)
+- [What's New In Solana?](https://hashnode.com/@solanaroundup?ref=solana.ghost.io)
+- [Solana Dev Twitter](https://twitter.com/solana_devs?ref=solana.ghost.io)
+- [Solana Tech Discord](https://discord.com/invite/pquxPsq?ref=solana.ghost.io)
 
 ### **(Super Optional) Creating a New NextJS Page**
 
 Ok, you made it!! This part is optional as it is purely NextJS stuff. Let's just organize the code a bit and move the transaction button to a new page called pages/basics.tsx:
 
-<p><span style="font-size: 20px;">What is this&nbsp;</span>BasicsView<span style="font-size: 20px;">? It doesn't exist yet, so let's create it in&nbsp;</span>views/basics/index.tsx<span style="font-size: 20px;">. Inside it, is where we will display our&nbsp;</span>&lt;SendTransaction /&gt;<span style="font-size: 20px;">&nbsp;component.</span></p>
+<p>
+  <span style="font-size: 20px;">What is this</span>BasicsView
+  <span style="font-size: 20px;">
+    ? It doesn't exist yet, so let's create it in
+  </span>
+  views/basics/index.tsx
+  <span style="font-size: 20px;">
+    . Inside it, is where we will display our
+  </span>
+  &lt;SendTransaction /&gt;<span style="font-size: 20px;">component.</span>
+</p>
 
-<p><span style="font-size: 20px;">Let's make our life easier with imports by adding&nbsp;</span>BasicsView<span style="font-size: 20px;">&nbsp;to&nbsp;</span>views/index.tsx<span style="font-size: 20px;">:</span></p>
+<p>
+  <span style="font-size: 20px;">
+    Let's make our life easier with imports by adding
+  </span>
+  BasicsView<span style="font-size: 20px;">to</span>views/index.tsx
+  <span style="font-size: 20px;">:</span>
+</p>
 
-<p><span style="font-size: 20px;">Also before we forget, let's make the link to our new page appear in our&nbsp;</span>components/AppBar.tsx<span style="font-size: 20px;">. Open&nbsp;</span>components/AppBar.tsx<span style="font-size: 20px;">&nbsp;(I am omitting the whole HTML to ease your eyes, look for&nbsp;</span>"Nav Links"<span style="font-size: 20px;">):</span></p>
+<p>
+  <span style="font-size: 20px;">
+    Also before we forget, let's make the link to our new page appear in our
+  </span>
+  components/AppBar.tsx<span style="font-size: 20px;">. Open</span>
+  components/AppBar.tsx
+  <span style="font-size: 20px;">
+    (I am omitting the whole HTML to ease your eyes, look for
+  </span>
+  "Nav Links"<span style="font-size: 20px;">):</span>
+</p>
 
-<p><span style="font-size: 20px;">Finally, we can create&nbsp;</span>components/SendTransaction.tsx<span style="font-size: 20px;">:</span></p>
+<p>
+  <span style="font-size: 20px;">Finally, we can create</span>
+  components/SendTransaction.tsx<span style="font-size: 20px;">:</span>
+</p>
 
--   connection: we will need to communicate with Solana, so we will need to configure one.
--   publicKey: we will also need the connected user publicKey, to specify the fromPublicKey.
+- connection: we will need to communicate with Solana, so we will need to configure one.
+- publicKey: we will also need the connected user publicKey, to specify the fromPublicKey.
 
 Result:
 

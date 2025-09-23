@@ -49,12 +49,11 @@ The amount of data we are transferring is actually 105,928 transactions per sec
 
 Our public [testnet](https://metrics.solana.com:3000/d/testnet/testnet-hud?orgId=2&from=now-15m&to=now&refresh=5s&var-testnet=testnet&ref=solana.ghost.io) is up and running. The performance deployment is continuously being hammered by our internal benchmark. The public deployment is available for anyone to connect to and check how many transactions your internet connection will allow you to upload at once. To play around with it, you will need to download the source and build and execute the benchmark client. You will need to have the rust toolchain installed, which you can fund on [rustup.rs](http://rustup.rs/?ref=solana.ghost.io).
 
-<BuilderBlock name="Custom Code" options={{
-  "code": "\u003ccode\n  >$ git clone git@github.com:solana-labs/solana.git $ cd solana $ git checkout\n  v0.7.2 # make sure this is the latest release on\n  https://github.com/solana-labs/solana/releases $ ./multinode-demo/client.sh\n  testnet.solana.com 1\u003c/code\n>\n",
-  "scriptsClientOnly": true
-}}>
 
-</BuilderBlock>
+
+`$ git clone git@github.com:solana-labs/solana.git $ cd solana $ git checkout v0.7.2 # make sure this is the latest release on https://github.com/solana-labs/solana/releases $ ./multinode-demo/client.sh testnet.solana.com 1`
+
+
 
 <p><span style="font-size: 20px;">After some compilation, the benchmark will start transferring as many transactions as your computer and ISP will allow.</span></p>
 
