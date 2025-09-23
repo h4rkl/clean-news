@@ -1,0 +1,469 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0350fab90d87462184db71c20695bff9",
+    "inputs": [],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "title": "High performance memory management for smart contracts",
+    "twitterMeta": {
+      "twitterTitle": "High performance memory management for smart contracts",
+      "twitterDescription": "\nHow smart contracts work on Solana’s Proof of History based blockchain\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/High-performance-memory-management-for-smart-contracts/1-IJugcnD5j7CIkouYXfD0mg.png"
+    },
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_0b694b3fa2ce402380f60d49550e09ae"
+        }
+      }
+    ],
+    "datePublished": 1534230000000,
+    "intro": "\nHow smart contracts work on Solana’s Proof of History based blockchain\n",
+    "publishedDate": "Tue Aug 14 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "High performance memory management for smart contracts",
+      "ogUrl": "https://www.solana.com/blog/high-performance-memory-management-for-smart-contracts",
+      "ogDescription": "\nHow smart contracts work on Solana’s Proof of History based blockchain\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/High-performance-memory-management-for-smart-contracts/1-IJugcnD5j7CIkouYXfD0mg.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "High performance memory management for smart contracts",
+      "noFollow": false,
+      "seoDescription": "\nHow smart contracts work on Solana’s Proof of History based blockchain\n",
+      "seoTitle": "High performance memory management for smart contracts",
+      "noIndex": false
+    },
+    "slug": "high-performance-memory-management-for-smart-contracts",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-f0ceb7ff37424e36878e7e2e9b1053d0",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d1a3931241cd454dadfbcfbd10de2abe",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>How smart contracts work on&nbsp;</strong><a href=\"https://solana.com/?utm_source=medium&amp;utm_campaign=memory_smart_contracts\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana</strong></a><strong>’s Proof of History based blockchain</strong></h3><h3><strong>Key Takeaways</strong></h3><p><br></p><ul><li>High performance bytecode designed for fast verification and compilation to native code</li><li>Memory management that’s designed for fast analysis of data dependencies</li><li>Execution of smart contracts that is parallelizable in as many cores as the system can provide</li></ul><p>Our approach to smart contract execution is based on how operating systems load and execute dynamic code in the kernel.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-960d764a151046f7bcabf656c6093a3f",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa4a63b6a24804c6fbda76a9cc3e12aad?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 1,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 800,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa4a63b6a24804c6fbda76a9cc3e12aad?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa4a63b6a24804c6fbda76a9cc3e12aad?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa4a63b6a24804c6fbda76a9cc3e12aad?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa4a63b6a24804c6fbda76a9cc3e12aad?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa4a63b6a24804c6fbda76a9cc3e12aad?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa4a63b6a24804c6fbda76a9cc3e12aad?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa4a63b6a24804c6fbda76a9cc3e12aad?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa4a63b6a24804c6fbda76a9cc3e12aad?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa4a63b6a24804c6fbda76a9cc3e12aad?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dd41e6389670454d974fb10e90773d06",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In Figure 1. an untrusted client, or&nbsp;Userspace&nbsp;in Operating Systems terms, creates a program in the front-end language of her choice, (like C/C++/Rust/Lua), and compiles it with LLVM to the Solana Bytecode object. This object file is a standard ELF.</p><p>The computationally expensive work of converting frontend languages into programs is done locally by the client.</p><ul><li>Frontend to LLVM takes a user supplied program in a higher level language such as C/C++/Rust/Lua, or is called as a library from JavaScript or any other language</li><li>LLVM toolchain does the actual work of converting the program to a ELF.</li></ul><p>The output is an ELF with a specific bytecode as its target that is designed for quick verification and conversion to the local machine instruction set that Solana is running on.</p><p>On the kernel side, the ELF is verified, loaded and executed.</p><ul><li>Verifier checks that the bytecode is valid and safe to execute and converts it to the local machine instruction set.</li><li>Loader prepares the memory necessary to load the code and mark the segment as executable.</li><li>The runtime actually calls the program with arguments and manages the changes to the virtual machine.</li></ul><h3><strong>Solana Bytecode</strong></h3><p>Most of the focus on performance of smart contracts has been focused on moving to WASM. The bytecode doesn’t matter! While our bytecode is based on&nbsp;<a href=\"https://en.wikipedia.org/wiki/Berkeley_Packet_Filter?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Berkley Packet Filter</a>, we can use anything that is easy to JIT to x86 (or SPIRV!). The reason why we are basing our bytecode on BPF is because what the kernel does with untrusted code overlaps almost exactly with the requirements we have:</p><ol><li>Deterministic amount of time to execute the code</li><li>Bytecode that is portable between machine instruction sets</li><li>Verified memory accesses</li><li><strong>Deterministic and short amount of time&nbsp;</strong>to load the object and verify the bytecode and JIT to local machine instruction set</li></ol><p>We want the simplest, fastest and easiest way to verify instruction set.</p><h2><strong>Memory Management is what really&nbsp;matters</strong></h2><p>This is the most performance critical part of the engine. If all the contracts that are scheduled have no data dependencies, they can all be executed concurrently. If we succeed, that means that the performance of the engine will scale with the number of cores available to execute the contracts. The throughput will double every 2 years with Moores law.</p><p>Memory management starts with the ELF itself. Initially we are constraining contracts to be a single read-only code and data segment. That means it’s composed of read-only executable code and read-only data — no mutable globals or mutable static variables. We can relax this requirement in the future, but for now it provides a simple solution for Requirement 4 from above.</p><p>Since smart contracts themselves hold no state, how do you actually manage state for the contract? Our runtime will provide an interface for creating state. This interface is invoked through a transaction just like any other contract method.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2d7a9767090b4265aac966107281a93c",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1c83c757290448f9eb5dfeffc205039?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.181,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 145,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1c83c757290448f9eb5dfeffc205039?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1c83c757290448f9eb5dfeffc205039?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1c83c757290448f9eb5dfeffc205039?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1c83c757290448f9eb5dfeffc205039?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1c83c757290448f9eb5dfeffc205039?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1c83c757290448f9eb5dfeffc205039?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1c83c757290448f9eb5dfeffc205039?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1c83c757290448f9eb5dfeffc205039?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1c83c757290448f9eb5dfeffc205039?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-269426d48a0d40548b47a46793eb9652",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Allocate Memory</strong></h3><p>If the page_address public key has no current memory region associated with it, the region is allocated and the allocated memory is set to 0.</p><p>If the page_address public key is unassigned, assign it to the contract public key. The only code that can modify the memory that is assigned to this is code that is provided by the contract&nbsp;. Thus, all state transitions in that memory have been done by the contract.</p><p>If any of the conditions fail, the call fails. This interface is called with a simple transaction.</p><h2><strong>Execution</strong></h2><p>The call structure is our basic transaction. This structure describes the context of the transaction:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4ae52862696e4ee1a2c6d0312cdda92d",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a27ff834c60412aa69c3ab2855cd8f7?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.502,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 402,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a27ff834c60412aa69c3ab2855cd8f7?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a27ff834c60412aa69c3ab2855cd8f7?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a27ff834c60412aa69c3ab2855cd8f7?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a27ff834c60412aa69c3ab2855cd8f7?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a27ff834c60412aa69c3ab2855cd8f7?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a27ff834c60412aa69c3ab2855cd8f7?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a27ff834c60412aa69c3ab2855cd8f7?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a27ff834c60412aa69c3ab2855cd8f7?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a27ff834c60412aa69c3ab2855cd8f7?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ed2ba39b0a5a4d9ab4bc0bc372373670",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The two most important parts of this structure for the contract are the keys and the user_data&nbsp;. The runtime translates the keys to the memory locations associated with them with the memory that was created with allocate_memory. The user_data is the random bits of memory that the user has supplied for the call. This is how users can add dynamic external state into the runtime.</p><p>Smart contracts can also examine the required_sigs vector to check which of the PublicKeys in call have a valid signature. By the time the Call gets to the contracts method, the signatures have already been verified.</p><h2><strong>Rules</strong></h2><p>A contract implements the following interface:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e2d6ad92a01c4ce4b07fba5e98c1b0cf",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a51a939858e45929a5252f3385d13a5?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.214,
+                "lockAspectRatio": false,
+                "height": 171,
+                "width": 800,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a51a939858e45929a5252f3385d13a5?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a51a939858e45929a5252f3385d13a5?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a51a939858e45929a5252f3385d13a5?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a51a939858e45929a5252f3385d13a5?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a51a939858e45929a5252f3385d13a5?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a51a939858e45929a5252f3385d13a5?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a51a939858e45929a5252f3385d13a5?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a51a939858e45929a5252f3385d13a5?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a51a939858e45929a5252f3385d13a5?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cc6d0a31706f40a68fffa7e696e42a94",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">With the following definition for a Page:</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-44f31fbc18d24c8aab0af4eda58c4624",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F76b172b0da6c46e897438659f681e888?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.433,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 346,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F76b172b0da6c46e897438659f681e888?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F76b172b0da6c46e897438659f681e888?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F76b172b0da6c46e897438659f681e888?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F76b172b0da6c46e897438659f681e888?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F76b172b0da6c46e897438659f681e888?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F76b172b0da6c46e897438659f681e888?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F76b172b0da6c46e897438659f681e888?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F76b172b0da6c46e897438659f681e888?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F76b172b0da6c46e897438659f681e888?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5a0444b7064e4ae082fd12add48ed9de",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>As long as the caller can pay the fee to execute the contract, it will be called. But the runtime will only store the modified Page if the following rules are met:</p><ol><li>For pages assigned to the contract, the total sum of all the tokens in these pages cannot increase.</li><li>For pages unassigned to the contract, the individual balance of each page cannot decrease.</li><li>For pages unassigned to the contract, the memory cannot change.</li><li>The total sum of all the tokens in all the pages cannot change.</li></ol><p>So a contract can move balances freely around any of the pages that have been assigned to it. It can modify the memory in those pages freely. For pages assigned to other contracts, the contract can add tokens to individual pages, and can read their memory vectors.</p><h2><strong>Signals</strong></h2><p>Signals are asynchronous but guaranteed calls. They are created just like pages are allocated and assigned to a contract. The memory that is owned by the signal’s page stores a Call structure that the runtime can examine.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-77a849d23a564e5587384268532a1af4",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<code>create_signal(page_address: PublicKey, contract: PublicKey)</code>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e76126d23e8748e5a358af5a29ea607d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>A signal is a way for a contract to schedule itself, or call other contracts in the future. Once a signal becomes set, the runtime guarantees its eventual execution.</p><p>A client can call a contract with any number of signals, which can modify the memory of the signal and construct whatever asynchronous method the contract needs to call, including allocate_memory or create_signal</p><h3><strong>Notes</strong></h3><ul><li>A contract cannot allocate memory synchronously. The client first makes a transaction for allocate_memory, and then it calls the contract method with the page that has some memory allocated to it. A contract can schedule a signal to allocate memory and call itself back in the future.</li><li>The runtime can execute all the non overlapping contract calls in parallel. Our preliminary results show that over 500,000 calls per second is possible — with room for optimization.</li></ul><h3><strong>Future work</strong></h3><p>We are just about to merge the nuts and bolts of the memory management portion of the smart contracts engine. What will follow immediately is SDK, signals, JIT, loader, toolchain. But there is so much more! These basic primitives can be used to implement all the regular Operating Systems features.</p><ul><li>allocate_memory can be used to create stack frames for threads, and writable segments for processes elfs with persistent state.</li><li>Signals can be used as a trampoline from the running process to an OS service that does dynamic memory allocation, creates additional threads, and creates other signals.</li></ul><p>This framework can eventually support all the operating system primitives that you enjoy in a modern OS as simple synchronous calls without compromising performance.</p><p>If implementing a JIT or a dynamic linker in rust sounds like fun please reach out to me at anatoly@solana.com.</p><p>— —</p><p>Want to learn more about&nbsp;<a href=\"https://solana.com/?utm_source=medium&amp;utm_campaign=memory_smart_contracts\" rel=\"noopener noreferrer\" target=\"_blank\">Solana</a>?</p><p>Check us out on&nbsp;<a href=\"https://github.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Github</a>&nbsp;and find ways to connect on our&nbsp;<a href=\"https://solana.com/community/?utm_source=medium&amp;utm_campaign=memory_smart_contracts\" rel=\"noopener noreferrer\" target=\"_blank\">community</a>&nbsp;page.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03dbb0f88d7a4582829c60fd1104cf0d",
+  "lastUpdated": 1694189908991,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_8ff09bd13755436fb27d49a15901be9e",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687429797953,
+  "@originId": "8ff09bd13755436fb27d49a15901be9e",
+  "testRatio": 1,
+  "createdDate": 1687362749627,
+  "createdBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=8ff09bd13755436fb27d49a15901be9e&builder.overrides.8ff09bd13755436fb27d49a15901be9e=8ff09bd13755436fb27d49a15901be9e&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "High performance memory management for smart contracts",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

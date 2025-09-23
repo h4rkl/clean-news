@@ -1,0 +1,511 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1565679600000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nFind out why Solana outpaces the Bitcoin, Ethereum, Libra, Tendermint, and Algorand blockchain networks.\n",
+    "publishedDate": "Tue Aug 13 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "How Solana’s Proof of History is a Huge Advancement for Block Time",
+      "ogUrl": "https://www.solana.com/blog/how-solana-s-proof-of-history-is-a-huge-advancement-for-block-time",
+      "ogDescription": "\nFind out why Solana outpaces the Bitcoin, Ethereum, Libra, Tendermint, and Algorand blockchain networks.\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "How Solana’s Proof of History is a Huge Advancement for Block Time",
+      "noFollow": false,
+      "seoDescription": "\nFind out why Solana outpaces the Bitcoin, Ethereum, Libra, Tendermint, and Algorand blockchain networks.\n",
+      "seoTitle": "How Solana’s Proof of History is a Huge Advancement for Block Time",
+      "noIndex": false
+    },
+    "title": "How Solana’s Proof of History is a Huge Advancement for Block Time",
+    "twitterMeta": {
+      "twitterTitle": "How Solana’s Proof of History is a Huge Advancement for Block Time",
+      "twitterImage": null,
+      "twitterDescription": "\nFind out why Solana outpaces the Bitcoin, Ethereum, Libra, Tendermint, and Algorand blockchain networks.\n"
+    },
+    "slug": "how-solana-s-proof-of-history-is-a-huge-advancement-for-block-time",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-34c555af3fca471bafe4fb06dd0a420a",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9a1ddfd720ed4291b6538424bdcaffa6",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Find out why Solana outpaces the Bitcoin, Ethereum, Libra, Tendermint, and Algorand blockchain networks</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d6ede23646294e609ca16e0efc2306dc",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71790f039b274ec5ae3d85f1efd1cde5?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71790f039b274ec5ae3d85f1efd1cde5?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71790f039b274ec5ae3d85f1efd1cde5?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71790f039b274ec5ae3d85f1efd1cde5?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71790f039b274ec5ae3d85f1efd1cde5?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71790f039b274ec5ae3d85f1efd1cde5?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71790f039b274ec5ae3d85f1efd1cde5?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71790f039b274ec5ae3d85f1efd1cde5?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71790f039b274ec5ae3d85f1efd1cde5?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71790f039b274ec5ae3d85f1efd1cde5?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-65d02929a8f04ad2a1c7669f63ce4586",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana</a>&nbsp;is the world’s first web-scale blockchain. On current iterations of the Solana Testnet, a network of 200 physically distinct nodes supports a sustained throughput of more than 50,000 transactions per second when running with GPUs. Achieving as such requires the implementation of several optimizations and new technologies, and the result is a breakthrough in network capacity that signals a new phase in blockchain development.</p><p>The core innovation that underlays the Solana Network is&nbsp;<a href=\"https://solana.com/proof-of-history/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Proof of History</a>, and is exactly what the name suggests — a proof of historical events. Utilizing Proof of History creates a historical record that proves that an event has occurred at a specific moment in time. Whereas other blockchains require validators to talk to one another in order to agree that time has passed, each Solana validator maintains its own clock by encoding the passage of time in a simple SHA-256, sequential-hashing verifiable delay function (VDF).</p><p>This differs from the current standard of blockchain infrastructure, which relies on a sequential production of blocks that are hindered by waiting for confirmation across the network before moving forward.&nbsp;<a href=\"https://solana.com/proof-of-history/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Proof of History</a>&nbsp;presents a fundamental move forward in the structure of blockchain networks in regards to speed and capacity.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-458ba2b239ce44b88b46cbe390a559c3",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe\n  src=\"https://www.youtube.com/embed/7UE5UFd-b2c?feature=oembed\"\n  width=\"700\"\n  height=\"393\"\n  frameborder=\"0\"\n  scrolling=\"no\"\n></iframe>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-875cac2726684f8fb7b8d4d449a57c8e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Here’s how&nbsp;<a href=\"https://solana.com/proof-of-history/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Proof of History</a>&nbsp;works: The Solana data structure chains messages together. This provides a cryptographic proof of the relative order and time of each message in the historical record. This allows the network to ignore local clocks and gradually accommodate all potential network delays as the data structure is eventually delivered and re-assembled. This is why Solana is able to push the limits of confirmation times so that the network provides as effective of an experience as a centralized system without sacrificing security or decentralization.</p><p>However, Proof of History isn’t necessary for a permissionless blockchain. There are plenty of Proof of Stake-based networks being built without it. What Proof of History — or PoH — adds to the network is a source of objectivity. It allows validators on the network to compute the state of the network from the ledger itself. Based on what validation messages are present in the ledger, a validator can decide if any node is considered up (valid) or down (invalid), and if the network has submitted a sufficient amount of votes for the ledger to be considered valid. Messages are not required to arrive at any given validator in a timely manner. The ledger eventually arrives to every validator, and because the messages are part of the ledger, PoH provides the cryptographic guarantee that the messages were created when they claim.</p><p>This property allows us to optimize the network across multiple parameters, particularly in regards to block time, an essential element of blockchain infrastructure in regards to speed and efficiency. In addition to Block Time, PoH allows Solana to optimize for block propagation (log200(n)), throughput (50K-80K TPS)), and ledger storage (petabytes) available on the network.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7d95f2bf83ff462eb38f2a4e5bff820e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71d1301cd8f647418badd92e60485fab?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71d1301cd8f647418badd92e60485fab?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71d1301cd8f647418badd92e60485fab?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71d1301cd8f647418badd92e60485fab?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71d1301cd8f647418badd92e60485fab?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71d1301cd8f647418badd92e60485fab?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71d1301cd8f647418badd92e60485fab?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71d1301cd8f647418badd92e60485fab?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71d1301cd8f647418badd92e60485fab?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71d1301cd8f647418badd92e60485fab?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a2e37787262e4afb85a2a73e8e805917",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Block Time</strong></h2><p>Block time, more so than raw Transactions Per Second, is a parameter that clearly separates centralized systems from decentralized blockchains. Tendermint has a timeout window&nbsp;<a href=\"https://tendermint.com/docs/tendermint-core/using-tendermint.html?ref=solana.ghost.io#initialize\" rel=\"noopener noreferrer\" target=\"_blank\">of 3 seconds</a>, Libra&nbsp;<a href=\"https://developers.libra.org/docs/assets/papers/the-libra-blockchain.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">around 10</a>, Aglorand&nbsp;<a href=\"https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">around 5</a>. Solana’s globally distributed testnet is deployed with a block time of&nbsp;<a href=\"https://github.com/solana-labs/solana/pull/4806?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">400ms blocks with a leader scheduled for 4 consecutive blocks</a>.</p><p>By the time Libra confirms a single block, Solana has confirmed 25 blocks proposed by 25 different validators. Visa has a requirement of 2.4 second confirmation time for the entire point-to-point path. Neither Ethereum, Bitcoin, or Libra are anywhere close to satisfying that requirement. Solana does.</p><p>In general, there are two ways that classical distributed systems have dealt with clocks. Messages are time stamped by the sender and the timestamp is signed. Nodes drop messages that are either too old or too new. This calculation is based on the difference between the timestamp and the local clock. The second approach is that every state transition has a local timeout before it expires. On Tendermint, for example, a precommit state has a one second timeout. The next block producer can try to propose the next block, but all the nodes in the network will wait for at least 1 second from the start of the precommit state transition before considering the new proposal.</p><p>In both approaches, a proposer’s clock cannot be trusted, and each node takes precautions and forces a delay to the progress of the consensus state machine to ensure that the proposer doesn’t cheat. Although these delays are essential for network security, they translate into slower block times.</p><p>Nakamoto consensus introduced a third way to deal with clocks. The difficulty adjustment in Bitcoin forces the network to produce a block on average roughly once every 10 minutes. Ethereum difficulty is set such that a block is produced on average once every 15 seconds. The difference between the two networks can be measured in the number of collisions or uncles. The shorter the block time, the higher the likelihood of two nodes producing a block at the same time, and 15 seconds is likely the lower bound of how fast a Nakamoto style chain can produce a block.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3d44c7519a53485da1545d881b74fe63",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdafca2fc5674467482d9254c1b8597d6?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdafca2fc5674467482d9254c1b8597d6?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdafca2fc5674467482d9254c1b8597d6?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdafca2fc5674467482d9254c1b8597d6?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdafca2fc5674467482d9254c1b8597d6?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdafca2fc5674467482d9254c1b8597d6?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdafca2fc5674467482d9254c1b8597d6?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdafca2fc5674467482d9254c1b8597d6?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdafca2fc5674467482d9254c1b8597d6?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdafca2fc5674467482d9254c1b8597d6?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "14px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-77a9ccf9ebcd4679a4cf6791636a5b9a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>The Solana&nbsp;Approach</strong></h2><p>With Solana, we are introducing a fourth approach that results in a network that is never delayed. The Solana protocol has no dependencies on local computer clocks or local timeouts between state transitions beyond the Verifiable Delay Function. Instead, the VDF ensures that each block producer proves they have waited a sufficient amount of time, and the network moves forward. Unlike Tendermint, the next block producer has to locally generate a portion of the VDF until the scheduled slot.</p><p>This means that receiving nodes can begin state transition as soon as the message is received, because they have a cryptographic proof that the producer obeyed the protocol delays. Moreover, the messages can arrive out of order and the cost of network delays is gradually accommodated over the delivery of many packets. Once PoH is reconstructed, the entire data structure guarantees that the appropriate delays between all the block producers are correct.</p><p>The result of this functionality is that the network is never delayed, and can continue producing at lightning fast speeds despite variations caused by block producers. Proof of History is a powerful mechanism that unlocks network speeds heretofore unseen in blockchain technology. Along with innovations like&nbsp;<a href=\"https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tower BFT</a>,&nbsp;<a href=\"https://medium.com/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Turbine</a>, and&nbsp;<a href=\"https://medium.com/solana-labs/replicators-solanas-solution-to-petabytes-of-blockchain-data-storage-ef79db053fa1?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Replicator</a>&nbsp;nodes, Proof of History makes Solana the first web-scale blockchain with transactional capacity that is akin to the modern internet.</p><p>We invite you to take a deeper look at all of the technological innovations the&nbsp;<a href=\"http://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana</a>&nbsp;team is implementing and to get involved with the Solana community by joining our&nbsp;<a href=\"https://discordapp.com/invite/pquxPsq?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a>&nbsp;or checking out&nbsp;<a href=\"https://podcast.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">‘No Sharding: The Solana Podcast.</a>’ For developers, it’s a great chance to get information about the project directly from Solana team members.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-85c850eab29041ada3decfd4bf482c63",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffb253c4004284921b24d14ad279d74ba?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.211,
+                "lockAspectRatio": false,
+                "height": 100,
+                "width": 474,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffb253c4004284921b24d14ad279d74ba?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffb253c4004284921b24d14ad279d74ba?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffb253c4004284921b24d14ad279d74ba?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffb253c4004284921b24d14ad279d74ba?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffb253c4004284921b24d14ad279d74ba?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffb253c4004284921b24d14ad279d74ba?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffb253c4004284921b24d14ad279d74ba?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffb253c4004284921b24d14ad279d74ba?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffb253c4004284921b24d14ad279d74ba?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-78a92ceb8cae431dba7a6cb987f1d064",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe254360f55334f4589aa1184e04d1430?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.211,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 100,
+                "width": 474,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe254360f55334f4589aa1184e04d1430?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe254360f55334f4589aa1184e04d1430?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe254360f55334f4589aa1184e04d1430?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe254360f55334f4589aa1184e04d1430?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe254360f55334f4589aa1184e04d1430?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe254360f55334f4589aa1184e04d1430?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe254360f55334f4589aa1184e04d1430?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe254360f55334f4589aa1184e04d1430?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe254360f55334f4589aa1184e04d1430?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bc072a451b9a406d8c41851fd4e9d8f5",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8ecc1c1faf44ff2883ae78a21d6d601?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.067,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 80,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8ecc1c1faf44ff2883ae78a21d6d601?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8ecc1c1faf44ff2883ae78a21d6d601?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8ecc1c1faf44ff2883ae78a21d6d601?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8ecc1c1faf44ff2883ae78a21d6d601?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8ecc1c1faf44ff2883ae78a21d6d601?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8ecc1c1faf44ff2883ae78a21d6d601?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8ecc1c1faf44ff2883ae78a21d6d601?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8ecc1c1faf44ff2883ae78a21d6d601?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8ecc1c1faf44ff2883ae78a21d6d601?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1bf01483fe184c3fb26a3691024aafca",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6a80bb428b2419784b076d302245b00?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6a80bb428b2419784b076d302245b00?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6a80bb428b2419784b076d302245b00?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6a80bb428b2419784b076d302245b00?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6a80bb428b2419784b076d302245b00?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6a80bb428b2419784b076d302245b00?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6a80bb428b2419784b076d302245b00?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6a80bb428b2419784b076d302245b00?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6a80bb428b2419784b076d302245b00?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6a80bb428b2419784b076d302245b00?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e9878bfb6d0d4dd19fff4a9834c6df5f",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffbb50db32bde4ba58dc8e7c48f7f86e0?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffbb50db32bde4ba58dc8e7c48f7f86e0?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffbb50db32bde4ba58dc8e7c48f7f86e0?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffbb50db32bde4ba58dc8e7c48f7f86e0?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffbb50db32bde4ba58dc8e7c48f7f86e0?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffbb50db32bde4ba58dc8e7c48f7f86e0?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffbb50db32bde4ba58dc8e7c48f7f86e0?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffbb50db32bde4ba58dc8e7c48f7f86e0?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffbb50db32bde4ba58dc8e7c48f7f86e0?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffbb50db32bde4ba58dc8e7c48f7f86e0?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F918e6f0e4c9349ea81b84ebc07741ab9",
+  "lastUpdated": 1694189892051,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_372f8eb076804a89940c2f710ba8fb19",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687453350883,
+  "@originId": "372f8eb076804a89940c2f710ba8fb19",
+  "testRatio": 1,
+  "createdDate": 1687362742119,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=372f8eb076804a89940c2f710ba8fb19&builder.overrides.372f8eb076804a89940c2f710ba8fb19=372f8eb076804a89940c2f710ba8fb19&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "How Solana’s Proof of History is a Huge Advancement for Block Time",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

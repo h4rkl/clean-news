@@ -1,0 +1,173 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/breakpoint-2023-day-2-swissborg-security-day-boba-guys",
+  "data": {
+    "datePublished": 1698861600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd4e9e3607895408fae69155ebae7eb4e",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Here's the highlights from Day 2 in Amsterdam",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd4e9e3607895408fae69155ebae7eb4e",
+      "seoDescription": "Dig into the news from Breakpoint 2023's Solana Campus.",
+      "seoTitle": "Solana | Day 2 at Breakpoint: Security Day, SwissBorg, and Boba Guys!"
+    },
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Day 2 at Breakpoint: Security Day, SwissBorg, and Boba Guys!"
+    },
+    "slug": "breakpoint-2023-day-2-swissborg-security-day-boba-guys",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-d4686bd12e6f490d9c281b400140888c",
+        "meta": {
+          "previousId": "builder-22fe4b80c7314b33bd943dc43f1ff84d"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-378c000f18954250979014e81d27058e",
+            "meta": {
+              "previousId": "builder-d1ebc39509d541919c634b7c6131a9aa"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Day 2 is done! On this second day of Breakpoint, the Solana Campus was brimming with activity — you can really see how the Solana community has come from all over the world to bring Breakpoint to life. In case you missed it, here’s what happened on Day 2.</p><h3>Session Highlights</h3><ul><li>At the Innovator Stage, it was Neodyme Security Day — a whole day of talks and panels dedicated to security. Some highlights include <a href=\"https://youtu.be/AFlf0EKs8sY?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\">an RPC provider security panel</a> led by TitanOne’s Brian Long, a dive into the <a href=\"https://youtu.be/KwhxhH_Vpkc?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\">GREED experiment</a>, and<a href=\"https://youtu.be/F_b183q-fiY?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\"> a special fireside chat</a> with Anatoly Yakovenko and Thomas Lambertz.</li><li>SwissBorg announced <a href=\"https://twitter.com/nremond/status/1719673079138255085\" rel=\"noopener noreferrer\" target=\"_blank\">a Solana integration</a> through Orca.</li><li><a href=\"https://www.youtube.com/watch?v=yoZ2eF6Na7w\" rel=\"noopener noreferrer\" target=\"_blank\">On the Main Stage, Boba Guys shared </a>the results of their loyalty program built with Solana — 67% uplift in monthly visits per customer, 65% increase in monthly spend per customer, and an 800% ROI.</li><li>Ori Kwan, co-founder of Orca and Yutaro Mori, founder of Orca Foundation took to the Main Stage to announce <a href=\"https://youtu.be/dH_-SgwaeC4?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\">Orca’s new LP Terminal</a>.&nbsp;</li><li>The Firedancer team came by to host a number of workshops and talks, including chief scientist of Jump Trading Group <a href=\"https://twitter.com/AlchemizeOne/status/1719736980680876202\" rel=\"noopener noreferrer\" target=\"_blank\">Kevin Bowers</a>.&nbsp;</li><li>See all Day 2 panels<a href=\"https://www.youtube.com/@SolanaFndn/playlists?view=50&amp;sort=dd&amp;shelf_id=1\" rel=\"noopener noreferrer\" target=\"_blank\"> here.</a></li></ul><h3>Event Highlights</h3><ul><li>3.Land hosted an <a href=\"https://twitter.com/3rd_land/status/1719400421033185487\" rel=\"noopener noreferrer\" target=\"_blank\">immersive, augmented reality experience!</a></li></ul><h3>ICYMI</h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f2878ed77d4e484dba8e03eb2359ba50",
+            "meta": {
+              "previousId": "builder-b0d577271f8545909f544a9d590c0316"
+            },
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://twitter.com/Justin_Bons",
+                "content": "<div align=\"center\"><a class=\"twitter-timeline\" data-width=\"600\" data-dnt=\"true\"  data-tweet-limit=\"4\" href=\"https://twitter.com/Justin_Bons?ref_src=twsrc%5Etfw\">Tweets by Justin_Bons</a>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-89d840ea582d424e833cc790fc3dfd8e",
+            "meta": {
+              "previousId": "builder-25434a412d3b48d89f8039cc07e74b9a"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Couldn’t make it in person? No problem! Tune into our <a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">livestream</a> to catch all the action from home. Don’t miss out on the excitement and knowledge being shared at Breakpoint.</p><p>Engage with Breakpoint attendees and the Solana community at <a href=\"https://twitter.com/solanaconf\" rel=\"noopener noreferrer\" target=\"_blank\">@SolanaConf</a>. Use the hashtag <a href=\"https://twitter.com/search?q=%23Breakpoint2023&amp;src=typed_query\" rel=\"noopener noreferrer\" target=\"_blank\">#Breakpoint2023</a> to share your moments and follow the conversation!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe426f219e51f49579cf43d50e97c1dfc",
+  "lastUpdated": 1725702210785,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_39482f4d49b8488b8ddc04743c2bc5a4",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1698781360928,
+  "@originId": "39482f4d49b8488b8ddc04743c2bc5a4",
+  "testRatio": 1,
+  "createdDate": 1698865569919,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/breakpoint-2023-day-2-swissborg-security-day-boba-guys?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=39482f4d49b8488b8ddc04743c2bc5a4&builder.overrides.39482f4d49b8488b8ddc04743c2bc5a4=39482f4d49b8488b8ddc04743c2bc5a4&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "originalContentId": "56e442dde615450cad734a463dfec9d4",
+    "componentsUsed": {
+      "Copy": 2,
+      "Section Molecule": 1
+    },
+    "hasLinks": false,
+    "winningTest": null
+  },
+  "name": "Day 2 at Breakpoint: Security Day, SwissBorg, and Boba Guys!",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

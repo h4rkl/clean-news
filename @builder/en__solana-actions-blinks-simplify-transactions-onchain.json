@@ -1,0 +1,307 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-actions-blinks-simplify-transactions-onchain",
+  "data": {
+    "datePublished": 1719316800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F857a374859a54292b87a3b4f08ff2092",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Solana Actions and blockchain links (blinks) are two new developer tools that will enable seamless integration into everyday digital experiences",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F857a374859a54292b87a3b4f08ff2092",
+      "seoDescription": "Solana Actions and blockchain links (blinks) are two new developer tools that will enable seamless integration into everyday digital experiences.",
+      "seoTitle": "Solana Foundation Unveils Actions and Blinks to Simplify Transactions Onchain"
+    },
+    "title": "Solana Foundation Unveils Actions and Blinks to Simplify Transactions Onchain",
+    "slug": "solana-actions-blinks-simplify-transactions-onchain",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a06f417c4cb24d50b4ca8ca34a2230a7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-6c4dcb8d305042c6b124b6487775e58a",
+        "meta": {
+          "previousId": "builder-0b9d9b40b4674960b7747826b305b9fe"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bac5b2dc2f3647da9d97a972cdccd07a",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline"
+              ],
+              "previousId": "builder-be82f2cea8784e7fab4c9261c107dbcb"
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Learn More"
+                    },
+                    "hierarchy": "outline",
+                    "url": "https://solana.com/solutions/actions"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "SOLUTIONS"
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Blinks and Solana Actions"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "See how blockchain links and the Solana Actions API are bringing crypto to the rest of the internet."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In This Article"
+                }
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-1963cbd3040a47afa808a17a9c0654ad",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-c550902c3a964156b8855b134b0ed995"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong><em>SAN FRANCISCO</em></strong><em> – June 25, 2024</em> – The Solana Foundation, a non-profit organization dedicated to the Solana network's decentralization, adoption, and security, today announced the launch of Solana Actions and blockchain links (blinks) to its suite of developer tools. These tools offer way to integrate blockchain transactions into any platform, creating a seamless and intuitive web3 experience for users</p><p>Solana Actions allow users to execute onchain transactions across various platforms, including websites, social media, and physical QR codes. Actions make it simple for developers to integrate everything you can do in the Solana ecosystem right into their applications.&nbsp;</p><p>Solana blinks turn any Action into a shareable link, allowing any website that can display a URL to be the start of a Solana transaction. As a result, blinks transform websites or social media platforms into a surface for on-chain transactions, without taking users elsewhere – making decentralized applications more accessible and user-friendly.</p><p>“Access to blockchain protocols has long been isolated to dApps and other wallet-aware tools. Now, Actions and blinks on Solana allow any website and application on the internet to be a distribution point for onchain interactions – furthering the goal of mainstream adoption,” said Jon Wong, Head of Ecosystem Engineering at the Solana Foundation. “These simple-yet-powerful tools bring blockchain to everyone, everywhere by lowering the barriers to entry and paving the way for broader adoption of blockchain-based transactions.”&nbsp;</p><p>\"Actions and blinks deliver on one of the internet's original promises: they make experiences portable, shareable, and actionable on any surface. From your X feed you can buy a NFT, tip a creator, receive money, vote, stake, swap and so much more.\" says Chris Osborn, Founder of Dialect. \"Our mission at Dialect is to give developers the best tools to create these experiences for their users. We can't wait to see what the community builds with it.\"</p><p>Solana Actions and blinks are available immediately for businesses to integrate into their current offerings. Detailed documentation and support are provided here to assist developers in getting started.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-7d252cd3871e41b28c05f319c0b793c9",
+                "meta": {
+                  "previousId": "builder-64047d5578174b58b9ec78293dccd501"
+                },
+                "component": {
+                  "name": "Custom Code",
+                  "options": {
+                    "code": "<br />\n<hr />\n<br />\n",
+                    "scriptsClientOnly": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-8ebbb109bed9480fbd1b97359ddbfcf8",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong><em>About Solana</em></strong></p><p><em>Solana is a blockchain built for mass adoption. It's a high-performance network that is utilized for a range of use cases, including finance, NFTs, payments, and gaming. Solana operates as a single global state machine, and is open, interoperable and decentralized. For more information, please visit </em><a href=\"https://c212.net/c/link/?t=0&amp;l=en&amp;o=3950079-1&amp;h=1109054100&amp;u=http%3A%2F%2Fsolana.com%2F&amp;a=https%3A%2F%2Fsolana.com\" rel=\"noopener noreferrer\" target=\"_blank\"><em>https://solana.com</em></a><em>.</em></p><p><strong><em>About Solana Foundation</em></strong></p><p><em>The Solana Foundation is a non-profit foundation based in Zug, Switzerland, dedicated to the decentralization, adoption, and security of the Solana network. For more information, please visit </em><a href=\"https://c212.net/c/link/?t=0&amp;l=en&amp;o=3950079-1&amp;h=3783335013&amp;u=http%3A%2F%2Fsolana.org%2F&amp;a=https%3A%2F%2Fsolana.org%2F\" rel=\"noopener noreferrer\" target=\"_blank\"><em>https://solana.org/</em></a><em>.</em></p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-a2b52f7c5eec487cad96baeca523f1b4",
+        "meta": {
+          "localizedTextInputs": [
+            "eyebrow",
+            "headline",
+            "body",
+            "placeholder",
+            "emailError",
+            "submitError",
+            "successMessge"
+          ]
+        },
+        "component": {
+          "name": "Switchback",
+          "options": {
+            "assetSide": "right",
+            "image": {
+              "alt": {
+                "@type": "@builder.io/core:LocalizedValue",
+                "Default": ""
+              },
+              "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8394a7c13a8b4714a3df212f0799b409"
+            },
+            "eyebrow": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": ""
+            },
+            "headline": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": "Unchain Crypto with Blinks and Solana Actions"
+            },
+            "body": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": "<p>Mint, swap, sell, vote, and process any Solana transaction — from anywhere. Start building blockchain links and Solana Actions today.</p>"
+            },
+            "placeholder": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": ""
+            },
+            "emailError": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": ""
+            },
+            "submitError": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": ""
+            },
+            "successMessge": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": ""
+            },
+            "buttons": [
+              {
+                "hierarchy": "primary",
+                "size": "md",
+                "iconSize": "md",
+                "label": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Read the docs"
+                },
+                "url": "https://solana.com/docs/advanced/actions"
+              }
+            ]
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "lastUpdated": 1719320610547,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_fb3256aeaf0d41f18b479c22dcb8b6c2",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1719320416755,
+  "@originId": "fb3256aeaf0d41f18b479c22dcb8b6c2",
+  "testRatio": 1,
+  "createdDate": 1719281832297,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-actions-blinks-simplify-transactions-onchain?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=fb3256aeaf0d41f18b479c22dcb8b6c2&builder.overrides.fb3256aeaf0d41f18b479c22dcb8b6c2=fb3256aeaf0d41f18b479c22dcb8b6c2&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "originalContentId": "c8f7ab10333340898127722b933b4de3",
+    "componentsUsed": {
+      "Copy": 2,
+      "Content Editor": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false,
+    "winningTest": null
+  },
+  "name": "Solana Foundation Unveils Actions and Blinks to Simplify Transactions Onchain",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

@@ -1,0 +1,190 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a6080d6ff224bcf9592465e7b865a1b",
+    "inputs": [],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "title": "Elastic Circuit Breakers",
+    "twitterMeta": {
+      "twitterTitle": "Elastic Circuit Breakers",
+      "twitterDescription": "\nOn Black Thursday, we saw multiple oracle and settlement platform failures that were tied to network congestion and spikes in transaction…\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Elastic-Circuit-Breakers/1-NbrWZ0dChSls2WZScjU5uQ-1.png"
+    },
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bcb4dba618b1420eaef36b7cf622a748"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_03e6904c00924a32b6187f46a5fa40d0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_0bf606310ab04c828ac86ff3273a86ee"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a08bdcb4a0ca4f81b00df16c8ca465ee"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2f3a618701124521874730783ed79998"
+        }
+      }
+    ],
+    "datePublished": 1584428400000,
+    "intro": "\nOn Black Thursday, we saw multiple oracle and settlement platform failures that were tied to network congestion and spikes in transaction…\n",
+    "publishedDate": "Tue Mar 17 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Elastic Circuit Breakers",
+      "noFollow": false,
+      "seoDescription": "\nOn Black Thursday, we saw multiple oracle and settlement platform failures that were tied to network congestion and spikes in transaction…\n",
+      "seoTitle": "Elastic Circuit Breakers",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Elastic Circuit Breakers",
+      "ogUrl": "https://www.solana.com/blog/elastic-circuit-breakers",
+      "ogDescription": "\nOn Black Thursday, we saw multiple oracle and settlement platform failures that were tied to network congestion and spikes in transaction…\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Elastic-Circuit-Breakers/1-NbrWZ0dChSls2WZScjU5uQ-1.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "slug": "elastic-circuit-breakers",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-80ba746138f74650892b15e3687ccd65",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-17a3eb582d2c4913bb4e055fe3a9963b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F917aa4d00baa47f69007ac71301a0d29?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F917aa4d00baa47f69007ac71301a0d29?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F917aa4d00baa47f69007ac71301a0d29?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F917aa4d00baa47f69007ac71301a0d29?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F917aa4d00baa47f69007ac71301a0d29?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F917aa4d00baa47f69007ac71301a0d29?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F917aa4d00baa47f69007ac71301a0d29?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F917aa4d00baa47f69007ac71301a0d29?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F917aa4d00baa47f69007ac71301a0d29?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F917aa4d00baa47f69007ac71301a0d29?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-588ec36a9c094ae68183179be2957c15",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>On Black Thursday, we saw multiple oracle and settlement platform failures that were tied to network congestion and spikes in transaction fees and prices. A lot of folks on Twitter have suggested that we need global circuit breakers for crypto trading. While we cannot confirm this, it appears that BitMEX instituted a circuit breaker — by just unilaterally shutting down the exchange without warning — to prevent BTC from cascading down to $0.</p><p>I think we can do much better than the status quo — CEXs — and build elastic circuit breakers that can dynamically adjust when volatility is high.</p><p>How do we build an elastic circuit breaker in a decentralized way? By default, orders are executed within the same block that they are matched. What if we allowed orders a fixed period of time measured in the number of blocks to cancel after they have been matched? Let’s call this value T, and under normal operation, T can be set to 0. During times of high volatility, instead of completely halting the marketplace, the underlying marketplace contract can dynamically increase T. This would give both traders and oracles more time to cancel their orders until the volatility subsides. During the extended period T, additional orders, cancels, price changes and oracle prices are allowed to enter the marketplace, and as long as one block producer is honest, a trader can adjust her order before it is executed and maintain a spread that is appropriate for the current volatility. Eventually, panic subsides, spreads tighten, volatility decreases, and T can automatically readjust to normal levels.</p><p>Should T be adjusted by an oracle, or programmatically from market place activity? This paper by Philip Daian does a great job of describing the problem of ‘Miner arbitrage’,&nbsp;<a href=\"https://arxiv.org/abs/1904.05234,?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://arxiv.org/abs/1904.05234,</a>&nbsp;and this problem applies to oracles as well. Inherently, the people who control which transactions go in each block (validators) will have undue influence on such a system.</p><p>If T is derived programmatically, we have a bit more control over how the market behaves even if the miners are dishonest. Assume T is calculated from the current volatility over a short period of time. We can start with T = 0 blocks. Most orders should execute when matched, and cancellation is not allowed. This works fine if most trades execute close to the spread. When an order is placed mid spread, a miner sees an opportunity and purchases the order in the same block and injects another order that buys the same asset in the same block. This allows the miner to make a small profit because all of the trades are occurring within the spread and executing in the same block. There is nothing particularly wrong with this since the miner is effectively acting as a market maker.</p><p>So, how does Solana help? We have a low-latency, high-capacity, and single-shard replicated state machine. We can help with the oracle and marketplace problem by offering more block producers per second, more traders per second, and more price feeds per second.</p><p>If a taker buys or sells deep into the order book, volatility is calculated for that market, and T increases to N blocks. Since the orders are not executed for N blocks after they are matched, anyone trying to use flash loans to secure that trade cannot be repaid in the same transaction, and those orders fail. During a panic, information flows to traders, block producers, and oracles at different times; if an order clears the entire order book, the market makers have a chance to cancel their positions and widen spreads.</p><p>This elastic circuit breaker idea is only viable in low-latency, high throughput environments.</p><p>So, how does Solana help? We have a low-latency, high-capacity, and single-shard replicated state machine. We can help with the oracle and marketplace problem by offering more block producers per second, more traders per second, and more price feeds per second. If you design your marketplace such that it behaves fairly and if at least one honest block producer participated in time T, then our performance can help maximize the odds of an honest block producer participating in the market. To give you some concrete numbers, Ethereum blocks are produced every 15 seconds, and we have 400 ms blocks, with block producers rotating every four slots (1600ms). Solana rotates through nine-block producers in the same amount of time of a single Ethereum block. If only 33% of Solana validators are honest, the likelihood of an honest producer is 98.7% within the same time frame of a single Ethereum block.</p><p>Pre-bidding is&nbsp;<strong>now live</strong>&nbsp;for our<a href=\"http://coinlist.co/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;Coinlist auction</a>. The actual auction will take place on March 23rd at 10pm PT.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9c932b626d64d7aa6b14b507aa2f896",
+  "lastUpdated": 1694189911058,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a129c7c6d78f453fad309b998bf636b8",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687514485473,
+  "@originId": "a129c7c6d78f453fad309b998bf636b8",
+  "testRatio": 1,
+  "createdDate": 1687362732710,
+  "createdBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=a129c7c6d78f453fad309b998bf636b8&builder.overrides.a129c7c6d78f453fad309b998bf636b8=a129c7c6d78f453fad309b998bf636b8&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Elastic Circuit Breakers",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

@@ -1,0 +1,337 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-foundation-delegation-program-updates",
+  "data": {
+    "datePublished": 1713978000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1874ed15459645e7b8f3afb21a38041f",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "See how the Solana Foundation encourages the high performance, decentralization, and security of the network.",
+    "seo": {
+      "seoDescription": "See how the Solana Foundation encourages the high performance, decentralization, and security of the network.",
+      "seoTitle": "Updates to the Solana Foundation Delegation Program"
+    },
+    "title": "Supporting Validators: Updates to the Solana Foundation Delegation Program",
+    "slug": "solana-foundation-delegation-program-updates",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-01819b3429fc42b9855d37f18445df88",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2312aba7c3f947a5badc9dbd29cb87fe",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>A robust community of independent validators forms the backbone of the Solana network. As a permissionless network, anyone can run a validator node at any time, for any reason. This idea is the keystone to the entire concept of a decentralized network: All are welcome, for any reason. It’s what the Solana community should strive for.</p><p>At the same time, the Solana Foundation strives to support this community-led network while encouraging high performance, decentralization, and secure node operations. To advance these goals, the Solana Foundation has committed to direct a portion of its treasury to efforts which advance the decentralization and security of the network — most notably, through voluntary programs such as the <strong>Solana Foundation Delegation Program.&nbsp;</strong></p><p>As the Solana network, the protocol software, and the community of validator operators evolve and mature, the Solana Foundation evaluates its own efforts to ensure that any incentives or support programs are structured effectively and appropriately. To this end, the Foundation implemented updated programs for new and existing validators to encourage a more secure and self-sufficient network. <a href=\"https://solana.com/news/solana-foundation-announces-end-of-tour-de-sun-22\" rel=\"noopener noreferrer\" target=\"_blank\">Read more about these changes here</a>.</p><p>Read on for an in-depth dive into the Solana Foundation’s philosophy when it comes to supporting the validator network, and the various programs it uses to do so.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-403468a9cea446a1a6b88ec8cd7fa0bd",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Supporting Key Focus Areas</h2><p>The Solana Foundation’s network support is focused on four main areas:</p><ol><li>Support for a large testnet and time-bound incentives for new operators.</li><li>Direct time-bound support for newer or smaller validators on mainnet beta to offset some voting costs.</li><li>Matching stake delegations to high-performing mainnet nodes, proportional to the amount of external stake delegations a node has attracted.</li><li>Deposits into community-run stake pools to decentralize the Foundation’s own delegation strategies across a variety of community-led approaches.</li></ol>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-83049c1bf0f24b429666918cd541351f",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Testnet Support</h3><p>Solana testnet is critical for protocol changes, experimental features, adversarial testing, as well as a learning sandbox for validator operators — all of which are important for a strong, resilient Solana mainnet beta environment. The Solana public testnet should maintain the following properties:</p><ul><li>Testnet should have a significantly larger node count than mainnet. This stress tests various distributed systems and networking parts of the protocol.</li><li>New software releases or forks from the various validator development teams should be run on testnet to ensure stability compatibility with existing software.</li><li>Activation of new features happens on testnet before such a feature would be proposed to be introduced or activated on mainnet.</li><li>Adversarial and load tests take place on testnet to discover and address potential performance issues.</li><li>New and existing validator operators have an environment to test out new configurations, new software or hardware to ensure they have a robust production node on mainnet.</li></ul><p>To support testnet as a critical resource for Solana development, the Solana Foundation Delegation Program offers a time-bound (up to six months) incentive for operators to help offset some startup costs to run a validator on testnet.&nbsp;</p><p>Additionally, for any validators who run on mainnet and wish to be eligible to receive stake matching from the Foundation, the Foundation requires that these operators also continually run a well-performing node on testnet, and participate in timely network exercises such as planned upgrades/downgrades or other activities such as a simulated network outage and restart. This ensures a responsive testnet population, and an experienced validator set on mainnet.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c35b2d305d624bd9b8196c1dc162a9f5",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Mainnet Voting Support</h3><p>On Solana, consensus votes are submitted to the onchain Vote program, and are processed in the SVM runtime alongside all other user-submitted transactions. Consensus votes incur standard transaction fees like all other transactions on the network in order to have their result confirmed by the validator set. While individual transactions on Solana are extremely low-cost (a single vote transaction carries a 0.000005 SOL transaction fee), Solana’s short block times of 400ms means that a perfectly performing validator could submit up to 216,000 vote transactions per day, incurring a theoretical upper bound of up to 1.08 SOL in transaction fee costs daily.&nbsp;</p><p>This voting cost can create a financial barrier for some new operators who want to help secure the Solana network. Once a validator has received stake delegations on the network and earns block rewards from transaction fees included in any blocks they produce, these protocol rewards can be used to offset their voting costs.</p><p>To help new or smaller validators overcome this initial barrier, the Foundation will run a time-bound program to partially cover a node’s vote costs with diminishing coverage over time to encourage operators to find their way to self-sufficiency. For new operators on mainnet who choose to apply for voting support, Solana Foundation will now cover:</p><ul><li>100% of voting costs for epochs 0-45</li><li>75% of voting costs for epochs 46-90</li><li>50% of voting costs for epochs 90-135</li><li>25% of voting costs for epochs 136-180</li></ul><p>After 180 epochs (approximately one year), the Foundation will not cover any vote costs for node operators. All vote coverage is contingent upon the node performing well on mainnet, as well as a high-performing associated node on testnet.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1e4a5a0323454165a434f97709814661",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Mainnet Stake Matching</h3><p>The Solana Foundation Delegation Program aims to amplify the impact of stake delegations issued to a node, whether they are from the node operator, a third party delegator, or from an independent stake pool.</p><p>For eligible, high-performing validators, the Solana Foundation will now match external delegations 1:1 up to 100,000 SOL. For example, if a validator receives 5,000 SOL from external delegations, the Foundation will delegate an additional 5,000 SOL to that node as long as it meets ongoing performance and decentralization criteria. If that validator’s delegation increases over time up to 100,000 SOL, the Foundation will continually increase its matched delegation. When a validator’s external stake exceeds 100,000 SOL, up to 1,000,000 SOL, the Foundation match will remain capped at 100,000 SOL. If a validator’s external delegations exceed 1,000,000 SOL, the Foundation will no longer delegate to that node.</p><p>Any residual SOL held by the Foundation that is committed to this program after all the stake matching delegations are made will be distributed evenly to eligible validators as long as they meet program performance requirements.</p><p>The initial matching ratio of 1:1, matching limits, and the pool of residual SOL delegations are all expected to decrease over time as the Foundation increases its deposits into community stake pools, thereby reducing any operator’s reliance on any single delegation strategy or on the Foundation as a whole.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9d6770f165c14368848adcfcf4f62074",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Community Stake Pool Deposits</h3><p>Numerous stake pools and protocols have emerged on Solana and are growing to underpin many important aspects of the Solana networks’s security and onchain activity. Growth and resiliency of staking protocols are valuable to Solana’s decentralization and enable more people to easily participate in securing the network. By leaning on a competitive set of stake pool operators, the Foundation reduces its influence over the network and its validators, putting more control where it belongs, in the hands of the community which drives it.</p><p>Over time, the Foundation intends to deposit a large portion of its SOL tokens across a number of stake pools, which in turn have their own varying validator growth and decentralization criteria.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c1f57fe735b243f4a77084683d12d8a6",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>How to apply</h2><p>While being a validator and securing the network is open to all, participation in one or more of these programs requires an application and specific program requirements. Interested validators can <a href=\"https://solana.org/delegation-program\" rel=\"noopener noreferrer\" target=\"_blank\">learn more here</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9d68b7710fa04c2e9d761097df507f6e",
+            "meta": {
+              "previousId": "builder-94bb68afefb64fee95700bc354ac6c74"
+            },
+            "component": {
+              "name": "Heading",
+              "options": {
+                "eyebrow": "",
+                "headline": "Learn from Solana Developers",
+                "body": "",
+                "variant": "standard"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "-90px"
+              },
+              "medium": {
+                "marginBottom": "-45px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-178b14cc38e742e0aef3ad530224d60e",
+            "meta": {
+              "previousId": "builder-d859d6ed10ea4df8be20bcfeeeefb904"
+            },
+            "component": {
+              "name": "Card Deck",
+              "options": {
+                "cards": [
+                  {
+                    "type": "image",
+                    "heading": "Intro to Solana Development",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Development Course",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://www.soldev.app/course",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Bootcamp",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "More Solana Developer Tools",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  }
+                ],
+                "featured": true,
+                "numCols": 3
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F01fefaab488f4c04892a390f100906ca",
+  "lastUpdated": 1713996817351,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_22dfcd1023b54a49b29f2eeed355654b",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1713996817291,
+  "@originId": "22dfcd1023b54a49b29f2eeed355654b",
+  "testRatio": 1,
+  "createdDate": 1713990211105,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-foundation-delegation-program-updates?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=22dfcd1023b54a49b29f2eeed355654b&builder.overrides.22dfcd1023b54a49b29f2eeed355654b=22dfcd1023b54a49b29f2eeed355654b&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Heading": 1,
+      "Copy": 7,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Supporting Validators: Updates to the Solana Foundation Delegation Program",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

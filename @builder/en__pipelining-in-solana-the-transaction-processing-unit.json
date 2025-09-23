@@ -1,0 +1,270 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1569135600000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Find out the process the Solana network utilizes to validate and replicate transactions with web-scale speed and functionality.",
+    "publishedDate": "Sun Sep 22 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "Pipelining in Solana: The Transaction Processing Unit",
+    "seo": {
+      "internalName": "Pipelining in Solana: The Transaction Processing Unit",
+      "noFollow": false,
+      "seoDescription": "Find out the process the Solana network utilizes to validate and replicate transactions with web-scale speed and functionality.",
+      "seoTitle": "Pipelining in Solana: The Transaction Processing Unit",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Pipelining in Solana: The Transaction Processing Unit",
+      "ogUrl": "https://www.solana.com/blog/pipelining-in-solana-the-transaction-processing-unit",
+      "ogDescription": "Find out the process the Solana network utilizes to validate and replicate transactions with web-scale speed and functionality.",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Pipelining in Solana: The Transaction Processing Unit",
+      "twitterDescription": "Find out the process the Solana network utilizes to validate and replicate transactions with web-scale speed and functionality.",
+      "twitterImage": null
+    },
+    "slug": "pipelining-in-solana-the-transaction-processing-unit",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bcb4dba618b1420eaef36b7cf622a748"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bc7652f96eea4786851801f91b6d13e8"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6e486fb681614dda8835548c251fe8e7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-136bd4df331441dd8181532f0c824edc",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-039207d163d241b9907d5f4dd51e0190",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Find out the process the Solana network utilizes to validate and replicate transactions with web-scale speed and functionality.</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6526360e25684752bff7bca62ae60ba5",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd4fac7e0d9346eeac6dfadc47807360?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 750,
+                "width": 1440,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd4fac7e0d9346eeac6dfadc47807360?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd4fac7e0d9346eeac6dfadc47807360?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd4fac7e0d9346eeac6dfadc47807360?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd4fac7e0d9346eeac6dfadc47807360?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd4fac7e0d9346eeac6dfadc47807360?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd4fac7e0d9346eeac6dfadc47807360?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd4fac7e0d9346eeac6dfadc47807360?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd4fac7e0d9346eeac6dfadc47807360?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd4fac7e0d9346eeac6dfadc47807360?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9671cc82fbe24a2193b7b7881c71befa",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>To get to sub-second confirmation times and the transactional capacity required for Solana to become the world’s first web-scale blockchain, it’s not enough to just form consensus quickly. The team had to develop a way to quickly validate massive blocks of transactions, while quickly replicating them across the network. To achieve this, the process of transaction validation on the Solana network makes extensive use of an optimization common in CPU design called pipelining.</p><p>Pipelining is an appropriate process when there’s a stream of input data that needs to be processed by a sequence of steps and there’s different hardware responsible for each. The quintessential metaphor to explain this is a washer and dryer that wash/dry/fold several loads of laundry in sequence. Washing must occur before drying and drying before folding, but each of the three operations is performed by a separate unit.</p><p>To maximize efficiency, one creates a pipeline of stages. We’ll call the washer one stage, the dryer another, and the folding process a third. To run the pipeline, one adds a second load of laundry to the washer just after the first load is added to the dryer. Likewise, the third load is added to the washer after the second is in the dryer and the first is being folded. In this way, one can make progress on three loads of laundry simultaneously. Given infinite loads, the pipeline will consistently complete a load at the rate of the slowest stage in the pipeline.</p><p>“We needed to find a way to keep all hardware busy all the time. That’s the network cards, the CPU cores and all the GPU cores. To do it, we borrowed a page from CPU design”, explains Solana Founder and CTO Greg Fitzgerald. “We created a four stage transaction processor in software. We call it the TPU, our Transaction Processing Unit.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0cb3d74cce6a44aca7968e1adc901345",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8d8edf869b0741308f90c9c53fc66eb3?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 563,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8d8edf869b0741308f90c9c53fc66eb3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8d8edf869b0741308f90c9c53fc66eb3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8d8edf869b0741308f90c9c53fc66eb3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8d8edf869b0741308f90c9c53fc66eb3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8d8edf869b0741308f90c9c53fc66eb3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8d8edf869b0741308f90c9c53fc66eb3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8d8edf869b0741308f90c9c53fc66eb3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8d8edf869b0741308f90c9c53fc66eb3?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8d8edf869b0741308f90c9c53fc66eb3?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1beed9b4b754408889771456a26d51f8",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>On the Solana network, the pipeline mechanism — Transaction Processing Unit — progresses through&nbsp;<strong>Data Fetching</strong>&nbsp;at the kernel level,&nbsp;<strong>Signature Verification</strong>&nbsp;at the GPU level,&nbsp;<strong>Banking</strong>&nbsp;at the CPU level, and<strong>&nbsp;Writing&nbsp;</strong>at the kernel space. By the time the TPU starts to send blocks out to the validators, it’s already fetched in the next set of packets, verified their signatures, and begun crediting tokens.</p><p>The Validator node simultaneously runs two pipelined processes, one used in leader mode called the TPU and one used in validator mode called the TVU. In both cases, the hardware being pipelined is the same, the network input, the GPU cards, the CPU cores, writes to disk, and the network output. What it does with that hardware is different. The TPU exists to create ledger entries whereas the TVU exists to validate them.</p><p>“We knew that signature verification was going to be a bottleneck, but also that it’s this context-free operation that we could offload to the GPU,” says Fitzgersald. “Even after offloading this most expensive operation, there’s still a number of additional bottlenecks, such as interacting with the network drivers and managing the data dependencies within smart contracts that limit concurrency.”</p><p>Between the GPU parallelization in this four-stage pipeline, at any given moment, The Solana TPU can be making progress on 50,000 transactions simultaneously. “This can all be achieved with an off-the-shelf computer for under $5000,” explains Fitzgerland. “Not some supercomputer.”</p><p>With the GPU offloading onto Solana’s Transaction Processing Unit, the network can affect single node efficiency. Achieving this has been the goal of Solana since inception.</p><p>“The next challenge is to somehow get the blocks somehow from the leader node out to all the validator nodes, and to do it in a way that doesn’t congest the network and bring throughput to a crawl,” continues Fitzgerald. “For that, we’ve come up with a block propagation strategy that we call Turbine.</p><p>“With Turbine, we structure the Validator nodes into multiple levels, where each level is at least twice the size of the one above it. By having this structure, these distinct levels, confirmation time ends up being proportional to the height of the tree and not the number of nodes in it, which is far greater. Every time the network doubles in size, you’ll see a small bump in confirmation time, but that’s it.”</p><p>In addition to technological implementations like Pipelining, there are several key innovations that make Solana’s web-scale blockchain functionality possible. For a deeper understanding of them all, you can read about them on the Solana blog:</p><h2><strong>There are 8 key innovations that make the Solana network possible:</strong></h2><ul><li><a href=\"http://localhost:3001/proof-of-history--a-clock-for-blockchain?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Proof of History (POH)</strong></a><strong> </strong>— a clock before consensus;</li><li><a href=\"http://localhost:3001/tower-bft--solana-s-high-performance-implementation-of-pbft?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Tower BFT </strong></a>— a PoH-optimized version of PBFT;</li><li><a href=\"http://localhost:3001/turbine---solana-s-block-propagation-protocol-solves-the-scalability-trilemma?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Turbine</strong></a> — a block propagation protocol;</li><li><a href=\"http://localhost:3001/gulf-stream--solana-s-mempool-less-transaction-forwarding-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Gulf Stream</strong></a><strong> </strong>— Mempool-less transaction forwarding protocol;</li><li><a href=\"https://solana.ghost.io/sealevel---parallel-processing-thousands-of-smart-contracts\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sealevel </strong></a>— Parallel smart contracts run-time;</li><li><a href=\"https://medium.com/solana-labs/pipelining-in-solana-the-transaction-processing-unit-2bb01dbd2d8f?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Pipelining</strong></a> — a Transaction Processing Unit for validation optimization</li><li><a href=\"http://localhost:3001/cloudbreak---solana-s-horizontally-scaled-state-architecture?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Cloudbreak</strong></a><strong> </strong>— Horizontally-Scaled Accounts Database; and</li><li><a href=\"https://solana.com/archivers?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Archivers</strong></a> — Distributed ledger storage</li></ul><p>Written by&nbsp;<a href=\"https://andrewhyde.medium.com/?source=follow_footer-------------------------------------\" rel=\"noopener noreferrer\" target=\"_blank\">Andrew Hyde</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faeec8ddefb10405cb8cdac7186285f8f",
+  "lastUpdated": 1694189901324,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6efd7245a151435a9984913a659e570e",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687499109698,
+  "@originId": "6efd7245a151435a9984913a659e570e",
+  "testRatio": 1,
+  "createdDate": 1687362739810,
+  "createdBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=6efd7245a151435a9984913a659e570e&builder.overrides.6efd7245a151435a9984913a659e570e=6efd7245a151435a9984913a659e570e&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Pipelining in Solana: The Transaction Processing Unit",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

@@ -1,0 +1,117 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1659985200000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "If you are a user of Slope, or have ever previously imported seed phrases into\nSlope, your wallet may be compromised. Please take the steps outlined in the\nMitigation section. \n\nStarting at 08-02-2022 22:37 UTC and continuing for ~4 hours, a malicious\nattacker or attackers drained 9,231 wallets\n[https://dune.com/tristan0x/solana-hack-3822] of approximately $4.1 million\nworth of assets. On-chain transaction show that private keys for the affected\nwallets had been leaked or compromised, and were u",
+    "publishedDate": "Tue Aug 09 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "title": "8/2/2022 Slope Wallet Incident Update",
+    "seo": {
+      "internalName": "8/2/2022 Slope Wallet Incident Update",
+      "noFollow": false,
+      "seoDescription": "Affected addresses were at one point created, imported, or used in the Slope wallet applications on iOS and Android",
+      "seoTitle": "8/2/2022 Slope Wallet Incident Update",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "8/2/2022 Slope Wallet Incident",
+      "ogUrl": "https://www.solana.com/blog/8-2-2022-application-wallet-incident",
+      "ogDescription": "Affected addresses were at one point created, imported, or used in the Slope wallet applications on iOS and Android",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "8/2/2022 Slope Wallet Incident Update",
+      "twitterImage": null,
+      "twitterDescription": "Affected addresses were at one point created, imported, or used in the Slope wallet applications on iOS and Android"
+    },
+    "slug": "8-2-2022-application-wallet-incident",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-079e2304ccec49519e606ee94d8e96f4",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-83d6f67dd374458c81ed01586cd2e882",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>If you are a user of Slope, or have ever previously imported seed phrases into Slope, your wallet may be compromised.</strong>&nbsp;Please take the steps outlined in the Mitigation section.</p><p>Starting at 08-02-2022 22:37 UTC and continuing for ~4 hours, a malicious attacker or attackers drained&nbsp;<a href=\"https://dune.com/tristan0x/solana-hack-3822?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">9,231 wallets</a>&nbsp;of approximately $4.1 million worth of assets. On-chain transaction show that private keys for the affected wallets had been leaked or compromised, and were used to sign malicious transactions.</p><p>During an investigation by developers, analytics companies, and security auditors, it appears that affected addresses were at one point created, imported, or used in the Slope wallet applications on iOS and Android (created and published by Slope Finance). Private key material from these Slope users was inadvertently transmitted by the Slope app to an application monitoring service, but exactly how the hacker obtained or intercepted this information is still under investigation. No core code related to Solana Labs, the Solana Foundation, or anything related to Solana protocol itself was involved in this attack. This was not a protocol-level vulnerability.</p><p>This exploit appears isolated to one wallet provider that supports Solana and Ethereum addresses, but affected users on other software wallets (such as Phantom and Solflare) may have been the result of users’ reuse of seed phrases generated or stored within Slope. This is not currently believed to be an issue directly related to any specific wallet implementations other than Slope’s. Any impact to users with Ethereum wallets was likely also due to reuse of seed phrases as both Ethereum and Solana use BIP39 mnemonics.</p><p>Hardware wallets (used with or without Slope) have not been impacted, and any wallets generated from seed phrases that have never been imported into (or used by) Slope wallets have not been affected. However, all a user had to do to become vulnerable was import their seed phrase into the Slope app. If you believe there is even a chance you did this, please follow mitigation steps below.</p><p><br></p><p>Block production was not affected by this incident.</p><h2><strong>Mitigation</strong></h2><p>Slope Finance is continuing to work with developers, security experts, and protocols throughout the ecosystem – including with top external security and audit groups – to determine the full extent of the issue and how this information was retrieved by the attacker. The Slope Finance team has committed to publicly publishing a full post mortem on this incident (see&nbsp;<a href=\"https://slope-finance.medium.com/slopes-official-statement-regarding-the-breach-b964e70af0d6?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Slope Finance's statement</a>).</p><p>Anyone with information pertaining to this breach can reach out to Slope Finance at&nbsp;<a href=\"mailto:exploit@slope.group\" rel=\"noopener noreferrer\">exploit@slope.group</a>.</p><p>For any user inquiries or other assistance, please contact&nbsp;<a href=\"mailto:support@slope.group\" rel=\"noopener noreferrer\">support@slope.group</a>.</p><p><strong>If you are a user of Slope, or have ever previously imported seed phrases into Slope, your wallet may be compromised</strong>, even if no assets have been transferred.&nbsp;</p><ul><li>Generate a new seed phrase in another wallet application.</li><li>Transfer all assets (tokens and NFTs) to this new wallet.</li><li>Abandon the old address, as it was potentially compromised.</li></ul><p>Users should not reuse any wallets derived from seed phrases previously used with Slope’s mobile applications.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa821e5eb2ab34117a272ae98e913a260",
+  "lastUpdated": 1694189919315,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c156769b90334e29ae3c9830c50817b4",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687557288250,
+  "@originId": "c156769b90334e29ae3c9830c50817b4",
+  "testRatio": 1,
+  "createdDate": 1687362474303,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=c156769b90334e29ae3c9830c50817b4&builder.overrides.c156769b90334e29ae3c9830c50817b4=c156769b90334e29ae3c9830c50817b4&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "8/2/2022 Slope Wallet Incident Update",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

@@ -1,0 +1,383 @@
+{
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "createdDate": 1756227580082,
+  "data": {
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e",
+      "model": "author"
+    },
+    "datePublished": 1755792000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2602a7b3aac1463fa30989b4cd876674",
+    "intro": "At the Solana Foundation, we want to fund open-source AI tooling that measurably improves how developers and applications use Solana. \n\nThe challenge is measuring the usefulness of these tools.",
+    "seo": {
+      "metaType": "article",
+      "seoDescription": "Learn about Solana Bench, a new tool for benchmarking LLMs knowledge about crypto transactions.",
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2602a7b3aac1463fa30989b4cd876674",
+      "seoTitle": "Introducing Solana Bench: How well can LLMs build complex transactions?"
+    },
+    "slug": "solana-bench",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5",
+          "model": "entity-blog-tags"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a06f417c4cb24d50b4ca8ca34a2230a7",
+          "model": "entity-blog-tags"
+        }
+      }
+    ],
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Introducing Solana Bench: How well can LLMs build complex transactions?"
+    },
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-9a103d8737474ddbb176d57b4d6dd026",
+        "meta": {
+          "previousId": "builder-e08befed9436429e9cd4b5bca84da855"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          },
+          "isRSC": null
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0fcf5db349eb4777945d5bb84dacf6e6",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline",
+                "callToAction.eyebrow",
+                "callToAction.headline",
+                "callToAction.description",
+                "callToAction.button.label"
+              ],
+              "previousId": "builder-c5a37b76f3194caab42b0388f64ed678"
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Learn More"
+                    },
+                    "hierarchy": "outline",
+                    "url": "https://solana.com/developers"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Solana Bench"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Dive into the developer docs to integrate your product or business with Solana."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In this article"
+                }
+              },
+              "isRSC": null
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-db8f88fad515446288729db34df32991",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-34f8a819f4ca427f93ffbaa33a629439"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Introducing Solana Bench</h2><p>At the Solana Foundation, we want to fund open-source AI tooling that measurably improves how developers and applications use Solana. The challenge is measuring the usefulness of these tools. Until now, we haven't had a simple, reproducible way to evaluate whether new tools actually make it easier for language models to build and run transactions on Solana. We've experimented with Q&amp;A benchmarks (too costly to maintain), tool-calling benchmarks in agent kits (too brittle and fragmented across stacks), and funding one-off toolkits (hard to track impact). Each attempt has taught us something, but none have given us a sustainable standard. That's why we're introducing&nbsp;<a href=\"https://solana-foundation.github.io/solana-gym-env/\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Bench</a>&nbsp;— two lightweight, open-ended environments designed to test LLMs' operational competence on Solana in a way that is&nbsp;<strong>simple, reproducible, and objective</strong>.</p><ol><li><strong>Basic</strong>&nbsp;- maximize the number of&nbsp;<strong>new instructions</strong>&nbsp;successfully executed using only foundational SDKs (e.g. @solana/web3.js, Anchor, etc)</li><li><strong>Swap</strong>&nbsp;- same success criterion, but within a Defi-leaning surface (Jupiter, Orca, Raydium, Phoenix, Meteora) using additional example prompts and preinstalled SDKs</li></ol><p>These environments are not about measuring profit and loss. They are about&nbsp;<strong>operational Solana competence</strong>. These environments reward composing valid transactions, choosing accounts appropriately, using SDKs correctly, recovering from errors, and exploring breadth across programs. These environments are inspired by other open-ended benchmarks like&nbsp;<a href=\"https://www.anthropic.com/news/visible-extended-thinking\" rel=\"noopener noreferrer\" target=\"_blank\">ClaudePlaysPokemon</a>,&nbsp;<a href=\"https://huggingface.co/blog/textquests\" rel=\"noopener noreferrer\" target=\"_blank\">TextQuest</a>,&nbsp;and Nvidia's&nbsp;<a href=\"https://voyager.minedojo.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Voyager.</a></p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "tagName": "a",
+                "id": "builder-5580edf3f2ce4aa1bdbec1b092f4704e",
+                "properties": {
+                  "href": "https://solana-foundation.github.io/solana-gym-env/",
+                  "target": "_blank"
+                },
+                "linkUrl": "https://solana-foundation.github.io/solana-gym-env/",
+                "meta": {
+                  "previousId": "builder-294af8f077c24bb986505f6f708ae8d4"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbfb06993c40b45858dff97404815c174?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.659,
+                    "lockAspectRatio": false,
+                    "height": 1318,
+                    "width": 2000,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "altText": ""
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "cursor": "pointer",
+                    "pointerEvents": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-cf3e2c9c7265419b8270d8eaf2712072",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-1973fa886d634903b2f9b4f25c14aae1"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><em>Benchmark Solana operational competence trajectories measured by Solana Bench across common LLMs such as Claude-Sonnet-4, GPT-5, and Gemini-2.5-Flash.</em></p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-45ae6f8b0f3843258188f284ca9e2184",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-5e46cc93d4fa4c8a91ec69295804ddf2"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2><strong>Read more about Solana Bench, Solana Foundation grant opportunities for contributing, and get started building </strong><a href=\"https://solana-foundation.github.io/solana-gym-env/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</h2>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a206ff3f041d4c0ab9621e56effb4d29",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge",
+                "buttons.0.label",
+                "image.alt"
+              ],
+              "previousId": "builder-41684b43c9b2438a83a4405a622170a2"
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1ea9ccd7db6e46389d77f825c9499b4f"
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Start building with Solana Bench."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p><span style=\"font-size: 18px;\">Expand on this research! The Solana Foundation is funding open-sourced research on high-quality Solana LLM benchmarks.</span></p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Get started with Solana Bench"
+                    },
+                    "url": "https://solana-foundation.github.io/solana-gym-env/"
+                  }
+                ]
+              },
+              "isRSC": null
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1756308293952,
+  "folders": [],
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_04a2e379aefe44f8ae25f7e1f2a7e7fd",
+  "lastUpdated": 1756499649288,
+  "lastUpdatedBy": "TccMYcQtnFaazdlcnoYGtEcNnmg1",
+  "meta": {
+    "componentsUsed": {
+      "Content Editor": 1,
+      "Copy": 3,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": true,
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-bench?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers%2CeditContentPriority%2CeditFolders%2CcreateProjects&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=04a2e379aefe44f8ae25f7e1f2a7e7fd&builder.overrides.04a2e379aefe44f8ae25f7e1f2a7e7fd=04a2e379aefe44f8ae25f7e1f2a7e7fd&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "originalContentId": "ed490919a3a14f059f524c3dea601d5d",
+    "winningTest": null
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "name": "Blog Post: Solana Bench",
+  "previewUrl": "https://solana.com/news/solana-bench",
+  "published": "published",
+  "query": [],
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F672765f74e4942608f9432c9df4955be",
+  "testRatio": 1,
+  "variations": {},
+  "@originId": "04a2e379aefe44f8ae25f7e1f2a7e7fd",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@liveSyncEnabled": true,
+  "rev": "l9w1e2t4y1"
+}

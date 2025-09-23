@@ -1,0 +1,369 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1602054000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfac7451b29948889a1bb8814af357ee",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nThe road to a decentralized economic utopia is paved by blockchains, each with a variety of goals and focus areas. Multiple blockchains…\n",
+    "publishedDate": "Wed Oct 07 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Wormhole — Solana/Ethereum Bridge",
+      "ogUrl": "https://www.solana.com/blog/wormhole---solana-ethereum-bridge",
+      "ogDescription": "\nThe road to a decentralized economic utopia is paved by blockchains, each with a variety of goals and focus areas. Multiple blockchains…\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Wormhole---Solana-Ethereum-Bridge/1-DN46dami-i6DfXXnJtBcwg-3.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "Wormhole — Solana/Ethereum Bridge",
+    "seo": {
+      "internalName": "Wormhole — Solana/Ethereum Bridge",
+      "noFollow": false,
+      "seoDescription": "\nThe road to a decentralized economic utopia is paved by blockchains, each with a variety of goals and focus areas. Multiple blockchains…\n",
+      "seoTitle": "Wormhole — Solana/Ethereum Bridge",
+      "noIndex": false
+    },
+    "twitterMeta": {
+      "twitterTitle": "Wormhole — Solana/Ethereum Bridge",
+      "twitterDescription": "\nThe road to a decentralized economic utopia is paved by blockchains, each with a variety of goals and focus areas. Multiple blockchains…\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Wormhole---Solana-Ethereum-Bridge/1-DN46dami-i6DfXXnJtBcwg-3.png"
+    },
+    "slug": "wormhole---solana-ethereum-bridge",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e02b457584cf46ed86a51ffc737c451e"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a08bdcb4a0ca4f81b00df16c8ca465ee"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_4dc516e5ca7f4aa8ac937d0d5bc371a6"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-e520356892194670b5973c120276c718",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3b25209eb61849b1b9d1f2156bb5ca1c",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1eafc6352b4b44678f1be30f75259bb5?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.508,
+                "lockAspectRatio": false,
+                "height": 332,
+                "width": 653,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1eafc6352b4b44678f1be30f75259bb5?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1eafc6352b4b44678f1be30f75259bb5?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1eafc6352b4b44678f1be30f75259bb5?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1eafc6352b4b44678f1be30f75259bb5?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1eafc6352b4b44678f1be30f75259bb5?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1eafc6352b4b44678f1be30f75259bb5?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1eafc6352b4b44678f1be30f75259bb5?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1eafc6352b4b44678f1be30f75259bb5?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1eafc6352b4b44678f1be30f75259bb5?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7302d7e9b2fd49a4994787bbbed7fcca",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>worm·​hole | \\ ˈwərm-ˌhōl — a hypothetical structure of space-time envisioned as a tunnel connecting points that are separated in space and time.</p><p>The road to a decentralized economic utopia is paved by blockchains, each with a variety of goals and focus areas. Multiple blockchains have played pivotal roles in driving adoption and value, whether through features, tools, communities, or capital. Right now, we are witnessing significant growth in applications, but speed and cost are still a hurdle for breakout adoption. The majority of decentralized applications need to perform as good as, if not better than Web2 products. The big leap that tips the scale towards Web3 will be propelled by scalability, and that’s exactly what Solana is solving.</p><p>Solana is already working with some of the top teams in the industry and is ready to welcome the next wave of partners. Solana is thrilled to introduce Wormhole, a secure, decentralized bridge connecting Ethereum to Solana.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-847adc67d8a1413a85b41514f270966d",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/o/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa93d49717ce148f59f0ff75b4268159b%2Fcompressed?apiKey=ce0c7323a97a4d91bd0baa7490ec9139&token=a93d49717ce148f59f0ff75b4268159b&alt=media&optimized=true",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.56,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 224,
+                "width": 400
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ed9ed3844917498591fe4dd595baf8f9",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>In celebration, the Solana foundation invites developers from around the world to use Wormhole in our&nbsp;</strong><a href=\"https://solana.com/hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>upcoming hackathon</strong></a><strong>&nbsp;commencing on October 28th!</strong>&nbsp;With inspiration bursting from our community and more exciting news on the horizon, the Solana Foundation is hosting a&nbsp;<a href=\"http://solana.com/hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">virtual hackathon</a>&nbsp;to bring ideas and crypto enthusiasts together to create highly scalable and cost-efficient web3 applications.</p><p>Join Solana along with Compound, Gauntlet, Curve, FTX, Balancer, Aave, Audius, and others to explore and showcase how Solana can help projects catapult into the mainstream.</p><p><a href=\"https://solana.com/hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Hackathon</strong></a></p><p><a href=\"https://solana.com/hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana is the world's first web-scale blockchain, enabling scalability without compromises. Wormhole, and other…solana.com</a></p><h3><strong>Opening up the benefits of Solana’s speed and cost to&nbsp;ERC20s</strong></h3><p>Today, Solana, in partnership with&nbsp;<a href=\"https://certus.one/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Certus One</a>, is excited to announce Wormhole, the first of many bidirectional cross-chain bridges on Solana. Wormhole connects ETH and ERC20 tokens to SPL Tokens, the token standard of the Solana blockchain.</p><p>Solana was built to solve blockchain scalability issues and is already seeing this manifest in projects like&nbsp;<a href=\"https://www.theblockcrypto.com/daily/72924/ftx-dex-serum-solana-blockchain?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Serum</a>,&nbsp;<a href=\"https://medium.com/terra-money/terra-partners-with-solana-to-establish-low-latency-bridge-expanding-its-stablecoin-ecosystem-to-15883bdbb0fb?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Terra</a>,&nbsp;<a href=\"https://medium.com/stardustplatform/cha-cha-changes-stardust-is-moving-to-solana-166484a5dd80?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Stardust</a>, and most recently,&nbsp;<a href=\"https://www.theblockcrypto.com/post/77274/tether-launches-on-solana-blockchain?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tether</a>. Those teams all employ the cryptographic properties of blockchains but require the scale, speed, and low-cost of the web.</p><p>“Smart contract chains are universal computers, and all universal computers can talk to each other, fundamentally making block space on any layer-1 fungible with block space on any other layer-1.” — Anatoly Yakovenko, President of the Solana Foundation</p><p><strong>Wormhole allows existing projects, platforms, and communities to move tokenized assets seamlessly across blockchains to benefit from Solana’s high speed and low cost.&nbsp;</strong>Interoperability remains a high priority, as it unlocks network effects and allows for the most efficient use of resources. It’s not pragmatic to expect an entire ecosystem of value to immediately shift across networks, and teams can’t afford to wait for such a mass migration.</p><p>Rather than expect teams to rewrite their codebase for Solana, they can instead employ Wormhole to access the high-speed and low-cost benefits of the Solana network. For example, assume there exists some locked value in an Ethereum smart contract. The network, constrained by current infrastructure limitations that don’t allow for fast transactions, as evidenced by gas fees and network congestion.&nbsp;<strong>Bridging across to Solana negates that friction and still allows for the value to settle back to the Ethereum network if so chosen</strong>. Ultimately, teams need not encumber themselves to a single chain if they want to leverage the community of one chain with the performance of another.</p><p>Wormhole is the first of many such cross-chain bridges to come. It uses decentralized cross-chain oracles — called guardians — operated by a set of node operators that include top Solana validators and other ecosystem stakeholders whose incentives are strongly aligned with Solana and Serum.</p><p>Those guardians certify token lockups and burns on one chain in order to mint new tokens or release tokens on the other, and vice versa.</p><p><a href=\"https://medium.com/certus-one/introducing-the-wormhole-bridge-24911b7335f7?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Read more from Certus One’s post.</a></p><h3><strong>The Wormhole&nbsp;Flow</strong></h3><p><strong>ETH (ERC20 standard) to SOL (SPL standard)</strong></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7e8bbad1e2e34f5397674eaece24d786",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a8772f2e6ba4f498a84189a5a03435e?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.508,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 332,
+                "width": 653,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a8772f2e6ba4f498a84189a5a03435e?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a8772f2e6ba4f498a84189a5a03435e?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a8772f2e6ba4f498a84189a5a03435e?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a8772f2e6ba4f498a84189a5a03435e?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a8772f2e6ba4f498a84189a5a03435e?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a8772f2e6ba4f498a84189a5a03435e?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a8772f2e6ba4f498a84189a5a03435e?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a8772f2e6ba4f498a84189a5a03435e?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a8772f2e6ba4f498a84189a5a03435e?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-471e153908fa49a0b13dbd8fd8bb1d56",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong style=\"font-size: 20px;\">SOL (SPL standard) to ETH (ERC20 standard)</strong></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ccc4778a07144b8bb4c36a562d80df88",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0c2de931d3654f698e38e38ce4a1fe7e?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.508,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 332,
+                "width": 653,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0c2de931d3654f698e38e38ce4a1fe7e?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0c2de931d3654f698e38e38ce4a1fe7e?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0c2de931d3654f698e38e38ce4a1fe7e?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0c2de931d3654f698e38e38ce4a1fe7e?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0c2de931d3654f698e38e38ce4a1fe7e?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0c2de931d3654f698e38e38ce4a1fe7e?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0c2de931d3654f698e38e38ce4a1fe7e?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0c2de931d3654f698e38e38ce4a1fe7e?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0c2de931d3654f698e38e38ce4a1fe7e?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a78ee54f6ab442a2af0d0a3a8b4c087b",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Decongesting DeFi</strong></h3><p>DeFi has absolutely exploded in 2020 with nearly $10B worth of value locked in smart contracts and 4x capital growth in the last three months alone. Much of this is owed to the incredible communities and development that has centered primarily on the Ethereum network.&nbsp;<strong>DeFi has momentum and excitement on its side. It should be attracting even greater multiples of new capital, but congestion and high gas fees result in aborted trades or significant slippage, the types of issues that keep money on the sidelines.&nbsp;</strong>While early-adopting retail speculators are content to throw caution to the wind, ‘institutional’ funds need to manage risk. Counterparty risk is mitigated thanks to the nature of DeFi (simultaneous delivery to both transacting parties) but if a fund can’t enter or exit a position due to execution risk (ability to process a trade), that’s often too great a cost.</p><p>Wormhole enables DeFi platforms to leverage Solana for high speed, low-cost transactions, while still allowing for settlement on another base chain. As we look to expand the pie, adoption is contingent on DeFi applications being no less performant than centralized platforms.</p><p>Beyond DeFi, payment gateways can use Wormhole to connect from ERC-20 tokens to ensure faster transactions. Gaming or identity platforms can avoid latency issues by using Wormhole to convert to an SPL standard for faster throughput with finality on the ERC-20 standard if they so choose. There are a multitude of scenarios with significant implications on the end-user experience. Any confirmation that takes several minutes or several dollars will prohibit an application from scaling or even thinking about competing favorably with web2.</p><p>Wormhole removes friction rather than adding and can safely rely on consensus and finalization of the chains that it bridges.</p><p>It is leaderless — all guardians perform the same computation upon observing an on-chain event, and sign a so-called Validator Action Approval (VAA). If a 2/3+ majority of all guardian nodes have observed and signed the same event using their individual keys, then it is automatically considered valid by all Wormhole contracts on all chains and triggers a mint/burn.— Leo from Certus One</p><p>Further technical detail can be found in&nbsp;<a href=\"https://medium.com/certus-one/introducing-the-wormhole-bridge-24911b7335f7?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Certus One’s post</a>&nbsp;detailing security assumptions, alternative approaches, and future iterations of this cross-chain bridge.</p><p><a href=\"http://solana.com/hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Come and Build at our October Hackathon!</strong></a></p><p>In celebration of the first decentralized ERC20 &lt;-&gt; SPL bridge, we invite teams building dApps and cross-chain tools to our upcoming October hackathon! With inspiration bursting from our community and more exciting news on the horizon, we’re hosting a virtual gathering to bring ideas and people together to create highly scalable and cost-efficient web3 applications.</p><p>Join Solana along with some of the top thought leaders and projects in the space to explore and showcase where Solana can help projects eliminate friction in web3 scaling and create better, faster, stronger decentralized economies.</p><p><strong>Judges and speakers for this event include:</strong></p><p>Anatoly Yakovenko — Co-founder/CEO of Solana</p><p>Sam Bankman Fried — CEO of FTX</p><p>James Prestwich — Founder of Summa One</p><p>Fernando Martinelli — CEO/Co-founder of Balancer</p><p>Tarun Chitra — Founder/CEO Gauntlet</p><p>Kyle Samani — Co-founder/MP at Multicoin Capital</p><p>Michael Egorov — CEO of Curve</p><p>Stani Kulechov — Founder/CEO of Aave</p><p>Roneil Rumburg — Co-founder/CEO of Audius</p><p>Robert Leshner — Founder of Compound</p><p>Jordan Lyall — Founder of $MEME</p><p><a href=\"http://solana.com/hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sign up to participate.</strong></a></p><p>Make sure to follow us on our various social channels to get daily updates on what’s going on in the Solana ecosystem.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockfolio</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdb72d6cd87c941f2aefdcf7fad7a64e4",
+  "lastUpdated": 1694189905582,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_8930bc6408dc4c328ebddaec0e6056b8",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687549873282,
+  "@originId": "8930bc6408dc4c328ebddaec0e6056b8",
+  "testRatio": 1,
+  "createdDate": 1687362671515,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=8930bc6408dc4c328ebddaec0e6056b8&builder.overrides.8930bc6408dc4c328ebddaec0e6056b8=8930bc6408dc4c328ebddaec0e6056b8&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Wormhole — Solana/Ethereum Bridge",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

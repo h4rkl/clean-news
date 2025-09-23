@@ -1,0 +1,70 @@
+{
+  "lastUpdatedBy": "fS1jDahB5XQuu42YDYnFrvE2GNE3",
+  "folders": [],
+  "previewUrl": "https://builder-staging.solana.com/news/default-one",
+  "data": {
+    "inputs": [],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci sagittis eu volutpat odio facilisis mauris. Commodo nulla facilisi nullam vehicula. Tellus cras adipiscing enim eu. Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Tempus quam pellentesque nec nam aliquam. Tincidunt id aliquet risus feugiat in ante metus dictum at. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Tellus cras adipiscing enim eu turpis. Ultrices eros in cursus turpis massa tincidunt dui. Feugiat nisl pretium fusce id. Mauris augue neque gravida in fermentum et. Sed elementum tempus egestas sed. At consectetur lorem donec massa sapien faucibus et. Tellus pellentesque eu tincidunt tortor. Blandit turpis cursus in hac habitasse. Dui nunc mattis enim ut tellus elementum sagittis vitae.",
+    "title": "News title",
+    "slug": "default-one",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-ef7b0de979e84a58b266f6f9384c77f7",
+        "component": {
+          "name": "Hero",
+          "options": {
+            "eyebrow": "Optional Eyebrow",
+            "headline": "Powerful for developers. Fast for everyone.",
+            "headingAs": "h1",
+            "body": "Bring blockchain to the people. Solana supports experiences for power users, new consumers, and everyone in between.",
+            "centered": false,
+            "newsLetter": false
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1712615662680,
+  "testRatio": 1,
+  "lastUpdated": 1712615662711,
+  "createdDate": 1710383807041,
+  "createdBy": "fS1jDahB5XQuu42YDYnFrvE2GNE3",
+  "meta": {
+    "lastPreviewUrl": "https://builder-staging.solana.com/news/default-one?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_5a43fe373f30499e87ac9016e3cb8531&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_5a43fe373f30499e87ac9016e3cb8531=983ae1dad0ba4ca4ac6dd4ac310edee1_5a43fe373f30499e87ac9016e3cb8531&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Hero": 1
+    },
+    "hasLinks": false
+  },
+  "variations": {},
+  "name": "default builder test",
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5a43fe373f30499e87ac9016e3cb8531",
+  "rev": "l9w1e2t4y1"
+}

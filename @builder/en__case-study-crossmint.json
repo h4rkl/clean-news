@@ -1,0 +1,180 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1680764400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fda636bc4bb15418abb7a251652917434",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Crossmint, an NFT tooling and API company, is using state compression to drop NFTs at a massive scale.",
+    "publishedDate": "Thu Apr 06 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "",
+      "ogUrl": "",
+      "ogDescription": "",
+      "ogType": "article"
+    },
+    "seo": {
+      "internalName": "",
+      "noFollow": false,
+      "seoDescription": "Crossmint, an NFT tooling and API company, is using state compression to drop NFTs at a massive scale.",
+      "seoTitle": "Case Study: Crossmint scales NFT minting to unlock new use cases",
+      "noIndex": false
+    },
+    "title": "Case Study: Crossmint scales NFT minting to unlock new use cases",
+    "twitterMeta": {
+      "twitterTitle": "",
+      "twitterDescription": ""
+    },
+    "slug": "case-study-crossmint",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-3d58bb76e4804745868296e11af74266",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-91dc7910787b493e81570bb7678e9967",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Non-fungible tokens (NFTs) can unlock a lot of use cases, from commemorative collectibles to mass-scale ticketing, to the future of customer loyalty. Unique, collectible tokens linked to someone’s digital wallet can supercharge brand fandom by giving fans a new way to take pride in their virtual identities and find belonging in a global community .</p><p>There’s just one problem: Minting NFTs en masse is expensive. Even on Solana, which has some of the lowest transaction fees of any blockchain, minting NFTs for a loyalty program can be cost prohibitive for mainstream companies.</p><p><a href=\"https://www.crossmint.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Crossmint,</a>&nbsp;an NFT tooling and API company, is making it easier for enterprise companies to drop NFTs on a massive scale. They use a recent innovation on Solana known as&nbsp;<a href=\"https://solana.com/news/how-to-use-compressed-nfts-on-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">compressed NFTs</a>, which uses&nbsp;<a href=\"https://solana.com/news/state-compression-compressed-nfts-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">state compression</a>&nbsp;to make NFTs cheaper for customers.</p><p>“The key feature of compressed NFTs is that they make large-scale use cases economically feasible for the first time,” said Crossmint cofounder Rodri Fernández Touza. “When you look at use cases like ticketing, soccer season passes and so on, all of these before were infeasible because you'd have to spend about 40 cents per ticket [to mint the NFT] — and that's too much.”</p><p>Compressed NFTs are a new class of non-fungible tokens on Solana that employs a technique known as state compression to reduce the load of data storage. State compression uses a Merkle tree structure to store the minimal amount of data on-chain in order to confirm that the underlying data is correct. Meanwhile, updates are stored in the Solana ledger to take advantage of the chain’s security and decentralization, and RPC providers like Triton, Helius, and SimpleHash can help with the heavy lifting of managing the tree.</p><p>In 2022, the Solana Foundation&nbsp;<a href=\"https://twitter.com/jnwng/status/1555559586047766531?lang=en&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">introduced the concept of compressed NFTs,</a>&nbsp;one of the first use cases for state compression. Instantly, the cost for minting a Solana NFT dropped to roughly $0.000005.</p><p>By compressing the underlying data, NFT developers can store more information on the blockchain at a lower cost while maintaining the integrity and uniqueness of their respective digital assets. Even better, the cost of minting NFTs gets cheaper at higher volumes, lowering barriers to on a massive scale.</p><h2><strong>Enterprise use cases for compressed NFTs</strong></h2><p>“There's a massive spike in enterprise demand for blockchain infrastructure,” wrote Crossmint co-founder Fernández Touza&nbsp;<a href=\"https://www.linkedin.com/feed/update/urn:li:activity:7039723837751455744/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">in a recent LinkedIn post</a>.</p><p>The blockchain infrastructure provider has already minted roughly 300,000 NFTs for holders of the Crossmint wallet to recognize them for being early adopters. The drop was what Solana Foundation ecosystem technical lead Jon Wong describes as “proof of success,” in that it demonstrated the efficiency of state compression for a straightforward use case.</p><p>Let’s look at the cost breakdown of Crossmint’s drop. A standard NFT mint on Solana costs about 0.012 SOL, or roughly $0.24 at the time of writing. “Typically, this cost is borne by the minter — not the distributor,” explains Wong. Companies, brands and enterprises that want to reward users need a more efficient solution that doesn’t require asking customers to shoulder the cost, and a company paying $0.24 for each user is far too cost-prohibitive.</p><p>In Crossmint’s case, delivering NFTs to 300,000 users under normal circumstances would cost over $74,000 (at the time of writing). With state compression, that cost is less than $200.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-997acaece2de4822a36871b21bc8c294",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5ca428af3ec454aac6ab2eb88fad4e1?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.598,
+                "lockAspectRatio": false,
+                "height": 1077,
+                "width": 1800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5ca428af3ec454aac6ab2eb88fad4e1?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5ca428af3ec454aac6ab2eb88fad4e1?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5ca428af3ec454aac6ab2eb88fad4e1?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5ca428af3ec454aac6ab2eb88fad4e1?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5ca428af3ec454aac6ab2eb88fad4e1?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5ca428af3ec454aac6ab2eb88fad4e1?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5ca428af3ec454aac6ab2eb88fad4e1?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5ca428af3ec454aac6ab2eb88fad4e1?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5ca428af3ec454aac6ab2eb88fad4e1?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5ca428af3ec454aac6ab2eb88fad4e1?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5378f774cae74e8a9c7c3586d986bc2b",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This chart is based on a snapshot taken on April 5, 2023 and based on a price of SOL at $21.14, MATIC at $1.14, and ETH at $1,909.45.&nbsp;<a href=\"https://solana.com/news/case-study-crossmint#fn\" rel=\"noopener noreferrer\" target=\"_blank\">See footnote.</a></p><h2><strong>Mass scale NFTs for customer engagement</strong></h2><p>Fernández Touza says it’s now possible to create mass-scale NFTs at a virtually negligible cost. With one successful use case already proven, the Crossmint team is experimenting with new possibilities that before would have been too cost-prohibitive to consider. They’re exploring a few new promising areas with interesting potential for customer engagement.</p><p>To start, Crossmint is building no-code tools that plug directly into Zapier, an automation platform that connects to over 5,000 apps, including Slack, Mailchimp, Facebook, Saleforce and most social media platforms. This would allow today’s creator or brand to reward customers with digital tokens based on certain actions without code.</p><p>In another example, one Crossmint client recently created an API for NFT receipts, says Fernández Touza. Imagine buying an item through an ecommerce store and automatically receiving a pass that proves that you purchased it. Whereas now, receipts offer proof of purchase. NFT receipts could signal membership of some kind, or even offer the ability to create smart rewards or loyalty programs through customers’ crypto wallets.</p><p>NFT receipts are in its beta phase, but Fernández Touza says such developments continue to inspire and inform how Crossmint integrates its no-code tools and products with enterprise platforms across industries.</p><p>Fernández Touza describes some other ideas to improve customer engagement, even beyond loyalty programs, with compressed NFTs:</p><ul><li><strong><u>Social media incentivization.</u>&nbsp;</strong>Imagine having the ability to send a new Instagram or Twitter follower an NFT that comes with perks and incentives. “You can talk, engage, track insights and enable access to certain perks only to people following you,”&nbsp;explains Fernández Touza. A creator or brand could even&nbsp;upgrade the NFTs of collectors who interact on social media.</li><li><strong><u>Gaming, extended reality assets and metaverse experiences.</u>&nbsp;</strong>Compressed NFTs can be used to mint in-game assets like skins, characters, items or virtual land. Compression keeps storage and transfer costs under control, allowing the user to stay focused on the important part — playing.</li><li><strong><u>On-chain credentials.</u></strong>&nbsp;While some Crossmint clients already do this with uncompressed NFTs,<strong>&nbsp;</strong>Fernández Touza predicts that online education platforms could soon use compressed NFTs to reward those who complete digital courses with on-chain verified credentials, which could serve as a handy way to stand out in the future job market.</li></ul><p>Compressed NFTs make building engaging relationships much simpler and scalable — and better for both businesses and their customers.</p><p>Footnote (Click to expand)</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb05b09fce6674554ba4eea48d1de3386",
+  "lastUpdated": 1696404141302,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_b58f401dcac044f3b1c136a6c24f4ee2",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687592788160,
+  "@originId": "b58f401dcac044f3b1c136a6c24f4ee2",
+  "testRatio": 1,
+  "createdDate": 1687362398398,
+  "createdBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=b58f401dcac044f3b1c136a6c24f4ee2&builder.overrides.b58f401dcac044f3b1c136a6c24f4ee2=b58f401dcac044f3b1c136a6c24f4ee2&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: Crossmint scales NFT minting to unlock new use cases",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

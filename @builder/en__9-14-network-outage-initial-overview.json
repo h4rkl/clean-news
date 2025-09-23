@@ -1,0 +1,131 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1632121200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F49bb91a5866144f7b705953808a9b24f",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "On September 14th, the Solana network was offline for 17 hours. No funds were lost, and the network returned to full functionality in under 24 hours. ",
+    "publishedDate": "Mon Sep 20 2021 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "9-14 Network Outage Initial Overview",
+      "ogUrl": "",
+      "ogDescription": "On September 14th, the Solana network was offline for 17 hours. No funds were lost, and the network returned to full functionality in under 24 hours. ",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "9-14 Network Outage Initial Overview",
+      "noFollow": false,
+      "seoDescription": "On September 14th, the Solana network was offline for 17 hours. No funds were lost, and the network returned to full functionality in under 24 hours. ",
+      "seoTitle": "9-14 Network Outage Initial Overview",
+      "noIndex": false
+    },
+    "title": "9-14 Network Outage Initial Overview",
+    "twitterMeta": {
+      "twitterTitle": "9-14 Network Outage Initial Overview",
+      "twitterDescription": "On September 14th, the Solana network was offline for 17 hours. No funds were lost, and the network returned to full functionality in under 24 hours. "
+    },
+    "slug": "9-14-network-outage-initial-overview",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_fef5a877104b48dfaa1e762da9566882"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-3dc1e3f0d6c048e0b124141c3ef52087",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-98b57592d61240e482ea7af05e5af458",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>A detailed technical post-mortem and root cause analysis report is in process by the community, and will be released in the coming weeks.</p><p>On September 14th, the Solana network was offline for 17 hours. No funds were lost, and the network returned to full functionality in under 24 hours. Solana is designed for adversarial conditions. Over the years the community has developed robust tools and processes for trustless recovery, and has had several practice runs.</p><p>The cause of the network stall was, in effect, a denial of service attack. At 12:00 UTC, Grape Protocol launched their IDO on Raydium, and bots generated transactions which flooded the network. These transactions created a memory overflow, which caused many validators to crash forcing the network to slow down and eventually stall. The network went offline when the validator network could not come to agreement on the current state of the blockchain, which prevented the network from confirming new blocks.</p><p>At 12:11 UTC, the validator community noticed the transaction spike and network slowdown. The community took steps to help the network recover, but were unsuccessful. These transactions flooded a system known as the forwarder queue, causing the memory used by this queue to grow without limits. The transactions that were encoded into blocks were resource-heavy to process. The combination of the unbounded growth of the forwarder queues and resource-heavy blocks caused block producers to automatically propose a number of forks. The validator processes started to run out of memory and crash, and upon restart the validators were unable to process all the proposed forks in time to catch back up with the rest of the network.</p><p>Once the situation was diagnosed, the community proposed a hard fork of the network from the last confirmed slot, which requires at least 80% of active stake to come to consensus. Over the next 14 hours, engineers from across the globe worked together to write code to mitigate the issue, and coordinate an upgrade-and-restart of the network among 1000+ validators. This effort was led by the community, using the restart framework&nbsp;<a href=\"https://docs.solana.com/running-validator/restart-cluster?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">outlined</a>&nbsp;in the protocol documentation. Validators opted to apply the upgrade locally, verify the ledger, and continue producing blocks. Consensus was reached, and the network was upgraded within two and a half hours of the patch being released. The validator network restored full functionality at 05:30 UTC, under 18 hours after the network stalled.</p><p>One of the biggest benefits of blockchains is that, even in complete liveness failure for any reason, the validators are individually responsible for recovering the state and continuing the chain without relying on a trusted third party. On a decentralized network, each validator works to bring it back and has their work guaranteed and verified by everyone else. This was a coordinated effort by the community, not only in creating a patch, but in getting 80% of the network to come to consensus. There’s a big difference between an outage like this happening on a centralized network (like Amazon Web Services) and a decentralized network like Solana. If AWS crashes, users have to trust Amazon to bring it back to the right state. The credit and obligation for restoring network operations on any blockchain is in the hands of the community. Operators across the world worked together to reach a solution and restored functionality.</p><p>Thank you to the validator community, engineers, and the whole Solana ecosystem for coming together to fix this problem. On the rare occurrence that issues like this happen, it’s disruptive to everyone — and when you need to fix something on a decentralized network, it’s a true community project.</p><p><strong>A detailed technical post mortem and root cause analysis report is in process by the community, and will be released in the coming weeks. Stay tuned.</strong></p><p>Thank you,</p><p>Solana Foundation</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4eb9297567e94a418a224fba05ff41ac",
+  "lastUpdated": 1696415975423,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2e1746d1eaef49268c6adab515e0f74f",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687612217327,
+  "@originId": "2e1746d1eaef49268c6adab515e0f74f",
+  "testRatio": 1,
+  "createdDate": 1687362609214,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=2e1746d1eaef49268c6adab515e0f74f&builder.overrides.2e1746d1eaef49268c6adab515e0f74f=2e1746d1eaef49268c6adab515e0f74f&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "9-14 Network Outage Initial Overview",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

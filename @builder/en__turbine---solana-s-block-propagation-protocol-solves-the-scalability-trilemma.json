@@ -1,0 +1,740 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1562742000000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+    "publishedDate": "Wed Jul 10 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Turbine — Solana’s Block Propagation Protocol Solves the Scalability Trilemma",
+      "noFollow": false,
+      "seoDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+      "seoTitle": "Turbine — Solana’s Block Propagation Protocol Solves the Scalability Trilemma",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Turbine — Solana’s Block Propagation Protocol Solves the Scalability Trilemma",
+      "ogUrl": "https://www.solana.com/blog/turbine---solana-s-block-propagation-protocol-solves-the-scalability-trilemma",
+      "ogDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "Turbine — Solana’s Block Propagation Protocol Solves the Scalability Trilemma",
+    "twitterMeta": {
+      "twitterTitle": "Turbine — Solana’s Block Propagation Protocol Solves the Scalability Trilemma",
+      "twitterDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+      "twitterImage": null
+    },
+    "slug": "turbine---solana-s-block-propagation-protocol-solves-the-scalability-trilemma",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-5f924732b2da4b5fa5376ad8ce05efc2",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-28e897a3755343e3bdde47d07458289b",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Understand 1 of 8 key technologies that make&nbsp;</strong><a href=\"https://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana</strong></a><strong>&nbsp;the most performant blockchain in the&nbsp;world</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-25dcbd710ef4482dbb8bec518b659d3c",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc3d31e82537441a89d791b59c22ba926?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc3d31e82537441a89d791b59c22ba926?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc3d31e82537441a89d791b59c22ba926?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc3d31e82537441a89d791b59c22ba926?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc3d31e82537441a89d791b59c22ba926?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc3d31e82537441a89d791b59c22ba926?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc3d31e82537441a89d791b59c22ba926?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc3d31e82537441a89d791b59c22ba926?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc3d31e82537441a89d791b59c22ba926?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc3d31e82537441a89d791b59c22ba926?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c12d90dd4a8c4251bcc549b3d34cd786",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana</a>&nbsp;is the most performant permissionless blockchain in the world. On current iterations of the Solana Testnet, a network of 200 physically distinct nodes supports a sustained throughput of more than 50,000 transactions per second when running with GPUs. Achieving this requires the implementation of several optimizations and new technologies, and the result is a breakthrough in network capacity that signals a new phase in blockchain development.</p><h3><strong>There are 8 key innovations that make the Solana network possible:</strong></h3><ul><li><a href=\"https://solana.ghost.io/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Proof of History (POH)</strong></a><strong> </strong>— a clock before consensus;</li><li><a href=\"https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Tower BFT </strong></a>— a PoH-optimized version of PBFT;</li><li><a href=\"https://solana.ghost.io/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Turbine</strong></a> — a block propagation protocol;</li><li><a href=\"https://solana.ghost.io/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Gulf Stream</strong></a><strong> </strong>— Mempool-less transaction forwarding protocol;</li><li><a href=\"https://solana.ghost.io/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sealevel </strong></a>— Parallel smart contracts run-time;</li><li><a href=\"https://solana.com/pipelining-in-solana-the-transaction-processing-unit/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Pipelining</strong></a> — a Transaction Processing Unit for validation optimization</li><li><a href=\"https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Cloudbreak</strong></a><strong> </strong>— Horizontally-Scaled Accounts Database; and</li><li><a href=\"https://solana.com/archivers/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Archivers</strong></a> — Distributed ledger store</li></ul><p>In this post, we’ll explore Turbine, Solana’s block propagation protocol — inspired by BitTorrent — that solves the blockchain scalability trilemma.</p><h2><strong>The Scalability Trilemma</strong></h2><p>The scalability trilemma in blockchain technology is all about bandwidth. In most blockchain networks today, given a fixed amount of bandwidth per node, increasing the node count will increase the amount of time necessary to propagate all the data to all nodes. That’s a big problem.</p><p>However, there are myriad opportunities to optimize how data is propagated. There are many novel data propagation techniques, each of which is optimized for specific applications. For example, BitTorrent is optimized for serving large files to large groups of people using TCP, while MediaFLO, a project with which I worked, is a protocol optimized for data propagation at the physical layer to improve the efficiency of multicast over wireless networks.</p><p>With that context, let’s jump into Turbine, Solana’s block propagation protocol, to explain how the Solana network propagates data to solve the blockchain scalability trilemma.</p><h2><strong>Turbine</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-de0da8bbbd4049f0a2f76d064b78404c",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3af67d6a45fd4c328410a69aa0b871dd?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.36,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 432,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3af67d6a45fd4c328410a69aa0b871dd?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3af67d6a45fd4c328410a69aa0b871dd?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3af67d6a45fd4c328410a69aa0b871dd?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3af67d6a45fd4c328410a69aa0b871dd?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3af67d6a45fd4c328410a69aa0b871dd?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3af67d6a45fd4c328410a69aa0b871dd?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3af67d6a45fd4c328410a69aa0b871dd?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3af67d6a45fd4c328410a69aa0b871dd?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3af67d6a45fd4c328410a69aa0b871dd?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3f07a1c1efc74203b4070c4b377c1c4d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>One of the challenges to high-performance blockchains is how the network propagates large amounts of data to a large number of peers. Let’s consider, for example, a network of 20,000 validators. The leader needs to transmit a 128 MB block (about 500,000 transactions @ 250 bytes / transaction) to all 20,000 validators. The naive implementation would require the leader to have a unique connection to each validator and transmit the full 128 MB 20,000 times. There simply isn’t enough bandwidth to accommodate that many connections.</p><p>Our solution to this problem, Turbine, borrows heavily from BitTorrent — although a few major technical details differentiate the two. Turbine is optimized for streaming, and transmits data using UDP only, and implements a random path per packet through the network as leaders (block producers) stream their data. The leader breaks the block into packets up to 64KB in size. For a 128MB block, the leader produces 2,000 64KB packets, and transmits each packet to a different validator.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-33ee877216dd44b1bf994656cee7ce3a",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7a328da24cb48f5be44b2e981aea252?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.448,
+                "lockAspectRatio": false,
+                "height": 537,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7a328da24cb48f5be44b2e981aea252?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7a328da24cb48f5be44b2e981aea252?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7a328da24cb48f5be44b2e981aea252?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7a328da24cb48f5be44b2e981aea252?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7a328da24cb48f5be44b2e981aea252?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7a328da24cb48f5be44b2e981aea252?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7a328da24cb48f5be44b2e981aea252?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7a328da24cb48f5be44b2e981aea252?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7a328da24cb48f5be44b2e981aea252?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-35cbb0a4d1ba413aa6d4026f6f700530",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">In turn, each validator retransmits the packet to a group of peers that we call a neighborhood. You can visualize the network as a tree of neighborhoods, allowing the network to grow well beyond 1,000 validators:</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7fd5db8bc706472c91cd6bdb5967af81",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F62e0c3a7552e4bb89f04d9f9b097727c?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.448,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 537,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F62e0c3a7552e4bb89f04d9f9b097727c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F62e0c3a7552e4bb89f04d9f9b097727c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F62e0c3a7552e4bb89f04d9f9b097727c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F62e0c3a7552e4bb89f04d9f9b097727c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F62e0c3a7552e4bb89f04d9f9b097727c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F62e0c3a7552e4bb89f04d9f9b097727c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F62e0c3a7552e4bb89f04d9f9b097727c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F62e0c3a7552e4bb89f04d9f9b097727c?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F62e0c3a7552e4bb89f04d9f9b097727c?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4003b51c49ba433d882e9620c6f05873",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">Each neighborhood is responsible for transmitting a portion of its data to each neighborhood below it.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b5f89f599bcf4460972e3fed8eda8ef7",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3cbc2f0a0ede4fc2a7a936efd9a2d3b5?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.448,
+                "lockAspectRatio": false,
+                "height": 537,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3cbc2f0a0ede4fc2a7a936efd9a2d3b5?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3cbc2f0a0ede4fc2a7a936efd9a2d3b5?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3cbc2f0a0ede4fc2a7a936efd9a2d3b5?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3cbc2f0a0ede4fc2a7a936efd9a2d3b5?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3cbc2f0a0ede4fc2a7a936efd9a2d3b5?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3cbc2f0a0ede4fc2a7a936efd9a2d3b5?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3cbc2f0a0ede4fc2a7a936efd9a2d3b5?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3cbc2f0a0ede4fc2a7a936efd9a2d3b5?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3cbc2f0a0ede4fc2a7a936efd9a2d3b5?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cfbc10f5bc754a4690ce4aa5f8a778c5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>If each neighborhood is comprised of 200 nodes, a 3-level network, starting with a single leader at the root, can reach 40,000 validators in 2 hops — or roughly 200 milliseconds assuming each network link is 100ms on average.</p><p>The challenge we face with this technique is security. For example: adversarial nodes can choose not to rebroadcast data, or to rebroadcast incorrect data. To handle adversarial nodes, the leader generates Reed-Solomon&nbsp;<a href=\"http://smahesh.com/blog/2012/07/01/dummies-guide-to-erasure-coding/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">erasure codes</a>. Erasure codes allow each validator to reconstruct the entire block without receiving all the packets.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-077879e85b964f91b5909b68d7da74f9",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4000d542442a4b20ab27be57a2036a41?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.7041,
+                "lockAspectRatio": false,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4000d542442a4b20ab27be57a2036a41?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4000d542442a4b20ab27be57a2036a41?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4000d542442a4b20ab27be57a2036a41?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4000d542442a4b20ab27be57a2036a41?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4000d542442a4b20ab27be57a2036a41?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4000d542442a4b20ab27be57a2036a41?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4000d542442a4b20ab27be57a2036a41?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4000d542442a4b20ab27be57a2036a41?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4000d542442a4b20ab27be57a2036a41?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e3f5206d4a2d4055b08f80d0580fd5c2",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>If the leader transmits 33% of the block’s packets as erasure codes, then the network can drop any 33% of the packets without losing the block. Leaders can even adjust this number dynamically based on network conditions. These determinations are made by the leaders’ observed packet drop rate from the previous blocks.</p><p>Not all validators are created equal. The most important validators are those with the most stake. We therefore prioritize propagation accordingly. A stake-weighted selection algorithm constructs the tree such that the higher staked validators are at neighborhoods closer to the leader. Each validator independently computes the same tree. While erasure codes can repair failures, it’s possible for adversarial nodes to position themselves in the tree such that they can induce a failure higher than their combined stake size, especially when combined with a denial of service attacks.</p><p>How do we deal with this kind of&nbsp;<a href=\"https://www.radixdlt.com/post/what-is-an-eclipse-attack/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">eclipse attack</a>? Our fanout algorithm generates a stake-weighted tree for every packet using a random source based on the digital signature of the packet. Since each packet takes a different path, and the path is not known in advance, a neighborhood-level eclipse attack would require nearly full control of the network.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-37495abf458348f68ff650c967950d52",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F744fac1bc8f84991bb8e725b024e6ee9?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.361,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 433,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F744fac1bc8f84991bb8e725b024e6ee9?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F744fac1bc8f84991bb8e725b024e6ee9?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F744fac1bc8f84991bb8e725b024e6ee9?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F744fac1bc8f84991bb8e725b024e6ee9?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F744fac1bc8f84991bb8e725b024e6ee9?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F744fac1bc8f84991bb8e725b024e6ee9?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F744fac1bc8f84991bb8e725b024e6ee9?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F744fac1bc8f84991bb8e725b024e6ee9?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F744fac1bc8f84991bb8e725b024e6ee9?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-16d5675926de4805954331b5ef8158c4",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>— Solana’s incentivized testnet&nbsp;event.</p><p>With one level, this technique scales somewhere between 200 and 1,000 nodes. Network cards that support 1 Gbps can transmit one million packets per second. A single validator can send packets of up to 64 KB to 1,000 machines within one second if the network connection allows it.</p><p>Solana’s utilization of both Turbine propagation, alongside breakthroughs like Proof of History, Sealevel, Proof of Replication, and Gulf Stream combine to create the most performant blockchain in the entire ecosystem. Solana’s testnet is live today. You can see it at&nbsp;<a href=\"https://testnet.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://testnet.solana.com</a>. For cost purposes, we are only running a handful of nodes. However, we have spun it up on many instances to over 200 physically distinct nodes (not on shared hardware) across 23 data centers on AWS, GCE, and Azure for benchmarking.</p><p>The runtime is functioning today, and developers can deploy code on the testnow now. Developers can build smart contracts in C today, and we are aggressively working on the Rust toolchain. Rust will be the flagship language for Solana smart contract development. The&nbsp;<a href=\"https://github.com/solana-labs/solana-web3.js?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Rust toolchain is publicly available</a>&nbsp;as part of the Solana Javascript SDK, and we are further iterating on the Software Development Kit.</p><p>Solana will soon launch a public beta incentivizing validators to run nodes via&nbsp;<a href=\"https://medium.com/solana-labs/solana-announces-tour-de-sol-an-incentivized-testnet-event-b26372a58a51?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tour de SOL</a> — analogous to Cosmos’s Game of Stakes — that challenges the public at large to test the limits of the Solana network while earning tokens for doing so.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d9b2f936891443f3be703e62440991d2",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F026e90a1cbc54625b067a55ab75ecf8b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.067,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 80,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F026e90a1cbc54625b067a55ab75ecf8b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F026e90a1cbc54625b067a55ab75ecf8b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F026e90a1cbc54625b067a55ab75ecf8b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F026e90a1cbc54625b067a55ab75ecf8b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F026e90a1cbc54625b067a55ab75ecf8b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F026e90a1cbc54625b067a55ab75ecf8b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F026e90a1cbc54625b067a55ab75ecf8b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F026e90a1cbc54625b067a55ab75ecf8b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F026e90a1cbc54625b067a55ab75ecf8b?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c6af7cd54bfd43228196bd7d6a25cada",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfd47338bdc948e5b506369b73ed922d?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.067,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 80,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfd47338bdc948e5b506369b73ed922d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfd47338bdc948e5b506369b73ed922d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfd47338bdc948e5b506369b73ed922d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfd47338bdc948e5b506369b73ed922d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfd47338bdc948e5b506369b73ed922d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfd47338bdc948e5b506369b73ed922d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfd47338bdc948e5b506369b73ed922d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfd47338bdc948e5b506369b73ed922d?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfd47338bdc948e5b506369b73ed922d?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ff318bb999414d4abd6fcbae5c5ca888",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02967dfa1f4b494baac72a41554d4fd9?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.067,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 80,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02967dfa1f4b494baac72a41554d4fd9?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02967dfa1f4b494baac72a41554d4fd9?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02967dfa1f4b494baac72a41554d4fd9?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02967dfa1f4b494baac72a41554d4fd9?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02967dfa1f4b494baac72a41554d4fd9?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02967dfa1f4b494baac72a41554d4fd9?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02967dfa1f4b494baac72a41554d4fd9?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02967dfa1f4b494baac72a41554d4fd9?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02967dfa1f4b494baac72a41554d4fd9?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f66d4fd18efa45948759a2f562baefdf",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40205d669ce747738f87db5e9a252adf?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40205d669ce747738f87db5e9a252adf?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40205d669ce747738f87db5e9a252adf?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40205d669ce747738f87db5e9a252adf?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40205d669ce747738f87db5e9a252adf?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40205d669ce747738f87db5e9a252adf?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40205d669ce747738f87db5e9a252adf?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40205d669ce747738f87db5e9a252adf?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40205d669ce747738f87db5e9a252adf?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40205d669ce747738f87db5e9a252adf?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bcb617dbdcff408c956c1c9a4bf2ee3d",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff9a3b997aae44ae9fa1774bbc18d90b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff9a3b997aae44ae9fa1774bbc18d90b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff9a3b997aae44ae9fa1774bbc18d90b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff9a3b997aae44ae9fa1774bbc18d90b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff9a3b997aae44ae9fa1774bbc18d90b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff9a3b997aae44ae9fa1774bbc18d90b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff9a3b997aae44ae9fa1774bbc18d90b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff9a3b997aae44ae9fa1774bbc18d90b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff9a3b997aae44ae9fa1774bbc18d90b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff9a3b997aae44ae9fa1774bbc18d90b?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e988fcc875d0443aad9dba79ab58a991",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0188c0dce5964bcdb628e9d45ae07414?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0188c0dce5964bcdb628e9d45ae07414?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0188c0dce5964bcdb628e9d45ae07414?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0188c0dce5964bcdb628e9d45ae07414?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0188c0dce5964bcdb628e9d45ae07414?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0188c0dce5964bcdb628e9d45ae07414?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0188c0dce5964bcdb628e9d45ae07414?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0188c0dce5964bcdb628e9d45ae07414?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0188c0dce5964bcdb628e9d45ae07414?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0188c0dce5964bcdb628e9d45ae07414?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F04c35495feae4f09ac61505a1a0b00ec",
+  "lastUpdated": 1694189911476,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a421fc41ac634a4680e76f49c3ae601e",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687435995985,
+  "@originId": "a421fc41ac634a4680e76f49c3ae601e",
+  "testRatio": 1,
+  "createdDate": 1687362745016,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=a421fc41ac634a4680e76f49c3ae601e&builder.overrides.a421fc41ac634a4680e76f49c3ae601e=a421fc41ac634a4680e76f49c3ae601e&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Turbine — Solana’s Block Propagation Protocol Solves the Scalability Trilemma",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

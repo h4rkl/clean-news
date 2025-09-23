@@ -1,0 +1,227 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1671130800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F18b83abba92849cda1c744a488cffa97",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "How do we keep track of how many people are building on Solana? The Developer Relations Team shares their methodology.",
+    "publishedDate": "Fri Dec 16 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Measuring Developer and User Activity on Solana: December 2022",
+      "ogUrl": "",
+      "ogDescription": "How do we keep track of how many people are building on Solana? The Developer Relations Team shares their methodology.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Measuring Developer and User Activity on Solana: December 2022",
+      "noFollow": false,
+      "seoDescription": "How do we keep track of how many people are building on Solana? The Developer Relations Team shares their methodology.",
+      "seoTitle": "Measuring Developer and User Activity on Solana: December 2022",
+      "noIndex": false
+    },
+    "title": "Measuring Developer and User Activity on Solana: December 2022",
+    "twitterMeta": {
+      "twitterTitle": "Measuring Developer and User Activity on Solana: December 2022",
+      "twitterDescription": "How do we keep track of how many people are building on Solana? The Developer Relations Team shares their methodology."
+    },
+    "slug": "measuring-developer-and-user-activity-on-solana-december-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-07e8ace710094848bd61e5e75a2260c0",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0ec9ad87a2574a8b894d5990a880b0e4",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Understanding the ecosystem and developer growth on Solana is important to help identify how well the chain is performing. But measuring this growth can be sometimes difficult. Solana is unique in how users create and process transactions, and tracking activity is very different from many other blockchains out there. Instead of comparing apples to oranges, there’s a number of correct ways to measure users and developers on Solana.</p><h2><strong>Users</strong></h2><p>Blockchains are open, transparent systems that publicize data about their users, but how do we effectively track users on-chain? The naive way of tracking users would be to assume one address equals one user, however this is susceptible to&nbsp;<a href=\"https://academy.binance.com/en/articles/sybil-attacks-explained?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">sybil attacks.</a>&nbsp;To effectively track users on a blockchain, it is important to adopt a more robust approach.</p><p>Most blockchains use the signer of a transaction to identify a single user, which means that someone had to cryptographically sign to have the transaction processed correctly. In the case of Solana using unique signers we’re likely to include bots and other programmatic activity. This is because with the account structure, multiple accounts that are owned by one human can sign for a transaction. The main drawback of measuring users based on unique signers is that we’re more likely to capture programmatic activity instead of actual users.</p><p>On Solana, the feePayer is the address that pays for the fees of a transaction. The first address listed in each transaction is the feePayer. This metric is our proxy for the number of non-custodial wallets active in the Solana ecosystem. We say “proxy” since fee payers can refer to a centralized fee payer that pays fees on behalf of users, such as a centralized wallet provider. The feePayer is the current best metric to measure users because it is a measure of dedicated users while not encompassing a lot of the programmatic activity on the network.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-98ec3758c74945efbf9a14b2adca6649",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff3aa3e4162ff4de288592ee880d4c08c?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.735,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 876,
+                "width": 1192,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff3aa3e4162ff4de288592ee880d4c08c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff3aa3e4162ff4de288592ee880d4c08c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff3aa3e4162ff4de288592ee880d4c08c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff3aa3e4162ff4de288592ee880d4c08c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff3aa3e4162ff4de288592ee880d4c08c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff3aa3e4162ff4de288592ee880d4c08c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff3aa3e4162ff4de288592ee880d4c08c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff3aa3e4162ff4de288592ee880d4c08c?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff3aa3e4162ff4de288592ee880d4c08c?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f336aca43b7f4cb39a05d9b2fd5c41a8",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Source:&nbsp;<a href=\"https://app.flipsidecrypto.com/dashboard/solana-foundation-key-metrics-4eCaQh?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Flipside</a></p><p>Using unique feePayers as users on Solana, we can see that users peaked earlier this year at 2.7 million. Since then the monthly users have trailed back down to where we were right before the peak.</p><h2><strong>Developers</strong></h2><p>One of the best metrics to understand how a chain is growing is the total number of developers building on the chain. To track developers on Solana, you need to have an understanding the current libraries developers use. At the Solana Foundation, we use the Github API to track the projects using the following libraries in the Solana ecosystem:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-edc87d2a049d46979aab5b09a136f7ae",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"width: 90%; border: 1\">\n<tbody>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> <strong>Library</strong></p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p><strong>Query</strong></p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><strong>Description</strong></p></td>\n    </tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> @solana/web3.js</p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p>solana/web3.js filename:package.json</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>Solana JS/TS SDK</p></td>\n    </tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> @solana/web3.js</p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p>solana/web3.js filename:package-lock.json</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>Solana JS/TS SDK</p></td>\n    </tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> @solana/web3.js</p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p>solana/web3.js filename:yarn.lock</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>Solana JS/TS SDK</p></td>\n    </tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> serum/anchor</p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p>serum/anchor filename:package.json</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>Anchor JS/TS SDK</p></td>\n    </tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> solana-program</p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p>solana-program filename:Cargo.toml</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>Solana Rust Program SDK</p></td>\n    </tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> anchor-lang</p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p>anchor-lang filename:Cargo.toml</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>Anchor Framework Program SDK</p></td>\n    </tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> Solana</p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p>\"import Solana\" language:swift</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>Solana Swift SDK</p></td>\n    </tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> solanaj</p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p>\"solanaj language:java\"</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>Solana Java SDK</p></td>\n    </tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> Solnet</p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p>Solnet.Rpc filename:*.csproj</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>Solana C# SDK</p></td>\n    </tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> solana-go</p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p>gagliardetto/solana filename:mod.go</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>Solana Go SDK</p></td>\n    </tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> solana</p></td>\n    <td style=\"width: 60%; vertical-align: middle; padding:10px;\"><p>\"from solana rpc import\" language:python</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>Solana Python SDK</p></td>\n    </tr>\n    </tbody>\n</table>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dd932d0c1bbd432ab6f1f479f19ce2aa",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Using the Github queries provided, you will be able to scrape Solana-related repositories based on the libraries used.</p><p>Once you have the repositories, you can pull data on who committed code on each day. Pulling commits and subsequent committers, you can start to build up a data set that can tell you trends, retention, and more.</p><p>Before we dig into that data we need to define what it means to be a “developer on Solana”.</p><p>Solana-related repositories can be multi-chain or even not be entirely focused on Solana. A great example is an open-source multichain wallet. The focus of a multi-chain wallet repository is likely not just Solana, so it might not be accurate to assume that a developer contributing to that repository is a Solana developer. When we count Solana developers, we count developers working on repositories that happen to support Solana separately from developers working on repositories that are solely focused on Solana development.</p><p>In November, Solana has had:</p><ul><li>2053 total active developers on projects with a Solana integration, including multi-chain projects</li><li>1654 of those active developers are working on a project that is only focused on Solana.</li></ul><p>This total number of developers shows a holistic view of how the developer community has grown around Solana.</p><p>It’s important to&nbsp;note that a decent number of these developers may just be trying Solana for the first time, versus being a full-time developer building on Solana. Let’s define the difference as:</p><ul><li>Full-time developer: Commit on 5 or more days in the past month</li><li>One-time developer: Commit on 1 day in the past month</li></ul><p>In the past month we have seen:</p><ul><li>1139 one-time developers</li><li>120 full-time developers</li></ul><p>We can see that there is a decent drop off between one-time developers and full-time developers on Solana. This can help determine the retention rate between someone just trying out Solana for the first time and later becoming a Solana developer.</p><p>While we can measure a lot about the Solana developer ecosystem, it is good to note that we can only measure data that is currently public. We lose a lot of information on the developer ecosystem for Solana because private repositories or organizations on Github cannot be viewed. Open sourcing code can help developers looking to integrate on your project and give a more accurate view of the number of developers working on Solana today.</p><p>Using knowledge on the libraries and tooling a developer ecosystem uses can help you gather data and evaluate the strengths and weaknesses of the chain.</p><p>The Solana Foundation is committed to transparency, and updates to this data and methodology will be shared regularly by the Developer Relations team. We welcome feedback or comments on how the data was collected and how things can be improved.</p><p>SHARE ARTICLE</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff967c4a4e25146f4999e88cde909987d",
+  "lastUpdated": 1696412979072,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_00198c2029744d6b8f2eebd030b551fc",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687588884071,
+  "@originId": "00198c2029744d6b8f2eebd030b551fc",
+  "testRatio": 1,
+  "createdDate": 1687362434158,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=00198c2029744d6b8f2eebd030b551fc&builder.overrides.00198c2029744d6b8f2eebd030b551fc=00198c2029744d6b8f2eebd030b551fc&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Measuring Developer and User Activity on Solana: December 2022",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

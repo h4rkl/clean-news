@@ -1,0 +1,178 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1630566000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5b7009cb8fd43938a878662cb981f21",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "The Solana Labs co-founder and CEO answered questions from the audience. Here’s the TLDR.",
+    "publishedDate": "Thu Sep 02 2021 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Anatoly Yakovenko talks decentralization, developer community @ UDC 2021",
+      "noFollow": false,
+      "seoDescription": "The Solana Labs co-founder and CEO answered questions from the audience. Here’s the TLDR.",
+      "seoTitle": "Anatoly Yakovenko talks decentralization, developer community @ UDC 2021",
+      "noIndex": false
+    },
+    "title": "Anatoly Yakovenko talks decentralization, developer community at UDC 2021",
+    "openGraph": {
+      "ogTitle": "Recap: Anatoly Yakovenko at UDC 2021",
+      "ogUrl": "https://www.solana.com/blog/anatoly-yakovenko-talks-decentralization-developer-community-at-udc-2021",
+      "ogDescription": "The Solana Labs co-founder and CEO answered questions from the audience. Here’s the TLDR.",
+      "ogImage": "https://solana.ghost.io/content/images/2021/09/blog-udc-2021.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Recap: Anatoly Yakovenko @ UDC 2021",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/09/blog-udc-2021.png",
+      "twitterDescription": "The Solana Labs co-founder and CEO answered questions from the audience. Here’s the TLDR."
+    },
+    "slug": "anatoly-yakovenko-talks-decentralization-developer-community-at-udc-2021",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_313d6da5ea194e02b6c7df0f1a0efe22"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9091a1aea4b04885a63b65fb647eed45"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-8a7327ae27db4ae3b9c0d41947f593e9",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-eb2472125bf74275bfbf367c7198a57d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana Labs co-founder and CEO Anatoly Yakovenko is tired of the comparisons to Ethereum.</p><p><br></p><p>“I hate the Eth-killer thing,” he said during a virtual talk at the 2021 Upbit Developer Conference in Seoul. “I’m an open source developer… The biggest misconception that people have about open source projects is that you can kill them.”</p><p>It was just one of many questions Yakovenko answered during his half-hour appearance, where the topics ranged from Solana’s competitive advantage to who Solana Labs views as their competitors in the space.</p><p><br></p><p>Here are the highlights.</p><p>These quotes have been edited for length and clarity.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8d92f3cebe64436596611a0d95905084",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ZlOci6O-s40?start=10817&amp;feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-01ecfe8e52de43bab8a39e7dd60635aa",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>How Anatoly thinks of decentralization</strong></h2><p><strong>Co-founder and CEO Anatoly Yakovenko:</strong>&nbsp;“Decentralization is a very multifaceted term. What does that mean to us? Because the use case we mostly care about is on this global network that information gets propagated to everybody at the same time.</p><p>“Literally the goal of Solana is to carry transactions as fast as news travels around the world — so speed of light through fiber. Who we’re competing with is NASDAQ and the New York Stock Exchange. So if some important event happens in Seoul that has importance to markets, that newswire needs to propagate to a marketplace in New York, so that trader looking at that Bloomberg terminal is gonna look at it after that speed of light delay. By the time you look at the market, that price should already be reflected on both&nbsp;<a href=\"https://projectserum.com/?ref=solana.ghost.io#/\" rel=\"noopener noreferrer\" target=\"_blank\">Serum</a>&nbsp;(or markets like Serum) and the New York Stock Exchange. For that to happen, information in the network needs to be guaranteed to propagate as fast as possible.</p><p>“The only way to do this without centralization is to optimize this thing called&nbsp;<a href=\"https://solanabeach.io/validators?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the Nakamoto coefficient</a>, which is the minimum set of nodes, up to 33%, that can propagate the data around the network, at the same time to all the nodes. That really requires more hardware, more bandwidth… there’s no other way to implement it.</p><p>“It’s not even a tradeoff. Either you have this feature, you’re able to propagate information simultaneously around the world and anyone in the world has fair access to marketplaces, or you don’t.”</p><h2><strong>How Solana and Ethereum can evolve together</strong></h2><p><strong>Yakovenko:&nbsp;</strong>“I hate the Eth-killer thing. I’m an open source developer. I grew up in the time when Linux was fighting Microsoft. The big misconception that people have about open source projects is that it’s possible to kill them. Well, if there are developers that are just having fun working on this thing over the weekend, it’s impossible to kill them! There’s no way to kill Ethereum. That’s basically not something we think about.</p><p>“Our goal — and I think we’ve succeeded there — is to make Solana an open source project that people just have fun building on the weekend or in their free time — so also unkillable.”</p><p>“The second goal — and really the advantage — of what we’re working on is that we are 100% focused on making sure these order books that are running on Serum can be competitive with not Ethereum, but with the New York Stock Exchange, with NASDAQ, with the biggest retail exchanges with equities. If we can accomplish that, as a decentralized open source project —&nbsp;it’s just&nbsp;<a href=\"https://solana.com/developers?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a bunch of code at GitHub</a>! — I think that’s a very&nbsp;interesting&nbsp;outcome. It’s worth trying.”</p><h2><strong>Solana as an operating system</strong></h2><p><strong>Yakovenko:&nbsp;</strong>“Solana is an operating system in the general sense.&nbsp;<a href=\"https://cointelegraph.com/news/neon-labs-deploys-cross-chain-ethereum-virtual-machine-on-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neon</a>&nbsp;is an EVM virtual machine — an interpreter of EVM bytecode that runs as a Solana program. It is the same thing as running Java on Windows, on Linux, as a virtual machine. Because Solana is generic enough to be an operating system, you can do things like this. You can run EVMs and other virtual machines.”</p><h2><strong>Solana’s unique developer community</strong></h2><p><strong>Yakovenko:&nbsp;</strong>“If you really look at other networks that are building competitive platforms, they are designed as a faster version of Ethereum — but not really focused on a differentiated use case that opens up a whole new thing.</p><p>“Because central order books and that level of fine print finance was really a core to what we were doing, the kind of developers that we started seeing in the Solana ecosystem specifically were folks that had like, 5+ years working at a Chicago options trading firm in C++. They’re very naturally engineers that can switch to Rust in about a weekend. They already know what they want to build, and the only place they could have built that was on Solana, using Serum, working with&nbsp;<a href=\"https://jumptrading.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Jump Trading</a>&nbsp;or&nbsp;<a href=\"https://www.alameda-research.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Alameda</a>&nbsp;or a liquidity provider. There was just no other place for them to go.</p><p>“We were able to open up that new set of developers to come in and kickstart the ecosystem. That was really the tip of the spear. Once you have a group of people who are coming in, having fun, building products, and launching really quickly, other use cases that you could launch on other chains but also work great on Solana are just gonna hop along and start building as well.</p><p>“...A lot of the success there builds a lot of the user-facing tools that people need for everything else. It becomes very easy to adopt to any other application — gaming and NFTs included.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fccf717d61ac84d0d937c3610507191f2",
+  "lastUpdated": 1694189918351,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bd4ce422771e4d5c868a641445db4062",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687609356245,
+  "@originId": "bd4ce422771e4d5c868a641445db4062",
+  "testRatio": 1,
+  "createdDate": 1687362623682,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=bd4ce422771e4d5c868a641445db4062&builder.overrides.bd4ce422771e4d5c868a641445db4062=bd4ce422771e4d5c868a641445db4062&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Anatoly Yakovenko talks decentralization, developer community at UDC 2021",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

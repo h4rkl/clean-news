@@ -1,0 +1,108 @@
+{
+  "folders": [],
+  "data": {
+    "datePublished": 1705672800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1874ed15459645e7b8f3afb21a38041f",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e4e93f3f7e6549629c15a31c9012072d"
+    },
+    "intro": "What you can expect in v1.17.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1874ed15459645e7b8f3afb21a38041f",
+      "seoDescription": "What you can expect in v1.17.",
+      "seoTitle": "Solana Validators Adopt the v1.17 Update"
+    },
+    "title": "Solana Validators Adopt the v1.17 Update",
+    "slug": "solana-validators-v1-17-update",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-d3fd33bcbc3b435f9f5640f75d158f69",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-845e56a772e44e06a91e4a6614254781",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>On Jan. 15, 2024, Solana Labs engineers notified validators that v1.17, a proposed update to the Solana Labs validator client, is recommended for use on mainnet beta. This comes after numerous audits and the work of volunteer adopters, who were able to identify and help engineers correct earlier issues.</p><p>Version 1.17 includes a number of developments that will be activated over time. Here’s what you can expect.</p><h3>Feature updates</h3><ul><li>The ZK Token proof program is ready for activation in v1.17 (delayed from its intended activation in v1.16). This will facilitate confidential transfers.</li></ul><h3>Performance updates</h3><ul><li>Gossip push message propagation has improved in v1.17. This reduces the reliance on pull requests which have been down-sampled leading to reduction in resource usage by consensus validators.</li><li>The tpu client connection cache has been improved by creating connections asynchronously. This will reduce transaction latency in some cases.&nbsp;</li><li>When a validator restarts it needs information about the state of accounts. In prior versions that state comes from snapshots. V1.17 adds the --use-snapshot-archives-at-startup flag which can be used to specify whether to use local snapshots, the local state already on disk, or whichever is newer. In cases where the existing local state is newer than the local snapshots this eliminates the need to unpack and process the snapshots, leading to faster startup times.</li></ul><h3>Resiliency</h3><ul><li>v1.17 adds the capability to broadcast shreds and do repair over QUIC. This lays the groundwork to transition those protocols to QUIC.</li></ul><h2>How was v1.17 tested</h2><h3>Testnet</h3><p>Testnet has been running v1.17 since Oct. 3, 2023. In addition to handling public transactions testnet is stress tested regularly with high transaction volume. More recently core contributors have built a regression and capacity testing framework that is used regularly on testnet.</p><h3>Canaries</h3><p>Solana Labs operates canary nodes on mainnet-beta including seven that run the beta branch (currently v1.17). Those v1.17 nodes have been stable for several months. To follow the canaries in real time checkout the #canaries-monitoring channel on the <a href=\"https://solana.com/discord\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Tech Discord</a>.</p><h3>Fuzzers</h3><p>Multiple runtime fuzzers have also been developed. Their implementations vary, but they execute partially randomized transactions against multiple versions of the runtime to ensure that the results are consistent. This is especially useful for catching edge cases or race conditions that manifest infrequently.</p><h3>Audits</h3><p>Version 1.17 has been audited by multiple external auditors. Reports will be published to the <a href=\"https://github.com/solana-labs/security-audits\" rel=\"noopener noreferrer\" target=\"_blank\">security-audits</a> repo as they become available.</p><h3>Volunteer adoption</h3><p>A small subset of volunteers updated their mainnet-beta nodes to v1.17 starting on Dec. 4, 2023. These early adopters helped identify and resolve remaining issues.</p><h2>Where can I monitor for future releases?</h2><p>If you are not a validator, the best place to monitor for updates is the <a href=\"https://twitter.com/solanastatus\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Status Twitter account.</a></p><h2>Related links</h2><p>For more information about features that will be activated over time see the <a href=\"https://github.com/solana-labs/solana/wiki/Feature-Gate-Activation-Schedule\" rel=\"noopener noreferrer\" target=\"_blank\">Feature Gate Activation Schedule</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F37da38f2c3b84b6e959ba9e5044ee3d1",
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_0c31dd4e54c34ebfa6e43e5c620dbca1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1705685817472,
+  "@originId": "0c31dd4e54c34ebfa6e43e5c620dbca1",
+  "testRatio": 1,
+  "createdDate": 1705615799241,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "name": "v1.17 update",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@liveSyncEnabled": true,
+  "lastUpdated": 1705862178481,
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "previewUrl": "https://solana.com/news/solana-validators-v1-17-update",
+  "meta": {
+    "kind": "component",
+    "componentsUsed": {
+      "Copy": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false,
+    "lastPreviewUrl": "https://solana.com/news/solana-validators-v1-17-update?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=0c31dd4e54c34ebfa6e43e5c620dbca1&builder.overrides.0c31dd4e54c34ebfa6e43e5c620dbca1=0c31dd4e54c34ebfa6e43e5c620dbca1&builder.options.includeRefs=true&builder.options.locale=Default"
+  },
+  "rev": "l9w1e2t4y1"
+}

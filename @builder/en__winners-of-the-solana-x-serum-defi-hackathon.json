@@ -1,0 +1,657 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1615964400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fca34e6d395a34a93a6e4d4b9c9f1151f",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "With over 3,000 registrations & 100+ project submissions from builders globally!",
+    "publishedDate": "Wed Mar 17 2021 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Winners of the Solana X Serum DeFi Hackathon",
+      "ogUrl": "",
+      "ogDescription": "With over 3,000 registrations & 100+ project submissions from builders globally!",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Winners of the Solana X Serum DeFi Hackathon",
+      "noFollow": false,
+      "seoDescription": "With over 3,000 registrations & 100+ project submissions from builders globally!",
+      "seoTitle": "Winners of the Solana X Serum DeFi Hackathon",
+      "noIndex": false
+    },
+    "title": "Winners of the Solana X Serum DeFi Hackathon",
+    "twitterMeta": {
+      "twitterTitle": "Winners of the Solana X Serum DeFi Hackathon",
+      "twitterDescription": "With over 3,000 registrations & 100+ project submissions from builders globally!"
+    },
+    "slug": "winners-of-the-solana-x-serum-defi-hackathon",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2f4954ba92142bab59ce368e5629510"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bec3d03a15a94e16b13707bd0f0163b2"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_90466976bf1d43af86d65b3d36afaacd"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-02362d73825644cf8a40ad534dd3bb96",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3888d97620be45738e2021726b950660",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">With over 3,000 registrations &amp; 100+ project submissions from builders globally!</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7d74d5ff1fce4578a34bd0ae3552d495",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9f75de5fc7c4f08b738bedd4991fff3?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.5,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 500,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9f75de5fc7c4f08b738bedd4991fff3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9f75de5fc7c4f08b738bedd4991fff3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9f75de5fc7c4f08b738bedd4991fff3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9f75de5fc7c4f08b738bedd4991fff3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9f75de5fc7c4f08b738bedd4991fff3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9f75de5fc7c4f08b738bedd4991fff3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9f75de5fc7c4f08b738bedd4991fff3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9f75de5fc7c4f08b738bedd4991fff3?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9f75de5fc7c4f08b738bedd4991fff3?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "400px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3edeeab1048b4ce6b7f4e73063455ad1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">To accelerate the already rapid growth of the ecosystem, the Solana Foundation recently teamed up with Serum, a leading project in Solana’s ecosystem, to host a virtual&nbsp;</span><a href=\"https://solana.com/defi?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 20px;\">DeFi Hackathon</a><span style=\"font-size: 20px;\">. The event brought together crypto pioneers, popular DeFi projects, and builders from around the world for two weeks of hacking on Solana and Serum.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-40dfe0514c2646158ab320779cac78df",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35e0cd17a55a4b87a242a1c7355f4c28?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.525,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 525,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35e0cd17a55a4b87a242a1c7355f4c28?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35e0cd17a55a4b87a242a1c7355f4c28?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35e0cd17a55a4b87a242a1c7355f4c28?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35e0cd17a55a4b87a242a1c7355f4c28?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35e0cd17a55a4b87a242a1c7355f4c28?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35e0cd17a55a4b87a242a1c7355f4c28?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35e0cd17a55a4b87a242a1c7355f4c28?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35e0cd17a55a4b87a242a1c7355f4c28?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35e0cd17a55a4b87a242a1c7355f4c28?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-afd2a0f41bb84be1927f120b26d82ab6",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Over 3,000 builders registered for the hackathon and 100 projects were submitted spanning decentralized exchange, tooling, lending, and more.</p><p><strong>Browse through all the project submissions in the public directory&nbsp;</strong><a href=\"https://airtable.com/shrQvOZRiXN0YfO5U/tblnrOhKW8m8WF9d3?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>here</strong></a><strong>.</strong></p><p>Beyond engaging with talented teams worldwide, the hackathon allowed the Solana Foundation to improve essential documentation, tooling, and other educational resources to better serve developers integrating with Solana. The judges were extremely impressed with the quality and diversity of projects.</p><p><br></p><p>Projects were judged based on the following five categories: Functionality, potential impact, novelty, design, and composability. While participants were encouraged to build novel DeFi apps, hackers could build infrastructure or any tool they believed would have an impact on the DeFi ecosystem. The only requirement was that teams must incorporate Solana or Serum into their project.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a79659745bf94fec93c587a6d37269d8",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F72fb41bfd1d74288b854a033d8eddd7a?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 1.609,
+                "lockAspectRatio": false,
+                "height": 1500,
+                "width": 932,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F72fb41bfd1d74288b854a033d8eddd7a?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F72fb41bfd1d74288b854a033d8eddd7a?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F72fb41bfd1d74288b854a033d8eddd7a?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F72fb41bfd1d74288b854a033d8eddd7a?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F72fb41bfd1d74288b854a033d8eddd7a?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F72fb41bfd1d74288b854a033d8eddd7a?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F72fb41bfd1d74288b854a033d8eddd7a?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F72fb41bfd1d74288b854a033d8eddd7a?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F72fb41bfd1d74288b854a033d8eddd7a?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b2c1a2cbbc6947cd90c6896b986b3ff8",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>A total of 9 standout projects were selected, but over 50 projects showed tremendous potential. So, without further ado, here are the winners of the Solana x Serum DeFi Hackathon…</p><h2><strong>First Place Winners</strong></h2><p>The two first-place winners each receive $50,000 in USDC-SPL tokens.</p><p><strong>Mango Markets</strong></p><p>Mango is a decentralized, cross-margin trading platform with up to 5x leverage and integrated limit orders on Serum DEX’s on-chain order book. Makers or takers can earn interest on deposits and margin positions, as well as trade with near zero fees thanks to Solana’s high-performance blockchain. Additionally, users can contribute SRM into a shared pool to reduce the fees for all traders on the platform. Congrats Team Mango!</p><ul><li><a href=\"https://twitter.com/mangomarkets?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow Mango on Twitter</a></li><li><a href=\"https://mango.markets/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Visit Mango’s website</a></li><li><a href=\"https://github.com/blockworks-foundation/mango-ui?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Mango’s Github Repo</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e0b6ffc136c54ff886b50ff5f762e9cc",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>PsyOptions</strong></p><p>PsyOptions is a project that implemented American style options on Solana, with SOL and SPL token support. PysOptions can be extended to and composable with leveraged, inverse, and volatility products. The team executed on the idea, laid out a compelling roadmap, and designed a slick interface. Well done PsyOptions!</p><ul><li><a href=\"https://twitter.com/PsyOptions?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow PsyOptions on Twitter</a></li><li><a href=\"https://t.co/SFP8AZYIJ5?amp=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Visit Psyoptions’ Telegram</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bfe876bb1bfc45e0809fe335f8a0dc38",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffc6ea887fef749debdbb31c207ecb728?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.625,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 1000,
+                "width": 1600,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffc6ea887fef749debdbb31c207ecb728?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffc6ea887fef749debdbb31c207ecb728?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffc6ea887fef749debdbb31c207ecb728?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffc6ea887fef749debdbb31c207ecb728?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffc6ea887fef749debdbb31c207ecb728?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffc6ea887fef749debdbb31c207ecb728?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffc6ea887fef749debdbb31c207ecb728?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffc6ea887fef749debdbb31c207ecb728?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffc6ea887fef749debdbb31c207ecb728?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-900966f70a464d49b5b3549dafc6d132",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Second Place Winners</strong></h2><p>The 3 second-place winners each receive $20,000 in USDC-SPL tokens.</p><p><strong>Parrot</strong></p><p>Parrot is a synthetic debt protocol that bridges existing yield-bearing tokens on Ethereum layer 1 into Solana’s DeFi ecosystem. LP holders in protocols like Sushi, Curve, etc. can now use tokens as collateral directly on Solana-based lending products.</p><ul><li><a href=\"https://github.com/defactojob/partyparrot?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Parrot’s Github Repo</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-201aa44e4ce54ccf9e1e9b95d656d55d",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba2dbd8c4798421caced290143fb87dd?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.56,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 168,
+                "width": 300,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba2dbd8c4798421caced290143fb87dd?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba2dbd8c4798421caced290143fb87dd?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba2dbd8c4798421caced290143fb87dd?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba2dbd8c4798421caced290143fb87dd?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba2dbd8c4798421caced290143fb87dd?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba2dbd8c4798421caced290143fb87dd?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba2dbd8c4798421caced290143fb87dd?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba2dbd8c4798421caced290143fb87dd?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba2dbd8c4798421caced290143fb87dd?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "400px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0c8423011a2748428491416114675a73",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Synthetify</strong></p><p>Synthetify is a decentralized protocol for synthetic assets, built on Solana. The system works similarly to Ethereum-based Synthetix protocol.</p><ul><li><a href=\"https://twitter.com/synthetify?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow Synthetify on Twitter</a></li><li><a href=\"https://synthetify.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Synthetify’s website</a></li><li><a href=\"https://github.com/Synthetify?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Synthetify’s Github Repo</a></li></ul><p><strong>Solrise Finance</strong></p><p>Solrise is a decentralized, p2p asset management and trading protocol that allows fund managers to create investment funds, deposit tokens, and choose assets to trade. It also enables fund investors to track fund performance and their earnings.</p><ul><li><a href=\"https://twitter.com/SolriseFinance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow Solrise on Twitter</a></li><li><a href=\"https://t.co/0b7kTEGpP6?amp=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Visit Solrise’s Website</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-65460a91930647b29af22af99b6b93e7",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe\n  width=\"200\"\n  height=\"113\"\n  src=\"https://www.youtube.com/embed/dgLILzlxbhE?feature=oembed\"\n  frameborder=\"0\"\n  allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\"\n  allowfullscreen=\"\"\n></iframe>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6ec3a2781f63445180aa1fa734e43c92",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Third Place Winners</strong></h2><p>The 4 third-place winners each receive $10,000 in USDC-SPL tokens.</p><p><strong>Serum Tax Time</strong></p><p>The SerumTaxTime team built a tool to automatically sift through a user’s Serum DEX trades and present them via clear data analytics to determine tax payments.</p><ul><li><a href=\"https://github.com/SerumTaxTime?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Serum Tax Time’s Github Repo</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7194206dc3c44964abac3eace3e31612",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/yFexFkMLEBY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-669458b08f0c4ccd9ce34c1a63a80100",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>DTF Protocol</strong></p><p>DTF Protocol is a Solana-based system that enables users to implement an asset management strategy in which others can invest. A strategy consists of a basket of SPL tokens encapsulated in a DTF program which is itself an SPL token. By supporting external integrations with exchanges, lending platforms, automated market makers, and asset protocols, DTFs enable any type of strategy including those employing.</p><ul><li><a href=\"https://github.com/p2p-org/Non-custodial-DEX-Traded-Funds?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DTF’s Github Repo</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a9aa5940827f46978f100d2844e95b0b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf3ca3892e42441c947cb91117bfb159?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.368,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 589,
+                "width": 1600,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf3ca3892e42441c947cb91117bfb159?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf3ca3892e42441c947cb91117bfb159?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf3ca3892e42441c947cb91117bfb159?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf3ca3892e42441c947cb91117bfb159?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf3ca3892e42441c947cb91117bfb159?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf3ca3892e42441c947cb91117bfb159?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf3ca3892e42441c947cb91117bfb159?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf3ca3892e42441c947cb91117bfb159?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf3ca3892e42441c947cb91117bfb159?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-43d5b21b438e443086ee5076ba1d500f",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Sushi Warrior</strong></p><p>Sushi Warrior is a multiplayer tournament-style battle game that includes no-loss lotteries, similar to PoolTogether, and leverages Solana, Arweave, Torus, USDC, and AAVE to bring composable DeFi to the world of gaming.</p><p><strong>Tenderize Me</strong></p><p>Tenderize Me is a liquid staking solution that enables users to generate tenderSol, a value accruing staking derivative token, which allows them to enter or exit staking with no bonding and unbonding period. The main focus is to make staking more efficient and easy for regular non-technical Solana community members. Having a tenderSol token that represents their staking position allows users to use it again, for example as a collateral in other protocols.</p><ul><li><a href=\"https://twitter.com/tenderize_me?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow Tenderize on Twitter</a></li><li><a href=\"https://github.com/Tenderize/Tenderize-on-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tenderize’s Github Repo</a></li><li><a href=\"https://drive.google.com/file/d/1fzM6bjVW_aPS2R_8cUR8Tm9zs99GxNU5/view?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tenderize's Video</a></li></ul><h2><strong>Community Choice Prize</strong></h2><p>Shortly after all of the projects were submitted, the Solana&nbsp;community voted for their favorite projects. The Community Choice Award amounts to $5,000 in USDC-SPL. Over 10,000 votes were counted, and one project won by a very slim margin...</p><p><strong>COPE</strong></p><p>COPE is a token project that enables traders to rank their performance and view other traders’ performance in an index based on their Cope score. The ranking creates signal for other traders looking to enter new positions. The second phase of the project is to implement an automated investment product that users can permission to trade on their behalf based on the COPE index. The immediate capability allows for integration of the Serum DEX, which gives traders the ability to deploy active strategies on CLOBs according to rules produced in a smart contract running on Solana.</p><ul><li><a href=\"https://twitter.com/cyrii_mm?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow Cyrii on Twitter</a></li><li><a href=\"https://github.com/cyriimm/COPE/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cope’s Github Repo</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f980541885914e2f8dd090cba59ac15d",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77e5e91240d7404980728d81b6f4ed21?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.22,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 352,
+                "width": 1600,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77e5e91240d7404980728d81b6f4ed21?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77e5e91240d7404980728d81b6f4ed21?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77e5e91240d7404980728d81b6f4ed21?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77e5e91240d7404980728d81b6f4ed21?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77e5e91240d7404980728d81b6f4ed21?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77e5e91240d7404980728d81b6f4ed21?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77e5e91240d7404980728d81b6f4ed21?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77e5e91240d7404980728d81b6f4ed21?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77e5e91240d7404980728d81b6f4ed21?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c982f8cdd76b414bad32bd760bc8531e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Torus Award</strong></p><p>Torus, a popular DeFi wallet, offered up a $2,000 prize to the team that best integrated their wallet solution in the project. After reviewing all of the submissions with a Torus integration, Sushi Warrior again was selected as a winner. Congrats again Sushi Warrior!</p><p><br></p><p>The top 9 teams now have the opportunity to compete for an additional $200k prize in seed funding. This gives serious builders a chance at jumping full-time into the Solana ecosystem and receive extensive resources from The Solana Foundation, Project Serum, and leading venture capital firms. Stay tuned for updates on the seed round prize&nbsp;<a href=\"https://twitter.com/Solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">on Twitter</a>!</p><p>Congratulations again to all the hackers and winners! We’d also like to thank our all-star lineup of judges and speakers who participated in live panels throughout the hackathon. If you are interested in continuing to develop on Solana, the Foundation is always looking for talented teams to fund through the&nbsp;<a href=\"https://solana.com/grants?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Grants Program</a>. There are a few more hackathons and events already planned through 2021, so sign up for the newsletter, follow&nbsp;<a href=\"https://twitter.com/Solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana on Twitter</a>, and stay tuned for upcoming announcements!</p><p><br></p><p>----</p><p>DisclaimerThe Solana Foundation x Serum DeFi Hackathon is a competition where projects are evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon created software solely for purposes of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon. All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon.</p><p>The Hackathon ideas and developer resources that Solana Foundation (“SF”) provides are for educational and inspirational purposes only. SF does not encourage, induce or sanction the deployment of any such applications in violation of applicable laws or regulations. SF does not encourage, induce or sanction the deployment, integration or use of any such applications (including the code comprising the Solana blockchain protocol) in violation of applicable laws or regulations and hereby prohibits any such deployment, integration or use. This includes use of any such applications by the reader (a) in violation of export control or sanctions laws of the United States or any other applicable jurisdiction, (b) if the reader is located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC), (c) if the reader is or is working on behalf of a Specially Designated National (SDN) or a person subject to similar blocking or denied party prohibitions, or (d) in violation of the Securities Act of 1933, as amended, and or the Commodities and Exchange Act.</p><p>The reader should be aware that U.S. export control and sanctions laws prohibit U.S. persons (and other persons that are subject to such laws) from transacting with persons in certain countries and territories or that are on the SDN list. As a project based primarily on open-source software, it is possible that such sanctioned persons may nevertheless bypass prohibitions, obtain the code comprising the Solana blockchain protocol (or other project code or applications) and deploy, integrate, or otherwise use it. Accordingly, there is a risk to individuals that other persons using the Solana blockchain protocol may be sanctioned persons and that transactions with such persons would be a violation of U.S. export controls and sanctions law. This risk applies to individuals, organizations, and other ecosystem participants that deploy, integrate, or use the Solana blockchain protocol code directly (e.g., as a node operator), and individuals that transact on the Solana blockchain through light clients, third party interfaces, and/or wallet software.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7faa5ede9154529acc02d66c8df3c10",
+  "lastUpdated": 1696416404666,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b049503cfda49f6b5948d147e63bf54",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687600219200,
+  "@originId": "3b049503cfda49f6b5948d147e63bf54",
+  "testRatio": 1,
+  "createdDate": 1687362649012,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=3b049503cfda49f6b5948d147e63bf54&builder.overrides.3b049503cfda49f6b5948d147e63bf54=3b049503cfda49f6b5948d147e63bf54&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Winners of the Solana X Serum DeFi Hackathon",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

@@ -1,0 +1,169 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/announcing-breakpoint-the-annual-solana-conference",
+  "data": {
+    "datePublished": 1628838000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfdb77f1998040c59c1ed279f7fc5b35",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Announcing Breakpoint: the annual Solana conference",
+    "publishedDate": "Fri Aug 13 2021 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Announcing Breakpoint: the annual Solana conference",
+      "ogUrl": "",
+      "ogDescription": "Announcing Breakpoint: the annual Solana conference",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Announcing Breakpoint: the annual Solana conference",
+      "noFollow": false,
+      "seoDescription": "Announcing Breakpoint: the annual Solana conference",
+      "seoTitle": "Announcing Breakpoint: the annual Solana conference",
+      "noIndex": false
+    },
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Announcing Breakpoint: the annual Solana conference"
+    },
+    "twitterMeta": {
+      "twitterTitle": "Announcing Breakpoint: the annual Solana conference",
+      "twitterDescription": "Announcing Breakpoint: the annual Solana conference"
+    },
+    "slug": "announcing-breakpoint-the-annual-solana-conference",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-3ad6ac61803b4dfcb5163e7fad12baf7",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-32eda3ad60b5417e9e71f6e5268dae03",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9d850ec9c2eb43178b36f644c2bb440d?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.4,
+                "lockAspectRatio": false,
+                "height": 400,
+                "width": 1000,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-307a6cbe9490426980f9a154859901ec",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Breakpoint is coming –&nbsp;the first conference organized by the Solana Foundation will bring together industry leaders, builders, and innovators from around the globe. Breakpoint will be held November 7th through the 10th in Lisbon (subject to change in response to COVID-19 restrictions), and tickets for the in-person event are<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;on sale now</a>.</p><p>Breakpoint is a celebration of all the Solana community has accomplished, and inspiration for what comes next. We will bring together some of the smartest thinkers, developers, and operators in blockchain to focus on challenges and opportunities in building a web3 world.</p><p>The four-day event will take place at three venues in the heart of Lisbon, and feature talks by Balaji S. Srinivasan, Jeremy Allaire, Sam Bankman-Fried, Meltem Demirors, Kyle Samani, and dozens more! Breakpoint will host over 100 panels, technical workshops, and</p><p>In-depth conversations on the rise of DeFi, the future of NFTs, and so much more.</p><p>The LxFactory, a A 175-year-old textile factory, will act as the hub for Breakpoint, with the Estufa Fria botanical gardens and greenhouse hosting Breakpoint’s Growth stage, and SUD Lisboa on the Tagus river home for developer meetups and technical workshops.</p><p>We’ll have more to share in the coming weeks, and registration is now open at&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://solana.com/breakpoint</a>&nbsp;. Are you a developer with an idea for a workshop?&nbsp;<a href=\"https://airtable.com/shr35ca8mdU9AiEf4?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here</a>&nbsp;to run your own!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa533589fbb1e40afb7339dfcfe65d01f",
+  "lastUpdated": 1725700956631,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_14fa6021e6854c6b9faf8b79946d7813",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687603553640,
+  "@originId": "14fa6021e6854c6b9faf8b79946d7813",
+  "testRatio": 1,
+  "createdDate": 1687362628709,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/announcing-breakpoint-the-annual-solana-conference?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=14fa6021e6854c6b9faf8b79946d7813&builder.overrides.14fa6021e6854c6b9faf8b79946d7813=14fa6021e6854c6b9faf8b79946d7813&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Announcing Breakpoint: the annual Solana conference",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

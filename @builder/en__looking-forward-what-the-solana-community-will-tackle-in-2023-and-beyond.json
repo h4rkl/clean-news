@@ -1,0 +1,372 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1671822000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c87bd8fcd664cb0baa0da1a4b256de7",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "At Breakpoint 2022, Solana co-founder Anatoly Yakovenko outlined the engineering challenges his team is working on — and wants to take on next.",
+    "publishedDate": "Sat Dec 24 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Looking forward: What the Solana community will tackle in 2023 and beyond",
+      "ogUrl": "",
+      "ogDescription": "At Breakpoint 2022, Solana co-founder Anatoly Yakovenko outlined the engineering challenges his team is working on — and wants to take on next.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Looking forward: What the Solana community will tackle in 2023 and beyond",
+      "noFollow": false,
+      "seoDescription": "At Breakpoint 2022, Solana co-founder Anatoly Yakovenko outlined the engineering challenges his team is working on — and wants to take on next.",
+      "seoTitle": "Looking forward: What the Solana community will tackle in 2023 and beyond",
+      "noIndex": false
+    },
+    "title": "Looking forward: What the Solana community will tackle in 2023 and beyond",
+    "twitterMeta": {
+      "twitterTitle": "Looking forward: What the Solana community will tackle in 2023 and beyond",
+      "twitterDescription": "At Breakpoint 2022, Solana co-founder Anatoly Yakovenko outlined the engineering challenges his team is working on — and wants to take on next."
+    },
+    "slug": "looking-forward-what-the-solana-community-will-tackle-in-2023-and-beyond",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_313d6da5ea194e02b6c7df0f1a0efe22"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9091a1aea4b04885a63b65fb647eed45"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-dae4b6445def4ffeb54c08d8e2e13457",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2ec42787f2c940d1aab9e9f7a72c0f1c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Consensus at the speed of light.</strong></p><p>That’s the north star that Solana co-founder Anatoly Yakovenko said he was following at his “Looking Back, Looking Forward” keynote at&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint 2022</a>&nbsp;in Lisbon, Portugal. And even today, after the recent industry turmoil, that has not changed.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2c2795137a8f4671a45bf0cca51833af",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5NDs3Il2J3Q\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7ef682130c4440a68d669c4bc65e415f",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5NDs3Il2J3Q\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e8d28455b02c4924b164e49354d2ef96",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In order to get to consensus at the speed of light and onboard users around the world, Yakovenko outlined the problems and issues he had identified as roadblocks on the way to mass adoption. Here are the core problems the Solana development team and greater Solana community are tackling now — and what’s on the horizon.</p><h2><strong>Today’s initiatives</strong></h2><h3><strong>Mobile</strong></h3><p>Right now, crypto is chained to the desktop. But, for millions of people around the world, the primary way they interact with the internet is through their mobile devices. There’s just one big problem.</p><p>“The business models for web3 are not really compatible with how the business models work in the big app stores,” Yakovenko said. “When you buy-to-own video on Amazon Prime, you don't actually own it. You're renting it from Amazon, maybe forever, or maybe whenever Amazon decides not to have that video anymore. So it's not true digital ownership.”</p><p>Current mobile phones reflect this centralized set up — curated app stores are not friendly to crypto use cases, and dApps that make it through&nbsp;app store approval processes require users to take extra steps&nbsp;to connect to a wallet. It creates a lot of friction for the user. “It's a big challenge, not for the network, but for the user experience,” Yakovenko said. “And for developers.”</p><p>The&nbsp;<a href=\"https://solanamobile.com/news/solana-mobile-stack-reveal?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Mobile Stack,</a>&nbsp;developed by&nbsp;<a href=\"https://solanamobile.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Mobile</a>&nbsp;and coming first on the Android-compatible Saga phone, aims to make mobile more crypto-friendly. The&nbsp;<strong>seed vault</strong>, for example, uses the secure element built into every phone to store the seed phrase in a way that cannot be read by Android, allowing dApps to seamlessly connect with wallets. And the&nbsp;<strong>Solana dApp Store</strong>&nbsp;will be a permissionless marketplace for mobile dApps.</p><p>DVT-1, the first developer devices,&nbsp;<a href=\"https://twitter.com/solanamobile/status/1603498506085289985?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">started shipping</a>&nbsp;in mid-December. The Solana dApp Store will&nbsp;<a href=\"https://twitter.com/solanamobile/status/1605668888175206400?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">accept the first applications</a>&nbsp;in January, and Saga devices for the general public will ship in early 2023.</p><h3><strong>Reliability and Resiliency</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d17376b81ef94306af9f4fe08cb567ea",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77416ee002534387adcc1460743bc840?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 563,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77416ee002534387adcc1460743bc840?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77416ee002534387adcc1460743bc840?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77416ee002534387adcc1460743bc840?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77416ee002534387adcc1460743bc840?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77416ee002534387adcc1460743bc840?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77416ee002534387adcc1460743bc840?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77416ee002534387adcc1460743bc840?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77416ee002534387adcc1460743bc840?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F77416ee002534387adcc1460743bc840?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ba4c733bcdc84b8ba95fb64c10938fe8",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>From \"Looking Back, Looking Forward\" at Breakpoint 2022, Nov. 5th 2022.</p><p>Early in 2022, Solana ran into a series of bugs that caused the network to halt — and ever since, network reliability has been the main focus of the core Solana engineering team. Several of these bugs were novel, while others were the result of exponentially increasing use of the network.&nbsp;</p><p>“We've had a lot of challenges over the last year,” Yakovenko said. “I would say this whole last year has been all about reliability for the Solana engineering team. And a lot of that, I think we've solved.”</p><p><a href=\"https://solana.com/upgrades?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Network upgrades</a>&nbsp;are already in the process of being rolled out, if not already:</p><ul><li><strong>QUIC:</strong>&nbsp;Solana uses a permissionless UDP-based protocol to process transactions — but under the old design, high transaction volume could overwhelm the network. Redeploying the UDP on top of QUIC, a protocol written by Google, allows for fast asynchronous communication. QUIC is currently live on Mainnet-beta.</li><li><strong>Stake-weighted QoS:</strong>&nbsp;Weighting validator priority by stake, instead of processing transactions regardless of source, “prevents unstaked nodes or low-stake nodes from spamming everyone else,” Yakovenko says. Stake-weighted QoS is already live on Mainnet-beta.</li><li><strong>Local fee markets:</strong>&nbsp;Local fee markets will allow users to pay a little extra to have their transaction processed first. These fee markets are live on Mainnet-beta, with RPC and wallet support coming soon.</li></ul><p>And while a number of community projects, like Jito and Mango, are working to make the network more reliable, the biggest wholesale upgrade of the network could come from&nbsp;<strong>Firedancer,</strong>&nbsp;a new validator client developed by Jump.</p><p><a href=\"https://jumpcrypto.com/firedancer/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Firedancer</a>&nbsp;is a second validator client, meaning that people could potentially run their validators using one of two entirely different software packages with independent dependencies. It is extremely performant and processes .6 million transactions per second&nbsp;<a href=\"https://youtu.be/YF-7duYCK54?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">in a test environment</a>&nbsp;(much more than the current network’s average of 4,000, which is still far more than other blockchains can support).</p><p>Solana would be the only other smart contract network besides Ethereum to have more than one independent validator client — which would be a boon for the network. If a bug happens to take down one of the clients, the network will remain running on the other, increasing Solana’s reliability and resiliency.</p><h3><strong>Programmability</strong></h3><p>“I've always said that Solana is like Linux, and it should be as programmable as Linux,” said Yakovenko. “That means using modern tools like compilers to support a very large set of developer languages.”</p><p>The Solana community has made some major strides in ensuring the network became more programmable. There is already a Solidity compiler for Solana, solang. Anchor, a framework for building on Solana, has become much easier for developers to use — and the newly released program Seahorse allows people to write Anchor programs using Python. “We went from chewing glass last year to surfing glass,” Yakovenko said.</p><p>But there’s still some major moves on the horizon.&nbsp;<a href=\"https://youtu.be/Gr0cSdqIjD4?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Token-22,</strong></a>&nbsp;a new token standard, will enable the development of new applications, like collecting royalties on transfers and ownership and confidential payments. Token-22 is coming soon.</p><h3><strong>Performance</strong></h3><p>There’s been a number of other upgrades in the works to make Solana a more secure, performant network.</p><p>In order to make sure the Solana network can transmit information almost instantly around the world, the core engineering team has introduced some&nbsp;<strong>turbine optimizations</strong>&nbsp;that are deep under the hood. “I think this is probably the coolest piece of technology that we built that nobody knows about,” Yakovenko said.</p><p>There is also a lot of work being done on&nbsp;<strong>runtime optimizations</strong>&nbsp;as well. While upgrades to Solana’s Sealevel runtime have made the network even faster at processing transactions, engineers are still making headway on two really big, difficult problems — the transaction scheduler, and then playing those transactions back.</p><p>“These are those kinds of engineering problems that you can spend a lifetime on,” Yakovenko said. “The solutions are getting better and better, and heuristics are getting much closer to the best possible you can have.”</p><h3><strong>Security</strong></h3><p>The security of the network is paramount to mainstream adoption. Luckily, a number of improvements will be implemented soon to make Solana more secure–for both the network at large and users.</p><p>And while Solana’s massive increase in the&nbsp;<a href=\"https://solanabeach.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>number of validators</strong></a>&nbsp;has made the network more secure and censorship resistant, there are still improvements that are needed before widespread adoption.</p><p>“If you really imagine these networks taking over the majority of finance — like real finance, trillions of dollars being moved between banks, between Forex, between payments — these networks need to provide guarantees that are much, much stronger than, than what exists today,” Yakovenko said. “How do we scale the set to the point that at a gut level, when you're the Chief Security Officer at Bank of America, you're like, ‘Well, I can trust this thing, because there's so many nodes that the probability of something going wrong is basically zero’?”</p><p>Yakovenko points to&nbsp;<strong>automatic audits</strong>&nbsp;as a security feature developed by ecosystem teams like OtterSec and Sec3 that will help developers catch common smart contract and development mistakes. “As much automation as we can build, the more robust that these systems can get.”</p><p>Meanwhile, consumer-facing products such as the Solana Mobile Stack’s&nbsp;<strong>seed vault</strong>&nbsp;will make self custody much easier — and more secure— for consumers.</p><h2><strong>Tomorrow’s challenges</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-811c1642e1df44be81323197af0a4435",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1b30c42eb5145b2b54cd3b50967ef11?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 667,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1b30c42eb5145b2b54cd3b50967ef11?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1b30c42eb5145b2b54cd3b50967ef11?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1b30c42eb5145b2b54cd3b50967ef11?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1b30c42eb5145b2b54cd3b50967ef11?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1b30c42eb5145b2b54cd3b50967ef11?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1b30c42eb5145b2b54cd3b50967ef11?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1b30c42eb5145b2b54cd3b50967ef11?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1b30c42eb5145b2b54cd3b50967ef11?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1b30c42eb5145b2b54cd3b50967ef11?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-af0d67aaa7154b0581adff23dab129a9",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Anatoly Yakovenko, on stage at Breakpoint with the Solana Foundation's Austin Federa, Nov. 5th, 2022.</p><h3><strong>Programmability</strong></h3><p>Yakovenko has his eye on some major problems that he would like teams in the Solana ecosystem to tackle.</p><p>“Luckily, we don't have a difficulty bomb — we’re already Proof of Stake — so I think it's downhill from here,” he said. “But there's still a lot of really hard problems left.</p><p>On the programmability front, there are a number of big ideas that could make Solana even easier. There’s already tooling in place that could help make&nbsp;<strong>formal verification</strong>&nbsp;a reality, which could help developers get closer to a second implementation for their smart contracts. “My hope is at next year’s Breakpoint, I'll be talking about the smart contracts that are open source, have formally verifiable specs, that auditors can look at the spec and tell you where you're missing an assumption, or an assumption is not possible to prove,” Yakovenko said.</p><p><strong>Type-rich bitcode,</strong>&nbsp;Yakovenko says “was basically science fiction when I was an undergrad 20 years ago.” Built on the work that’s been previously done with Linux, it could potentially remove a lot of the plumbing and boilerplate between Solana programs that currently cannot call functions between each other. “This is really like the difference between full composability in the world computer, and like passing messages between different services. And I want that full composability,” he said. “The kinds of things that developers will build I think will blow everyone's mind.</p><p>One of the other gnarly problems on Yakovenko’s mind?&nbsp;<strong>Network state and dynamic pricing for storage.&nbsp;</strong>“What happens when you have like, 5 billion accounts or 10 billion accounts? We've actually done a lot of optimizations over the last year to just scale it with hardware,” he said. “But that still doesn't mean that we know how to price that storage. We don't know what the value of the next account should be next to the validators, and how to make sure that that storage is used effectively.”</p><h3><strong>Network-level</strong></h3><p>At the network level, the name of the game is “slimming down Solana.” What does that mean? Yakovenko points to the research around light clients, which allows users who are not running a full validator node to look at a small sampling of data. These light clients could be a way to effectively secure the network and validate that the majority of nodes are correct. For Solana, he half-jokingly calls these&nbsp;<strong>diet clients</strong>, “because Solana is a big fat protocol. The proofs are much fatter than something on a very, very thin protocol layer.”</p><p>Another big idea on Yakovenko’s mind — removing the act of block production from running a validator node. “This allows the actual block producers to be a bit stateless and not need the most synchronized state, so they can spend all of their resources on this very gnarly, real time knapsack problem of creating blocks,” he said. “That's a huge reliability improvement, and a pretty significant improvement for latency.” Using&nbsp;<strong>bankless leaders</strong>&nbsp;would free up validator nodes to verify the network.</p><p>The other side of that coin is&nbsp;<strong>APEX,</strong>&nbsp;which would remove the ebb and flow of dealing with web traffic demands from validators by separating out the work of playing and reviewing blocks from picking forks. “Once you pick a fork, you know the execution and you know the result. And if we can accomplish this, that means that you can have actual program execution run a full epoch behind fork choice. That gives you two days worth of transactions to execute at once,” Yakovenko said.</p><p>All three ideas would make the network more secure and performant.</p><h2><strong>“The mother of all difficult bombs:” Multiple concurrent block producers</strong></h2><p>This all leads to the big problem that Yakovenko sees as the holy grail, the “mother of all difficult bombs.”</p><p>If Solana is to create a real-time historical record of events that happen in the world, information needs to be transmitted as fast as possible. Who heard about information first can determine the winners and losers in the world of finance, for example. “If you're the first to recognize an economic opportunity,” Yakovenko said, “you should be the one to get credit for it to be able to take it.”</p><p>To fight this, you need to reduce latencies in the network. Take a look at this map as an example:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9ab1df5ecaac48b18b63e973c37b17ec",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F739f3c6196d9488aad80ff841a59dc33?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 563,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F739f3c6196d9488aad80ff841a59dc33?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F739f3c6196d9488aad80ff841a59dc33?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F739f3c6196d9488aad80ff841a59dc33?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F739f3c6196d9488aad80ff841a59dc33?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F739f3c6196d9488aad80ff841a59dc33?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F739f3c6196d9488aad80ff841a59dc33?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F739f3c6196d9488aad80ff841a59dc33?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F739f3c6196d9488aad80ff841a59dc33?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F739f3c6196d9488aad80ff841a59dc33?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d0f7c4f28a904f3494a01d2d4677c7f7",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>From \"Looking Back, Looking Forward\" at Breakpoint 2022, Nov. 5th 2022.</p><p>Right now, Monkey King has to send his transactions across the Atlantic, much further than Solana Summer Monkey. And that geographic distance makes a difference — a few milliseconds of latency could determine whether Monkey King makes a transaction first.</p><p>If there were to be multiple concurrent block producers, however, there now could be multiple places to validate transactions at the same time — reducing latency and giving everyone a much fairer chance.</p><p>Yakovenko is quick to point out that although it sounds like it, this isn’t actually the same as sharding, which is popular on some other blockchain platforms. “We still have a single state machine, a single unified worldview of what the state is,” he said. “We just have multiple ways to encode that history.”</p><p>Ultimately, all these updates and proposals will help&nbsp;<strong>make decentralized systems as fast, reliable, and secure as their centralized counterparts.</strong>&nbsp;“It just takes a bunch of work and some organization,” he said.</p><p>And by tackling these problems, the Solana community will be closer to that goal than ever.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff8b0377ed57944358fd028e6788f7434",
+  "lastUpdated": 1696412776856,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_940e04e9ea7d4d38b66b15c810cd65d4",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687590661220,
+  "@originId": "940e04e9ea7d4d38b66b15c810cd65d4",
+  "testRatio": 1,
+  "createdDate": 1687362416810,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=940e04e9ea7d4d38b66b15c810cd65d4&builder.overrides.940e04e9ea7d4d38b66b15c810cd65d4=940e04e9ea7d4d38b66b15c810cd65d4&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Looking forward: What the Solana community will tackle in 2023 and beyond",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

@@ -1,0 +1,675 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1563778800000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+    "publishedDate": "Mon Jul 22 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Cloudbreak — Solana’s Horizontally Scaled State Architecture",
+      "ogUrl": "https://www.solana.com/blog/cloudbreak---solana-s-horizontally-scaled-state-architecture",
+      "ogDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "Cloudbreak — Solana’s Horizontally Scaled State Architecture",
+    "seo": {
+      "internalName": "Cloudbreak — Solana’s Horizontally Scaled State Architecture",
+      "noFollow": false,
+      "seoDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+      "seoTitle": "Cloudbreak — Solana’s Horizontally Scaled State Architecture",
+      "noIndex": false
+    },
+    "twitterMeta": {
+      "twitterTitle": "Cloudbreak — Solana’s Horizontally Scaled State Architecture",
+      "twitterImage": null,
+      "twitterDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n"
+    },
+    "slug": "cloudbreak---solana-s-horizontally-scaled-state-architecture",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-2bac9879e57e49e0a21901472f799de4",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9aaf26d3caff4ca680c504c7ddf52851",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Understand 1 of 8 key technologies that make&nbsp;</strong><a href=\"https://solana.com/?source=post_page---------------------------\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana</strong></a><strong>&nbsp;the most performant blockchain in the&nbsp;world</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2068b5955adc4688ac4f9b9a51050d64",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F853442afa3234a16b6efd2697356bd0b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F853442afa3234a16b6efd2697356bd0b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F853442afa3234a16b6efd2697356bd0b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F853442afa3234a16b6efd2697356bd0b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F853442afa3234a16b6efd2697356bd0b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F853442afa3234a16b6efd2697356bd0b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F853442afa3234a16b6efd2697356bd0b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F853442afa3234a16b6efd2697356bd0b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F853442afa3234a16b6efd2697356bd0b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F853442afa3234a16b6efd2697356bd0b?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0739780a37284d9490e51098b4f84da9",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana is the most performant permissionless blockchain in the world. On current iterations of the Solana Testnet, a network of 200 physically distinct nodes supports a sustained throughput of more than 50,000 transactions per second when running with GPUs. Achieving as such requires the implementation of several optimizations and new technologies, and the result is a breakthrough in network capacity that signals a new phase in blockchain development.</p><h3><strong>There are 8 key innovations that make the Solana network possible:</strong></h3><ul><li><a href=\"https://solana.ghost.io/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Proof of History (POH)</strong></a><strong> </strong>— a clock before consensus;</li><li><a href=\"https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Tower BFT </strong></a>— a PoH-optimized version of PBFT;</li><li><a href=\"https://solana.ghost.io/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Turbine</strong></a> — a block propagation protocol;</li><li><a href=\"https://solana.ghost.io/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Gulf Stream</strong></a><strong> </strong>— Mempool-less transaction forwarding protocol;</li><li><a href=\"https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sealevel </strong></a>— Parallel smart contracts run-time;</li><li><a href=\"https://solana.com/pipelining-in-solana-the-transaction-processing-unit/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Pipelining</strong></a> — a Transaction Processing Unit for validation optimization</li><li><a href=\"https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Cloudbreak</strong></a><strong> </strong>— Horizontally-Scaled Accounts Database; and</li><li><a href=\"https://solana.com/archivers/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Archivers</strong></a> — Distributed ledger store</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b5afe9cfb85c4538b5e7595ab6275dbb",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F610e86f24e93442d8513388ac93b60aa?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F610e86f24e93442d8513388ac93b60aa?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F610e86f24e93442d8513388ac93b60aa?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F610e86f24e93442d8513388ac93b60aa?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F610e86f24e93442d8513388ac93b60aa?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F610e86f24e93442d8513388ac93b60aa?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F610e86f24e93442d8513388ac93b60aa?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F610e86f24e93442d8513388ac93b60aa?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F610e86f24e93442d8513388ac93b60aa?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F610e86f24e93442d8513388ac93b60aa?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-be587a3d37bf4fc0b5631f3b91a8fde3",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In this blog post, we’ll go over Cloudbreak, Solana’s horizontally scaled state architecture</p><h2><strong>Overview: RAM, SSDs, and&nbsp;Threads</strong></h2><p>When scaling a blockchain without sharding, it is not enough to only scale computation. The memory that is used to keep track of accounts quickly becomes a bottleneck in both size and access speeds. For example: It’s generally understood that LevelDB, the local database engine that many modern chains use, cannot support more than about 5,000 TPS on a single machine. That’s because the virtual machine is unable to exploit concurrent read and write access to the account state through the database abstractions.</p><p>A naive solution is to maintain the global state in RAM. However, it’s not reasonable to expect consumer-grade machines to have enough RAM to store the global state. The next option is using SSDs. While SSDs reduce the cost per byte by a factor of 30x or more, they are 1000x slower than RAM. Below is the&nbsp;<a href=\"https://www.samsung.com/semiconductor/global.semi.static/Samsung_NVMe_SSD_970_PRO_Data_Sheet_Rev.1.0.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">datasheet</a>&nbsp;from the latest Samsung SSD, which is one of the fastest SSDs on the market.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-071c338613dd4a52822e153fc4da380c",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbba879c41894444ba3f35b18f27b7dc7?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.169,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 203,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbba879c41894444ba3f35b18f27b7dc7?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbba879c41894444ba3f35b18f27b7dc7?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbba879c41894444ba3f35b18f27b7dc7?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbba879c41894444ba3f35b18f27b7dc7?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbba879c41894444ba3f35b18f27b7dc7?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbba879c41894444ba3f35b18f27b7dc7?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbba879c41894444ba3f35b18f27b7dc7?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbba879c41894444ba3f35b18f27b7dc7?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbba879c41894444ba3f35b18f27b7dc7?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3212134038214246a6818ba513bfcbe1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>A single-spend transaction needs to read 2 accounts and write to 1. Account keys are cryptographic public keys, and are totally random and have no real data locality. A user’s wallet will have many Account addresses, and the bits of each address are completely unrelated to any other address. Because there is no locality between accounts, it is impossible for us to place them in memory such that they are likely to be close to each other.</p><p>With a max of 15,000 unique reads per second, a naive single-threaded implementation of an Accounts database using a single SSD will support up to 7,500 transactions per second. Modern SSDs support 32 concurrent threads, therefore and can, therefore, support 370,000 reads per second, or roughly 185,000 transactions per second.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-16defedece434876b1b8c770206d0d90",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fec557d4467094d31af3546225b8bd19f?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fec557d4467094d31af3546225b8bd19f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fec557d4467094d31af3546225b8bd19f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fec557d4467094d31af3546225b8bd19f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fec557d4467094d31af3546225b8bd19f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fec557d4467094d31af3546225b8bd19f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fec557d4467094d31af3546225b8bd19f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fec557d4467094d31af3546225b8bd19f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fec557d4467094d31af3546225b8bd19f?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fec557d4467094d31af3546225b8bd19f?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4b026c7fa93d4d8fbe80992af673737c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Cloudbreak</strong></h2><p>The guiding design principle at Solana is to design software that gets out of the way of the hardware to allow 100% utilization.</p><p>Organizing the database of accounts such that concurrent reads and writes are possible between the 32 threads is a challenge. Vanilla open source databases like LevelDB cause bottlenecking because they don’t optimize for this specific challenge in a blockchain setting. Solana does not use a traditional database to solve these problems. Instead, we use several mechanisms utilized by operating systems.</p><p>First, we leverage memory-mapped files. A memory-mapped file is a file whose bytes are mapped into the virtual address space of a process. Once a file has been mapped, it behaves like any other memory. The kernel may keep some or none of the memory cached in the RAM, but the amount of physical memory is limited by the size of the disk and not the RAM. Reads and writes are still obviously bound by the performance of the disk.</p><p>The second important design consideration is that sequential operations are much faster than random operations. This is true not just for SSDs, but for the entire virtual memory stack. CPUs are great at prefetching memory that is accessed sequentially, and operating systems are great at handling sequential page faults. To exploit this behavior we break up the accounts data structure roughly as follows:</p><ol><li>The index of accounts and forks is stored in RAM.</li><li>Accounts are stored in memory-mapped files up to 4MB in size.</li><li>Each memory map only stores accounts from a single proposed fork.</li><li>Maps are randomly distributed across as many SSDs as are available.</li><li>Copy-on-write semantics are used.</li><li>Writes are appended to a random memory map for the same fork.</li><li>The index is updated after each write is completed.</li></ol><p>Since account updates are copy-on-write and are appended to a random SSD, Solana receives the benefits of sequential writes and horizontal scaling of the writes across many SSDs for concurrent transactions. Reads are still random access, but since any given forks state updates are spread across many SSDs, the reads end up horizontally scaled as well.</p><p>Cloudbreak also performs a form of garbage collection. As forks become finalized beyond rollback and accounts are updated, old invalid accounts are garbage collected, and memory is relinquished.</p><p>There’s at least one more great benefit of this architecture: computing the merkle root of the state updates for any given fork can be done with sequential reads that are horizontally scaled across SSDs. The drawback of this approach is the loss of generality to the data. Since this is a custom data structure, with custom layout, we are unable to use general-purpose database abstractions for querying and manipulating the data. We had to build everything from the ground up. Fortunately, that’s done now.</p><h2><strong>Benchmarking Cloudbreak</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-147197831e1a4b11ba9731bb41e4d015",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8f1039ae0574421ea8ce40b62897ef16?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 675,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8f1039ae0574421ea8ce40b62897ef16?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8f1039ae0574421ea8ce40b62897ef16?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8f1039ae0574421ea8ce40b62897ef16?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8f1039ae0574421ea8ce40b62897ef16?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8f1039ae0574421ea8ce40b62897ef16?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8f1039ae0574421ea8ce40b62897ef16?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8f1039ae0574421ea8ce40b62897ef16?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8f1039ae0574421ea8ce40b62897ef16?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8f1039ae0574421ea8ce40b62897ef16?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e294a506b53646a4917bf196add775a9",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">While the Accounts database is in RAM, we see throughput that matches RAM access times, while scaling with the number of available cores. At 10m accounts, the database no longer fits in RAM. However, we still see performance near 1m in reads or writes per second on a single SSD.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-83ad07f071b34d8a860d2a2a55e3074b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68cfca3bf3c245598027d44121923e27?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.361,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 433,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68cfca3bf3c245598027d44121923e27?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68cfca3bf3c245598027d44121923e27?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68cfca3bf3c245598027d44121923e27?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68cfca3bf3c245598027d44121923e27?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68cfca3bf3c245598027d44121923e27?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68cfca3bf3c245598027d44121923e27?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68cfca3bf3c245598027d44121923e27?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68cfca3bf3c245598027d44121923e27?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68cfca3bf3c245598027d44121923e27?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b8bc041aad2147838cee606844a1333c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Learn more about Tour de SOL — Solana’s incentivized testnet&nbsp;event.</p><p>Solana’s utilization of Cloudbreak, alongside innovations like Proof of History, Sealevel, and Tower BFT combine to create the world’s first web scale blockchain. Solana’s testnet is live today. You can see it at&nbsp;<a href=\"https://testnet.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">testnet.solana.com</a>. For cost purposes, we are only running a handful of nodes. However, we have spun it up on many instances to over 200 physically distinct nodes (not on shared hardware) across 23 data centers on AWS, GCE, and Azure for benchmarking.</p><p>The runtime is functioning today, and developers can deploy code on the testnow now. Developers can build smart contracts in C today, and we are aggressively working on the Rust toolchain. Rust will be the flagship language for Solana smart contract development. The&nbsp;<a href=\"https://github.com/solana-labs/solana-web3.js?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Rust toolchain is publicly available</a>&nbsp;as part of the Solana Javascript SDK, and we are further iterating on the Software Development Kit.</p><p>Solana will soon launch a public beta incentivizing validators to run nodes via&nbsp;<a href=\"https://medium.com/solana-labs/solana-announces-tour-de-sol-an-incentivized-testnet-event-b26372a58a51?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tour de SOL</a> — analogous to Cosmos’ Game of Stakes — that challenges the public at large to test the limits of the Solana network while earning tokens for doing so.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5aab929137b34cd7b5cda268995b8759",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa140c2e070724835902fec5a3a1f9b72?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa140c2e070724835902fec5a3a1f9b72?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa140c2e070724835902fec5a3a1f9b72?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa140c2e070724835902fec5a3a1f9b72?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa140c2e070724835902fec5a3a1f9b72?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa140c2e070724835902fec5a3a1f9b72?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa140c2e070724835902fec5a3a1f9b72?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa140c2e070724835902fec5a3a1f9b72?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa140c2e070724835902fec5a3a1f9b72?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa140c2e070724835902fec5a3a1f9b72?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-db637f7a8abb4d36ad2efa0d4db94e27",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feed2ea6cdf654fa89ab2f3dcf6591815?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.067,
+                "lockAspectRatio": false,
+                "height": 80,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feed2ea6cdf654fa89ab2f3dcf6591815?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feed2ea6cdf654fa89ab2f3dcf6591815?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feed2ea6cdf654fa89ab2f3dcf6591815?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feed2ea6cdf654fa89ab2f3dcf6591815?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feed2ea6cdf654fa89ab2f3dcf6591815?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feed2ea6cdf654fa89ab2f3dcf6591815?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feed2ea6cdf654fa89ab2f3dcf6591815?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feed2ea6cdf654fa89ab2f3dcf6591815?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feed2ea6cdf654fa89ab2f3dcf6591815?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a3b62969cb2347dd98896e124aca7a91",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa2d0453007534714a2f1d36d480f4366?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa2d0453007534714a2f1d36d480f4366?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa2d0453007534714a2f1d36d480f4366?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa2d0453007534714a2f1d36d480f4366?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa2d0453007534714a2f1d36d480f4366?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa2d0453007534714a2f1d36d480f4366?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa2d0453007534714a2f1d36d480f4366?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa2d0453007534714a2f1d36d480f4366?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa2d0453007534714a2f1d36d480f4366?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa2d0453007534714a2f1d36d480f4366?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-498e5c0ebfde4aa2910dc19aac06f865",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5cba4cf44bc48f2968455b2fcdbf63d?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5cba4cf44bc48f2968455b2fcdbf63d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5cba4cf44bc48f2968455b2fcdbf63d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5cba4cf44bc48f2968455b2fcdbf63d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5cba4cf44bc48f2968455b2fcdbf63d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5cba4cf44bc48f2968455b2fcdbf63d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5cba4cf44bc48f2968455b2fcdbf63d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5cba4cf44bc48f2968455b2fcdbf63d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5cba4cf44bc48f2968455b2fcdbf63d?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5cba4cf44bc48f2968455b2fcdbf63d?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8f0749be11184c15b06d96f7d32dbed6",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F75f6a714e5324f1a9965621810892701?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F75f6a714e5324f1a9965621810892701?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F75f6a714e5324f1a9965621810892701?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F75f6a714e5324f1a9965621810892701?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F75f6a714e5324f1a9965621810892701?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F75f6a714e5324f1a9965621810892701?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F75f6a714e5324f1a9965621810892701?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F75f6a714e5324f1a9965621810892701?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F75f6a714e5324f1a9965621810892701?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F75f6a714e5324f1a9965621810892701?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3a49a442753a4e5e8c392d1fd58a8e56",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ad34e1af58341dc9a32bb2c009d35c5?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ad34e1af58341dc9a32bb2c009d35c5?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ad34e1af58341dc9a32bb2c009d35c5?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ad34e1af58341dc9a32bb2c009d35c5?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ad34e1af58341dc9a32bb2c009d35c5?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ad34e1af58341dc9a32bb2c009d35c5?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ad34e1af58341dc9a32bb2c009d35c5?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ad34e1af58341dc9a32bb2c009d35c5?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ad34e1af58341dc9a32bb2c009d35c5?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ad34e1af58341dc9a32bb2c009d35c5?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb41d3c43bc4146aeaaedbf70a0066a6b",
+  "lastUpdated": 1694189891452,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_34673ecf9e9b4751ba5818728a513884",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687443488226,
+  "@originId": "34673ecf9e9b4751ba5818728a513884",
+  "testRatio": 1,
+  "createdDate": 1687362743414,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=34673ecf9e9b4751ba5818728a513884&builder.overrides.34673ecf9e9b4751ba5818728a513884=34673ecf9e9b4751ba5818728a513884&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Cloudbreak — Solana’s Horizontally Scaled State Architecture",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

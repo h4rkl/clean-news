@@ -1,0 +1,474 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1639814400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd455bda8cd984460bb5d9860d979bc78",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Now anyone can submit their projects and vote for their favorites.",
+    "publishedDate": "Sat Dec 18 2021 13:00:00 GMT+0500 (Pakistan Standard Time)",
+    "seo": {
+      "internalName": "Announcing the new Solana ecosystem directory",
+      "noFollow": false,
+      "seoDescription": "Now anyone can submit their projects and vote for their favorites.",
+      "seoTitle": "Announcing the new Solana ecosystem directory",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Announcing the new Solana ecosystem directory",
+      "ogUrl": "https://www.solana.com/blog/new-solana-ecosystem-directory",
+      "ogDescription": "Now anyone can submit their projects and vote for their favorites.",
+      "ogImage": "https://solana.ghost.io/content/images/2021/12/solana-ecosytem-redesign-20211217.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "Announcing the new Solana ecosystem directory",
+    "twitterMeta": {
+      "twitterTitle": "Announcing the new Solana ecosystem directory",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/12/solana-ecosytem-redesign-20211217.png",
+      "twitterDescription": "Now anyone can submit their projects and vote for their favorites."
+    },
+    "slug": "new-solana-ecosystem-directory",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-37977f8e56464e259c0e39c3b1ae1e68",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d45ffe1916ac43209ac1fdeed9e6f49c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Solana ecosystem has grown in leaps and bounds over the last year. It’s grown so fast, in fact, that more projects have launched than the Solana ecosystem page, maintained by Solana Labs, has been able to keep up with.</p><p>That’s why in the spirit of community-led, decentralized initiatives, Solana Labs is proud to announce a redesigned Solana ecosystem directory. This new section of Solana.com will allow people to list their own projects, discover others they may not have heard of, and vote for their favorites.</p><p>“This is a pretty big shift,” says Josh Taylor, design lead at Solana Labs. “We hope this will be a great launchpad for Solana users, people coming from other chains, and even those who are new to crypto to find new and exciting projects.”</p><p>While the doors are open for anyone to submit their project, Solana Labs will still have a hand, albeit a lighter one, in curating projects for the page — at least for the time being. “We want to make sure that the Solana ecosystem remains a safe environment,” says Taylor. “For now, Solana Labs will help filter out bad actors, but we’ll work with the ecosystem to come up with community-led solutions in the coming months.”</p><p>Get involved!&nbsp;<a href=\"https://solana.ghost.io/p/f5e14db8-cbfb-401b-ac17-1f817880b9ee/solana.com/ecosystem/submit-project\" rel=\"noopener noreferrer\" target=\"_blank\">Submit your project</a>&nbsp;and&nbsp;<a href=\"https://solana.com/ecosystem?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">vote for your favorites</a>.</p><h2><strong>How to vote for your favorite projects</strong></h2><p>Help your favorite projects get exposure! Log in and vote for the project you use and think other people would find useful.</p><p><a href=\"http://solana.com/ecosystem?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Visit the ecosystem page.</a>&nbsp;In the top right corner, click the user icon to log in with your Twitter account. Please note that for the time being, you can only submit or vote for projects if you have a Twitter account.</p><p>Once you’re logged in, find your favorite project. You can locate it a few ways:</p><ul><li>By looking for the project in the&nbsp;<strong>popular</strong>&nbsp;and&nbsp;<strong>new</strong>&nbsp;tabs.</li><li>By using the&nbsp;<strong>search</strong>&nbsp;function to find it by name.</li><li>By browsing the&nbsp;<strong>categories</strong>&nbsp;to find similar projects.</li></ul><p>If you don’t see your favorite project, it might not be submitted yet! Encourage the creators to add it — or even add it yourself — by following the instructions a little further down.</p><p>Once you’ve found the project, press the up button to give it a vote.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-479590a5096b4467b219e515198265cd",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b3ed19704d743e7b5ee6957b5637f2c?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.272,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 272,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b3ed19704d743e7b5ee6957b5637f2c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b3ed19704d743e7b5ee6957b5637f2c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b3ed19704d743e7b5ee6957b5637f2c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b3ed19704d743e7b5ee6957b5637f2c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b3ed19704d743e7b5ee6957b5637f2c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b3ed19704d743e7b5ee6957b5637f2c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b3ed19704d743e7b5ee6957b5637f2c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b3ed19704d743e7b5ee6957b5637f2c?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b3ed19704d743e7b5ee6957b5637f2c?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a7122d8f670c48209f1dcd9bdbf2f161",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">You can see all the projects you’ve voted for by selecting “My upvotes.”</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-26a19e45675649ddba02ebd4b895ab10",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F34c28f90b63149c8aa56fd16f774adc7?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 1.202,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 582,
+                "width": 484,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F34c28f90b63149c8aa56fd16f774adc7?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F34c28f90b63149c8aa56fd16f774adc7?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F34c28f90b63149c8aa56fd16f774adc7?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F34c28f90b63149c8aa56fd16f774adc7?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F34c28f90b63149c8aa56fd16f774adc7?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F34c28f90b63149c8aa56fd16f774adc7?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F34c28f90b63149c8aa56fd16f774adc7?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F34c28f90b63149c8aa56fd16f774adc7?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F34c28f90b63149c8aa56fd16f774adc7?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4f86b705f0094ccfa0274fd9ef59b32a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>How to submit a project</strong></h2><p>If you don’t see your favorite project, or want to add your own to the page, look no further. There’s no more GitHub pull requests! It’s very easy to submit a project to&nbsp;<a href=\"http://solana.com/ecosystem?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">solana.com/ecosystem</a>.</p><p>First, head over to&nbsp;<a href=\"http://solana.com/ecosystem?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the ecosystem page</a>. If you aren’t logged in already, log in with your Twitter account.</p><p>Once you’ve logged in, click on “Submit Project” in the top right corner.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-72602d29c4ce476bb0bd8e78e9e7e823",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb451996c0d834f71b905544c6414429a?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.191,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 191,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb451996c0d834f71b905544c6414429a?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb451996c0d834f71b905544c6414429a?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb451996c0d834f71b905544c6414429a?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb451996c0d834f71b905544c6414429a?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb451996c0d834f71b905544c6414429a?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb451996c0d834f71b905544c6414429a?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb451996c0d834f71b905544c6414429a?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb451996c0d834f71b905544c6414429a?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb451996c0d834f71b905544c6414429a?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e84d892393cb4bc08128afa07e079985",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This will bring you to the first submission page. Fill out the following fields:</p><ul><li><strong>Project.</strong>&nbsp;The name of your project.</li><li><strong>Tagline.</strong>&nbsp;A short, Tweet-length description. Think of this as your elevator pitch — it’ll be what most people see on the main ecosystem page.</li><li><strong>Website link.</strong>&nbsp;A link to a place where people can find more information. It’s probably best if you link to your official website or Twitter account.</li><li><strong>Description.</strong>&nbsp;This is your elevator pitch! Tell people what your project does and how it helps people.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-29142c1e01294b7fbb8dcdd4b3b92fc1",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ffbde4e677f4691bdffe352bd2cab7f?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.968,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 968,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ffbde4e677f4691bdffe352bd2cab7f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ffbde4e677f4691bdffe352bd2cab7f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ffbde4e677f4691bdffe352bd2cab7f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ffbde4e677f4691bdffe352bd2cab7f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ffbde4e677f4691bdffe352bd2cab7f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ffbde4e677f4691bdffe352bd2cab7f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ffbde4e677f4691bdffe352bd2cab7f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ffbde4e677f4691bdffe352bd2cab7f?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ffbde4e677f4691bdffe352bd2cab7f?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d8a0f6bff40d4cdfaf8500c99697530b",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>When you’ve filled out these forms, click the next step button. On this page, you’ll be prompted to upload a few images:</p><ul><li><strong>Thumbnail.</strong>&nbsp;This should be your project’s logo or avatar. Images with transparent backgrounds work best here, and should be an aspect ratio of around 1:1.</li><li><strong>Screenshots.</strong>&nbsp;These should be any images that help people understand your project and how it works. Aim for helpfulness over promotion! We suggest at least 3 screenshots.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e08faa91c78e49dea58cb57c2dac5777",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fea885529e33143f3b036376a53e025d7?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 1.052,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 1052,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fea885529e33143f3b036376a53e025d7?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fea885529e33143f3b036376a53e025d7?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fea885529e33143f3b036376a53e025d7?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fea885529e33143f3b036376a53e025d7?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fea885529e33143f3b036376a53e025d7?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fea885529e33143f3b036376a53e025d7?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fea885529e33143f3b036376a53e025d7?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fea885529e33143f3b036376a53e025d7?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fea885529e33143f3b036376a53e025d7?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c27739ba6fd44e15bd43b5a3e6e48062",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>After you’ve uploaded your images, click next. You’ll be adding some context next.</p><p>On this page, fill out the following:</p><ul><li><strong>Category.</strong>&nbsp;Are you a DEX? An NFT project? A game? Select up to three that best describe your project.</li><li><strong>Project status.</strong>&nbsp;Is your project live or are you still building it?</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6ba8285925764635966f13ad43bd38ee",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dbc9523bad04c92ad160b7535acbe19?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.689,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 689,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dbc9523bad04c92ad160b7535acbe19?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dbc9523bad04c92ad160b7535acbe19?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dbc9523bad04c92ad160b7535acbe19?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dbc9523bad04c92ad160b7535acbe19?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dbc9523bad04c92ad160b7535acbe19?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dbc9523bad04c92ad160b7535acbe19?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dbc9523bad04c92ad160b7535acbe19?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dbc9523bad04c92ad160b7535acbe19?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dbc9523bad04c92ad160b7535acbe19?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-25801f7f23b44c06b678d6e898375579",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Click next to submit your social media links. Fill out all that apply!&nbsp;<strong>You must add an official Twitter account.</strong></p><p>When you’re done, press “Submit Project” and hang tight. Once your submission gets the all-clear, it’ll be ready for voting on the Ecosystem page. If you need to update your page, hang tight — that functionality is coming soon. Review of project submissions can take up to three business days.</p><h2><strong>Keep in touch</strong></h2><p>Want to keep up to date with the latest and greatest in the Solana ecosystem? Sign up for our community update newsletter.</p><p>Subscribe to Solana Community Updates! wagmi</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1db686bdfa544f29be456e6a7e191ff0",
+  "lastUpdated": 1694189900890,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6461b73be8ea499bb5a4b71f2169c453",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687619489253,
+  "@originId": "6461b73be8ea499bb5a4b71f2169c453",
+  "testRatio": 1,
+  "createdDate": 1687362565510,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=6461b73be8ea499bb5a4b71f2169c453&builder.overrides.6461b73be8ea499bb5a4b71f2169c453=6461b73be8ea499bb5a4b71f2169c453&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Announcing the new Solana ecosystem directory",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

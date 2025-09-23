@@ -1,0 +1,205 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1650394800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9dedd8ee91f04f15b7646bfbc0bdd660",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Meet the winners of Riptide, plus news and other community headlines.",
+    "publishedDate": "Wed Apr 20 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Monthly Community Update | March 2022",
+      "ogUrl": "",
+      "ogDescription": "Meet the winners of Riptide, plus news and other community headlines.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Monthly Community Update | March 2022",
+      "noFollow": false,
+      "seoDescription": "Meet the winners of Riptide, plus news and other community headlines.",
+      "seoTitle": "Monthly Community Update | March 2022",
+      "noIndex": false
+    },
+    "title": "Monthly Community Update | March 2022",
+    "twitterMeta": {
+      "twitterTitle": "Monthly Community Update | March 2022",
+      "twitterDescription": "Meet the winners of Riptide, plus news and other community headlines."
+    },
+    "slug": "monthly-community-update-march-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-adfabeb46ce24f3cbaab8c2a2d8cf4de",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-145f986b195a411dbb68d120bc25bf94",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Cronos: How the Solana community helped the winners of the Riptide hackathon</strong></h2><p>It’s been a busy week for Nick Garfield.</p><p>“It's kind of a combination between euphoria and drowning,” he said on a recent call. On April 13th, his team’s project,&nbsp;<a href=\"https://solana.com/riptide/voting/cronos?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cronos</a>, was named&nbsp;<a href=\"https://solana.com/news/riptide-hackathon-winners-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the Grand Champion of the Riptide hackathon</a>&nbsp;— beating out nearly 7,000 other participants and 550+ projects.</p><p>And since Cronos is a tool meant to make building on Solana better for everyone, it’s no wonder so many people want to talk to him.</p><p>“[Cronos] is a task scheduler for Solana,” Garfiend said. “The main use case for this is to be able to drive background automations and background tasks.”</p><p>It could be a major deal for end users and create a better experience. “Particularly in DeFi right now, there's a UX pattern where everyone checks the tabs and clicks claim on everything,” he said. “Everything is still very manually-driven.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ead5c2293a04402bb459eb9e370c2e0f",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Cronos originally came out of work that Garfield, founding engineer Elias Moreno, and his team did during the IGNITION hackathon on their project&nbsp;<a href=\"https://devpost.com/software/faktor?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Faktor</a>, a scheduled token transfer protocol meant to help with automated tasks like payroll.</p><p>But when the Cronos team attended&nbsp;<a href=\"https://mtndao.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">mtnDAO</a>, a community-run hacker house in Salt Lake City, they hit a breakthrough. “We discovered a way that we could generalize Faktor from only supporting token transfers to supporting any arbitrary instruction,” Garfield explained, “and that was where everything really accelerated.”</p><p>The team went from that idea's inception to mainnet in three weeks — thanks to some prodding from the Solana community</p><p>“We went to the&nbsp;<a href=\"https://solana.com/events?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Hacker House</a>&nbsp;in Seattle and met with [core Solana engineers]&nbsp;<a href=\"https://twitter.com/redacted_j?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Jordan</a>&nbsp;and&nbsp;<a href=\"https://twitter.com/baalazamon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bartosz</a>,” Garfield said. “They were giving a little bit of sh*t about it. They asked, ‘Where are you at?’ And I said, ‘Devnet.’ And they're like, ‘Okay, so you don't have anything’ — just kind of like joking, but they had a point…. Things work differently there.”</p><p>Cronos already has plans for the future, including a v2 restructuring that is scheduled to be ready by&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint</a>&nbsp;in November. But in the meantime, Garfield has some advice for aspiring builders: Get involved in the community to get feedback right away.</p><p>“Everything changes when you're talking with the people that will eventually use the protocol that you're building,” he says. “A lot of design and architectural choices that we made through our conversations with teams like MarginFi, Switchboard, and Friction. We just wouldn't have been able to make those decisions if we weren't talking to those teams.”</p><p>It’s a good thing they did.</p><p><a href=\"https://solana.com/news/riptide-hackathon-winners-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">See the full list of Riptide winners.</a></p><h2><strong>Top Solana news</strong></h2><h3><strong>Breakpoint 2022 is coming to Lisbon</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fc72e0d7debc4f0589585a4b63aa25c6",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F719d3d2ecdd34a56bf33cdb3eca13b48?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.558,
+                "lockAspectRatio": false,
+                "height": 558,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F719d3d2ecdd34a56bf33cdb3eca13b48?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F719d3d2ecdd34a56bf33cdb3eca13b48?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F719d3d2ecdd34a56bf33cdb3eca13b48?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F719d3d2ecdd34a56bf33cdb3eca13b48?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F719d3d2ecdd34a56bf33cdb3eca13b48?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F719d3d2ecdd34a56bf33cdb3eca13b48?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F719d3d2ecdd34a56bf33cdb3eca13b48?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F719d3d2ecdd34a56bf33cdb3eca13b48?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F719d3d2ecdd34a56bf33cdb3eca13b48?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2810ab257e304a65bab152743b73d8db",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Breakpoint is coming back — bigger and better than ever.</p><p>The annual Solana conference returns to Lisbon on November 4-7th. Get ready for more venues, more guests, more events, more Solana Hacker house, and more vibes!</p><p>Tickets will be going on sale soon, so make sure to&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">sign up for email updates</a>.</p><h3><strong>Nansen is integrating Solana data</strong></h3><p>Big news! Nansen, the blockchain analytics dashboard, has integrated Solana data into its multichain dashboard.</p><p>The company says that more support for Solana is coming soon — perhaps even NFT support.&nbsp;<a href=\"https://www.nansen.ai/research/solana-scalability-through-speed?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more.</a></p><h3><strong>Ahoy! Solana NFTs now on OpenSea</strong></h3><p>Wen OpenSea? Now. OpenSea, the NFT platform, has announced they are launching their Solana beta.</p><p>This initial launch covers only a limited number of collections, but the full public launch will use the Metaplex standard.&nbsp;<a href=\"https://opensea.io/explore-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Get started.</a></p><h2><strong>Ecosystem Headlines</strong></h2><p>Here's what's new this month:</p><ul><li>Krafton, the creators of the popular PUBG: Battlegrounds game,&nbsp;<a href=\"https://twitter.com/solanalabs/status/1506621552120504320?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">is building on Solana</a>&nbsp;to market blockchain games.</li><li><a href=\"https://twitter.com/TheGivingBlock/status/1507043176389148672?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">TheGivingBlock</a>, a nonprofits services for crypto donors, now officially accept Solana donations.</li><li>Opera Browser&nbsp;<a href=\"https://twitter.com/Opera_Crypto/status/1509089854294011907?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">added support for Solana</a>.</li><li><a href=\"https://twitter.com/neonlabsorg/status/1511373120057212928?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neon EVM Alpha</a>, a project bringing Ethereum’s computation engine to the Solana blockchain, is now live on the Solana devnet.</li><li><a href=\"https://twitter.com/cryptocom/status/1514169630574940163?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Crypto.com's DeFi Wallet</a>&nbsp;added Solana support.</li><li>Rarible,&nbsp;<a href=\"https://twitter.com/rarible/status/1514589329938599936?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">an open source and multichain NFT protocol</a>, now supports Solana's Degenerate Ape Academy.</li><li><a href=\"https://twitter.com/orca_so/status/1506785925929517065?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Orca</a>, a user-friendly DEX on Solana, launched their Whirlpools closed beta.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F568c4f1947884cf5bd7be7bceb9dcf91",
+  "lastUpdated": 1696414939399,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_1e7df552f6224ed1a826e95d39d36055",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687550900657,
+  "@originId": "1e7df552f6224ed1a826e95d39d36055",
+  "testRatio": 1,
+  "createdDate": 1687362515011,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=1e7df552f6224ed1a826e95d39d36055&builder.overrides.1e7df552f6224ed1a826e95d39d36055=1e7df552f6224ed1a826e95d39d36055&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly Community Update | March 2022",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

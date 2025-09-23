@@ -1,0 +1,134 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-pay-announcement",
+  "data": {
+    "datePublished": 1643702400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3bda396cb20d4966b611f712d2dadfe1",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Building blocks now exist for decentralized, open, P2P payment protocol",
+    "publishedDate": "Tue Feb 01 2022 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "openGraph": {
+      "ogTitle": "Solana Pay ushers in new payments era",
+      "ogUrl": "https://www.solana.com/blog/solana-pay-announcement",
+      "ogDescription": "Introducing Solana Pay, the building blocks for a decentralized, open, P2P payments protocol.",
+      "ogImage": "https://solana.ghost.io/content/images/2022/01/Solana-Pay-Share.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana Pay ushers in new payments era",
+      "noFollow": false,
+      "seoDescription": "Introducing Solana Pay, the building blocks for a decentralized, open, P2P payments protocol.",
+      "seoTitle": "Solana Pay ushers in new payments era",
+      "noIndex": false
+    },
+    "title": "Solana Pay ushers in new payments era",
+    "twitterMeta": {
+      "twitterTitle": "Solana Pay ushers in new payments era",
+      "twitterDescription": "Introducing Solana Pay, the building blocks for a decentralized, open, P2P payments protocol.",
+      "twitterImage": "https://solana.ghost.io/content/images/2022/01/Solana-Pay-Share.png"
+    },
+    "slug": "solana-pay-announcement",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a70200e65d34494b65f9e04c0727a14"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_29b188b21b454f448f5aa0d064429cce"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-6ccb92c8102b40f0897af00e72f0c7e8",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5a069ddaa50940e8be369eabbfe33dbf",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>A new customer walks into your store looking for the latest hot sneaker release. You have it in stock, and she’s thrilled. She pulls out her phone and scans the QR code on your point-of-sale for a seamless transaction. The funds hit your merchant account at the speed of sending an email, at near-zero cost, and immediately begin earning high-yield interest.</p><p>Before the customer leaves the store, two tokens appear in her digital wallet. The first is an NFT version of her new sneakers, usable in any game or virtual world she chooses. The second is an authenticated NFT receipt, which admits her into your exclusive online community of verified sneaker-lovers. She’s now a customer for life.</p><p>Nine months later, the next version of her favorite sneaker drops. Her digital wallet has a new offer reminding her of their availability at your store, along with a personalized offer on new laces she can’t find anywhere else.</p><p>I’ve heard versions of this vision pitched to merchants large and small many times. From my years at American Express to my time at Google launching Wallet and later Google Pay, the futuristic promises in payments – simple, seamless, connected – haven’t materialized.</p><p>Even as our world has digitized and ways to pay have proliferated, the dance between merchants, intermediaries, banks, and technology has only become more fragmented. Threading the needle on a cohesive payment experience that rewards loyalty, drives repeat visits, and doesn't cost an arm and a leg simply never happened.</p><p>Until now.</p><p>Solana Pay, a new payments protocol, ushers in a new era of payments and commerce. Our team helped create the building blocks for a decentralized, open and truly peer-to-peer payment protocol. We believe this will pave the way for a future where digital currencies are prevalent and digital money moves through the internet like data – uncensored and without intermediaries taxing every transaction.</p><p>The core premise behind Solana Pay is that the payment and underlying technology goes from being a necessary service utility to true peer-to-peer communication channel between the merchant and consumer.</p><p>The protocol provides a specification that allows the consumer to send digital dollar currencies, such as USDC, from their wallet directly into the merchant’s account, settling immediately with costs measured in fractions of a penny. This embeds loyalty, offers and rewards in the same messaging scheme and become true building blocks for the future of commerce.</p><p>Merchants have long sought an opportunity to leverage deep engagement with their customers, but multiple intermediaries involved in e-commerce or brick-and-mortar transactions makes that difficult. The next phase of development of the protocol will enable merchants to send digital assets back to the consumers which will open up new capabilities in commerce not possible before.</p><p>It’s also important to note that this is bigger than enabling consumers to “pay with crypto.” Rather, this is about a vision where all currencies – including U.S. dollars – are on-chain and used for a wide range of transactions. Merchants have been able to accept crypto currencies for years, but acceptance usually means settling in non-stable currencies, swapping out one intermediary for another, and duct-taping together square pegs and round holes. It doesn’t need to be like this.</p><p>When a customer buys something, it’s a vote of support. A merchant should reward that support with personalized offers, on-chain loyalty programs, and unique virtual goods to accompany physical purchases. The opportunities are limitless, but only if there’s a new approach to payments.</p><p>Merchants should benefit from all of the advantages that on-chain decentralized payments can provide, such as network cost savings, DeFi yield generation, zero fraud liability, instant settlement, and ownership of the customer relationship.</p><p>Last year I joined Solana Labs to finally bring this vision to reality. With a new foundation laid thanks to the work of early support of Circle (<a href=\"https://www.circle.com/blog/solana-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">read here about Circle’s take on Solana Pay</a>), Checkout.com, Citcon, Phantom, FTX, and Slope the opportunity and offer is now made to start an open conversation about what comes next with Solana Pay. Help us bring to life a decentralized payments network that will define this next era of payments.</p><p>If you are interested in learning more, find more information here:</p><ul><li><a href=\"http://solana.com/solana-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay website for merchants</a></li><li><a href=\"http://solana.com/developers/payments?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay website for developers</a></li><li><a href=\"https://github.com/solana-labs/solana-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay documentation on Github</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5c8ddcb02989402eac4949989890d27f",
+  "lastUpdated": 1704915683315,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_ceb2a844c2b64ec1b5e6e1bb26e5a398",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687622822220,
+  "@originId": "ceb2a844c2b64ec1b5e6e1bb26e5a398",
+  "testRatio": 1,
+  "createdDate": 1687362547906,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-pay-announcement?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=ceb2a844c2b64ec1b5e6e1bb26e5a398&builder.overrides.ceb2a844c2b64ec1b5e6e1bb26e5a398=ceb2a844c2b64ec1b5e6e1bb26e5a398&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Pay ushers in new payments era",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

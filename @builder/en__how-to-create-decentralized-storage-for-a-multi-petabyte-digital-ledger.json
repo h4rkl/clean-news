@@ -1,0 +1,249 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1542182400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6352538ab2eb48f592d0e1aeb2b47cec",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nSolana is a high performance blockchain that uses a concept called Proof of History to achieve a cryptographically secure and trustless…\n",
+    "publishedDate": "Wed Nov 14 2018 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "seo": {
+      "internalName": "How to Create Decentralized Storage for a Multi-petabyte Digital Ledger",
+      "noFollow": false,
+      "seoDescription": "\nSolana is a high performance blockchain that uses a concept called Proof of History to achieve a cryptographically secure and trustless…\n",
+      "seoTitle": "How to Create Decentralized Storage for a Multi-petabyte Digital Ledger",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "How to Create Decentralized Storage for a Multi-petabyte Digital Ledger",
+      "ogUrl": "https://www.solana.com/blog/how-to-create-decentralized-storage-for-a-multi-petabyte-digital-ledger",
+      "ogDescription": "\nSolana is a high performance blockchain that uses a concept called Proof of History to achieve a cryptographically secure and trustless…\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/How-to-Create-Decentralized-Storage-for-a-Multi-petabyte-Digital-Ledger/1-C1jPBSx8h_3s6a5yxcTOOQ.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "How to Create Decentralized Storage for a Multi-petabyte Digital Ledger",
+    "twitterMeta": {
+      "twitterTitle": "How to Create Decentralized Storage for a Multi-petabyte Digital Ledger",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/How-to-Create-Decentralized-Storage-for-a-Multi-petabyte-Digital-Ledger/1-C1jPBSx8h_3s6a5yxcTOOQ.png",
+      "twitterDescription": "\nSolana is a high performance blockchain that uses a concept called Proof of History to achieve a cryptographically secure and trustless…\n"
+    },
+    "slug": "how-to-create-decentralized-storage-for-a-multi-petabyte-digital-ledger",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e3dcd0facd294d78b749e0ffaba3652d"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_aed07e991b074c01878437eea83efba0"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-b511ea1b54a142a7a0d985e4a90081a4",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1ee8f60b595c48a58eb53ade81ea608d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://solana.com/?utm_source=medium&amp;utm_campaign=multipedabyte\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana&nbsp;</strong></a>is a high performance blockchain that uses a concept called&nbsp;<a href=\"https://medium.com/solana-labs/proof-of-history-explained-by-a-water-clock-e682183417b8?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Proof of History</a>&nbsp;to achieve a cryptographically secure and trustless time source.</p><p>In July, we pushed out our&nbsp;<a href=\"https://github.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">multinode testnet</a>&nbsp;and since then, we’ve been working tirelessly to prove our theory about building a scalable blockchain that could allow for 710k TPS.</p><p>When Solana reaches full speed and capacity (710,000 transactions per second on a 1 gigabit network) it will be generating almost 4 petabytes of data a year. If every node in the network is required to store all that data, it would limit network membership to the&nbsp;centralized&nbsp;few that have that kind of storage capacity. Luckily, our&nbsp;<a href=\"https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Proof of History</a>&nbsp;technology can be leveraged to avoid this situation, allowing a fast-to-verify implementation of Proof of Replication and enabling a bit torrent-esque distribution of the ledger across all nodes in the network.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7101fd27f9b8480d8e3cdcd0eeb7e83a",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0cb3ed07da4405896b558dc25ab6ebc?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.557,
+                "lockAspectRatio": false,
+                "height": 334,
+                "width": 600,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0cb3ed07da4405896b558dc25ab6ebc?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0cb3ed07da4405896b558dc25ab6ebc?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0cb3ed07da4405896b558dc25ab6ebc?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0cb3ed07da4405896b558dc25ab6ebc?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0cb3ed07da4405896b558dc25ab6ebc?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0cb3ed07da4405896b558dc25ab6ebc?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0cb3ed07da4405896b558dc25ab6ebc?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0cb3ed07da4405896b558dc25ab6ebc?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0cb3ed07da4405896b558dc25ab6ebc?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-04f114c933f542ab9d37196608022cfa",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The basic idea of&nbsp;<a href=\"https://filecoin.io/proof-of-replication.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Proof of Replication</a>&nbsp;is to encrypt a dataset with a public symmetric key using&nbsp;<a href=\"https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation?ref=solana.ghost.io#Cipher_Block_Chaining_%28CBC%29\" rel=\"noopener noreferrer\" target=\"_blank\">CBC encryption</a>&nbsp;and then hash the encrypted dataset. Unfortunately, the problem with this simple approach is that it is vulnerable to attack. For instance, a dishonest storage node can stream the encryption and delete the data as it’s hashed. The simple solution is to force the hash to be done on the reverse of the encryption, or perhaps with a random order. This ensures that all the data is present during the generation of the proof and it also requires the validator to have the entirety of the encrypted data present for verification of every proof of every identity. So the space required to validate is (Number of CBC keys)*(data size).</p><p>Our improvement on this approach is to randomly sample the encrypted blocks faster than it takes to encrypt, and record the hash of those samples into the PoH ledger. Thus the blocks stay in the exact same order for every PoRep and verification can stream the data and verify all the proofs in a single batch. This way we can verify multiple proofs concurrently, each one on its own CUDA core. With the current generation of graphics cards our network can support up to 14k replication identities or symmetric keys. The total space required for verification is (2 CBC blocks) * (Number of CBC keys), with core count of equal to (Number of CBC keys). A CBC block is expected to be 1MB in size.</p><p>We now have to construct a game between validators and replicators that ensures that replicators are generating proofs, and validators are actually verifying proofs.</p><p>Validators for PoRep are the same validators that are verifying transactions. They have some stake that they have put up as collateral that ensures that their work is honest. If you can prove that a validator verified a fake PoRep, then the validators stake can be slashed.</p><p>Replicators are specialized thin clients. They download a part of the ledger and store it and provide PoReps of storing the ledger. For each verified PoRep, replicators earn a reward of sol from the mining pool.</p><p>We have the following constraints:</p><ul><li>At most 14k replication identities can be used, because that’s how many CUDA cores we can fit in a $5k box at the moment.</li><li>Verification requires generating the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation?ref=solana.ghost.io#Cipher_Block_Chaining_%28CBC%29\" rel=\"noopener noreferrer\" target=\"_blank\">CBC blocks</a>. That requires space of 2 blocks per identity, and 1 CUDA core per identity for the same dataset. So as many identities at once should be batched with as many proofs for those identities verified concurrently for the same dataset.</li></ul><p>How we are thinking about doing this is as follows:</p><ol><li>Network sets the replication target number — let’s say 1k. 1k PoRep identities are created from signatures of a PoH hash. So they are tied to a specific PoH hash. It doesn’t matter who creates them, or simply the last 1k validation signatures we saw for the ledger at that count. This maybe just the initial batch of identities, because we want to stagger identity rotation.</li><li>Any client can use any of these identities to create PoRep proofs. Replicator identities are the CBC encryption keys.</li><li>Periodically, at a specific PoH count, replicators that want to create PoRep proofs sign the PoH hash at that count. That signature is the seed used to pick the block and identity to replicate. A block is 1TB of ledger.</li><li>Periodically, at a specific PoH count, replicators submits PoRep proofs for their selected block. A signature of the PoH hash at that count is the seed used to sample the 1TB encrypted block, and hash it. This is done faster than it takes to encrypt the 1TB block with the original identity.</li><li>Replicators must submit some number of fake proofs, which they can prove to be fake by providing the seed for the fake hash result.</li><li>Periodically at a specific PoH count, validators sign the hash and use the signature to select the 1TB block that they need to validate. They batch all the identities and proofs and submit approval for all the verified ones.</li><li>Replicator client submit the proofs of fake proofs.</li></ol><p>For any random seed, we force everyone to use a signature that is derived from a PoH hash. Everyone must use the same count, so the same PoH hash is signed by every participant. The signatures are then each cryptographically tied to the keypair, which prevents a leader from grinding on the resulting value for more than 1 identity.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ea5c8a4fe6064451a6d7e511f5c6d2bf",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0062b07f57643a1b802a608abf04bd0?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.745,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 447,
+                "width": 600,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0062b07f57643a1b802a608abf04bd0?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0062b07f57643a1b802a608abf04bd0?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0062b07f57643a1b802a608abf04bd0?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0062b07f57643a1b802a608abf04bd0?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0062b07f57643a1b802a608abf04bd0?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0062b07f57643a1b802a608abf04bd0?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0062b07f57643a1b802a608abf04bd0?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0062b07f57643a1b802a608abf04bd0?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0062b07f57643a1b802a608abf04bd0?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-35a59b9a7e6c4d90ac5c977a05569d7d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Image from John Klossner @ Computer&nbsp;World</p><p>We need to stagger the rotation of the identity keys. Once this gets going, the next identity could be generated by hashing itself with a PoH hash, or via some other process based on the validation signatures.</p><p>Since there are many more client identities then encryption identities, we need to split the reward for multiple clients, and prevent sybil attacks from generating many clients to acquire the same block of data. To remain BFT we want to avoid a single human entity from storing all the replications of a single chunk of the ledger.</p><p>Our solution to this is to force the clients to continue using the same identity. If the first round is used to acquire the same block for many client identities, the second round for the same client identities will force a redistribution of the signatures, and therefore PoRep identities and blocks. Thus to get a reward for storage clients need to store the the first block for free and the network can reward long lived client identities more than new ones.</p><h3><strong>Grinding Attack&nbsp;Vectors</strong></h3><ul><li>Generating many identities to select a specific block. The first time an a keypair is used to generate an identity it’s not eligible for reward and it’s not counted towards the replication target. Since identities have no choice on what PoH to sign, and all have to sign the same PoH for block assignment, the second generation of blocks is would be unpredictable from the first set.</li><li>Generating a specific PoH hash for a predictable seed. This attack would only influence one seed, so 1 block from many. With the total number of possible blocks of CBC keys * data slices, it is a reward loss the network can afford.</li></ul><h2><strong>Some key takeaways</strong></h2><ul><li>We can reduce the cost of verification of PoRep by using PoH, and actually make it feasible to verify a large number of proofs for a global dataset.</li><li>We can eliminate grinding by forcing everyone to sign the same PoH hash and use the signatures as the seed.</li><li>The game between validators and replicators is over random blocks and random encryption identities and random data samples. The goal of randomization is to prevent colluding groups from having overlap on data or validation.</li><li>Replicator clients fish for lazy validators by submitting fake proofs that they can prove are fake.</li><li>Replication identities are just symmetric encryption keys, the number of them on the network is our storage replication target. Many more client identities can exist than replicator identities, so unlimited number of clients can provide proofs of the same replicator identity.</li><li>To defend against grinding client identities that try to store the same block we force the clients to store for multiple rounds before receiving a reward.</li></ul><p>— —</p><p>Want to learn more about&nbsp;<a href=\"https://solana.com/?utm_source=medium&amp;utm_campaign=multipedabyte\" rel=\"noopener noreferrer\" target=\"_blank\">Solana</a>?</p><p>Check us out on&nbsp;<a href=\"https://github.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Github</a>&nbsp;and find ways to connect on our&nbsp;<a href=\"https://solana.com/community/?utm_source=medium&amp;utm_campaign=multipedabyte\" rel=\"noopener noreferrer\" target=\"_blank\">community</a>&nbsp;page.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff86e1ba9866d4c59927163ae1f6dc33e",
+  "lastUpdated": 1694189926900,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e3b233ced2364cbbba5b1529426562e2",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687432866959,
+  "@originId": "e3b233ced2364cbbba5b1529426562e2",
+  "testRatio": 1,
+  "createdDate": 1687362747506,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=e3b233ced2364cbbba5b1529426562e2&builder.overrides.e3b233ced2364cbbba5b1529426562e2=e3b233ced2364cbbba5b1529426562e2&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "How to Create Decentralized Storage for a Multi-petabyte Digital Ledger",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

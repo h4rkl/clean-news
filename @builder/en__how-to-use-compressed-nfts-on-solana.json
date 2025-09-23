@@ -1,0 +1,449 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/how-to-use-compressed-nfts-on-solana",
+  "data": {
+    "datePublished": 1680764400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe085d3562fc54ec4a1623b2143d31d2d",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_16e80be9358446b1931ac8fe261183ee"
+    },
+    "intro": "A guide for developers.",
+    "publishedDate": "Thu Apr 06 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "How to use compressed NFTs on Solana, powered by state compression",
+      "ogUrl": "",
+      "ogDescription": "A guide for developers.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "How to use compressed NFTs on Solana, powered by state compression",
+      "noFollow": false,
+      "seoDescription": "A guide for developers.",
+      "seoTitle": "How to use compressed NFTs on Solana, powered by state compression",
+      "noIndex": false
+    },
+    "title": "How to use compressed NFTs on Solana, powered by state compression",
+    "twitterMeta": {
+      "twitterTitle": "How to use compressed NFTs on Solana, powered by state compression",
+      "twitterDescription": "A guide for developers."
+    },
+    "slug": "how-to-use-compressed-nfts-on-solana",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_33fe975401244255a461cc5f0bcac6a5"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a06f417c4cb24d50b4ca8ca34a2230a7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-91cb37cd8e884f079c42ec94719ecece",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8604cd7e1f4d4b268d23264617dd5336",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><em>Jon Wong is technical lead on the ecosystem engineering team at the Solana Foundation.</em></p><p>After numerous phases of development, adoption, and rollout, compressed NFTs are live on Solana’s mainnet-beta and powering the next wave of novel on-chain product experiences. Compressed NFTs are 2,400-24,000x cheaper than their uncompressed counterparts, while still retaining identical structures. Now minting 100 million NFTs on Solana costs only ◎50!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-655565842c3d4672affc010b73549356",
+            "component": {
+              "name": "Youtube",
+              "options": {
+                "url": "https://www.youtube.com/embed/A_U1Nd41vPc"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "alignSelf": "center"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-45e6e56ff67b480c93c08617708d5299",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>For the developers who want to get started with compressed NFTs, there are five key things to know:</p><ol><li><a href=\"https://solana.com/news/how-to-use-compressed-nfts-on-solana#understand-merkle-trees\" rel=\"noopener noreferrer\" target=\"_blank\">Understand Merkle trees</a></li><li><a href=\"https://solana.com/news/how-to-use-compressed-nfts-on-solana#initialize-tree\" rel=\"noopener noreferrer\" target=\"_blank\">Initialize the tree</a></li><li><a href=\"https://solana.com/news/how-to-use-compressed-nfts-on-solana#mint-an-nft\" rel=\"noopener noreferrer\" target=\"_blank\">Mint an NFT</a></li><li><a href=\"https://solana.com/news/how-to-use-compressed-nfts-on-solana#rpc\" rel=\"noopener noreferrer\" target=\"_blank\">Use an RPC to get the latest data</a></li><li><a href=\"https://solana.com/news/how-to-use-compressed-nfts-on-solana#proofs\" rel=\"noopener noreferrer\" target=\"_blank\">Use proofs to transfer NFTs</a></li></ol>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-58b66f0f955a4beca5d34afd206bb088",
+            "properties": {
+              "id": "understand-merkle-trees"
+            },
+            "meta": {
+              "previousId": "builder-fd3c7bbce3d4497f96e800d114d7fa50"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Understand Merkle trees</h2><p>State compression takes advantage of Merkle trees, a data structure known for its capability to “compress” the verifiability of a tree of data into a “hash,” or “fingerprint,” of the current state of the tree. The Merkle roots are stored on-chain and updates are stored directly in the Solana ledger, meaning anyone can verifiably (and permissionlessly) reconstruct the tree, combining a vast amount of verifiable off-chain storage with a low overall cost of on-chain storage.&nbsp;</p><p>Engineers at Solana Labs added the capability to concurrently update Merkle trees multiple times in the same block by allowing the fast-forwarding of stale proofs. This capability is unique to Solana. <a href=\"https://drive.google.com/file/d/1BOpa5OFmara50fTvL0VIVYjtg-qzHCVc/view\" rel=\"noopener noreferrer\" target=\"_blank\">See more in the whitepaper.</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5b47c5fc84f84688b0c049d45a2e0450",
+            "properties": {
+              "id": "initialize-tree"
+            },
+            "meta": {
+              "previousId": "builder-fd3c7bbce3d4497f96e800d114d7fa50"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Initialize the tree</h2><p>The first thing you need to do is initialize the Merkle tree. There are three parameters to any Merkle tree: 1) Depth (capacity), 2) buffer size (concurrency / latency), and 3) canopy height (composability).</p><p>Depth is easy —t he capacity of a perfectly balanced concurrent Merkle tree is <code>2^{DEPTH}, </code>and trees can be configured to hold anywhere from eight leaves all the way up to a billion (2^30). In this case, leaves can be NFTs.</p><p>Buffer size is an approximation of the number of concurrent updates that can happen in the same block. Merkle trees typically have an issue whereby any modification of the tree causes any previously computed proofs to go out-of-date, but with this novel concurrent Merkle tree implementation, stale proofs can be fast-forwarded and still be accepted by the smart contract. A buffer size of 64 means that any given proof will still remain valid for up to 64 updates of the tree, after which it must be recomputed. Buffer size can be anywhere from eight to 2048.</p><p>Canopy height specifies the portion of the tree that remains on-chain, reducing the amount of proofs that have to be submitted by clients for verification. Given the current transaction size limits on Solana, this is the only feasible way to pass enough proofs to be able to validate the existence of trees with a depth &gt; 20. Canopy height maxes out at 17.</p><p>Rather than initialize one giant tree to hold everything, I recommend issuing numerous, smaller trees of varying sizes. This reduces write-lock contention on the tree account, as well as provides more opportunities for composability by reducing the number of proofs needed to be submitted for any given modification.</p><p>Choose a canopy height that maximizes composability — while it costs more in rent, a canopy height that is DEPTH-3 provides a similar interface to existing NFT-related smart contracts that already pass 3 accounts. For example, a tree of depth 20 could have a canopy of 17 so that clients only need to submit three proofs to make any modification to a tree.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5f2b969b28ef4a1d8c9dc9edbd5e14cf",
+            "properties": {
+              "id": "mint-an-nft"
+            },
+            "meta": {
+              "previousId": "builder-fd3c7bbce3d4497f96e800d114d7fa50"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Mint an NFT</h2><p>Tooling for minting compressed NFTs is already live. <a href=\"https://github.com/metaplex-foundation/metaplex-program-library/tree/master/bubblegum/program\" rel=\"noopener noreferrer\" target=\"_blank\">Bubblegum</a>, the smart contract written by Metaplex that powers compressed NFTs, uses state compression under the hood. Mint, transfer, and replace instructions should be issued against the Bubblegum smart contract. Mints do not require proofs, so anyone can mint compressed NFTs as easily as before.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a3b9f87d244f49faa9093b2541dcb2ae",
+            "properties": {
+              "id": "rpc"
+            },
+            "meta": {
+              "previousId": "builder-fd3c7bbce3d4497f96e800d114d7fa50"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Use an RPC to get the latest data</h2><p>Compressed NFTs eschew the typical on-chain account approach, and because data related to trees is being issued into the Solana ledger, RPCs are required to make the “read” experience nice and snappy. <a href=\"https://helius.xyz/\" rel=\"noopener noreferrer\" target=\"_blank\">Helius</a>, <a href=\"https://simplehash.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SimpleHash</a>, and <a href=\"https://triton.one/#/\" rel=\"noopener noreferrer\" target=\"_blank\">Triton</a> all have support for compressed NFTs, and 2/3 implement the Metaplex Read API—a uniform interface for retrieving all the information necessary about both compressed and uncompressed NFTs.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fd3c7bbce3d4497f96e800d114d7fa50",
+            "properties": {
+              "id": "proofs"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Use proofs to transfer NFTs</h2><p>Because of how compressed NFTs are stored, any modifications to those NFTs (such as an ownership change, or an update to the metadata like the collection information) requires a modification of the storage tree itself. In order to do so, one must compute the <em>proofs</em> needed to signify that you know the latest state of the tree, along with the signature of the leaf owner (or delegate).&nbsp;</p><p>Merkle tree proofs are the set of hashes that can be used to prove that the leaf was in the tree to begin with.&nbsp;RPC nodes can provide this with the <code>`getAssetProof` </code>Read API RPC method. Depending on the canopy height of the tree, one can submit a subset of the proof path and let the on-chain program handle reconciling the rest of it.&nbsp;</p><p>Submit the proofs along with the modification you want to make (a new owner!) and send the transaction. Voila!</p><p>Once you’ve understood these concepts, you should be ready to take advantage of compressed NFTs and build brand new experiences.</p><p>Here are some additional resources for you to explore:</p><ul><li>Video:<a href=\"https://www.youtube.com/watch?v=A_U1Nd41vPc\" rel=\"noopener noreferrer\" target=\"_blank\"> Minting Compressed NFTs</a></li><li>Video:<a href=\"https://www.youtube.com/watch?v=FOO5eT7K_e4\" rel=\"noopener noreferrer\" target=\"_blank\"> Transferring Compressed NFTs</a></li><li>Video:<a href=\"https://youtu.be/W4xm4kuXwQk\" rel=\"noopener noreferrer\" target=\"_blank\"> Spotlight on Compressed State</a></li><li>Video:<a href=\"https://www.twitch.tv/videos/1779068559\" rel=\"noopener noreferrer\" target=\"_blank\"> Compressed NFTs Crash Course Twitch Stream</a></li><li>Example application:<a href=\"https://www.onemillionnfts.page/\" rel=\"noopener noreferrer\" target=\"_blank\"> One Million NFTs</a></li><li>Example application:<a href=\"https://compressed.app/\" rel=\"noopener noreferrer\" target=\"_blank\"> Compressed NFT Calculator</a></li><li>Example code:<a href=\"https://github.com/solana-developers/compressed-nfts/#readme\" rel=\"noopener noreferrer\" target=\"_blank\"> Readme.md on Github</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingBottom": "50px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8180191686cb48d4a8262cac662023d9",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Learn from Solana Developers</h3>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-714387bb7ad64b9b99ca486f34c5c805",
+            "meta": {
+              "previousId": "builder-d859d6ed10ea4df8be20bcfeeeefb904"
+            },
+            "component": {
+              "name": "Card Deck",
+              "options": {
+                "cards": [
+                  {
+                    "type": "image",
+                    "heading": "Intro to Solana Development",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Development Course",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://www.soldev.app/course",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Bootcamp",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "More Solana Developer Tools",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  }
+                ],
+                "featured": true,
+                "numCols": 3
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5085377bf67741438fd7108764f26271",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Hello! Use the editor to add your copy!"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-298f2442a31e4b6695ba12710732b9c2",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0aeb8fe56f7d4943b5dd2c8a84373281",
+  "lastUpdated": 1710354251262,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_65c50c049ceb422b983e5efdfd13dd13",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687593212467,
+  "@originId": "65c50c049ceb422b983e5efdfd13dd13",
+  "testRatio": 1,
+  "createdDate": 1687362394129,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/how-to-use-compressed-nfts-on-solana?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=65c50c049ceb422b983e5efdfd13dd13&builder.overrides.65c50c049ceb422b983e5efdfd13dd13=65c50c049ceb422b983e5efdfd13dd13&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Copy": 9,
+      "Youtube": 1,
+      "Section Molecule": 2
+    },
+    "hasLinks": false
+  },
+  "name": "How to use compressed NFTs on Solana, powered by state compression",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

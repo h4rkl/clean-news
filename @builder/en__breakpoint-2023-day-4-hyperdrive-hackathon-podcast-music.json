@@ -1,0 +1,303 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/breakpoint-2023-day-4-hyperdrive-hackathon-podcast-music",
+  "data": {
+    "datePublished": 1699030800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F534d86caa3284df9819caff92d4f4c98",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Here’s what happened on the last day of Breakpoint 2023.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F534d86caa3284df9819caff92d4f4c98",
+      "seoDescription": "Here’s what happened on the last day of Breakpoint 2023.\n",
+      "seoTitle": "Solana | Day 4 at Breakpoint: Live podcasts, music, and hackathon winners!"
+    },
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Day 4 at Breakpoint: Live podcasts, music, and hackathon winners!"
+    },
+    "slug": "breakpoint-2023-day-4-hyperdrive-hackathon-podcast-music",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-25a657b663f4430b93a3d933dc590536",
+        "meta": {
+          "previousId": "builder-971712c525e4416a8943ab59971c2b15"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a57b5181b06e48c688d3e2895a0fa8ad",
+            "meta": {
+              "previousId": "builder-f581d97db52248faa631df76621a628a"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>As Breakpoint 2023 comes to an end, the Breakpoint team filled with gratitude and inspired by the incredible energy, innovation, and community spirit that illuminated Amsterdam over these last five days. Here’s a look back at some of the highlights and a heartfelt thank you for being a vital part of this unforgettable event.&nbsp;</p><h3>Session Highlights</h3><p>This year, Breakpoint was the launchpad for groundbreaking announcements and initiatives, setting a bold course for the future of the Solana ecosystem and the broader world of web3.</p><p>A full recap is coming soon, but here’s what happened on the final day.</p><ul><li>In an ecosystem first, Solana Foundation head of growth Matty Taylor announced the winners of the Solana Hyperdrive Hackathon live on the Main Stage. Over 900 projects submitted to this record-breaking event. <a href=\"https://solana.com/news/solana-hyperdrive-hackathon-winners\" rel=\"noopener noreferrer\" target=\"_blank\">See the full list of winners here.</a></li><li>The Scoop Podcast from the Block <a href=\"https://twitter.com/SolanaConf/status/1720367597378551913\" rel=\"noopener noreferrer\" target=\"_blank\">recorded live</a> on the Breakpoint 2023 stage! The Block’s editor-at-large Frank Chapparo interviewed Solana ecosystem legend Armani Ferrante.</li><li>Animator Robbie Shilstone <a href=\"https://twitter.com/jnwng/status/1720456437090980256\" rel=\"noopener noreferrer\" target=\"_blank\">revealed</a> how he built an NFT-powered animated series, and announced Publique.</li><li><a href=\"https://www.youtube.com/watch?v=BNFTTHE0myA\" rel=\"noopener noreferrer\" target=\"_blank\">PsyFi</a>, previously PsyOptions, showcased its status as Solana's second-largest DAO without centralized governance. The co-founders, Tommy and Taylor Johnson, stressed the crucial role DAOs play and the importance of building a strong community, and more.</li><li>Kari aka Bangerz, CEO and Co-founder at 3.land, <a href=\"https://www.youtube.com/watch?v=EPVVSbyQZjQ\" rel=\"noopener noreferrer\" target=\"_blank\">took to the Innovator Stage</a> to discuss her journey as a creator and how this led to her transition from web2 to web3.</li><li>See all panels <a href=\"https://www.youtube.com/@SolanaFndn\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</li></ul><h3>Thanks for the Memories</h3><p>Relive some of the best moments of Breakpoint 2023 and find yourself in the crowd of changemakers!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f183e270828547a9af8797055774e3a3",
+            "component": {
+              "name": "CommunityGallery",
+              "options": {
+                "square": false,
+                "cards": [
+                  {
+                    "cardType": "image",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F45a32bc66c744831b28880448a536020"
+                    },
+                    "size": "large"
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7882e58e50764df4a4b8d1b53013bea7"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0fd725630780484b98d5353aec5af10b"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "large",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3c2b56a519a84233a6e206fb88ba727a"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa397686c152a42fe9d288bbdcc476acd"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2742f9b0815f492c9a0db93163ac77d8"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c756caaa37e484bb302930f02843119"
+                    },
+                    "size": "large"
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fede69a11ded04599aee9b6081a2f2f8b"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fce307bf33a4c464aa0083fa00c8a5080"
+                    }
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-492185c26fdd448f837aff656dd96ec8",
+            "meta": {
+              "previousId": "builder-5bbe853270894c7ba9dde2ffcdca3cc7"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>A Heartfelt Thank You</h3><p>None of this would have been possible without you – the developers, creators, builders, and believers in a decentralized future. Your passion, curiosity, and drive make Solana the vibrant and innovative community it is.</p><p>The conversation doesn’t end here. Join us on <a href=\"https://twitter.com/solana\" rel=\"noopener noreferrer\" target=\"_blank\">X</a> and <a href=\"https://www.linkedin.com/company/solana-foundation/\" rel=\"noopener noreferrer\" target=\"_blank\">LinkedIn</a> to stay updated and continue the dialogue.</p><p>Until we meet again, let’s keep building and innovating what’s only possible on Solana.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cae5af2e2ccc4692b647601cb0768bf3",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "newsLetter": true,
+                "formId": "72c9e5c3-fe0d-4e63-ab21-1ec098d99f38",
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Keep in touch about Breakpoint 2024!"
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Hear the latest news about Breakpoint 2024, taking place Sept. 19-21, 2024 in Singapore.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Share your email address here."
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd26de24598e643acaece31bd6e9269d7",
+  "lastUpdated": 1725702285992,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_64f0b2ce02b244dabef87737d95a0631",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1698781360928,
+  "@originId": "64f0b2ce02b244dabef87737d95a0631",
+  "testRatio": 1,
+  "createdDate": 1699027070820,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/breakpoint-2023-day-4-hyperdrive-hackathon-podcast-music?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=64f0b2ce02b244dabef87737d95a0631&builder.overrides.64f0b2ce02b244dabef87737d95a0631=64f0b2ce02b244dabef87737d95a0631&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "originalContentId": "e15b46ab47e94a15ad1ea9389666139d",
+    "componentsUsed": {
+      "Copy": 2,
+      "CommunityGallery": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false,
+    "winningTest": null
+  },
+  "name": "Day 4 at Breakpoint: Live podcasts, music, and hackathon winners!",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

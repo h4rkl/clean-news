@@ -1,0 +1,126 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1641974400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffce0c0a5129746b391df4776eca8e906",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "The latest news from the Solana ecosystem — December 2021 edition!",
+    "publishedDate": "Wed Jan 12 2022 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "openGraph": {
+      "ogTitle": "Monthly community update | December 2021",
+      "ogUrl": "https://www.solana.com/blog/december-2021-community-update",
+      "ogDescription": "The latest news from the Solana ecosystem — December 2021 edition!",
+      "ogImage": "https://solana.ghost.io/content/images/2022/01/solana-community-update-december-2021-blog.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Monthly community update | December 2021",
+      "noFollow": false,
+      "seoDescription": "The latest news from the Solana ecosystem — December 2021 edition!",
+      "seoTitle": "Monthly community update | December 2021",
+      "noIndex": false
+    },
+    "title": "Monthly community update | December 2021",
+    "twitterMeta": {
+      "twitterTitle": "Monthly community update | December 2021",
+      "twitterImage": "https://solana.ghost.io/content/images/2022/01/solana-community-update-december-2021-blog.png",
+      "twitterDescription": "The latest news from the Solana ecosystem — December 2021 edition!"
+    },
+    "slug": "december-2021-community-update",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-6214116ccfb24ee3a04272e11ee8845a",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9d162484521349cea119f71f794beb27",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Get this monthly community update directly in your inbox!&nbsp;<a href=\"https://solana.ghost.io/monthly-update-september-2021/solana.com/newsletter\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up here.</a></p><p>☀️ Happy Solstice! Look back at the year in Solana</p><p>🌱 The Solana network is now fully carbon neutral</p><p>🏀 Michael Jordan launched NFT platform on Solana</p><p>🦑 And the Squid Prize winner is....</p><p>🥷 Katana is live on mainnet!</p><p>👑 Sacramento Kings ape into Solana</p><h2><strong>☀️ Happy Solstice! Look back at the year in Solana</strong></h2><p>The winter solstice is on December 20th — and what better time to look back at Solana's stellar year?</p><p>Back in January 2021, when Solana was less than a year old, it had&nbsp;<strong>10 billion total transactions, $100 million total value locked, 360 global validators, and 70 total projects.</strong></p><p>By December, those numbers had taken off:&nbsp;<strong>45.5 billion transactions, $11.4 billion TVL, 1,328 global validators, and 5,145 total projects in the ecosystem, plus more than 1 million NFTs minted, 5,985 total public repos, and many more highlights.</strong></p><p>Remember how far the community has come — and get hyped —&nbsp;<a href=\"https://solana.com/news/happy-solstice-2021-celebrating-solanas-sunny-year?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">at the Solana blog.</a></p><h2><strong>🌱 The Solana network is now fully carbon neutral</strong></h2><p>Big news, fam!&nbsp;<strong>The Solana Foundation announced that it has offset the Solana network's low carbon impact.</strong>&nbsp;To complement&nbsp;<a href=\"https://solana.com/environment?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana's low energy impact</a>, the Foundation is funding refrigerant destruction, which Green America lists as&nbsp;<a href=\"https://www.greenamerica.org/climate-change-100-reasons-hope/top-10-solutions-reverse-climate-change?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">one of the highest-impact ways to reduce carbon emissions.</a></p><p>The Solana Foundation will continue to monitor Solana's impact on the environment, and pledges to keep the network carbon neutral in the years to come.&nbsp;<a href=\"https://solana.com/news/solana-foundation-carbon-neutral-2021?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here.</a></p><h2><strong>🏀 Michael Jordan launches project on Solana</strong></h2><p>Come on and slam, and welcome to the jam. Michael Jordan and his son Jeffrey M. Jordan have announced that they are launching HEIR, a platform for empowering athletes, on Solana.</p><p>HEIR intends to connect athletes with their biggest fans using their own social token, as well as NFTs.&nbsp;<a href=\"https://decrypt.co/88393/michael-jordan-jumps-into-web3-solana-app-athletes-nfts-tokens?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about it at Decrypt.</a></p><h2><strong>🦑 And the Squid Prize winner is....</strong></h2><p>The Squid Prize is a biannual celebration of people who have made extraordinary contributions to the Solana community. This month, the Solana community spoke up and recognized the contributions of&nbsp;<a href=\"https://twitter.com/sainteclectic?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">@sainteclectic</a>.</p><p>Squid Prize winners are the people who, in their free time, make a positive impact with both new and veteran community members. With&nbsp;<a href=\"https://twitter.com/sainteclectic/status/1460995261338046466?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">their educational threads</a>&nbsp;and involvement across the ecosystem, @sainteclectic has done that and much more.</p><p><a href=\"https://twitter.com/solana/status/1478481566515007495?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Go on over to Twitter</a>&nbsp;and wish them congratulations!</p><h2><strong>🥷 Katana is live on mainnet!</strong></h2><p>3, 2, 1.... take off. Katana, the winners of the IGNITION hackathon,<a href=\"https://twitter.com/Katana_HQ/status/1472039521134985225?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;have already launched on mainnet</a>! Katana is an asset management protocol building investment products across the risk spectrum for Solana. Learn more about their yield generation&nbsp;<a href=\"https://app.katana.so/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><h2><strong>👑 Sacramento Kings ape into Solana</strong></h2><p>Speaking of dream teams, NBA superstars the Sacramento Kings have launched an NFT project! Fans who purchased&nbsp;<a href=\"https://twitter.com/SacramentoKings/status/1474047768414994436?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a Laidback Lion</a>&nbsp;became members of \"The Jungle\" will get access to exclusive, real-world perks — a private pick-up game on the Kings home court, premium tickets, swag, and more.</p><p>The first batch dropped on December 23rd.&nbsp;<a href=\"https://www.nba.com/kings/news/sacramento-kings-launch-laidback-lions-limited-nft-collection?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Read more on NBA.com.</a></p><h2><strong>☀️ Solana Ecosystem News</strong></h2><ul><li>Solana Ventures launches&nbsp;<a href=\"https://www.coindesk.com/business/2021/12/14/solana-ventures-looks-to-boost-web-3-gaming-with-launch-of-150m-fund/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a $150 million web3 gaming fund!</a></li><li><a href=\"https://twitter.com/DriftProtocol/status/1466426126801285122?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DriftProtocol</a>, an on-chain, cross-margined perpetual futures to Solana, is now live on mainnet.</li><li><a href=\"https://twitter.com/opera/status/1469321016572792836?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Internet browser Opera</a>&nbsp;announces it'll be integrating Solana.</li><li>Liquid Global now supports&nbsp;<a href=\"https://twitter.com/Liquid_Global/status/1468185803620851712?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">USDC on Solana deposits and withdrawals</a>.</li><li><a href=\"https://twitter.com/DefiDirect/status/1467026032050024448?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Mini Royale - Nations</a>, a first person shooter game built on Solana, was played by 2 million users.</li><li>m2 labs released a tool that allows you to&nbsp;<a href=\"https://twitter.com/m2__labs/status/1453028253829144598?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">drag and drop to create an NFT</a>.</li><li><a href=\"https://twitter.com/ceramicnetwork/status/1468939402349010944?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ceramicnetwork</a>, a high-performance protocol for decentralized data applications, added support for Solana.</li><li><a href=\"https://twitter.com/justinkan/status/1470438455645777930?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitch co-founder Justin Kan</a>&nbsp;is launching an NFT marketplace on Solana.</li><li>Ledger will be integrating Solana directly into&nbsp;<a href=\"https://twitter.com/Ledger/status/1469240129319579648?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ledger Live</a>.</li><li><a href=\"https://twitter.com/Solviewapp/status/1475372242964041730?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solview</a>, a live streaming chart for Solana tokens, launched.</li><li><a href=\"https://twitter.com/Tap_Finance/status/1471890188402003971?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tap Finance</a>, an automated option strategy vault built on Solana, is live on mainnet.</li><li><a href=\"https://twitter.com/CryptoRubic/status/1472597980385619969?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Rubic</a>, the multi-chain swap protocol, integrates Solana.</li><li>Friktion,&nbsp;<a href=\"https://twitter.com/friktion_labs/status/1473131877485752322?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a DeFi portfolio manager</a>, is now live on Solana mainnet.</li></ul><p>As this mailing list continues to grow, it’s important that Solana is bringing only the highest quality emails to your inbox. If you have any comments, questions, or suggestions, please respond to this email with your thoughts. We would love to hear from you!</p><p>We also provide more frequent updates via FTX. Only holders of SOL can receive these direct updates.</p><p>Lastly, follow us on our various social channels below to receive daily updates on what’s going on in the Solana ecosystem.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://solana.com/news?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blog</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">FTX</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F83c92979d4f6487499dc2275951102a1",
+  "lastUpdated": 1694189931042,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f4a14e1d59e4493d8f5c7bdf4e68afec",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687622081448,
+  "@originId": "f4a14e1d59e4493d8f5c7bdf4e68afec",
+  "testRatio": 1,
+  "createdDate": 1687362555517,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=f4a14e1d59e4493d8f5c7bdf4e68afec&builder.overrides.f4a14e1d59e4493d8f5c7bdf4e68afec=f4a14e1d59e4493d8f5c7bdf4e68afec&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly community update | December 2021",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

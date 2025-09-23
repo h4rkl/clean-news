@@ -1,0 +1,332 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-energy-usage-report-november-2021",
+  "data": {
+    "datePublished": 1637780400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe9b4c83e390849ca9c3631cd22422ffc",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "The average Solana transaction takes less energy than many other common household activities.",
+    "publishedDate": "Thu Nov 25 2021 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Solana’s Energy Use Report: November 2021",
+      "ogUrl": "https://www.solana.com/blog/solana-energy-usage-report-november-2021",
+      "ogDescription": "The average Solana transaction takes less energy than many other common household activities.",
+      "ogImage": "https://solana.ghost.io/content/images/2021/11/solana-energy-use-november-2021.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana’s Energy Use Report: November 2021",
+      "noFollow": false,
+      "seoDescription": "The average Solana transaction takes less energy than many other common household activities.",
+      "seoTitle": "Solana’s Energy Use Report: November 2021",
+      "noIndex": false
+    },
+    "title": "Solana’s Energy Use Report: November 2021",
+    "twitterMeta": {
+      "twitterTitle": "Solana’s Energy Use Report: November 2021",
+      "twitterDescription": "The average Solana transaction takes less energy than many other common household activities.",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/11/solana-energy-use-november-2021.png"
+    },
+    "slug": "solana-energy-usage-report-november-2021",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5eb418bdd493453f837c77bd06fbeaaa"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-9066b79bae2d4c758f1c9b4d321c7c6a",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-16c910538cbf454ebfe4605d2d682f7e",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline"
+              ]
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Solana Environement"
+                    },
+                    "url": "https://solana.com/environment",
+                    "startIcon": "none"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Learn more about the current energy impact of the Solana network."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In this article"
+                }
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-96ed8922c6cb40ceafb5dad5c10a7d99",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>The Solana network is designed to be a high-performance blockchain. These design decisions also mean the network is incredibly energy efficient. In this first of many reviews of the impact of the Solana ecosystem, the Solana Foundation can report that a transaction on Solana takes less energy than two Google searches, and 24 times less energy than charging your phone.</p><p>In May 2021, the Solana Foundation contracted&nbsp;<a href=\"http://othersphere.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Robert Murphy</a>, an energy and climate advisor, to help initially frame the environmental impact of transactions performed on the Solana global state machine. Transactions are the fundamental building blocks of Solana: Purchasing an NFT, making a trade, or other activities you can perform using Solana are all transactions.</p><p>As a proof of stake network, the security of the network is not dependent on energy usage. On Solana, there is no need for energy-intensive mining, meaning the network is extremely environmentally efficient. And thanks to a number of key technical innovations, like proof of history and parallel processing, activities on Solana take much less energy than you might think.</p><p>This report provided a dynamic analysis that can be recalculated as the network grows. In the November 2021 update, the Solana Foundation determined that&nbsp;<strong>a single Solana transaction takes 0.00051 kWh, or 1,836 Joules, of energy.</strong></p><p>Here is how the energy use of a single Solana transaction compares to other common activities:</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-96ef1a3930c64b639d12c5bae390f2e7",
+                "meta": {
+                  "previousId": "builder-59b16eca1ad44d9e81b267adf7f66b4a"
+                },
+                "component": {
+                  "name": "Custom Code",
+                  "options": {
+                    "code": "<style type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .solana{\n      background-color: #9945FF;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n</style>\n<table class=\"custom\">\n  <thead>\n    <tr>\n      <td>Activity</td>\n      <td>Power Consumed, in Joules</td>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><p>One Google search</p></td>\n      <td>1,080 J</td>\n    </tr>\n    <tr>\n      <td class=\"solana\"><p>One Solana transaction</p></td>\n      <td class=\"solana\">1,837 J</td>\n    </tr>\n    <tr>\n      <td><p>Keeping an LED light bulb on for one hour</p></td>\n      <td>36,000 J</td>\n    </tr>\n    <tr>\n      <td><p>Fully charging an iPhone 13 battery</p></td>\n      <td>44,676 J</td>\n    </tr>\n    <tr>\n      <td><p>Doing an hour of work on the internet with a computer and monitor</p></td>\n      <td>46,800 J</td>\n    </tr>\n    <tr>\n      <td><p>One eth2 transaction <sup><a href=\"#footnotes\">1</a></p></td>\n      <td>126,000 J</td>\n    </tr>\n    <tr>\n      <td><p>Watching an hour of television on a 40 inch+ LCD TV</p></td>\n      <td>540,000 J</td>\n    </tr>\n    <tr>\n      <td><p>Playing one hour of a Playstation 5 game</p></td>\n      <td>708,840 J</td>\n    </tr>\n    <tr>\n      <td><p>Running a refrigerator for one hour</p></td>\n      <td>810,000 J</td>\n    </tr>\n    <tr>\n      <td><p>One hour of central air conditioning</p></td>\n      <td>12,600,000 J</td>\n    </tr>\n    <tr>\n      <td><p>Using a gallon of gasoline </p></td>\n      <td>121,320,000 J</td>\n    </tr>\n    <tr>\n      <td><p>One Ethereum transaction <sup><a href=\"#footnotes\">2</a></p></td>\n      <td>692,820,000 J</td>\n    </tr>\n    <tr>\n      <td><p>One Bitcoin transaction <sup><a href=\"#footnotes\">3</a></p></td>\n      <td>6,995,592,000 J</td>\n    </tr>\n  </tbody>\n</table>",
+                    "scriptsClientOnly": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "paddingRight": "50px",
+                    "paddingLeft": "50px",
+                    "paddingTop": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-5e13501d3321444e9eca8a04fc029870",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>In total, the entire Solana network — with 1,196 validator nodes and an estimated 20,000,000 transactions — uses an estimated <strong>3,186,000 kWh per year</strong>. This is the equivalent of the average electricity usage of <strong>986 American households.</strong></p><p>Even with this low energy consumption, the Solana Foundation vows to even further reduce the Solana ecosystem’s environmental impact. By the end of 2021, the Foundation plans to introduce a program to help make Solana’s validator network carbon neutral and offset the footprint of the ecosystem.</p><p>The Solana Foundation will continue to release periodic reports on Solana’s energy usage and take steps to minimize the ecosystem's environmental impact. Check back for updates.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-9034066e380a4243a6bc78712333136c",
+                "meta": {
+                  "previousId": "builder-99ea208458a14f2eae2386604d135dcd"
+                },
+                "component": {
+                  "name": "Section Molecule",
+                  "options": {
+                    "noPadding": "none"
+                  }
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-34cdd5dde32e4817b2019d42b8ac827b",
+                    "meta": {
+                      "previousId": "builder-625a368e927745e6ad85b29900ac08f8"
+                    },
+                    "component": {
+                      "name": "Custom Code",
+                      "options": {
+                        "code": "<hr>",
+                        "scriptsClientOnly": true
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box"
+                      }
+                    }
+                  },
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-cbb1b7e2415a4665acad47c7684ef623",
+                    "properties": {
+                      "id": "footnotes"
+                    },
+                    "meta": {
+                      "previousId": "builder-a0f2912c5cda49b89f7a31262d269a93",
+                      "localizedTextInputs": [
+                        "rawHtml"
+                      ]
+                    },
+                    "component": {
+                      "name": "Copy",
+                      "options": {
+                        "rawHtml": {
+                          "@type": "@builder.io/core:LocalizedValue",
+                          "Default": "<p><em>Footnotes</em></p><ol><li><a href=\"https://blog.ethereum.org/2021/05/18/country-power-no-more/\" rel=\"noopener noreferrer\" target=\"_blank\">https://blog.ethereum.org/2021/05/18/country-power-no-more/</a>&nbsp;</li><li><a href=\"https://digiconomist.net/ethereum-energy-consumption/\" rel=\"noopener noreferrer\" target=\"_blank\">https://digiconomist.net/ethereum-energy-consumption/</a> </li><li><a href=\"https://digiconomist.net/bitcoin-energy-consumption\" rel=\"noopener noreferrer\" target=\"_blank\">https://digiconomist.net/bitcoin-energy-consumption</a> </li></ol>"
+                        }
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "paddingLeft": "20px",
+                        "paddingRight": "20px"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc63b16989f4a49d7b0ce995fb1736fd0",
+  "lastUpdated": 1718201914473,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_8b4b21c13b6a4dd89b3235535ec9581e",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687616677319,
+  "@originId": "8b4b21c13b6a4dd89b3235535ec9581e",
+  "testRatio": 1,
+  "createdDate": 1687362588398,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-energy-usage-report-november-2021?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=8b4b21c13b6a4dd89b3235535ec9581e&builder.overrides.8b4b21c13b6a4dd89b3235535ec9581e=8b4b21c13b6a4dd89b3235535ec9581e&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 3,
+      "Content Editor": 1,
+      "Section Molecule": 2
+    },
+    "hasLinks": false
+  },
+  "name": "Solana’s Energy Use Report: November 2021",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

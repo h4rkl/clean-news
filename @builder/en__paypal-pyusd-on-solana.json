@@ -1,0 +1,190 @@
+{
+  "@liveSyncEnabled": false,
+  "folders": [],
+  "previewUrl": "https://builder-staging.solana.com/news/paypal-pyusd-on-solana",
+  "data": {
+    "datePublished": 1716980400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa1e9316b817a4a358b50a82771bc9622",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "The news from Consensus 2024 solidifies Solana as the blockchain choice for enabling stablecoin payment solutions.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa1e9316b817a4a358b50a82771bc9622",
+      "seoDescription": "The news from Consensus 2024 solidifies Solana as the blockchain choice for enabling stablecoin payment solutions.",
+      "seoTitle": "PayPal Announces PYUSD on Solana"
+    },
+    "title": "PayPal Announces PYUSD on Solana",
+    "slug": "paypal-pyusd-on-solana",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a70200e65d34494b65f9e04c0727a14"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-8713cb7f6f404b4ea89363777d0cc59c",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5428c69e145e4f25bd334480f7d400d6",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>PayPal USD (PYUSD) is now available on Solana, the company announced at Consensus 2024 in Austin, Texas. The news brings the Solana network’s speedy finality and low cost to PayPal’s trusted stablecoin product, allowing users and developers to experience low-cost payments that <a href=\"https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html\" rel=\"noopener noreferrer\" target=\"_blank\">settle in seconds</a>, not minutes, hours, or days.</p><p>“The Solana network’s speed and scalability make it the ideal blockchain for global financial institutions, like PayPal, to create new payment solutions that are accessible, cost-effective, and instantaneous,” said Sheraz Shere, GM of Payments at the Solana Foundation. “Continued adoption from industry giants like PayPal is crucial for the next generation of fintech innovation.”</p><p>Users will be able to access PYUSD through PayPal’s flagship PayPal and Venmo wallets, Paxos, as well as blockchain-native onramps <a href=\"http://crypto.com\" rel=\"noopener noreferrer\" target=\"_blank\">Crypto.com</a> and <a href=\"https://phantom.app\" rel=\"noopener noreferrer\" target=\"_blank\">Phantom</a>. Users will also be able to transfer PYUSD on Ethereum to PYUSD on Solana without any additional fees.</p><p>PYUSD on Solana is issued by Paxos Trust Company.</p><p>“Making PYUSD available on the Solana blockchain furthers our mission of enabling a digital currency with a stable value designed for commerce and payments,” said Jose Fernandez da Ponte, senior vice president of the Blockchain, Cryptocurrency, and Digital Currency Group, PayPal.</p><p>As the most used blockchain for stablecoin transfers, according to data from blockchain analytics platform Artemis, Solana has emerged as the leading blockchain to run tokenized transactions and ideal for PYUSD as it continues to be used for payment use cases.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dcda8d092b654618bb8934f28f2e33e3",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Why PYUSD is On Solana</h2><p>In an open letter, PayPal outlined the reasons they chose to build on Solana, citing the Solana network’s fast finality and minimal fees. But just as important is the decision to build with <a href=\"https://solana.com/solutions/token-extensions\" rel=\"noopener noreferrer\" target=\"_blank\">token extensions.</a></p><p>Token extensions are essentially compliance in a box. Unlike other blockchain solutions, which require institutions to use third party tools for added features, token extensions are tools available to any developer, natively in the protocol.&nbsp;</p><p>PYUSD on Solana is one of the earliest stablecoins to take advantage of token extensions. In particular, PYUSD on Solana uses:</p><ul><li><strong>Confidential Transfers. </strong>Allowing merchants the option to maintain confidentiality of transaction amounts while maintaining visibility of other transaction details for regulatory purposes.</li><li><strong>Transfer Hooks.</strong> Enabling developers to invoke custom programs during token transfers for individuals and merchants using PYUSD.</li><li><strong>Memo Fields.</strong> Enabling senders and receivers to include information along with payments, creating a more user-friendly experience for daily payments and business transactions.</li></ul><p>“These features are not merely nice-to-haves,” the letter says. “We believe they are important features to provide to merchants if PYUSD is to grow in its utility to broader commercial segments.”</p><p>Read the <a href=\"https://pyusd.mirror.xyz/TpEwPNybrwzPSSQenLtO4kggy98KH4oQRc06ggVnA0k\" rel=\"noopener noreferrer\" target=\"_blank\">full letter from PayPal here</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8fb939660a0e494f8b4ce292e537cd6e",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>How Solana Unlocks Frictionless Payments</h2><p>With fast settlement times, high throughput, low fees, and innovative ecosystem tooling, Solana has become a leading solution for blockchain payments. The network regularly processes more transactions than every other blockchain solution combined, and its stablecoin transfer volume was more than $1.5 trillion in April 2024.</p><p>As a permissionless, frictionless network, companies built on Solana can unlock a number of advantages distinct from traditional payments processors:</p><ul><li><strong>Near-instant settlement. </strong>With a blocktime of 400 milliseconds, transactions settle within seconds, not hours or days — allowing merchants and consumers near-immediate access to funds.</li><li><strong>Seamless cross-border settlement. </strong>Remove intermediaries and allow for simplified, frictionless payments on a global scale.</li><li><strong>Engaging loyalty programs. </strong>The use of onchain loyalty programs is proven to increase customer retention and engagement. The pilot program from popular tea chain <a href=\"https://solana.com/news/case-study-boba-guys\" rel=\"noopener noreferrer\" target=\"_blank\">Boba Guys’ Passport</a>, for example, saw a 67% increase in monthly visits among customers using the program, and an 800% return on investment </li><li><strong>Payments-friendly tooling. </strong>Solutions can be built for business’ unique needs using tooling within the Solana ecosystem. Tools like <a href=\"https://solana.com/solutions/solana-permissioned-environments\" rel=\"noopener noreferrer\" target=\"_blank\">permissioned environments</a> and <a href=\"https://solana.com/solutions/token-extensions\" rel=\"noopener noreferrer\" target=\"_blank\">token extensions</a> allow businesses to build compliance and customer service frameworks.</li></ul><p>Learn more about <a href=\"https://solana.com/solutions/payments-tooling\" rel=\"noopener noreferrer\" target=\"_blank\">payments on Solana</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c0140f83cb324a1495f8f561dadf0681",
+            "component": {
+              "name": "Hero",
+              "options": {
+                "eyebrow": "Token extensions",
+                "headline": "Build for complex behavior, without sacrificing scale.",
+                "headingAs": "h1",
+                "body": "<p>Built in collaboration with large institutions, token extensions unlock rich native functionality. They're permissioned tokens on a permissionless network.</p>",
+                "centered": false,
+                "newsLetter": false,
+                "buttons": [
+                  {
+                    "label": "Learn more",
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "url": "https://solana.com/solutions/token-extensions"
+                  },
+                  {
+                    "label": "Start Building",
+                    "hierarchy": "outline",
+                    "size": "md",
+                    "iconSize": "md",
+                    "url": "https://solana.com/developers/guides/token-extensions/getting-started"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feacb49b3f0ef4bb78d7f63b77283560f",
+  "lastUpdated": 1717012292883,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_465affb35f104e64b3338dd6efef919a",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1716988533473,
+  "@originId": "465affb35f104e64b3338dd6efef919a",
+  "testRatio": 1,
+  "createdDate": 1716929502626,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "lastPreviewUrl": "https://builder-staging.solana.com/news/paypal-pyusd-on-solana?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_465affb35f104e64b3338dd6efef919a&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_465affb35f104e64b3338dd6efef919a=983ae1dad0ba4ca4ac6dd4ac310edee1_465affb35f104e64b3338dd6efef919a&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Copy": 3,
+      "Hero": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "PayPal Announces PYUSD on Solana",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

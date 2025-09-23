@@ -1,0 +1,272 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/breakpoint-speakers-visa-circle-bybit-helium",
+  "data": {
+    "datePublished": 1715172300000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28594f0707e840bfbe6090c41176a9f8",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Solana Breakpoint’s 2024 theme, “Forward Motion”, represents the unique role the Solana ecosystem plays in industry transformation and disruption",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28594f0707e840bfbe6090c41176a9f8",
+      "seoDescription": "Solana Breakpoint’s 2024 theme, “Forward Motion”, represents the unique role the Solana ecosystem plays in industry transformation and disruption",
+      "seoTitle": "Meet the First Wave of Speakers for Breakpoint 2024: Visa, Bybit, Circle, Helium, Fireblocks and More"
+    },
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Meet the First Wave of Speakers for Breakpoint 2024: Visa, Bybit, Circle, Helium, Fireblocks and More"
+    },
+    "slug": "breakpoint-speakers-visa-circle-bybit-helium",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-f2d9ab8fc1cf4c6cac798955fe6e13b2",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-82e30ae26d684db0ac4c098b5d41e6e2",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><strong>Singapore - May 8, 2024 </strong>- <a href=\"https://solana.org/\" rel=\"noopener noreferrer\" target=\"_blank\">The Solana Foundation</a>, a non-profit foundation dedicated to the decentralization, adoption, and security of the Solana network, today announced the first wave of speakers for <a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Breakpoint 2024</a>. The speaker lineup features executives from Visa, ByBit, Circle, Helium, Fireblocks, and more.</p><p>Last year, Breakpoint hosted more than 3,000 attendees to participate in keynote talks, workshops, panel discussions, and fireside chats from some of the brightest minds in and out of the Solana ecosystem. This year’s two-day event in Singapore will bring together developers, government agencies, large enterprises, institutions, and creators from around the world to educate one another and engage in discussions with top experts. The Breakpoint 2024 initial speaker lineup includes:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5853c9488eee4db6b25d84fa631d95f4",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-64c969e763dd479084244bed3e0c90b9",
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<ul><li>Hany Rashwan, CEO of 21.co</li><li>Bin Chen, co-founder and CTO of Boba Guys</li><li>Luke Truitt, CEO of Bridgesplit</li><li>Ben Zhou, CEO of Bybit</li><li>Jeremy Allaire, Chairman and CEO of Circle</li><li>Mike Cahill, co-founder &amp; CEO of Douro Labs&nbsp;</li><li>Cindy Leow, co-founder of Drift</li><li>Vibhu Norby, CEO of DRiP</li><li>Emily Meyers, General Counsel at Electric Capital</li><li>Larisa Barbu, co-founder and CEO of Exchange Art</li><li>Ran Goldi, SVP Payments &amp; Network at Fireblocks</li></ul>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-0534f529e65b496bbdd27674f1e52ed7",
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<ul><li>Stijn Paumen, co-founder and CEO of Helio</li><li>Abhay Kumar, CEO of the Helium Foundation</li><li>Corey Wright, CEO of Honeyland&nbsp;</li><li>Marius Ciubotariu, co-founder of Kamino&nbsp;</li><li>Andrea Fortugno, co-founder and CEO of MagicBlock Labs\t</li><li>Jason Lau, Chief Innovation Officer at OKX</li><li>Paul Bohm, founder of Teleport.xyz</li><li>Ilja Moisejevs, CEO of Tensor</li><li>Cuy Sheffield, VP, Head of Crypto at Visa</li><li>Tristan Frizza, co-founder of Zeta Markets</li></ul>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6a695285e62d426781d799ff7c061dbc",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Breakpoint 2024 will take place from September 20-21 at Suntec Singapore, in the heart of Singapore’s Central Business District. The two-day event will include keynote talks, group panel discussions, workshops, in-person experiences, and demonstrations that will address the most pressing issues in the crypto industry.</p><p>“Singapore, and the broader Asia Pacific region, is a vibrant epicenter of the blockchain industry” said Lily Liu, President of the Solana Foundation. “We are excited to bring Breakpoint to APAC for the first time to highlight our builders, specifically from the APAC region and around the world, and to showcase experiences unique to Solana’s global community.”</p><p>The theme for Breakpoint 2024 is “Forward Motion” – designed to inspire and propel the ecosystem into the future by spotlighting the latest in product innovation, blockchain technology, developer success, user growth, and strategic partnerships. “Forward Motion” represents the unique role the Solana ecosystem plays in industry transformation and disruption. Projects building on Solana are not only keeping pace with change, they are leading the charge.</p><p>Notable Breakpoint sponsors include: BONK, Block Logic, Chainflow, Circle, CUDIS, Drip, Gauntlet, GSR, Jito Foundation, Marinade, MonkeDAO, OKX, Phantom, Picasso, Pyth, RockawayX, Smithii, Unlimit, Web3 Auth, Wormhole, and Xandeum Labs.</p><p>More information on Breakpoint 2024 and tickets can be found <a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b9fe0ff9f3e54dc3ae4b308c04219aea",
+            "meta": {
+              "previousId": "builder-99ea208458a14f2eae2386604d135dcd"
+            },
+            "component": {
+              "name": "Section Molecule",
+              "options": {
+                "noPadding": "none"
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-f506c9f192444e41acc838871638e9f6",
+                "meta": {
+                  "previousId": "builder-625a368e927745e6ad85b29900ac08f8"
+                },
+                "component": {
+                  "name": "Custom Code",
+                  "options": {
+                    "code": "<hr>",
+                    "scriptsClientOnly": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-fe34ec8127fe49688b6c81cc3b00d234",
+                "properties": {
+                  "id": "footnotes"
+                },
+                "meta": {
+                  "previousId": "builder-a0f2912c5cda49b89f7a31262d269a93"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": "<p><strong style=\"color: rgb(127, 127, 127);\"><em>About Solana</em></strong></p><p><em style=\"color: rgb(127, 127, 127);\">Solana is a blockchain built for mass adoption. It's a high performance network that is utilized for a range of use cases, including finance, NFTs, payments, and gaming. Solana operates as a single global state machine, and is open, interoperable and decentralized. For more information, please visit </em><a href=\"https://solana.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(127, 127, 127);\"><em>https://solana.com</em></a><em style=\"color: rgb(127, 127, 127);\">.</em></p><p><strong style=\"color: rgb(127, 127, 127);\"><em>About Solana Foundation</em></strong></p><p><em style=\"color: rgb(127, 127, 127);\">The Solana Foundation is a non-profit foundation based in Zug, Switzerland, dedicated to the decentralization, adoption, and security of the Solana network. For more information, please visit </em><a href=\"https://solana.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(127, 127, 127);\"><em>https://solana.org/</em></a></p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "paddingLeft": "20px",
+                    "paddingRight": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F04575aafc5e24b0d9b493dc5dc18b052",
+  "lastUpdated": 1725702334941,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5487be2d64a142e1a010fe97ee21b321",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1715173274161,
+  "@originId": "5487be2d64a142e1a010fe97ee21b321",
+  "testRatio": 1,
+  "createdDate": 1715100914791,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/breakpoint-speakers-visa-circle-bybit-helium?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=5487be2d64a142e1a010fe97ee21b321&builder.overrides.5487be2d64a142e1a010fe97ee21b321=5487be2d64a142e1a010fe97ee21b321&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 5,
+      "Section Molecule": 2
+    },
+    "hasLinks": false
+  },
+  "name": "The Solana Foundation Unveils First Wave of Speakers for Breakpoint 2024: Visa, Bybit, Circle, Helium, Fireblocks and More",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

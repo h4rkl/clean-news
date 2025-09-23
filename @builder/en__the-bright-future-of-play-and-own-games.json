@@ -1,0 +1,285 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1678993200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3358f429fc584935a53f9b25f7de9161",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "New infrastructure improvements are necessary to expand the audience for blockchain games.",
+    "publishedDate": "Fri Mar 17 2023 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "The bright future of ‘Play-and-Own’ games",
+      "ogUrl": "",
+      "ogDescription": "New infrastructure improvements are necessary to expand the audience for blockchain games.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "The bright future of ‘Play-and-Own’ games",
+      "noFollow": false,
+      "seoDescription": "New infrastructure improvements are necessary to expand the audience for blockchain games.",
+      "seoTitle": "The bright future of ‘Play-and-Own’ games",
+      "noIndex": false
+    },
+    "title": "The bright future of ‘Play-and-Own’ games",
+    "twitterMeta": {
+      "twitterTitle": "The bright future of ‘Play-and-Own’ games",
+      "twitterDescription": "New infrastructure improvements are necessary to expand the audience for blockchain games."
+    },
+    "slug": "the-bright-future-of-play-and-own-games",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9687f359460a46d5bc32a40d446b0cb7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-ec59752235d84fff8113e74bfb27cabe",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5b9d66ebd49a440fb23dbf51e3d16d9c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Johnny B. Lee is General Manager of Games, Entertainment and Media at the Solana Foundation.</p><p>The first wave of blockchain games in 2021 saw enormous interest but ultimately faltered because they were&nbsp;<a href=\"https://decrypt.co/resources/what-are-play-to-earn-games-how-players-are-making-a-living-with-nfts?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">play-to-earn games</a>, which incentivized economic machinations but not quality gaming experiences. The play-and-earn games that followed encouraged similar behaviors – and have also experienced a similar decline.</p><p>We are headed toward a future of games being built around a better approach. Play-and-own games are ones where players own their data and progression across games, platforms, and publishers.<a href=\"https://solana.com/news/the-bright-future-of-play-and-own-games#fn1\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">1</sup></a>&nbsp;Players will be at the center of these games with gameplay prioritized above all else, certainly above ownership of digital items and collections – just as they should be.</p><p><br></p><p>To get to this idealized vision, key elements of games infrastructure need to be rebuilt from the ground up with blockchain technology and the player at its core. In order for players to own their data and progression, games infrastructure providers must build with a focus on open-source/interoperable standards that match current game development and games backend standards.&nbsp;<a href=\"https://solana.com/news/the-bright-future-of-play-and-own-games#fn2\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">2</sup></a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f9c5b1d1e1a149649c2285f1eacddcd0",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6bf9dbc455445bea611ca653dd7211f?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.412,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 412,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6bf9dbc455445bea611ca653dd7211f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6bf9dbc455445bea611ca653dd7211f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6bf9dbc455445bea611ca653dd7211f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6bf9dbc455445bea611ca653dd7211f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6bf9dbc455445bea611ca653dd7211f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6bf9dbc455445bea611ca653dd7211f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6bf9dbc455445bea611ca653dd7211f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6bf9dbc455445bea611ca653dd7211f?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6bf9dbc455445bea611ca653dd7211f?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4cd7a4445dc54ab2b6f3c012d55c1d99",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Play-and-own as a launchpad of innovation</strong></h2><p>With a new web3-based games infrastructure, innovations can flow more freely as natural extensions of play-and-own.</p><p>One example: Players that have progressed beyond a specified level could create and contribute intellectual property to the game through User Generated Content such as extensions of the lore (i.e., IP development and licensing on-chain) and even new feature designs.</p><p>Another: Often undervalued player activities like community engagement can move on-chain and be integrated to the game to reward and/or incentivize positive player contributions like guild creation and player guides.</p><p>These types of systems would also help both the developers and players when sequels are released. Currently, sequels in games are a relatively poor player experience requiring separate builds that quite often have zero-to-little connection to the prior build and community. Play-and-own enables a better gaming experience by potentially bringing the player’s community engagement and experience into future franchise installments.</p><p>Some major providers are building elements of this new games infrastructure (such as Epic Online Services’ cross-progression feature), but player ownership is not prioritized. That can only happen with a focus on open-source/interoperable standards.</p><h2><strong>New games backend</strong></h2><p>Games backend online services need to be built on-chain from the start. We see opportunities for several key multiplayer game backend components to be moved on chain in this new era of play-and-own:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-650243cf54614b6c81c77cc54d9e92e1",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"width: 100%; border: 1px solid white;\">\n<tbody>\n<tr>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: middle; padding:10px;\"><p><strong>Games backend components</strong></p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: middle; padding:10px;\"><p><strong>Current experience</strong></p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: middle; padding:10px;\"><p><strong>Today’s web3 experience</strong></p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: middle; padding:10px;\"><p><strong>Future web3 vision</strong></p></td>\n</tr>\n    <tr>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding:10px;\"><p>Authentication</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding:10px;\"><p>Easy UX for account creation, but lack of connectivity results in walled gardens.</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding:10px;\"><p>Difficult UX, but same connectivity issues create walled gardens in marketplaces, communities, etc.<br>\nMost ecosystem builders are solving for onboarding UX, but not the connectivity issue.</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Gamer profile SBT as a KYC’d  management layer enabling verifiable player histories and community engagement.</p></td>\n</tr>\n        <tr>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Inventory management</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Centralized with no true player ownership or ability for true price discovery.</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>In-game marketplaces driving asset swaps show early positive data points on revenue generation potential.</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Significant UX improvements in price discovery and third party marketplace txs needed to be at par with current games. <br>\nTo enable cross-game asset swaps, integration to games’ backends and setting standards are needed.</p></td>\n</tr>\n        <tr>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>User data</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Centralized with no player ownership.</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Mostly still centralized in games.</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Players would have complete control over their user data including profile information, game settings, and progression. Owning attribution and progression could be powerful for enabling players to create and contribute to the game/IP itself.</p></td>\n</tr>\n        <tr>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Matchmaking</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Black box algorithms, which are difficult to implement, test, and deploy.</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Currently using existing solutions.</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Can set industry standards and ease pain of development while allowing players to operate community run MM and open up for different types of ranked play like community run leagues.</p></td>\n</tr>\n        <tr>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Analytics</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Data collection mostly utilized for improving player experience and monetization.</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>On-chain analytics. Blockchain games performance marketing in nascent stage with work mostly being done on LTV side, not CAC/CPI side.</p></td>\n    <td style=\"width: 25%; border: 1px solid white; vertical-align: top; padding: 10px;\"><p>Social graphs on-chain and Paid UA on-chain resulting in a more efficient market and the player also receiving compensation.</p></td>\n</tr>\n</tbody>\n</table>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e732abb7bff24b589a283adc35b70f73",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Why is this important?</strong></h2><p>Early data from the Solana games ecosystem indicates that in-game asset swaps represent a commercial opportunity that is large enough for current developers of blockchain games to generate revenue and entice the large game companies to enter the space. This is in part because the main business models of blockchain games are largely additive to existing business models. NFT collections, studio/game tokens, and in-game asset swaps do not replace current games business models of IAPs and advertising.</p><p>That near-term lucrative business model undershoots the much larger opportunity for blockchain games. We are building toward an intermediate future where multiple blockchain games with active player bases begin to trade cross-game, such as a player trading a sword in one game for a sneaker in another.</p><p>After that becomes a reality, both user data and player progression can become digital assets — the commercial potential grows exponentially.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d5e3b38f43034508ade8f1577cecc65d",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fccbebab067ad4339bf9824aeb35fe49f?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.501,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 779,
+                "width": 1554,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fccbebab067ad4339bf9824aeb35fe49f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fccbebab067ad4339bf9824aeb35fe49f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fccbebab067ad4339bf9824aeb35fe49f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fccbebab067ad4339bf9824aeb35fe49f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fccbebab067ad4339bf9824aeb35fe49f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fccbebab067ad4339bf9824aeb35fe49f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fccbebab067ad4339bf9824aeb35fe49f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fccbebab067ad4339bf9824aeb35fe49f?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fccbebab067ad4339bf9824aeb35fe49f?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-897a7ed4cd984ed6aacb6893aaee1d9a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Digital Asset Decentralized Exchange, or DADex, is a decentralized exchange specialized for in-game assets. Some examples of these of in-game specializations are integrations with games’ infrastructure for better UX in price discovery and significant improvement in cash out payments UX (for example, direct credits to a player’s credit card) compared to current blockchain games.</p><p>New forms and utilization of ownership are taking place in blockchain games within the Solana games ecosystem. The ability to trade is just the beginning. Utilization for access, augmentation of the item, lending/renting, and ownership are driving players to contribute in ways not seen before in games. Early data indicates that these factors are significantly driving up key performance metrics like monetization and D7/D30 retention.</p><h2><strong>Why is this best built on Solana?</strong></h2><p>The first principle of play-and-own is that players are at the center, with gameplay prioritized above all else. Consumers will ultimately judge blockchain games based on the gameplay. They have rightly come to expect seamless experiences and high quality graphics. Anything less than that and play-and-own games will join the legion of faded play-to-earn games.</p><p>Solana is designed and built with performance in mind. A blockchain protocol needs to provide sufficiently high speeds and consistently low fees to enable in-game asset swaps at scale. Layer 2 blockchains that use subnet and sharding technology are positioning themselves to be able to keep fees low enough, but still have similar TPS limits as other L1s and will hit bottlenecks as the games scale.</p><p>There are also significant trade offs with not building this on a global single shared state like Solana. The slow throughput would make the player experience untenable. Since most in-game asset swaps are driven by current game session player progression, once capacity is reached one would have to bifurcate a player base in a single game across subnets/side chains.</p><p>In the case of Paid UA in blockchain games and eventually Paid UA on-chain, it is still unclear if subnets or shards will have a significant negative effect on organic growth coming from Paid UA. Solana’s global single shared state results in organic growth when Paid UA is executed. Players from games and users of other products on Solana are much more seamlessly onboarded to your game.</p><p>We are seeing a new wave of blockchain games coming that aren't like earlier games — the player matters and so does the experience. These new games are an advancement from traditional online games we know and love. Players get rewarded for their efforts and can contribute in a meaningful way to the experience and intellectual property. It’s starting now, but there’s more to do on the infrastructure front to create this new reality.</p><p>This year is an exciting one for the blockchain games industry. See you all at GDC next week!</p><p><strong>Footnotes</strong></p><p><sup style=\"vertical-align: super; font-size: smaller;\"><strong><em>1.</em></strong><em>&nbsp;Some questions may arise on what this could mean for companies that currently utilize centralized data for commercial purposes and if large games platforms and publishers would push back on this vision. My view is that this will not eliminate commercial opportunities with player data but evolve it.&nbsp;</em></sup><a href=\"https://solana.com/news/the-bright-future-of-play-and-own-games#ref1\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\"><em>Return ↩</em></sup></a></p><p><br></p><p><sup style=\"vertical-align: super; font-size: smaller;\"><strong><em>2.</em></strong><em>&nbsp;It is important to note that interoperability of the new games infrastructure should not result in IP, characters, avatars and items from one game playable in another game. The current pulse of market in games is there is limited demand for this from players and would break the immersion/fourth wall of games for not much value add. The current push for this type of interoperability is largely from profile picture NFT projects seeking utility for their collections.&nbsp;</em></sup><a href=\"https://solana.com/news/the-bright-future-of-play-and-own-games#ref2\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\"><em>Return ↩</em></sup></a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6e01b504288b4b9ca3e50d6edb667ff4",
+  "lastUpdated": 1696412400446,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dba6ad4db93c4e8889d2a3ea5039f959",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687591795162,
+  "@originId": "dba6ad4db93c4e8889d2a3ea5039f959",
+  "testRatio": 1,
+  "createdDate": 1687362404011,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=dba6ad4db93c4e8889d2a3ea5039f959&builder.overrides.dba6ad4db93c4e8889d2a3ea5039f959=dba6ad4db93c4e8889d2a3ea5039f959&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "The bright future of ‘Play-and-Own’ games",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

@@ -1,0 +1,208 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-blockchain-node-development-blueprints-available-on-aws",
+  "data": {
+    "datePublished": 1698750000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F248842edc5b544d9b12847dac6662cd9",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Solana is only the second blockchain powered by the Blockchain Node Runner initiative, after Ethereum. ",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F248842edc5b544d9b12847dac6662cd9",
+      "seoDescription": "Solana is only the second blockchain powered by the Blockchain Node Runner initiative, after Ethereum. ",
+      "seoTitle": "Solana | Solana Blockchain Node Development Blueprints Available on AWS "
+    },
+    "title": "Solana Blockchain Node Development Blueprints Available on AWS ",
+    "slug": "solana-blockchain-node-development-blueprints-available-on-aws",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-0e947892af314597913e4ff5114bc8b9",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ffaaed7e153044a581366555eaf9cd55",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ]
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>As revealed live on the <a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint 2023 stage</a>, Solana nodes are now available for quick deployment on AWS with the help of infrastructure as code app in AWS Blockchain Node Runners <a href=\"https://aws-samples.github.io/aws-blockchain-node-runners/docs/Blueprints/Solana\" rel=\"noopener noreferrer\" target=\"_blank\">repository</a>. Now, enterprises looking to build on Solana will be able to deploy their own consensus and Remote Procedure Calls (RPC) nodes with minimal technological effort and overhead to connect their dApps to the blockchain.</p><p>“This represents a step forward for the Solana ecosystem,” says Dan Albert at the Solana Foundation. “The expertise needed to run a node has dropped significantly, making it easier than ever to deploy on Solana.”</p><p>Using Blockchain Node Runners, an open-source initiative for deploying self-service blockchain nodes, enterprises will be able to deploy Solana validators with a few commands:</p><ul><li>Consensus nodes.</li><li>Base RPC nodes, which do not include any secondary indexes.</li><li>Extended RPC nodes, which include all secondary indexes.</li></ul><p>“We are excited to see Solana blockchain nodes available for deployment on AWS to harness the best from their blockchain workloads to increase accessibility to innovative cloud native technologies like decentralized web,” says Nikolay Vaslov, senior solutions architect at Blockchain Nodes Services, Amazon Web Services.&nbsp;</p><p>Cloud-based nodes are ideal for large traditional finance firms or web3-native projects that want to use a lot of nodes, but do not have the infrastructure or finances to build them themselves. For new projects hoping to deploy an RPC node to interface with Solana, Blockchain Node Runner could be a simpler, out of the box solution tailored for launching dApps quickly and take advantage of Solana’s enterprise-scale throughput and low fees.</p><p>Solana is only the second blockchain to be supported by Blockchain Node Runner, after Ethereum.</p><p>Learn more about Amazon Web Service’s Blockchain Node Runners <a href=\"https://aws-samples.github.io/aws-blockchain-node-runners/docs/Blueprints/Solana\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1b55f43b42b84e858ba3726f1d2c27a2",
+            "meta": {
+              "previousId": "builder-64047d5578174b58b9ec78293dccd501"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b4fbf813fafd4e339a1888e3a463dcb1",
+            "meta": {
+              "previousId": "builder-2da3db40ea5446b58cc7a5a618d7c7ed"
+            },
+            "component": {
+              "name": "Conversion Panel",
+              "options": {
+                "variant": "inline-centered",
+                "heading": "Join the Community",
+                "body": "",
+                "buttons": [],
+                "logos": [],
+                "showLogos": false,
+                "listItems": [
+                  {
+                    "label": "Twitter",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://twitter.com/solana"
+                  },
+                  {
+                    "label": "LinkedIn",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://www.linkedin.com/company/solana-foundation/"
+                  },
+                  {
+                    "label": "Email",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://solana.com/newsletter"
+                  },
+                  {
+                    "label": "Telegram",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://t.me/solanaannouncements"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa8cc54aaa168475c87229ba22e686d3b",
+  "lastUpdated": 1718889545568,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_98cd4afb474749248cca733a57b9b3d9",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1698754639407,
+  "@originId": "98cd4afb474749248cca733a57b9b3d9",
+  "testRatio": 1,
+  "createdDate": 1698749076757,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-blockchain-node-development-blueprints-available-on-aws?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=98cd4afb474749248cca733a57b9b3d9&builder.overrides.98cd4afb474749248cca733a57b9b3d9=98cd4afb474749248cca733a57b9b3d9&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Conversion Panel": 1,
+      "Copy": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana blockchain node development blueprints available on AWS ",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

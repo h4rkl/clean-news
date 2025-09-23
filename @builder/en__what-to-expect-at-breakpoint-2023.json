@@ -1,0 +1,258 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/what-to-expect-at-breakpoint-2023",
+  "data": {
+    "datePublished": 1697137200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9184a4e8bd91421ebfa0a50fbf987e63",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Tickets for the annual Solana community conference are now on sale.",
+    "openGraph": {
+      "ogTitle": "Google Cloud, Visa, the Network State, and Star Atlas: What you need to know for Breakpoint 2023",
+      "ogDescription": "Tickets for the annual Solana community conference are now on sale.",
+      "ogImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9184a4e8bd91421ebfa0a50fbf987e63"
+    },
+    "seo": {
+      "seoDescription": "Tickets for the annual Solana community conference are now on sale.",
+      "seoTitle": "Google Cloud, Visa, Neodyme, and Star Atlas: What you need to know for Breakpoint 2023"
+    },
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Google Cloud, Visa, Neodyme, and Star Atlas: What you need to know for Breakpoint 2023"
+    },
+    "twitterMeta": {
+      "twitterTitle": "Google Cloud, Visa, the Network State, and Star Atlas: What you need to know for Breakpoint 2023",
+      "twitterDescription": "Tickets for the annual Solana community conference are now on sale.",
+      "twitterImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9184a4e8bd91421ebfa0a50fbf987e63"
+    },
+    "slug": "what-to-expect-at-breakpoint-2023",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-6d4206629d564ad3b633b7cb9fb48b30",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3fc7d9dedad841f8abf65ebf05438a4d",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Get your calendars ready. Breakpoint 2023, the annual gathering of the Solana community being held Oct. 30-Nov. 3 in Amsterdam, is only a few short weeks away! <a href=\"https://solana.com/breakpoint/tickets\" rel=\"noopener noreferrer\" target=\"_blank\">Purchase your tickets now.</a></p><p>This year’s Breakpoint promises to be the most interesting and insightful one yet, with keynote talks, workshops, panel discussions, and fireside chats from some of the brightest minds in and out of the Solana ecosystem.</p><p>Some of the planned programming includes:</p><ul><li>Keynotes from industry leaders from Google Cloud, Circle, Star Atlas, and other luminaries working in the Solana ecosystem.</li><li>Developer workshops, covering everything from the basics of building on Solana to how to build with exciting innovations like state compression or xNFTs.</li><li>Thought-provoking panels at the forefront of blockchain, such as “How AI Can Accelerate the Adoption of DeFi,” “Regulatory Compliance in Web3,” and “How to Build Private Solana Programs.”</li><li>The Neodyme Security Stage — a full day of programming dedicated to building more secure, robust systems.</li><li>Experiential activations and immersive experiences by artists and teams in the Solana ecosystem.</li><li>A Community Basecamp with lounges, activations, and events from teams across the Solana ecosystem offering attendees the chance to connect with their favorite communities.</li><li>Free access for Breakpoint ticket holders for on-campus events, like <a href=\"https://lu.ma/tnsconf\" rel=\"noopener noreferrer\" target=\"_blank\">the Network State Conference</a>, <a href=\"https://lu.ma/tsh05i9i\" rel=\"noopener noreferrer\" target=\"_blank\">MEV Camp</a>, <a href=\"https://lu.ma/0k9m99s1\" rel=\"noopener noreferrer\" target=\"_blank\">the Block Zero Solana Validator Summit</a>, and <a href=\"https://lu.ma/drip\" rel=\"noopener noreferrer\" target=\"_blank\">DRiP Haus</a> (see more <a href=\"https://solana.com/breakpoint/side-events\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>).</li><li>The awards ceremony for the winners of the <a href=\"https://solana.com/hyperdrive\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Hyperdrive Hackathon</a>.</li><li>A slate of intriguing announcements and news.</li></ul><p>The full schedule will be coming closer to the event start. Keep an eye out!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d48f5a2037f84ee98646cb0d739673a0",
+            "component": {
+              "name": "CommunityGallery",
+              "options": {
+                "square": true,
+                "cards": [
+                  {
+                    "cardType": "image",
+                    "size": "large",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2438bdd5ae1a411c9d90a9df8c8851c6",
+                      "alt": "Attendees at Breakpoint 2022"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "image": {
+                      "alt": "Breakpoint knapsacks",
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F163bb3d93a644e4c85b72e8a0755534a"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb6f6fcd58e5d474982ac1b6a969e5b10"
+                    },
+                    "size": "small"
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "skinny",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F862384f8f50642dbb565d89dfcdc6896",
+                      "alt": "someone holding up a BP breakpoint sign in the sun"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbbe1944db7114cf0a8f0cc90cf8259f4"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a4caabe303346e590fa7a26d78bdb1d"
+                    }
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a03937b024ef434fb7072b23209272c4",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The third annual Breakpoint conference will take place in Amsterdam from October 30 through November 3 at the Solana Campus, a pop-up gathering ground located at TAETs Art and Event Park approximately 15 minutes from central Amsterdam. The Solana Campus will feature three stages for keynote speakers, educational developer sessions, and creator success stories. In addition, the campus will feature activations and events from Solana ecosystem teams such as art installations, project showcases, and beyond.</p><p><a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about Breakpoint here.</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-704d2ea8534c4b898ea7267e891a5fbb",
+            "component": {
+              "name": "Conversion Panel",
+              "options": {
+                "variant": "centered",
+                "heading": "Want to keep up to date?",
+                "body": "Get the Solana Community Update.",
+                "buttons": [
+                  {
+                    "label": "Sign up",
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "url": "https://solana.com/newsletter"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c80790a112b34f22b3e94203b700d2e1",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Hello! Use the editor to add your copy!"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F385ef98f8ed84aa58b00ed0a37f1beb0",
+  "lastUpdated": 1725702128427,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_95882e1482a748a29ed1a586809cff39",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1697142458931,
+  "@originId": "95882e1482a748a29ed1a586809cff39",
+  "testRatio": 1,
+  "createdDate": 1697133071145,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/what-to-expect-at-breakpoint-2023?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=95882e1482a748a29ed1a586809cff39&builder.overrides.95882e1482a748a29ed1a586809cff39=95882e1482a748a29ed1a586809cff39&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Conversion Panel": 1,
+      "Copy": 3,
+      "CommunityGallery": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Google Cloud, Visa, Neodyme, and Star Atlas: What you need to know for Breakpoint 2023",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

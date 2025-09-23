@@ -1,0 +1,433 @@
+{
+  "@liveSyncEnabled": false,
+  "folders": [],
+  "previewUrl": "https://staging.solana.com/news/case-study-pyth",
+  "data": {
+    "datePublished": 1703088000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6abbeac07974ceaab5fb88198891a59",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Pyth uses a Solana Permissioned Environments to enable rapid data processing.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6abbeac07974ceaab5fb88198891a59",
+      "seoDescription": "Pyth uses a Solana Permissioned Environments to enable rapid data processing.",
+      "metaType": "article",
+      "seoTitle": "Solana | Case Study: How Pyth is Catalyzing a New Era of Permissioned Environments"
+    },
+    "title": "Case Study: How Pyth is Catalyzing a New Era of Permissioned Environments",
+    "slug": "case-study-pyth",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-b9ae4c20a9954c1794be6f7aa014c691",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a2abc99253ec49f69248008fef6fe3a8",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ]
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p><strong>Highlights</strong></p><ul><li><em>Solana Permissioned Environments (SPEs) are private environments tailored to enterprise needs, offering customization, control and scalability within the Solana ecosystem.</em></li><li><em>The Pyth Network was the first SPE on Solana’s stack. It was designed specifically for oracle services and uses the Solana Virtual Machine connect to external data sources, serving as a crucial aggregator for real-world smart contract execution.</em></li><li><em>Pyth's requirements for rapid data processing and minimal latency are perfectly met by Solana's high-throughput infrastructure.</em></li><li><em>Solana's robust security model, combined with Pyth's dedicated oracle services, ensures reliable and secure data for smart contracts.</em></li><li><em>Thanks to native scalability and tools in the Solana ecosystem, Pyth can&nbsp;expand its services and accommodate a growing range of applications and data demands.</em></li></ul>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                "paddingTop": "20px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingBottom": "20px",
+                "opacity": "1",
+                "borderRadius": "20px",
+                "flexGrow": "0"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-92cc5103a88c414a94227a076f98f3ce",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline"
+              ]
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Read"
+                    },
+                    "hierarchy": "outline",
+                    "url": "https://pyth.network/blog/ondo-and-pyth-unlock-institutionalized-assets",
+                    "endIcon": "arrow-up-right"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "LATEST NEWS"
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Pyth and Ondo Release USDY/USD Price Feed"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "The feed is enabled on Solana and over 60 other blockchain ecosystems."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In This Case Study"
+                }
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-7d0fefe2f08646f7ad889a099eaf0e53",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>The term \"oracle\" conjures images of mystic wizards, divine messengers with direct links to universal truth. But today, one emerging web3 use case gives the term new meaning as an invisible algorithmic force, quietly crunching numbers and keeping up with the day-to-day data of asset pricing.&nbsp;</p><p><a href=\"https://pyth.network/\" rel=\"noopener noreferrer\" target=\"_blank\">Pyth Network</a>, a high-frequency oracle built using Solana ecosystem technology, presents a compelling use case in data sharing for decentralized finance (DeFi), offering products like real-time price feeds and benchmarks to be used by a host of financial service providers. Its ecosystem is a thriving community hub where users can leverage information contributed by vetted data providers, become providers themselves, or simply access desired statistics from the network. And not only is Pyth Network enabling near-instant, open-source data at your fingertips, but it is growing the concept of a self-sustaining, crowdsourced DeFi resource powered by onchain governance and user participation.</p><p>If all this activity sounds, well, fast — it is. As Yaser Jazouane, head of product at Douro Labs, puts it, a blockchain oracle is less about a wizard’s clairvoyance and more about the precision of deep, real-time computer analytics, which is only possible on a high-throughput, low-latency blockchain like Solana.&nbsp;</p><p>In DeFi, the Pyth Network’s role is crucial: It aggregates diverse data points in order to sync on the most accurate price for any given asset. Without oracles, decentralized exchanges and other DeFi protocols would have no consensus, says Jazouane.</p><p>“There's no global, universal truth in the world for what any asset is worth,” he explained, adding that “data-driven solutions must come to a consensus about what is the most prevalent price out there&nbsp;— that's what makes an oracle.\"</p><p>That’s where Pythnet comes in. Oracles like the Pyth Network aggregate “many, many views around the price,” in order to provide decentralized applications (dApps) with the most universally agreed-upon information possible.</p><h2>How a Solana Permissioned Environment (SPE) empowers Pythnet</h2><p>Pythnet is a <a href=\"https://solana.com/solutions/solana-permissioned-environments\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Permissioned Environment (SPE)</a>, a specialized Solana appchain environment designed for custom uses. This flexibility allows for the creation of a permissioned — or as Jazouane prefers to call it, a \"governed\" network — where access is permissionless yet managed through the use of tokens.&nbsp;</p><p>Pythnet's main job is to gather different prices and combine them into one reliable price for each item it tracks. To do this, it actively delivers real-time market data that <a href=\"https://pyth.network/price-feeds\" rel=\"noopener noreferrer\" target=\"_blank\">anyone can track</a>, encompassing 292 feeds in cryptocurrencies, 68 in equities, 16 in foreign exchange, two in commodities, and eight in fixed income/rates at the time of publication. It distributes this data across more than 45 blockchains, enhancing a wide range of DeFi ecosystems.&nbsp;</p><p>Over 90 major market players contribute to Pythnet, ensuring that over 269 applications, like perpetuals and lending protocols, receive secure, accurate and reliable data.</p><p>According to Jazouane, the choice of a Solana permissioned environment for Pythnet was influenced by several factors:</p><ul><li>Solana’s fast block time — the chain creates blocks every 400 milliseconds — allows Pythnet to produce high-frequency price updates.</li><li>A culture of collective, collaborative expertise found within Solana’s developer community.</li><li>Flexibility and control provided by the Solana protocol, especially in terms of gas configuration and the cost of deploying applications to ensure focus and security for its intended use.</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-411c0dc9f7944ee194bdbac2dea0f9f4",
+                "meta": {
+                  "previousId": "builder-3ae61e2059fc44b9aada9f650221ea4c",
+                  "localizedTextInputs": [
+                    "quote"
+                  ]
+                },
+                "component": {
+                  "name": "Rich Text Quote",
+                  "options": {
+                    "author": {
+                      "name": "Yaser Jazouane",
+                      "role": {
+                        "@type": "@builder.io/core:LocalizedValue",
+                        "Default": "HEAD OF PRODUCT"
+                      },
+                      "company": {
+                        "@type": "@builder.io/core:LocalizedValue",
+                        "Default": "Douro Labs"
+                      }
+                    },
+                    "quote": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Solana has a block time that basically produces blocks every 400 milliseconds. Pyth also produces prices every 400 milliseconds. This feature of Solana is perfect for a high-throughput data use case like Pyth. This is one of the reasons why the marriage made sense.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-59a0c99f0f19467e8d95e29917dde9e6",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Known for its high scalability, rapid transaction speeds, and low fees, the Solana protocol provides an ideal foundation for Pythnet. Like the Solana blockchain, Pythnet is designed to update very quickly with almost no delay. Pyth’s oracle services enhance Solana's ecosystem by providing the rapid-fire data that allows for seamless communication between different blockchains — a critical feature for a decentralized, multi-chain future.</p><p>From its inception, Pythnet has always been developed in close alignment with the Solana ecosystem, says Jazouane. The initial version of Pyth, which is still operational, was built directly on Solana. Pyth Network’s primary target for sharing this data is high-throughput trading applications, which require the capacity for demand require capabilities for high-frequency data exchange trading and lightning-fast transaction rates. Thankfully, says Jazouane, Solana was designed to deliver low latency, high throughput, and optimal block rates, making it well-suited for these kinds of demanding applications.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-20374ce5b8304eb2a9dc497282d750af",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbdb2d7b7c1f24f439542e729e8638217?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.303,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 378,
+                    "width": 1248
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-b04f214236584436b7c8830ec5f988c0",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>A customized, trusted validator set</h2><p>As an SPE, Pythnet can be customized to its own specific parameters — including a validator set optimized for oracles. Pythnet is a proof-of-authority (PoA) network, in which a select group of validators known for their reliability and strong reputation are responsible for verifying and approving transactions. This approach streamlines the transaction process for Pythnet’s needs.</p><p>The Pythnet oracle is managed by the Pyth DAO, a decentralized organization governed through tokens, which makes sure only certain vetted groups can update prices. Once publishers are admitted, they are provided with Pythnet’s native token (PGAS) to perform their functions. PGAS is used as the token for transaction fees within the Pythnet environment. It acts as a gating factor, ensuring that only authorized publishers and validators can participate in the network.&nbsp;The token is considered valueless outside its specific use within Pythnet, emphasizing its role as a control mechanism rather than a tradable asset.</p><p>PoA environments are useful for protocols who want to use blockchain without everyone seeing their information. In the Pyth Network, only permissioned publishers can publish data, but anyone can read and utilize.</p><h2>The benefits of Solana Permissioned Environments (SPEs)</h2><p>The key advantage of SPEs lies in their ability to provide customizable, governable blockchain environments using Solana Virtual Machine (SVM) architecture.&nbsp;They are ideally suited for specific applications that demand customizable environments.</p><p>While Pyth operates on both Solana mainnet and Pythnet, it also retains the ability to transfer prices constructed on Pythnet to over 45 other blockchains — a function that is only possible from a high-performance mainnet such as Solana. This cross-chain capability is crucial for wider accessibility and usability of the data Pyth provides.</p><p>Utilizing an SPE model, Pyth can enable new uses for financial data sharing:</p><ul><li>Distributed: Pythnet presents a new, fully crowdsourced and transparent oracle system.</li><li>High-frequency updates: Traditional oracles didn’t update fast enough for many financial applications, leading to inaccuracies and vulnerabilities. Pyth offers low-latency, high-frequency price feeds, a feature that requires a high-throughput blockchain like Solana to operate effectively and deliver real-time data.</li><li>Coverage and availability: Developers have often lacked access to necessary price feeds for their specific blockchain, limiting the development of financial services. Solana's versatile environment supports a wide range of applications with the ability to integrate with Pyth data, such as exchanges, lending platforms, and analytics tools.</li><li>Sourcing and quality: Previous data sources were opaque, often aggregated from third-party sources, undermining trust and accountability. Pythnet sources from multiple data publishers for each product, thereby enhancing the accuracy and robustness of its system. Meanwhile, Solana's decentralized infrastructure invites various publishers to submit pricing information securely and reliably. This combined decentralized approach helps in reducing the risk of manipulation or single points of failure.</li><li>Transparency: Solana's permissionless environment aligns with Pyth's ethos of open access, allowing developers to integrate with Pyth data seamlessly and without barriers. Pyth data from <a href=\"https://pyth.network/price-feeds\" rel=\"noopener noreferrer\" target=\"_blank\">Price Feeds</a> can be <a href=\"https://pyth.network/price-feeds\" rel=\"noopener noreferrer\" target=\"_blank\">viewed online.</a>&nbsp;</li><li>Gas efficiency: Pyth’s Pull Oracle architecture is highly gas efficient, as users only pay for the prices they request. Solana's low-cost transaction environment complements this design, making it cost-effective for users to access data.</li></ul><p>It's important to note that SPEs operate separately from the Solana mainnet, which means they do not inherently benefit from interoperability with the broader Solana ecosystem. Bridging SPEs to the mainnet is possible through the use of a bridge called <a href=\"https://wormhole.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Wormhole</a>.</p><p>\"We don't bridge currently back and forth between the two [Pythnet and mainnet] because there is no need,\" Jazoune said, explaining that two versions run in parallel. \"We are bridging out from the appchain to other blockchains through the Wormhole bridge.”</p><p>According to Jazouane, the Wormhole bridge helps Pyth access as many as 45 other blockchains.&nbsp;</p><p>“This is the power of [a permissioned environment] is connected to other blockchain worlds through bridging,” said Jazouane.&nbsp;</p><p>The strategy, he says, allows Pythnet to operate directly within the Solana protocol’s high-throughput ecosystem while still participating in a broader multichain industry.</p><h2>Enabling multichain DeFi application&nbsp;</h2>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-4333a58a4bc74b31a5f1a515f421340e",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4fdefbff22014a6cb27c74e7829a4806?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.705,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1409,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-0f8d1bd0234443a2a360a034c7fcc827",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>The integration of Solana and Pyth has enabled various applications in DeFi. Platforms like Synthetix utilize Pyth's high-fidelity data for efficient and accurate trading operations, along with a number of traditional financial institutions. These applications highlight the practical benefits of combining Solana's high-speed blockchain with Pyth's reliable data feeds, which are updated by members every day.</p><p>Pythnet is just one use case of Solana Permissioned Environments. Enterprises curious to know more about whether an SPE would fit their needs are encouraged to consult with the Solana Foundation to learn more.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-562018d677104aef8f7d1026e9c6dde5",
+            "component": {
+              "name": "Conversion Panel",
+              "options": {
+                "heading": "Solana Permissioned Environments are a new solution for businesses using Solana.",
+                "body": "Want to learn more? Get in touch.",
+                "buttons": [
+                  {
+                    "label": "Contact us",
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "url": "https://solanafoundation.typeform.com/to/EVODonPw",
+                    "startIcon": "none",
+                    "endIcon": "arrow-up-right"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9ec50c2f273466595d152d6b80e6cce",
+  "lastUpdated": 1722456216740,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_4a715baeab2e4643a5ed49519d919d69",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1703093738803,
+  "@originId": "4a715baeab2e4643a5ed49519d919d69",
+  "testRatio": 1,
+  "createdDate": 1703088295655,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "http://localhost:3000/news/case-study-pyth?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2CeditLayouts%2CeditLayers&builder.user.role.name=Developer&builder.user.role.id=developer&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_4a715baeab2e4643a5ed49519d919d69&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_4a715baeab2e4643a5ed49519d919d69=983ae1dad0ba4ca4ac6dd4ac310edee1_4a715baeab2e4643a5ed49519d919d69&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Rich Text Quote": 1,
+      "Conversion Panel": 1,
+      "Copy": 5,
+      "Content Editor": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: Pyth",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

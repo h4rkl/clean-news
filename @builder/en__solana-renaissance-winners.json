@@ -1,0 +1,566 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-renaissance-winners",
+  "data": {
+    "datePublished": 1715000400452,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F80d1536956214a739d96023b02c066a4",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2e24167937a34dca9e0254b881c629dc"
+    },
+    "intro": "More than 1,000 projects were submitted from 95 countries.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F80d1536956214a739d96023b02c066a4",
+      "seoDescription": "More than 1,000 projects were submitted from 95 countries.",
+      "seoTitle": "Meet the Winners of the Solana Renaissance Hackathon"
+    },
+    "title": "Meet the Winners of Solana Renaissance",
+    "slug": "solana-renaissance-winners",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bec3d03a15a94e16b13707bd0f0163b2"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-cf3c347c1c0a4ea9bcf4a5b6fe69778b",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5b0e521351694883aaf2fa5d5262b660",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><em>This post was originally published by </em><a href=\"https://blog.colosseum.org/announcing-the-winners-of-the-solana-renaissance-hackathon/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Colosseum</em></a><em>.</em></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6f2abd81c6ae46c9a7226324dcbc0246",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-19697aee583d445d9b0130286c1c91a0",
+                        "meta": {
+                          "previousId": "builder-422d9c00565245a088fe134f4868f335"
+                        },
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<p>Colosseum is thrilled to announce the results of the Solana Renaissance Hackathon, a global online competition focused on bringing the next wave of high-impact projects into the Solana ecosystem. Renaissance was the 9th Solana Foundation hackathon, bringing together founders and developers from 95+ countries to build products spanning Infrastructure, Gaming, DePIN, DAOs, DeFi, and a long-tail of Consumer Applications.</p><p><a href=\"https://arena.colosseum.org/projects/explore\" rel=\"noopener noreferrer\" target=\"_blank\">More than 8,300 participants from 95 countries teamed up to submit 1,071 final projects</a> to the judges, making Renaissance the largest online Solana hackathon to date. Symmetry, Phantom, IO.NET, Pyth, Orca, Solana Mobile, Squads, and Brave joined the Solana Foundation as sponsors for the hackathon, offering a platform for crypto founders to jumpstart their journey.</p><p>“Solana Hackathons are the epicenter of startup formation in the ecosystem, and Renaissance was no exception,\" said Dan Albert, Executive Director of the Solana Foundation. \"A new wave of highly talented developers and founders are now building promising products that will continue to take crypto into mainstream adoption.\"</p><p>Without further ado, here are the winners…</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "auto",
+                            "marginBottom": "auto"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-d607dbab2adf44fcb497db9e8196e308",
+                        "meta": {
+                          "previousId": "builder-db88fc1b831f422581f6fb807582f750"
+                        },
+                        "component": {
+                          "name": "Embed",
+                          "options": {
+                            "url": "https://twitter.com/ColosseumOrg/status/1787468985929212264",
+                            "content": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" align=\"center\"><p lang=\"en\" dir=\"ltr\">Colosseum is thrilled to announce the winners of the <a href=\"https://twitter.com/solana?ref_src=twsrc%5Etfw\">@Solana</a> Renaissance Hackathon!🎨<br><br>Read about the winners &amp; honorable mentions: <a href=\"https://t.co/mizYCSEeiv\">https://t.co/mizYCSEeiv</a><br><br>Winners accepted into the accelerator program will be announced in the coming days.<br><br>Stay tuned &amp; congrats to the winners! <a href=\"https://t.co/V8SSzFgJDi\">pic.twitter.com/V8SSzFgJDi</a></p>&mdash; Colosseum (@ColosseumOrg) <a href=\"https://twitter.com/ColosseumOrg/status/1787468985929212264?ref_src=twsrc%5Etfw\">May 6, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "auto",
+                            "marginBottom": "auto"
+                          },
+                          "small": {
+                            "paddingBottom": "20px"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-83ffbc1e6c264d01862fea95e4f7de5a",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Grand Champion</h2><p><a href=\"https://arena.colosseum.org/projects/explore/372\" rel=\"noopener noreferrer\" target=\"_blank\">Ore</a>, a new digital currency that enables anyone to mine using a novel proof-of-work algorithm on the Solana blockchain, received the Grand Prize of $50,000 USDC, along with passes to attend Breakpoint 2024 in Singapore, Sept. 19-21.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-be002a05484b4f6892841fb2ca0cd58b",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.loom.com/share/f41b35eed21944eab62acb6b545beafd",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 64.9471%;\"><iframe src=\"https://www.loom.com/embed/f41b35eed21944eab62acb6b545beafd\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"encrypted-media;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "pointerEvents": "auto",
+                "marginBottom": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-62c9574a2d78413190d4d7f2c83a614b",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Consumer Apps Track</h2><p>The first prize goes to <a href=\"https://arena.colosseum.org/projects/explore/663\" rel=\"noopener noreferrer\" target=\"_blank\">Banger.lol</a>, a marketplace for trading tweets and supporting creators, with an award of $30,000 in USDC.&nbsp;</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://arena.colosseum.org/projects/explore/293\" rel=\"noopener noreferrer\" target=\"_blank\">Wootz Browser</a>, a crypto-enabled browser that pays users for helping generative AI.&nbsp;</li><li>Third: <a href=\"https://arena.colosseum.org/projects/explore/223\" rel=\"noopener noreferrer\" target=\"_blank\">Chomp</a>, a gamified social consensus platform that provides best-in-class insights.</li><li>Fourth: <a href=\"https://arena.colosseum.org/projects/explore/717\" rel=\"noopener noreferrer\" target=\"_blank\">Movement</a>, a new trading app built to assist users efficiently discover and exchange memecoins.</li><li>Fifth: <a href=\"https://arena.colosseum.org/projects/explore/153\" rel=\"noopener noreferrer\" target=\"_blank\">DePlan</a>, a pay-as-you-go solution that gives end users better payment options.</li></ul><p>Although they did not win any prizes, we would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://arena.colosseum.org/projects/explore/910\" rel=\"noopener noreferrer\" target=\"_blank\">Fastmind</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/988\" rel=\"noopener noreferrer\" target=\"_blank\">Aloy</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1108\" rel=\"noopener noreferrer\" target=\"_blank\">Unruggable</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1132\" rel=\"noopener noreferrer\" target=\"_blank\">Let's Cook</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/899\" rel=\"noopener noreferrer\" target=\"_blank\">SyncLink</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/165\" rel=\"noopener noreferrer\" target=\"_blank\">Oridion</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/639\" rel=\"noopener noreferrer\" target=\"_blank\">WearTre</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1051\" rel=\"noopener noreferrer\" target=\"_blank\">K3N</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/619\" rel=\"noopener noreferrer\" target=\"_blank\">Trekn</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/728\" rel=\"noopener noreferrer\" target=\"_blank\">Gcaller</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e972604b86a146cfacb173b1af6d2686",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Crypto Infrastructure Track</h2><p>The first prize goes to <a href=\"https://arena.colosseum.org/projects/explore/550\" rel=\"noopener noreferrer\" target=\"_blank\">High TPS Solana Client</a>, a new client that utilizes efficient scheduling and pipeline optimizations to improve transaction capacity and increase block reward yields, with an award of $30,000 in USDC.</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://arena.colosseum.org/projects/explore/855\" rel=\"noopener noreferrer\" target=\"_blank\">Torque</a>, an onchain offers protocol for builders and dApps to deploy marketing strategies.</li><li>Third: <a href=\"https://arena.colosseum.org/projects/explore/443\" rel=\"noopener noreferrer\" target=\"_blank\">xCrow</a>, a platform for accelerating developers working with Solana's escrow programs.&nbsp;</li><li>Fourth: <a href=\"https://arena.colosseum.org/projects/explore/330\" rel=\"noopener noreferrer\" target=\"_blank\">Cambrian</a>, a restaking platform building a new economic coordination layer on Solana.</li><li>Fifth: <a href=\"https://arena.colosseum.org/projects/explore/923\" rel=\"noopener noreferrer\" target=\"_blank\">Merit</a>, a full-scale on-chain points as tokens protocol.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://arena.colosseum.org/projects/explore/1061\" rel=\"noopener noreferrer\" target=\"_blank\">GeckoFuzz</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/617\" rel=\"noopener noreferrer\" target=\"_blank\">Icedancer</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/81\" rel=\"noopener noreferrer\" target=\"_blank\">Epoch</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1110\" rel=\"noopener noreferrer\" target=\"_blank\">Flowgate</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/941\" rel=\"noopener noreferrer\" target=\"_blank\">Egeria Lite</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1121\" rel=\"noopener noreferrer\" target=\"_blank\">Atom Network</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/349\" rel=\"noopener noreferrer\" target=\"_blank\">SolanAIzer</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4a42c59c2ba541908a224d99db58ad4f",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Gaming Track</h2><p>The first prize goes to <a href=\"https://arena.colosseum.org/projects/explore/577\" rel=\"noopener noreferrer\" target=\"_blank\">Meshmap+City Champ</a>, a new 3D mapping network integrated through a game that generates 3D scans incentivized by token rewards, with an award of $30,000 in USDC.&nbsp;</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://arena.colosseum.org/projects/explore/903\" rel=\"noopener noreferrer\" target=\"_blank\">Legends of the Sun</a>, an old school combat battle arena where players can go up against up to 5 friends or foes for rewards</li><li>Third: <a href=\"https://arena.colosseum.org/projects/explore/884\" rel=\"noopener noreferrer\" target=\"_blank\">Mining Badger Game</a>, an onchain crafting game using Honeycomb Protocol, that game developers can integrate into their own unique experiences.</li><li>Fourth: <a href=\"https://arena.colosseum.org/projects/explore/880\" rel=\"noopener noreferrer\" target=\"_blank\">Moon Boi Universe</a>, a web3 cyber-fantasy, open-world RPG optimized for mobile.</li><li>Fifth: <a href=\"https://arena.colosseum.org/projects/explore/187\" rel=\"noopener noreferrer\" target=\"_blank\">Maneko Pet</a>, a simple and fun Tamagotchi-style mobile game, complete with a built-in game launcher.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://arena.colosseum.org/projects/explore/939\" rel=\"noopener noreferrer\" target=\"_blank\">LePoker</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/421\" rel=\"noopener noreferrer\" target=\"_blank\">Blockpal</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1060\" rel=\"noopener noreferrer\" target=\"_blank\">Ascend</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/222\" rel=\"noopener noreferrer\" target=\"_blank\">JogoJogo</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/731\" rel=\"noopener noreferrer\" target=\"_blank\">Seternia Realms</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-245248e48e934050b2177f44f09caa3b",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>DeFi &amp; Payments Track</h2><p>The first prize goes to <a href=\"https://arena.colosseum.org/projects/explore/159\" rel=\"noopener noreferrer\" target=\"_blank\">Urani</a>, an intent-based swap aggregator bringing protection against toxic MEV at the application layer, with an award of $30,000 in USDC.&nbsp;</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://arena.colosseum.org/projects/explore/374\" rel=\"noopener noreferrer\" target=\"_blank\">GLAM</a>, a decentralized on-chain asset management protocol on Solana</li><li>Third: <a href=\"https://arena.colosseum.org/projects/explore/829\" rel=\"noopener noreferrer\" target=\"_blank\">Nomad</a>, an Nigeria-based payment app that streamlines off ramping.</li><li>Fourth: <a href=\"https://arena.colosseum.org/projects/explore/587\" rel=\"noopener noreferrer\" target=\"_blank\">Ripe</a>, a QR-code enabled app that gives users the ability to pay across merchants in Southeast Asia.</li><li>Fifth: <a href=\"https://arena.colosseum.org/projects/explore/839\" rel=\"noopener noreferrer\" target=\"_blank\">Exponent</a>, a derivatives protocol for trading the yield of DeFi products on Solana.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://arena.colosseum.org/projects/explore/872\" rel=\"noopener noreferrer\" target=\"_blank\">Carrot</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/126\" rel=\"noopener noreferrer\" target=\"_blank\">RateX</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1087\" rel=\"noopener noreferrer\" target=\"_blank\">Arcana</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/976\" rel=\"noopener noreferrer\" target=\"_blank\">Bullbot</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1006\" rel=\"noopener noreferrer\" target=\"_blank\">RSRV</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1139\" rel=\"noopener noreferrer\" target=\"_blank\">Asgard</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/135\" rel=\"noopener noreferrer\" target=\"_blank\">Bestlend</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/180\" rel=\"noopener noreferrer\" target=\"_blank\">Hakifi</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1038\" rel=\"noopener noreferrer\" target=\"_blank\">Avici</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/414\" rel=\"noopener noreferrer\" target=\"_blank\">Poe</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/305\" rel=\"noopener noreferrer\" target=\"_blank\">Credible</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/865\" rel=\"noopener noreferrer\" target=\"_blank\">Mocha</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/485\" rel=\"noopener noreferrer\" target=\"_blank\">StonksBot</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/597\" rel=\"noopener noreferrer\" target=\"_blank\">Facto</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/224\" rel=\"noopener noreferrer\" target=\"_blank\">BlindPay</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/859\" rel=\"noopener noreferrer\" target=\"_blank\">Triad</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-afda6c79ae3b4a78a14b8b6141f88484",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>DePIN Track</h2><p>The first prize goes to <a href=\"https://arena.colosseum.org/projects/explore/226\" rel=\"noopener noreferrer\" target=\"_blank\">Blockmesh</a>, an open network that allows you to monetize your excess bandwidth, with an award of $30,000 in USDC.&nbsp;</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://arena.colosseum.org/projects/explore/563\" rel=\"noopener noreferrer\" target=\"_blank\">DeCharge</a>, an EV charging network offering globally compatible hardware for affordable access.</li><li>Third: <a href=\"https://arena.colosseum.org/projects/explore/1166\" rel=\"noopener noreferrer\" target=\"_blank\">dBunker</a>, a DePIN Financial Derivatives Platform with an open ecosystem designed to solve the challenges of broader user participation in DePIN projects.</li><li>Fourth: <a href=\"https://arena.colosseum.org/projects/explore/1092\" rel=\"noopener noreferrer\" target=\"_blank\">CHRO+</a>, a decentralized health network to accelerate breakthroughs in predictive, preventive and personalized medicine</li><li>Fifth: <a href=\"https://arena.colosseum.org/projects/explore/248\" rel=\"noopener noreferrer\" target=\"_blank\">Pomerene</a>, a DePIN for international trade with pallet tracking.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize the work of the following honorable mention:</p><ul><li><a href=\"https://arena.colosseum.org/projects/explore/688\" rel=\"noopener noreferrer\" target=\"_blank\">Repl</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/114\" rel=\"noopener noreferrer\" target=\"_blank\">Cudis</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/32\" rel=\"noopener noreferrer\" target=\"_blank\">BloomSkyX</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1013\" rel=\"noopener noreferrer\" target=\"_blank\">Soltera</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/340\" rel=\"noopener noreferrer\" target=\"_blank\">SkyTrade</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/834\" rel=\"noopener noreferrer\" target=\"_blank\">Blockride</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/615\" rel=\"noopener noreferrer\" target=\"_blank\">Hajime AI</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-76fa2537629a40f7b83b93fda72dbb53",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>DAOs &amp; Communities Track</h2><p>The first prize goes to <a href=\"https://arena.colosseum.org/projects/explore/1155\" rel=\"noopener noreferrer\" target=\"_blank\">DeTask</a>, an AI-enabled product development platform leveraging DAO labor, with an award of $30,000 in USDC.</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://arena.colosseum.org/projects/explore/993\" rel=\"noopener noreferrer\" target=\"_blank\">DeStreet</a>, a non-custodial dApp built on Solana Mobile that enables communities to trade together.</li><li>Third: <a href=\"https://arena.colosseum.org/projects/explore/1005\" rel=\"noopener noreferrer\" target=\"_blank\">TokenGator</a>, a platform for managing dynamic NFT collections.</li><li>Fourth: <a href=\"https://arena.colosseum.org/projects/explore/689\" rel=\"noopener noreferrer\" target=\"_blank\">Maindocs</a>, a platform that lets dapps, institutions, and DAOs create fully customisable and verifiable financial documents.</li><li>Fifth: <a href=\"https://arena.colosseum.org/projects/explore/950\" rel=\"noopener noreferrer\" target=\"_blank\">Quadratus Protocol</a>, a fully on-chain DAO Governance model, powered through quadratic voting.&nbsp;</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions</p><ul><li><a href=\"https://arena.colosseum.org/projects/explore/1179\" rel=\"noopener noreferrer\" target=\"_blank\">xFriends</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/503\" rel=\"noopener noreferrer\" target=\"_blank\">SolanaHub</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/715\" rel=\"noopener noreferrer\" target=\"_blank\">Valhalla</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/841\" rel=\"noopener noreferrer\" target=\"_blank\">MMOSH</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/558\" rel=\"noopener noreferrer\" target=\"_blank\">Poirot</a></li><li><a href=\"https://arena.colosseum.org/projects/explore/1016\" rel=\"noopener noreferrer\" target=\"_blank\">Syncvote</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d6f39c0b758f4fd9aaf625112440f72f",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>University Award</h2><p>The University Award, which recognizes excellence from a project led by university students, goes to <a href=\"https://arena.colosseum.org/projects/explore/1085\" rel=\"noopener noreferrer\" target=\"_blank\">DeVolt</a>, receiving a $10,000 USDC prize for the project.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-85c9ad8754694ea7a9602c10355b639a",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Public Goods Award</h2><p>The Public Goods Award, which recognizes an open-source project that benefits developers across the Solana ecosystem, goes to <a href=\"https://arena.colosseum.org/projects/explore/968\" rel=\"noopener noreferrer\" target=\"_blank\">Zircon</a>, receiving a $10,000 USDC prize.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b26c8a4fa6cd40f18c328984baea780b",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Climate Award</h2><p>The Climate Award, recognizing projects that are built with climate change and sustainability in mind, goes to <a href=\"https://arena.colosseum.org/projects/explore/377\" rel=\"noopener noreferrer\" target=\"_blank\">AquaSave</a>, receiving a USDC prize of $10,000.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b65e9556db394f689c983f251a417ed1",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><em>Thanks again to all the participants, the judges who reviewed projects, and the sponsors from across the ecosystem. But most of all, congratulations to all the winners!</em></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-40f73fb7fcb4428eae9a614c389e7bd6",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6f06a56d80f54950a0045a7b8dd6e7ef",
+            "meta": {
+              "previousId": "builder-94bb68afefb64fee95700bc354ac6c74"
+            },
+            "component": {
+              "name": "Heading",
+              "options": {
+                "eyebrow": "",
+                "headline": "Learn from Solana Developers",
+                "body": "",
+                "variant": "standard"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "-90px"
+              },
+              "medium": {
+                "marginBottom": "-45px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8665e9aa01304c7ba6bf17697b3b7356",
+            "meta": {
+              "previousId": "builder-d859d6ed10ea4df8be20bcfeeeefb904"
+            },
+            "component": {
+              "name": "Card Deck",
+              "options": {
+                "cards": [
+                  {
+                    "type": "image",
+                    "heading": "Intro to Solana Development",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Development Course",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://www.soldev.app/course",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Bootcamp",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "More Solana Developer Tools",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  }
+                ],
+                "featured": true,
+                "numCols": 3
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb1537210049a4f5aa098333da53631fb",
+  "lastUpdated": 1715002873901,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_1e93030834d048b3b1dcc3f244100b85",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1715002393212,
+  "@originId": "1e93030834d048b3b1dcc3f244100b85",
+  "testRatio": 1,
+  "createdDate": 1715001068636,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-renaissance-winners?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=1e93030834d048b3b1dcc3f244100b85&builder.overrides.1e93030834d048b3b1dcc3f244100b85=1e93030834d048b3b1dcc3f244100b85&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Heading": 1,
+      "Copy": 13,
+      "Section Molecule": 2
+    },
+    "hasLinks": false
+  },
+  "name": "Meet the Winners of Solana Renaissance",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

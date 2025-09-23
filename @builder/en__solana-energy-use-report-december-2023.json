@@ -1,0 +1,360 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-energy-use-report-december-2023",
+  "data": {
+    "datePublished": 1701867600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03c8141b13dd4e7da7687c3cb6869f09",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "The Solana Foundation announces the purchase of carbon offsets through ecoToken and Sunrise Stake.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03c8141b13dd4e7da7687c3cb6869f09",
+      "seoDescription": "The Solana Foundation announces the latest findings in its energy use report, as well as the purchase of carbon credits onchain.",
+      "seoTitle": "Solana's Energy Use Report: December 2023"
+    },
+    "title": "Solana network carbon neutral with onchain credits",
+    "slug": "solana-energy-use-report-december-2023",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5eb418bdd493453f837c77bd06fbeaaa"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-2f2b5072662545ad954519658aaaa09e",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d7dae79f52fa45489bb1322dac6f0929",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Since the <a href=\"https://solana.com/news/solana-energy-usage-report-november-2021\" rel=\"noopener noreferrer\" target=\"_blank\">first energy use report</a> in November 2021, the Solana Foundation has pledged to regularly measure and publish the carbon footprint of the network and make the network carbon neutral via offsets.&nbsp;</p><p>Today, the Solana Foundation is pleased to announce that for the first time, the Solana Foundation has offset the 100% network’s carbon footprint by purchasing carbon offsets entirely onchain.&nbsp;Additionally, as of March 2023, the network’s carbon footprint is tracked in real time at SolanaClimate.com.</p><p>Key takeaways of the December 2023 energy use report:&nbsp;</p><ul><li>The Solana blockchain’s carbon footprint totalled 4,392.9 tCO2 over the six month period from April 1, 2023 - Sept. 30, 2023, annualized to 8,785.8 tCO2.&nbsp;</li><li>Solana energy use per transaction has declined by 25% since the last energy use update and total emissions decreased by 17.5%.&nbsp;</li><li>In keeping with its commitment to keep the Solana network carbon neutral, the Solana Foundation purchased 10,901.2 tons of carbon credits to offset the network’s 2022 carbon footprint. For the first time ever, these credits were purchased entirely on chain and were made via <a href=\"https://ecotoken.earth/\" rel=\"noopener noreferrer\" target=\"_blank\">ecoToken</a> and <a href=\"https://www.sunrisestake.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sunrise Stake</a>.&nbsp;&nbsp;</li></ul><p>Since the <a href=\"https://solana.com/news/announcing-real-time-emissions-measurement-on-the-solana-blockchain\" rel=\"noopener noreferrer\" target=\"_blank\">last update on energy use and emissions from the Solana Foundation</a> (the period between April 1, 2023-Sept. 30, 2023), the Solana blockchain generated 4,392.9 tons of Total Average Carbon Emission (tCO2e), an average of 732.2 tCO2 per month. The update before this covered a year-long period (April 1 2022-March 31, 2023) that included 10,651.2 tCO2e, for an average of 887.6 tCO2 per month. This indicates a decrease in carbon emissions per month in the period since the March 2023 energy use report. This decrease in emissions is due to a decrease in energy use per transaction of 25%, from 0.879k J to 0.658k J.&nbsp;</p><p>The Solana Foundation purchased offsets for 100% of carbon emissions from the Solana blockchain for the 2022 calendar year, a total of 10,901.2 tons of carbon as calculated through real-time monitoring from <a href=\"https://www.trycarbonara.com/\" rel=\"noopener noreferrer\" target=\"_blank\">TryCarbonara</a>, via embedded software directly on nodes within the Solana blockchain. The Solana Foundation also commits to offsetting the network’s 2023 carbon footprint once the year is complete, in keeping with the Foundation’s commitment to keep Solana carbon neutral.&nbsp;</p><p>This purchase of carbon offset credits was from two organizations:&nbsp;</p><ul><li>5,000 tons of carbon offset credits from <a href=\"https://app.ecotoken.earth/about-us\" rel=\"noopener noreferrer\" target=\"_blank\">ecoToken</a> verified by <a href=\"https://www.regen.network/\" rel=\"noopener noreferrer\" target=\"_blank\">Regen Network</a>, and 5,902 tons of carbon offset credits from <a href=\"https://www.sunrisestake.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sunrise Stake</a>, enabled by <a href=\"https://toucan.earth/\" rel=\"noopener noreferrer\" target=\"_blank\">Toucan Protocol</a>.&nbsp;</li><li>The ecoToken purchase is split between different types of credits and projects: <a href=\"https://www.cityforestcredits.org/carbon-credits/carbon-protocols/\" rel=\"noopener noreferrer\" target=\"_blank\">City Forest credits in the United States</a>, and <a href=\"https://app.ecotoken.earth/projects/REDD\" rel=\"noopener noreferrer\" target=\"_blank\">REDD+ credits in Colombia, at the Mataven Forest Unified Indigenous Reserve Project</a>. ecoToken carbon offset credits are independently verified by third-parties, and involve both preservation of existing forests, and planting of new trees or reforesting depleted areas.&nbsp;</li><li>The <a href=\"https://www.sunrisestake.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sunrise Stake</a> purchase was completed onchain through a dedicated \"Offset Bridge\" built by Sunrise Stake to buy and retire Toucan NCT, a nature-based carbon token. The offset bridge allows USDC on Solana to be bridged to chains supported by Toucan, and allows the retirement certificates to be bridged back to Solana in the form of a Retirement NFT, that contains details of the total carbon retired. For this purchase, verified REDD credits go towards funding the <a href=\"https://registry.verra.org/app/projectDetail/VCS/674\" rel=\"noopener noreferrer\" target=\"_blank\">Rimba Raya Biodiversity Reserve Project, which preserves tropical peat swamp forest in Indonesia</a>.</li></ul><p>The <a href=\"https://solanaclimate.com/\" rel=\"noopener noreferrer\" target=\"_blank\">carbon emissions tracker</a> at SolanaClimate.com was developed in collaboration with TryCarbonara, a carbon data platform, and embeds software directly on Solana nodes to provide the most comprehensive and accurate measurement of the blockchain’s footprint to date.&nbsp;</p><p>Below is an estimate of the network’s carbon emissions in the past 6 months since the previous <a href=\"https://solana.com/news/announcing-real-time-emissions-measurement-on-the-solana-blockchain\" rel=\"noopener noreferrer\" target=\"_blank\">blog post on the network’s emissions </a>(April 1, 2023-Sept. 30, 2023):</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9822db51d8404502adb11607b99d0e3d",
+            "component": {
+              "name": "Feature Highlight",
+              "options": {
+                "eyebrow": "",
+                "headline": "Updated Solana network energy use numbers, December 2023",
+                "body": "",
+                "cards": [
+                  {
+                    "feature": "",
+                    "body": "",
+                    "stat": {
+                      "stat": "0.658k J",
+                      "description": "Energy use per transaction (voting + non-voting transactions)"
+                    }
+                  },
+                  {
+                    "feature": "",
+                    "body": "",
+                    "stat": {
+                      "stat": "4,392.9 tCO2e",
+                      "description": "Total carbon footprint (average emissions, 6 month period)"
+                    }
+                  },
+                  {
+                    "feature": "",
+                    "body": "",
+                    "stat": {
+                      "stat": "8,785.8 tCO2e",
+                      "description": "Total carbon footprint (average emissions, annualized)"
+                    }
+                  },
+                  {
+                    "feature": "",
+                    "body": "",
+                    "stat": {
+                      "stat": "4451",
+                      "description": "Total number of nodes (validators and RPC nodes) [1]"
+                    }
+                  },
+                  {
+                    "feature": "",
+                    "body": "",
+                    "stat": {
+                      "stat": "10,830.50 MWh",
+                      "description": "Total energy consumption, MWh"
+                    }
+                  }
+                ],
+                "color": "green"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-07e0f18dcf234769aca15293dd90bd83",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>To put this annualized number in perspective, it’s a similar amount of carbon generated from powering 5,685 American homes for a year. It’s also a fraction of the carbon emissions generated by major international companies — for example, 2% of the carbon emissions generated by Spotify. [2]</p><p>This measurement dynamically changes based on the throughput of individual validators, when they’re online and offline and changes in the validator network over time.This data includes:</p><ul><li>Emissions measurement of RPC nodes via instrumentation of the underlying hardware</li><li>Emissions granularity at the server level incorporating geolocation of validator and RPC nodes</li><li>Marginal (or consequential) emissions based on the incremental emissions impact of new demand as it relates to the overall distribution of grid supply. This framework can be useful when gauging the environmental impact of changes and optimizations to energy consumption and accounts for the renewable energy mix of different sources of electricity.&nbsp;</li><li>Embodied emissions based on the manufacturing, transportation, and end-of-life management of the hardware infrastructure of the Solana Network.</li><li>Power Usage Effectiveness (PUE), which describes the overall efficiency of a data center.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c37f47a76ead4c359a390a76ffc43c2f",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a39a5cfa6ee4ce1ac85ccd02364f485?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "height": 1080,
+                "width": 1920,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a39a5cfa6ee4ce1ac85ccd02364f485?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a39a5cfa6ee4ce1ac85ccd02364f485?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a39a5cfa6ee4ce1ac85ccd02364f485?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a39a5cfa6ee4ce1ac85ccd02364f485?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a39a5cfa6ee4ce1ac85ccd02364f485?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a39a5cfa6ee4ce1ac85ccd02364f485?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a39a5cfa6ee4ce1ac85ccd02364f485?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a39a5cfa6ee4ce1ac85ccd02364f485?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a39a5cfa6ee4ce1ac85ccd02364f485?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a39a5cfa6ee4ce1ac85ccd02364f485?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-eeb906aa62364aa1aa92d4cc2f0c7c96",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\t<em>Source: </em><a href=\"https://solanaclimate.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>https://solanaclimate.com/</em></a><em>&nbsp;</em></p><p>The data set is detail-rich, open, and free to use, making it possible to scrutinize the sources of network emissions down to the validator level. For more info on this dataset and possible uses and points of comparison, check our <a href=\"https://solana.com/news/announcing-real-time-emissions-measurement-on-the-solana-blockchain\" rel=\"noopener noreferrer\" target=\"_blank\">original announcement of real time carbon emissions</a>.&nbsp;</p><p>We hope the Solana Foundation's efforts will inspire other blockchain networks and projects to take similar steps towards measuring their emissions and building a more regenerative onchain community. If you’re interested in engaging or learning about these efforts, email <a href=\"mailto:climate@solana.org\" rel=\"noopener noreferrer\">climate@solana.org</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b2bcbaf22ef8412a8c312e7b8264f41e",
+            "meta": {
+              "previousId": "builder-84e1cb9564ea45449c6d5ad1fc26584f"
+            },
+            "component": {
+              "name": "Conversion Panel",
+              "options": {
+                "variant": "inline-centered",
+                "heading": "Join the Community",
+                "body": "",
+                "buttons": [],
+                "logos": [],
+                "showLogos": false,
+                "listItems": [
+                  {
+                    "label": "Twitter",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://twitter.com/solana"
+                  },
+                  {
+                    "label": "LinkedIn",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://www.linkedin.com/company/solana-foundation/"
+                  },
+                  {
+                    "label": "Email",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://solana.com/newsletter"
+                  },
+                  {
+                    "label": "Telegram",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://t.me/solanaannouncements"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-de080537d06e42a9b7ed616b9f41e8ab",
+            "meta": {
+              "previousId": "builder-64047d5578174b58b9ec78293dccd501"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "-1px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-725cf9466fd44dc38dcac204f2854d96",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><strong>Footnotes</strong></p>\n<p>\n  <em\n    >1. TryCarbonara measures total node count by including all nodes that have\n    been active over a period of time, including RPC and block-producing nodes.\n    It is not a snapshot of the current number of live nodes. If a node has been\n    active for one month over the past 6, it will still be included as part of\n    the carbon footprint calculation. TryCarbonara uses this approach in order\n    to be as granular and holistic as possible in node count.&nbsp;</em\n  >\n</p>\n<p>\n  <em>2. Source: </em\n  ><a\n    href=\"https://www.lifeatspotify.com/diversity-equity-impact/climate-action\"\n    rel=\"noopener noreferrer\"\n    target=\"_blank\"\n    ><em>Spotify</em></a\n  ><em> (as of 11-15-2023)</em>\n</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0e4c368908fb4e81906ecefb2fab056f",
+  "lastUpdated": 1701871280770,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c6d10b9c2b404f9c95707650c28f1add",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1701871280726,
+  "@originId": "c6d10b9c2b404f9c95707650c28f1add",
+  "testRatio": 1,
+  "createdDate": 1701283535296,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-energy-use-report-december-2023?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=c6d10b9c2b404f9c95707650c28f1add&builder.overrides.c6d10b9c2b404f9c95707650c28f1add=c6d10b9c2b404f9c95707650c28f1add&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Conversion Panel": 1,
+      "Copy": 4,
+      "Feature Highlight": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Energy Use Report December 2023",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

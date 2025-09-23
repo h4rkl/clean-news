@@ -1,0 +1,249 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://staging.solana.com/news/rwas-libre-on-solana",
+  "data": {
+    "datePublished": 1721731500000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b4a739b155a44688a6f8daf06e7bf8a",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3ad1982cf7754c3daaefae9a66650284"
+    },
+    "intro": "",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b4a739b155a44688a6f8daf06e7bf8a",
+      "seoDescription": "Libre, Hamilton Lane, and Brevan Howard’s new fund on Solana is opening investments to all.",
+      "seoTitle": "Financial Inclusion for All: How RWAs and Funds on Solana are Democratizing Access"
+    },
+    "title": "Financial Inclusion for All: How RWAs and Funds on Solana are Democratizing Access",
+    "slug": "rwas-libre-on-solana",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a06f417c4cb24d50b4ca8ca34a2230a7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-8712cea4602846e380f15b2145d2469d",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-aa43d8e5cddb4189b9e6eeac93aae705",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline"
+              ]
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Learn more"
+                    },
+                    "url": "https://solana.com/solutions/real-world-assets",
+                    "endIcon": "none"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Solutions"
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Real World Assets on Solana"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "See how Solana enables the tokenization of RWAs, such as private credit investments, government bonds, physical goods, and more. "
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                }
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-4735692290e948e38623d54a16a70d2b",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong><em>Nick Ducoff is the Head of Institutional Growth at the Solana Foundation.</em></strong></p><p><strong>Institutional finance has long been locked away from the vast majority of investors. A focus on “high net worth” individuals has shut out many people — the minimum investment for accessing many hedge funds through </strong><a href=\"https://advisor.morganstanley.com/s.mark.alton/documents/field/a/al/alton-s-mark/HedgeFunds__an_Important_Alternative_for_Your_Asset_Allocation.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Morgan Stanley</strong></a><strong>, for example, is $250,000 USD. Some even require a minimum income of $300,000</strong></p><p><strong>Libre’s announcement of an onchain fund with Hamilton Lane and Brevan Howard – two stalwarts of alternative investments – is yet another revelation in the changing democratization of finance. Bringing real world assets onchain provides more flexibility and access to investors around the world.</strong></p><p><strong>Here’s how Libre is using Solana to make finance more accessible:</strong></p><ul><li><strong>No more “high net worth.” Libre has a minimum investment that’s a fraction of traditional hedge funds — $10,000.</strong></li><li><strong>Liquid flexibility. Investments in traditional funds are usually locked — you cannot withdraw until the end of the life of the fund or without significant penalties. Libre allows anyone to withdraw early for a modest fee. Furthermore, these assets will be able to be used as collateral in DeFi to borrow against.</strong></li><li><strong>Freedom from gatekeepers. Unlike traditional funds, which often require investment through a large financial advisor where you have to maintain a large financial relationship, any investor can join Libre.</strong></li></ul><h3><strong>Bring Real World Assets Onchain… on Solana</strong></h3><p><strong>Solana is becoming a consensus pick for onchain real world assets. Solana cofounder and Solana Labs President Anatoly Yakovenko likes to use “</strong><a href=\"https://www.youtube.com/watch?v=p6WRMqfxI1Q\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana at NASDAQ speeds</strong></a><strong>” as a reference point – and that high-throughput design has made Solana the ideal blockchain for bringing TradFi products into the blockchain world.</strong></p><p><strong>The unrivaled technology capabilities coupled with the ample liquidity on Solana make it the ideal ecosystem for digital assets. In May, there was $2.4 trillion of stablecoin volume on Solana, representing two-thirds of <em>all</em> onchain stablecoin volume, according to </strong><a href=\"https://app.artemis.xyz/stablecoins?stablecoinBreakdown=chain&amp;granularity=monthly\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Artemis</strong></a><strong>.</strong></p><p><strong>Onchain RWAs are a broad category that represent traditional securities, like private funds, money market funds, ETFs, and other financial assets like private credit, real estate, or even high-value liquor, that have been tokenized (or linked to an onchain asset).&nbsp;</strong></p><p><strong>Bringing IRL trading onchain has a number of benefits — it significantly lowers the bar for people to invest in a highly-gated, elite market, opening up financial growth opportunities for many more people. Onchain real world assets are a democratization of the traditional finance world.</strong></p><p><strong>All of this is made possible thanks to the technical innovations that are making Solana the consensus home for onchain real world assets — high speed, low costs, and tools that allow companies to build what they need. This innovation leads to more competitive and liquid markets, and better price discovery. Plus, transactions in the tokenized asset can settle more quickly than transactions in their respective real-world reference assets.</strong></p><p><strong>Notably, </strong><a href=\"https://solana.com/tokenextensions\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>token extensions</strong></a><strong> have made it much easier for companies to bring complaint, customer-friendly real world assets onchain.&nbsp;Libre, for example, takes advantage of </strong><a href=\"https://solana.com/tokenextensions\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>token extensions</strong></a><strong> — using the permanent delegate, non-transferable token, token metadata, and metadata pointer to build a strong customer experience and assist with compliance. Etherfuse is using the extension interest-bearing tokens to bring tokenized bonds from the Mexican government onchain. PayPal USD, which recently extended support to Solana, has enabled several token extensions to build a better experience for non-crypto native customers, including confidential transfer amounts.</strong></p><p><strong>The democratization of financial growth is only just beginning — and it's happening on Solana.</strong></p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-7e40716bf1424cc8828f35a84c9bd436",
+        "meta": {
+          "localizedTextInputs": [
+            "eyebrow",
+            "headline",
+            "body",
+            "placeholder",
+            "emailError",
+            "submitError",
+            "successMessge"
+          ],
+          "previousId": "builder-b2b0be70f59e4f4fbe4665b5ab46f603"
+        },
+        "component": {
+          "name": "Switchback",
+          "options": {
+            "assetSide": "right",
+            "image": {
+              "alt": {
+                "@type": "@builder.io/core:LocalizedValue",
+                "Default": ""
+              },
+              "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8394a7c13a8b4714a3df212f0799b409"
+            },
+            "eyebrow": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": ""
+            },
+            "headline": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": "Bring programmable Real World Assets to Solana"
+            },
+            "body": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": "<p>Businesses and institutions are tokenizing stablecoins, real estate, government bonds, and more on Solana using tools like token extensions — which empower you to easily issue programmable, permissioned tokens on a permissionless network.</p>"
+            },
+            "placeholder": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": ""
+            },
+            "emailError": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": ""
+            },
+            "submitError": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": ""
+            },
+            "successMessge": {
+              "@type": "@builder.io/core:LocalizedValue",
+              "Default": ""
+            },
+            "buttons": [
+              {
+                "hierarchy": "primary",
+                "size": "md",
+                "iconSize": "md",
+                "label": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Learn more"
+                },
+                "url": "https://solana.com/docs/advanced/actions"
+              }
+            ]
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F16395e9cac0d42a2858c61b54ab6eddf",
+  "lastUpdated": 1721733278869,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_4dce3719835e4538ae818034bc9e39ee",
+  "lastUpdatedBy": "rfkJKsR9FxTVJ7ts7qFHGvOaibA3",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1721329176164,
+  "@originId": "4dce3719835e4538ae818034bc9e39ee",
+  "testRatio": 1,
+  "createdDate": 1721328279789,
+  "createdBy": "rfkJKsR9FxTVJ7ts7qFHGvOaibA3",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://staging.solana.com/news/rwas-libre-on-solana?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditLayouts%2CeditLayers&builder.user.role.name=Editor&builder.user.role.id=editor&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_4dce3719835e4538ae818034bc9e39ee&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_4dce3719835e4538ae818034bc9e39ee=983ae1dad0ba4ca4ac6dd4ac310edee1_4dce3719835e4538ae818034bc9e39ee&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 1,
+      "Content Editor": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "RWAs on Solana: Libre",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

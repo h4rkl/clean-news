@@ -1,0 +1,266 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1592895600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a5cad2942b34bc8b52a30246abd062f",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nFor the past several weeks, the Solana Foundation has fielded dozens of requests for the ability to purchase gear with Solana branding.\n",
+    "publishedDate": "Tue Jun 23 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "The Decentralized Solana DShop Swag Store, Powered by Origin Protocol, is Now Live",
+      "ogUrl": "https://www.solana.com/blog/the-decentralized-solana-dshop-swag-store--powered-by-origin-protocol--is-now-live",
+      "ogDescription": "\nFor the past several weeks, the Solana Foundation has fielded dozens of requests for the ability to purchase gear with Solana branding.\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/The-Decentralized-Solana-DShop-Swag-Store--Powered-by-Origin-Protocol--is-Now-Live/1-wQ-PNyde6cp9Zo9fREEV_w-1.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "The Decentralized Solana DShop Swag Store, Powered by Origin Protocol, is Now Live",
+      "noFollow": false,
+      "seoDescription": "\nFor the past several weeks, the Solana Foundation has fielded dozens of requests for the ability to purchase gear with Solana branding.\n",
+      "seoTitle": "The Decentralized Solana DShop Swag Store, Powered by Origin Protocol, is Now Live",
+      "noIndex": false
+    },
+    "title": "The Decentralized Solana DShop Swag Store, Powered by Origin Protocol, is Now Live",
+    "twitterMeta": {
+      "twitterTitle": "The Decentralized Solana DShop Swag Store, Powered by Origin Protocol, is Now Live",
+      "twitterDescription": "\nFor the past several weeks, the Solana Foundation has fielded dozens of requests for the ability to purchase gear with Solana branding.\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/The-Decentralized-Solana-DShop-Swag-Store--Powered-by-Origin-Protocol--is-Now-Live/1-wQ-PNyde6cp9Zo9fREEV_w-1.png"
+    },
+    "slug": "the-decentralized-solana-dshop-swag-store--powered-by-origin-protocol--is-now-live",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-889f2546dea64c2f982f05787916c6e8",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3291bb8f2ff44ac59179e407cec35185",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9d18e99261974d5b953cf09bb1263001?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9d18e99261974d5b953cf09bb1263001?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9d18e99261974d5b953cf09bb1263001?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9d18e99261974d5b953cf09bb1263001?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9d18e99261974d5b953cf09bb1263001?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9d18e99261974d5b953cf09bb1263001?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9d18e99261974d5b953cf09bb1263001?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9d18e99261974d5b953cf09bb1263001?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9d18e99261974d5b953cf09bb1263001?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9d18e99261974d5b953cf09bb1263001?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-02dd8b266ee44e119c9be3e994a272e6",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><a href=\"https://store.solana.com/?ref=solana.ghost.io#/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Store Link</strong></a></h3><p>For the past several weeks, the Solana Foundation has fielded dozens of requests for the ability to purchase gear with Solana branding. The call has been answered, and you can now purchase a variety of clothing, stickers, and household goods with unique Solana branding! This Solana Swag Store is powered by&nbsp;<a href=\"https://www.originprotocol.com/en?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Origin Protocol</a>&nbsp;and uses its new, decentralized e-commerce platform,&nbsp;<a href=\"https://www.originprotocol.com/en/product?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DShop</a>. You can check out the&nbsp;<a href=\"https://store.solana.com/?ref=solana.ghost.io#/\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Swag Store here now.</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a1b4c5747a0649f39eeda6a22919d4a7",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F860f70c3ac044ff99546093da783f7f6?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.614,
+                "lockAspectRatio": false,
+                "height": 737,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F860f70c3ac044ff99546093da783f7f6?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F860f70c3ac044ff99546093da783f7f6?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F860f70c3ac044ff99546093da783f7f6?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F860f70c3ac044ff99546093da783f7f6?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F860f70c3ac044ff99546093da783f7f6?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F860f70c3ac044ff99546093da783f7f6?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F860f70c3ac044ff99546093da783f7f6?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F860f70c3ac044ff99546093da783f7f6?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F860f70c3ac044ff99546093da783f7f6?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-651c58b55f2a439aac2990b425380836",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Solana community includes tens of thousands of developers, traders, enthusiasts, validators, and holders all over the world. There are several ways to become more involved with Solana: you can contribute to the project as a&nbsp;<a href=\"https://solana.com/validators?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Validator</a>, apply for the&nbsp;<a href=\"https://solana.com/collective?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Collective</a>&nbsp;or&nbsp;<a href=\"https://solana.com/accelerator?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Accelerator</a>&nbsp;program, attend an event either online or in your local community, join one of the many community groups in Telegram, and much more. These are just a few of the ways to get involved, our community is constantly brainstorming new and exciting ways to get more people involved. Opening the decentralized swag store with branded Solana swag allows any individual regardless of geographic location, background, or occupation to become part of the powerful global community, sharing pride for technological innovations and decentralization. With the purchase of any item from the minimalist but outstanding Solana Series, you become the ultimate supporter of our mission of being the greatest option for all high-growth and high-frequency blockchain applications and to democratize the world’s financial systems.</p><p>In turn, the Solana Foundation will continue to put effort toward making the world a place for equality and justice for all regardless of race or gender. In order to follow up on our words beyond a social media post, the Solana Foundation will be donating all proceeds from the store for the remainder of June, in addition to the $11,000 already donated internally from employees. For the rest of June, all proceeds from the Solana Swag shop will be donated to parties trying to organize and advocate for racial, social, and economic justice. You can find the list of supported organizations on the&nbsp;<a href=\"https://blacklivesmatter.com/partners/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Black Lives Matter</a>&nbsp;website.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c006125aa5d74cecac0ec9f20af6442c",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf5a52bc364e47849a6e227799725633?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.7041,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf5a52bc364e47849a6e227799725633?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf5a52bc364e47849a6e227799725633?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf5a52bc364e47849a6e227799725633?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf5a52bc364e47849a6e227799725633?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf5a52bc364e47849a6e227799725633?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf5a52bc364e47849a6e227799725633?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf5a52bc364e47849a6e227799725633?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf5a52bc364e47849a6e227799725633?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf5a52bc364e47849a6e227799725633?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-66da71303c6d46559a811d9cf18050c1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>As a celebration of the launch, an exclusive hoodie featuring the Solana Rider will be available on the Solana Swag Shop. The item is a limited offer and will be on sale only for the next 24 hours! Don’t miss your chance to catch the one-of-a-kind hoodie!</p><p>The Solana Swag Shop has all community favorite classics — hoodies, t-shirts, long sleeves, bags, coffee mugs, hats, and even a fanny pack.</p><p>Thank you to our global community for the consistent support, enjoy your swag!</p><p><strong>LINKS</strong></p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></p><p><a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a></p><p><a href=\"http://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Website</a></p><p><a href=\"https://www.binance.com/en/trade/SOL_BTC?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Binance</a></p><p><a href=\"http://store.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Swag Shop</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F79c613fdc38142eab5a9b8733c67dfad",
+  "lastUpdated": 1694189881911,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_0c31b5a039d445ca9952341195b03efb",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687533030122,
+  "@originId": "0c31b5a039d445ca9952341195b03efb",
+  "testRatio": 1,
+  "createdDate": 1687362697317,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=0c31b5a039d445ca9952341195b03efb&builder.overrides.0c31b5a039d445ca9952341195b03efb=0c31b5a039d445ca9952341195b03efb&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "The Decentralized Solana DShop Swag Store, Powered by Origin Protocol, is Now Live",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

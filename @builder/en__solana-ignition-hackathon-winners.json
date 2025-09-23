@@ -1,0 +1,133 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1635490800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb1400191fb384d25b27fd854ed485c17",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "With over 500+ project submissions from builders around the world!",
+    "publishedDate": "Fri Oct 29 2021 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "Meet the winners of Solana IGNITION",
+    "seo": {
+      "internalName": "Meet the winners of Solana IGNITION",
+      "noFollow": false,
+      "seoDescription": "With over 500+ project submissions from builders around the world!",
+      "seoTitle": "Meet the winners of Solana IGNITION",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Meet the winners of Solana IGNITION",
+      "ogUrl": "https://www.solana.com/blog/solana-ignition-hackathon-winners",
+      "ogDescription": "With over 500+ project submissions from builders around the world!",
+      "ogImage": "https://solana.ghost.io/content/images/2021/10/solana-ignition-winner-post.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Meet the winners of Solana IGNITION",
+      "twitterDescription": "With over 500+ project submissions from builders around the world!",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/10/solana-ignition-winner-post.png"
+    },
+    "slug": "solana-ignition-hackathon-winners",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bec3d03a15a94e16b13707bd0f0163b2"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-c739a54d6ec84920a7cdbedd30eb6f77",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ee953ca8e0a24210b4256fcc016df794",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana Ventures is pleased to announce the results of&nbsp;<a href=\"https://ignition.devpost.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">IGNITION</a>, a global hackathon focused on Web3, DeFi, Gaming, and Digital Art &amp; Collectable NFTs. IGNITION is the fourth Solana hackathon, and the third and final one to take place this year. From August 31st to October 15th, the hackathon brought together crypto pioneers and developers from around the world to build projects on the Solana blockchain, supercharging what became known as ‘Solana Summer’.&nbsp;</p><p>Open to teams globally, IGNITION saw nearly 6,000 participants submit 568 final projects to the judges.&nbsp;Microsoft, Jump Crypto, Standard Chartered, Forte, and Metaplex joined Solana Ventures as category sponsors for the global hackathon, offering participants a global prize pool of&nbsp;<strong>up to $5 million</strong>&nbsp;in prizes and seed funding.</p><p>“The Solana ecosystem experienced amazing growth over this past year, and the IGNITION hackathon has been an exciting showcase of some of the best teams building in blockchain,” said Anatoly Yakovenko, CEO of Solana Labs. “We are thrilled to have these incredible projects building on Solana and look forward to seeing them evolve.”</p><p><strong>Browse through all the project submissions in the public directory&nbsp;</strong><a href=\"https://ignition.devpost.com/participants?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>here</strong></a><strong>.</strong></p><p>Without further ado, here are your winners:</p><h2><strong>Grand Champion</strong></h2><p><a href=\"https://devpost.com/software/katana-s6fp8n?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Katana</a>, an asset management protocol building investment products across the risk spectrum, received the&nbsp;<strong>Grand Champion</strong>&nbsp;prize of $75,000 in USD, along with passes to attend Breakpoint, the first annual Solana conference, where they will present their project.</p><h2><strong>DeFi Track</strong></h2><p>For the&nbsp;<strong>DeFi</strong>&nbsp;track, the first place went to&nbsp;<a href=\"https://devpost.com/software/atrix?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Atrix</a>, an AMM that allows for seamless creation of liquidity pools and farms on Serum, securing a prize of $65,000 in USD.</p><p>Additional prizes went to:</p><ul><li>Second:&nbsp;<a href=\"https://devpost.com/software/superposition-v6xo8d?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Superposition</a>, a decentralized fixed income protocol.</li><li>Third:&nbsp;<a href=\"https://devpost.com/software/aver-4hduaz?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Aver</a>, decentralized and trustless betting markets.</li><li>Fourth:&nbsp;<a href=\"https://devpost.com/software/01-de3vki?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">01 Protocol</a>, a decentralized derivatives protocol offering everlasting options on Solana.</li><li>Fifth:&nbsp;<a href=\"https://devpost.com/software/fluidity-money?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Fluidity</a>, a system that allows users to earn yield as a consequence of using their cryptocurrencies through Fluid Assets.</li></ul><h2><strong>Web3 Track</strong></h2><p>For the&nbsp;<strong>Web3</strong>&nbsp;track, the first place went to&nbsp;<a href=\"https://devpost.com/software/project-citadel?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Project Citadel</a>, a desktop client for Solana protocols, securing a prize of $45,000 in USD.&nbsp;</p><p>Additional prizes went to:</p><ul><li>Second:&nbsp;<a href=\"https://devpost.com/software/bulldozer?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bulldozer</a>, a low code platform that makes it easier to build Solana programs, powered by Anchor.</li><li>Third:&nbsp;<a href=\"https://devpost.com/software/alon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Alon</a>, an IDE empowered by a WebAssembly port of Solana's compiler suite.</li><li>Fourth:&nbsp;<a href=\"https://devpost.com/software/chaincrunch?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Chaincrunch</a>, a platform for on-chain analytics.&nbsp;</li><li>Fifth:&nbsp;<a href=\"https://devpost.com/software/dialect?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Dialect</a>, an on-chain messaging protocol &amp; mobile app that supports dapp-to-user and user-to-user messaging.</li></ul><h2><strong>Gaming Track</strong></h2><p>For the&nbsp;<strong>Gaming</strong>&nbsp;track,&nbsp;<a href=\"https://devpost.com/software/rushdown-revolt-enter-the-vortex?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Rushdown Revolt</a>, a collectibles and metaverse framework, secured a prize of $45,000 in USD.</p><p>Additional prizes went to:</p><ul><li>Second:&nbsp;<a href=\"https://devpost.com/software/the-portal-563g1u?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Portals</a>, a web-based metaverse platform for Solana.&nbsp;</li><li>Third:&nbsp;<a href=\"https://devpost.com/software/eizper-chain-solana-arpg-game?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Eizper Chain</a>, a multiplayer action role-playing game that contains synergy between adventure and arena battle.</li><li>Fourth:&nbsp;<a href=\"https://devpost.com/software/find-satoshi?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">StepN</a>, a move-2-earn mobile game onboarding millions of non-crypto runners to crypto.</li><li>Fifth:&nbsp;<a href=\"https://devpost.com/software/project-titan-qgsckx?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Titan Analytics</a>, a commercial analytics platform built for the Metaverse.</li></ul><h2><strong>Digital Art &amp; Collectables Track</strong></h2><p>For the&nbsp;<strong>Digital Art &amp; Collectables</strong>&nbsp;track, first place went to&nbsp;<a href=\"https://neftify.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neftify</a>, an NFT lending platform for play-to-earn games, which secured a prize of $45,000 in USD.</p><p>Additional prizes went to:</p><ul><li>Second:&nbsp;<a href=\"https://devpost.com/software/solanafloor?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SolanaFloor</a>, an NFT data analytics platform.</li><li>Third:&nbsp;<a href=\"https://devpost.com/software/cofre-rwgb37?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cofre</a>, a peer-to-peer NFT escrow swap.</li><li>Fourth:&nbsp;<a href=\"https://devpost.com/software/solanalysis-nft-flex?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sonanalysis NFT Flex</a>, NFT showcase and value estimation product.</li><li>Fifth:&nbsp;<a href=\"https://devpost.com/software/banksy-finance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Banksea</a>: pool-based lending collateralized with a user’s NFT collection.</li></ul><h2><strong>Community Prizes</strong></h2><p>The&nbsp;<strong>Community Choice</strong>&nbsp;award went to&nbsp;<a href=\"https://devpost.com/software/darleygo?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DarleyGo</a>, a blockchain horse racing game utilizing NFTs, receiving a $10k USD prize for the project.&nbsp;</p><p>Several members of the Solana ecosystem also sponsored&nbsp;<strong>Company Prizes</strong>&nbsp;for best integration. Here are their winners:</p><ul><li><strong>Serum Prize:</strong>&nbsp;<a href=\"https://devpost.com/software/friktion-bma7v8?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Friktion</a></li><li><strong>Solend Prize:</strong>&nbsp;<a href=\"https://devpost.com/software/superposition-v6xo8d?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Superposition</a></li><li><strong>Pyth Prize:</strong>&nbsp;<a href=\"https://devpost.com/software/hydraswap-xt3940?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">HydraSwap</a></li><li><strong>Raydium Prize:</strong>&nbsp;<a href=\"https://devpost.com/software/superposition-v6xo8d?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Superposition</a></li><li><strong>Chainlink Prize:</strong>&nbsp;<a href=\"https://devpost.com/software/hedge-ptdjgs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Hedge Finance</a></li><li><strong>Wormhole Prize:</strong>&nbsp;<a href=\"https://devpost.com/software/swim-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Swim Protocol</a></li><li><strong>COPE Prize:</strong>&nbsp;<a href=\"https://devpost.com/software/quasarprotocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">QuasarProtocol</a></li><li><strong>Marinade Prize:</strong>&nbsp;<a href=\"https://devpost.com/software/superposition-v6xo8d?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Superposition</a></li><li><strong>Stardust Prize:</strong>&nbsp;<a href=\"https://devpost.com/software/genopets-zs1la5?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Genopets</a></li><li><strong>Mango Prize:</strong>&nbsp;<a href=\"https://devpost.com/software/mango-v3-service?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">mango-v3-service</a></li><li><strong>PsyOptions Prize:</strong>&nbsp;<a href=\"https://devpost.com/software/friktion-bma7v8?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Friktion</a></li></ul><h2><strong>Honorable Mentions</strong></h2><p>While the following projects may not have earned a prize, they received very high marks from the judges. Congrats!</p><ul><li>Springboard</li><li>Point Network</li><li>Chess Mafia</li><li>TIEXO</li><li>Viking Finance</li><li>Sophon</li><li>Fantasy Kombat</li><li>Valhalla</li><li>MeanFi</li><li>Autonomy Network</li><li>ATIV</li><li>Exotic</li><li>Eno.xyz</li><li>SolCypher</li><li>Hawk Protocol</li><li>Credix</li><li>Vybe</li><li>J.O.S.H</li><li>Streamflow</li><li>Sosol</li><li>Solcery</li><li>Jungle</li><li>Dflow</li></ul><p>IGNITION received a 760% increase in submissions compared to Solana’s inaugural hackathon,&nbsp;<a href=\"https://medium.com/solana-labs/announcing-the-winners-of-solanas-inaugural-hackathon-66a280b33e6?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Wormhole</a>, which was completed in November 2020 with 66 project submissions. It is representative of the tremendous growth experienced across the Solana ecosystem in just under one year.&nbsp;</p><p>Thank you to all who submitted a project, judged, or gave a talk. IGNITION was a rousing success and it could not have been done without your support.</p><p>Check out all the submissions&nbsp;<a href=\"https://solana.com/ignition?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">on Devpost</a>. Congratulations, everyone!</p><h2><strong>Disclaimer</strong></h2><p>The IGNITION Hackathon is a competition where projects will be evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon will create software solely for purposes of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon. All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon.</p><p>The Hackathon ideas and developer resources that Solana Ventures (“SV”) provides are for educational and inspirational purposes only. SV does not encourage, induce or sanction the deployment of any such applications in violation of applicable laws or regulations. SV does not encourage, induce or sanction the deployment, integration or use of any such applications (including the code comprising the Solana blockchain protocol) in violation of applicable laws or regulations and hereby prohibits any such deployment, integration or use. This includes use of any such applications by the reader (a) in violation of export control or sanctions laws of the United States or any other applicable jurisdiction, (b) if the reader is located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC), (c) if the reader is or is working on behalf of a Specially Designated National (SDN) or a person subject to similar blocking or denied party prohibitions, or (d) in violation of the Commodities and Exchange Act.</p><p>The reader should be aware that U.S. export control and sanctions laws prohibit U.S. persons (and other persons that are subject to such laws) from transacting with persons in certain countries and territories or that are on the SDN list. As a project based primarily on open-source software, it is possible that such sanctioned persons may nevertheless bypass prohibitions, obtain the code comprising the Solana blockchain protocol (or other project code or applications) and deploy, integrate, or otherwise use it. Accordingly, there is a risk to individuals that other persons using the Solana blockchain protocol may be sanctioned persons and that transactions with such persons would be a violation of U.S. export controls and sanctions law. This risk applies to individuals, organizations, and other ecosystem participants that deploy, integrate, or use the Solana blockchain protocol code directly (e.g., as a node operator), and individuals that transact on the Solana blockchain through light clients, third party interfaces, and/or wallet software.&nbsp;<a href=\"https://ignition.devpost.com/rules?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Participation Terms</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71c1d267bd22475785e5a44dffd45fd2",
+  "lastUpdated": 1694189886477,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_203d590608b94e8ebe5df9597c7ba1bd",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687615198345,
+  "@originId": "203d590608b94e8ebe5df9597c7ba1bd",
+  "testRatio": 1,
+  "createdDate": 1687362594222,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=203d590608b94e8ebe5df9597c7ba1bd&builder.overrides.203d590608b94e8ebe5df9597c7ba1bd=203d590608b94e8ebe5df9597c7ba1bd&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Meet the winners of Solana IGNITION",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

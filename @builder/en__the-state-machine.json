@@ -1,0 +1,839 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/the-state-machine",
+  "data": {
+    "datePublished": 1699981200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "A look back at the opening keynote at Breakpoint 2023.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0",
+      "seoDescription": "Breakpoint 2023 in Amsterdam hosted 3000 developers, creators, and members of the Solana ecosystem.",
+      "seoTitle": "The State Machine: The Keynote at Breakpoint 2023"
+    },
+    "title": "The State Machine: The Keynote at Breakpoint 2023",
+    "slug": "the-state-machine",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-91155564a71644ad9171b108e564ed47",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "layerName": "Copy",
+            "id": "builder-d62c8b534320484b97adfc11078ecfaa",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Amsterdam recently played host to <a href=\"https://twitter.com/SolanaConf\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Foundation's 2023 Breakpoint conference</a>. The event brought together 3,000 Solana developers, validators, founders, core engineers, ecosystem teams and more to discuss the latest developments and future roadmap. Here are some of the highlights of the opening keynote from Anatoly Yakovenko, co-founder of Solana and CEO of Solana Labs, and other leading figures from the Solana ecosystem:</p><h2>Tackling the Complexities: A Mission to Do the Hard Things First</h2><p>In a realm where complexity is the norm, it could be said the Solana community's mantra is to “Do the hard things first.” The conference opened with this reminder from Yakovenko, setting the stage for a series of discussions centred on substantial technical progress and the kind of resilience that defines the next generation of blockchain networks.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "-4px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-495fbb7200af4babb36867ded1312ece",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "left",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.665,
+                "lockAspectRatio": false,
+                "height": 1319,
+                "width": 1984,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "altText": "Anatoly Yakovenko Breakpoint",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb947af1f7b44973908b782be98435d0?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginRight": "auto",
+                "maxWidth": "1236px",
+                "marginLeft": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0322a7b981f54c1c97ed432e142dad0f",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><em style=\"color: rgb(133, 133, 133);\">Anatoly Yakovenko welcomes conference attendees and shows off his Halloween costume as a “silly dragon.”</em></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "lineHeight": "normal",
+                "height": "auto",
+                "marginBottom": "8px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-c654183d90a2484abfe22d9c29998026",
+        "meta": {
+          "previousId": "builder-91155564a71644ad9171b108e564ed47"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "layerName": "Copy",
+            "id": "builder-7fefc5b2eb0f43cc897f9efea5fae63a",
+            "meta": {
+              "previousId": "builder-d62c8b534320484b97adfc11078ecfaa"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Scaling New Heights with Performance and Reliability</h2><p>The Solana ecosystem’s commitment to continuous innovation and collaborative development is highlighted by the introduction of <a href=\"https://forum.solana.com/t/solana-improvement-documents-info/15\" rel=\"noopener noreferrer\" target=\"_blank\">SIMDs (Solana Improvement Documents)</a> earlier this year. These documents provide a formalized process for developers to propose enhancements to the Solana protocol. Since the launch in February 2023, there have been 79 SIMDs written.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2a63c8807a65449a9265608077b308ed",
+            "meta": {
+              "previousId": "builder-495fbb7200af4babb36867ded1312ece"
+            },
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e41e102b9d74580b018a15701063d82?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "left",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "height": 1333,
+                "width": 2000,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "altText": "Dan Albert Breakpoint",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e41e102b9d74580b018a15701063d82?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e41e102b9d74580b018a15701063d82?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e41e102b9d74580b018a15701063d82?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e41e102b9d74580b018a15701063d82?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e41e102b9d74580b018a15701063d82?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e41e102b9d74580b018a15701063d82?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e41e102b9d74580b018a15701063d82?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e41e102b9d74580b018a15701063d82?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e41e102b9d74580b018a15701063d82?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e41e102b9d74580b018a15701063d82?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginRight": "auto",
+                "maxWidth": "1236px",
+                "marginLeft": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-edfdeab6857c4f0192518759555e2fd5",
+            "meta": {
+              "previousId": "builder-0322a7b981f54c1c97ed432e142dad0f"
+            },
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><font color=\"#858585\"><i>Dan Albert showcasing the improvements developers have made to the protocol over the past year.</i></font><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "lineHeight": "normal",
+                "height": "auto",
+                "marginBottom": "8px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8fb52b76880b4d509e48d313ac48736e",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Building on this foundation of community-driven progress, the Solana community is advancing its network with upgrades like the Solana 1.16 and the development of Firedancer, a complete overhaul of the Solana validator aiming for enhanced performance.</p><p> <a href=\"https://www.youtube.com/watch?v=hEEWMiMuEF8\" rel=\"noopener noreferrer\" target=\"_blank\">Firedancer</a> shows promising early results, including the potential for a massive boost in transactions per second, with 10x-100x improvements. Dan Albert, Executive Director of the Solana Foundation, didn't mince words when he detailed the Solana Foundation’s aspirations for the ecosystem: <em>“Ideally, we'd like to get four separate validators... with even distribution of stake across the main net... to greatly reduce risk of outages” </em>His comment is a statement of optimism for an ecosystem that's not only robust but unwavering in the face of adversity.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "33px",
+                "paddingBottom": "0px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-0628c16575ac4c05959f7b8aa80ead6b",
+        "meta": {
+          "previousId": "builder-c654183d90a2484abfe22d9c29998026"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "layerName": "Copy",
+            "id": "builder-b3456e99873843b89fad969c7a9221d7",
+            "meta": {
+              "previousId": "builder-7fefc5b2eb0f43cc897f9efea5fae63a"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Enriching the Network with Validator Diversity</h2><p>With a network of over 2,000 nodes and a Nakamoto coefficient envied by many, Solana champions a secure and decentralized network. Amira Valliani, Head of Policy at the Solana Foundation, took the stage to assert the critical nature of this diversity, speaking about the <a href=\"https://solana.com/news/validator-health-report-october-2023\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Validator Health Report</a>:&nbsp; <em>“To safeguard the network, it's essential that no single data center or country controls over 33% of the network stake.\"</em> In this respect, Solana shines, demonstrating an enviable stake distribution that transcends the limitations faced by other networks overly dependent on single data centers. Solana's attention to its <a href=\"https://solanaclimate.com/\" rel=\"noopener noreferrer\" target=\"_blank\">ecological impact</a> is equally notable, with each transaction using less energy than a Google search, setting an example for sustainability in the blockchain space.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "-4px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ffaa8944616f4a01aba93928aadd26ca",
+            "meta": {
+              "previousId": "builder-2a63c8807a65449a9265608077b308ed"
+            },
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67692e805bdf436088e2acbec15f45eb?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "left",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "height": 1333,
+                "width": 2000,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "altText": "Amira Valliani Breakpoint",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67692e805bdf436088e2acbec15f45eb?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67692e805bdf436088e2acbec15f45eb?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67692e805bdf436088e2acbec15f45eb?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67692e805bdf436088e2acbec15f45eb?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67692e805bdf436088e2acbec15f45eb?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67692e805bdf436088e2acbec15f45eb?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67692e805bdf436088e2acbec15f45eb?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67692e805bdf436088e2acbec15f45eb?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67692e805bdf436088e2acbec15f45eb?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67692e805bdf436088e2acbec15f45eb?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginRight": "auto",
+                "maxWidth": "1236px",
+                "marginLeft": "auto",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-674be64783aa4fcea833128a227f8a45",
+            "meta": {
+              "previousId": "builder-edfdeab6857c4f0192518759555e2fd5"
+            },
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><font color=\"#858585\"><i>Amira Valliani highlighting the strength of the Solana ReFi (regenerative finance) community.</i></font><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "lineHeight": "normal",
+                "height": "auto",
+                "marginBottom": "8px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-dc333e86903f40e589ba127822fe1a77",
+        "meta": {
+          "previousId": "builder-9eedcef2351041f38738fd1d18605dbf"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "layerName": "Copy",
+            "id": "builder-c996afa7b7954a30b8f9d1ea84796259",
+            "meta": {
+              "previousId": "builder-ae484dad2f9b47a2916c8f43ae9010d9"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>The Blockchain Turducken: A Testament to Seamless Integration</h2><p>The switch of <a href=\"https://www.helium.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Helium</a> from its own blockchain to Solana in 2022 was so smooth that, as Noah Prince, Head of Protocol Engineering at Helium, put it: “<em>you didn't hear about it because nothing happened.” </em>This migration exemplifies the \"Only possible on Solana\" hallmark, showcasing the network's capacity for seamless integration and robust support for decentralized systems like DePIN. This move <a href=\"https://solana.com/news/case-study-helium\" rel=\"noopener noreferrer\" target=\"_blank\">enabled user-hosted wireless networks</a> to thrive, offering economical solutions while leveraging Solana's low-latency, high-throughput capabilities.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "-4px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-93eff8ba7f8340f0b08e39d71afd04e5",
+            "meta": {
+              "previousId": "builder-9d4b109102b141908cba2f7bd7f86e9e"
+            },
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa553c5a9d96942ec864ccf0fd008d402?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "left",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "height": 1333,
+                "width": 2000,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "altText": "Mert Breakpoint",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa553c5a9d96942ec864ccf0fd008d402?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa553c5a9d96942ec864ccf0fd008d402?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa553c5a9d96942ec864ccf0fd008d402?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa553c5a9d96942ec864ccf0fd008d402?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa553c5a9d96942ec864ccf0fd008d402?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa553c5a9d96942ec864ccf0fd008d402?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa553c5a9d96942ec864ccf0fd008d402?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa553c5a9d96942ec864ccf0fd008d402?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa553c5a9d96942ec864ccf0fd008d402?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa553c5a9d96942ec864ccf0fd008d402?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginRight": "auto",
+                "maxWidth": "1236px",
+                "marginLeft": "auto",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2327d301de43467b90a82afb4ed50146",
+            "meta": {
+              "previousId": "builder-0f192254d38a452e86a790ba7ea26c1c"
+            },
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><font color=\"#858585\"><i>Noah Prince points to Solana as the blockchain infrastructure enabling Helium's $5, unlimited mobile plan in Miami.</i></font><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "lineHeight": "normal",
+                "height": "auto",
+                "marginBottom": "8px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-9eedcef2351041f38738fd1d18605dbf",
+        "meta": {
+          "previousId": "builder-0628c16575ac4c05959f7b8aa80ead6b"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "layerName": "Copy",
+            "id": "builder-ae484dad2f9b47a2916c8f43ae9010d9",
+            "meta": {
+              "previousId": "builder-b3456e99873843b89fad969c7a9221d7"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>A Flourishing Ecosystem&nbsp;</h2><p>Mert Mumtaz, CEO and Co-Founder of <a href=\"https://www.helius.dev/\" rel=\"noopener noreferrer\" target=\"_blank\">Helius</a>, drove home for the audience that, despite market conditions, an active community of developers continue innovating on Solana. The proof lies in the platform's vigorous growth, with breakthroughs in localized fee markets, state compression, and optimizations reducing the demand on hardware. Mumtaz emphasized the 900 submissions at the Hyperdrive event as a testament to the thriving community of developers. He also called attention to dApps like Helium and Drip to show some of the unique use cases made possible by the Solana protocol’s high performance.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "-4px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9d4b109102b141908cba2f7bd7f86e9e",
+            "meta": {
+              "previousId": "builder-ffaa8944616f4a01aba93928aadd26ca"
+            },
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F17f6d45491d2475bbcf673ed28eee269?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "left",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "height": 1333,
+                "width": 2000,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "altText": "Noah Prince Breakpoint",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F17f6d45491d2475bbcf673ed28eee269?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F17f6d45491d2475bbcf673ed28eee269?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F17f6d45491d2475bbcf673ed28eee269?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F17f6d45491d2475bbcf673ed28eee269?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F17f6d45491d2475bbcf673ed28eee269?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F17f6d45491d2475bbcf673ed28eee269?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F17f6d45491d2475bbcf673ed28eee269?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F17f6d45491d2475bbcf673ed28eee269?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F17f6d45491d2475bbcf673ed28eee269?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F17f6d45491d2475bbcf673ed28eee269?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginRight": "auto",
+                "maxWidth": "1236px",
+                "marginLeft": "auto",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0f192254d38a452e86a790ba7ea26c1c",
+            "meta": {
+              "previousId": "builder-674be64783aa4fcea833128a227f8a45"
+            },
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><font color=\"#858585\"><i>Mert Mumtaz takes the stage and commends the power and relentless building of the Solana developer community.</i></font><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "lineHeight": "normal",
+                "height": "auto",
+                "marginBottom": "8px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-f6982d5b3749430fa84dc3763fe6075c",
+        "meta": {
+          "previousId": "builder-9eedcef2351041f38738fd1d18605dbf"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "layerName": "Copy",
+            "id": "builder-3e8e4948b13e4a218fbd3e692d29b909",
+            "meta": {
+              "previousId": "builder-ae484dad2f9b47a2916c8f43ae9010d9"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Singapore Awaits: Breakpoint 2024's Asian Debut</h2><p>Anatoly Yakovenko and Austin Federa, Head of Strategy at the Solana Foundation, during the closing notes of the keynote, not only discussed the recent performance optimizations and the collaborative approach to protocol upgrades but also dropped a significant announcement. Breakpoint 2024 will make its debut in APAC, being hosted in <a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">Singapore from September 19-21</a>. This decision reflects the vibrant and rapidly growing developer market in the APAC region and underscores the commitment to nurturing a truly global web3 community.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "-4px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6f181a0781084b56acdc253132b53d8c",
+            "meta": {
+              "previousId": "builder-9d4b109102b141908cba2f7bd7f86e9e"
+            },
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10f63d6ce6cd4090949af0ac85c27f6d?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "left",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "height": 800,
+                "width": 1200,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "altText": "Singapore Breakpoint",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10f63d6ce6cd4090949af0ac85c27f6d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10f63d6ce6cd4090949af0ac85c27f6d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10f63d6ce6cd4090949af0ac85c27f6d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10f63d6ce6cd4090949af0ac85c27f6d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10f63d6ce6cd4090949af0ac85c27f6d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10f63d6ce6cd4090949af0ac85c27f6d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10f63d6ce6cd4090949af0ac85c27f6d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10f63d6ce6cd4090949af0ac85c27f6d?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10f63d6ce6cd4090949af0ac85c27f6d?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10f63d6ce6cd4090949af0ac85c27f6d?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginRight": "auto",
+                "maxWidth": "1236px",
+                "marginLeft": "auto",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e0e622dc0edd44ba8bee16ab9a1814ee",
+            "meta": {
+              "previousId": "builder-0f192254d38a452e86a790ba7ea26c1c"
+            },
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><font color=\"#858585\"><i>Singapore skyline</i></font><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "lineHeight": "normal",
+                "height": "auto",
+                "marginBottom": "8px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-815723bfefb547a68296d2ee716313eb",
+        "meta": {
+          "previousId": "builder-f6982d5b3749430fa84dc3763fe6075c"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "layerName": "Copy",
+            "id": "builder-b644d49df80d43399b12fc0ade4f3a90",
+            "meta": {
+              "previousId": "builder-3e8e4948b13e4a218fbd3e692d29b909"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>In Conclusion: The Road Ahead for Solana</h2><p>For an in-depth look at all the discussions that shaped Breakpoint 2023, developers and enthusiasts are invited to visit the Solana YouTube channel and peruse the <a href=\"https://www.youtube.com/@SolanaFndn/playlists?view=50&amp;sort=dd&amp;shelf_id=1\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint 2023 Playlist</a>.</p><p>The Solana community is forging a path for a decentralized future, and the developer community is here for it. With eyes now set on Breakpoint 2024 in Singapore, the Solana ecosystem is poised for its next big leap, ready to embrace new challenges and continue its trajectory towards becoming the backbone of the decentralized web.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "-4px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0c2e6f9994264dc0987f0bb5a0d8b5d5",
+  "lastUpdated": 1704915400022,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f989f7fb5b0d4324b7da85d99b36747d",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1699619713992,
+  "@originId": "f989f7fb5b0d4324b7da85d99b36747d",
+  "testRatio": 1,
+  "createdDate": 1699619383337,
+  "createdBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/the-state-machine?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=f989f7fb5b0d4324b7da85d99b36747d&builder.overrides.f989f7fb5b0d4324b7da85d99b36747d=f989f7fb5b0d4324b7da85d99b36747d&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 8,
+      "Section Molecule": 7
+    },
+    "hasLinks": false
+  },
+  "name": "The State Machine",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

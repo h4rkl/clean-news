@@ -1,0 +1,241 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F89393b936bdd4c1f8fa468ade559011f",
+    "inputs": [],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "title": "Monthly Community Update | June 2022",
+    "twitterMeta": {
+      "twitterTitle": "Monthly Community Update | June 2022",
+      "twitterDescription": "A peek inside of AthensDAO, plus other news and headlines from the Solana ecosystem."
+    },
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "datePublished": 1655838000000,
+    "intro": "A peek inside of AthensDAO, plus other news and headlines from the Solana ecosystem.",
+    "publishedDate": "Wed Jun 22 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Monthly Community Update | June 2022",
+      "ogUrl": "",
+      "ogDescription": "A peek inside of AthensDAO, plus other news and headlines from the Solana ecosystem.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Monthly Community Update | June 2022",
+      "noFollow": false,
+      "seoDescription": "A peek inside of AthensDAO, plus other news and headlines from the Solana ecosystem.",
+      "seoTitle": "Monthly Community Update | June 2022",
+      "noIndex": false
+    },
+    "slug": "monthly-community-update-june-2022",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-bcd9c77d07194ba992b96b87fe509c29",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5a8cb1d896fd44039a99fe3a49daeb2e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Get this update first.&nbsp;<a href=\"http://eepurl.com/gOcpoL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up for the Solana Community Update newsletter!</a></p><h2><strong>Grape: Bringing DAO people together</strong></h2><p>The DAOs were building in Athens, the cradle of democracy.</p><p>In May,&nbsp;<a href=\"https://grapes.network/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Grape</a>&nbsp;held&nbsp;<a href=\"https://athensdao.net/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">AthensDAO</a>, the first community-driven Hacker House X with support from the Solana Foundation. The event brought together a who’s who of the people, groups, and communities all building new tools and use cases for DAOs on Solana.</p><p>“One of the magical things about this hacker house… [is] you had a niche focus and the right people to fit that niche,” said Dean Pappas, a core contributor to Grape. That led to an explosion of creativity and, as he put it, “really cool projects.”</p><p>“I try to spend my time on what I’m very passionate about,” Pappas said, “and it’s mostly digital governance.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e7777bc6767c4a009d891617814072fe",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3e34c7b763594e34b7b6c60a4f58e3af?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.714,
+                "lockAspectRatio": false,
+                "height": 571,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3e34c7b763594e34b7b6c60a4f58e3af?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3e34c7b763594e34b7b6c60a4f58e3af?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3e34c7b763594e34b7b6c60a4f58e3af?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3e34c7b763594e34b7b6c60a4f58e3af?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3e34c7b763594e34b7b6c60a4f58e3af?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3e34c7b763594e34b7b6c60a4f58e3af?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3e34c7b763594e34b7b6c60a4f58e3af?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3e34c7b763594e34b7b6c60a4f58e3af?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3e34c7b763594e34b7b6c60a4f58e3af?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8de4b186a85b47aa9c91055a93d77645",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>AthensDAO. Picture by Alevtina Yakovenko.</p><p>It makes sense that Grape would host a house for DAOs – it’s in their DNA. Grape is a tokenized community that acts as a one-stop shop for building a community on Solana. Pappas said Solana is ideal for DAOs because “to experiment in governance and think about all these new ideas, these wacky things, you need very cheap transactions, they need to happen fast, and you need a very good user experience.”</p><p>The Grape DAO is split into several subDAO councils — such as NFTs, gaming, evaluating bounties, and more — that focus on communities in specific areas. All the councils use<a href=\"https://realms.today/realms?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;Realms</a>&nbsp;or&nbsp;<a href=\"https://squads.so/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Squads</a>, common Solana governance tools. “It is the best expression of what a decentralized community looks like,” Pappas said.</p><p>After attending&nbsp;<a href=\"https://twitter.com/mtnDAO?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">mtnDAO</a>&nbsp;— a long-form, community-driven incubator and hacker house held in Salt Lake City last winter — the Grape team was inspired to host one of their own with a specific focus on governance, closer to where many of the Solana DAO builders were located in Europe. And when the Hacker House X grant program was unveiled, they applied and received support from the Solana Foundation.</p><p>And once the house got started, the 150 builders really went wild. In addition to new projects from&nbsp;<a href=\"https://twitter.com/civickey?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Civic</a>,&nbsp;<a href=\"https://twitter.com/gilderxyz?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gilder</a>, and others, the members of AthensDAO formed their own DAO. “The idea behind the AthensDAO DAO is to make sure that we can perpetually do this,” Pappas said. “What's really cool about the formation of that DAO is the only people who are part of that DAO were physically there.”</p><p>What’s next? Pappas is focused on building the structure for AthensDAO DAO so they can host a future event.&nbsp;<a href=\"https://solanalabs.typeform.com/hackerhouseX?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">But the next Hacker House X is in your hands.</a></p><p><a href=\"https://grapes.network/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about Grape.</a></p><h2><strong>Top Solana News</strong></h2><h3><strong>Help Solana get on StackExchange</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d32239c9457745fb8ec09eb59b9b0d3e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9e49e777e37403da755f9f744857b4c?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.345,
+                "lockAspectRatio": false,
+                "height": 276,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9e49e777e37403da755f9f744857b4c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9e49e777e37403da755f9f744857b4c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9e49e777e37403da755f9f744857b4c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9e49e777e37403da755f9f744857b4c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9e49e777e37403da755f9f744857b4c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9e49e777e37403da755f9f744857b4c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9e49e777e37403da755f9f744857b4c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9e49e777e37403da755f9f744857b4c?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9e49e777e37403da755f9f744857b4c?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ff7e99fadfbd44ffaa0ac8ccb46a4bda",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Calling all devs! The Solana Foundation Developer Relations Team has been hard at work trying to make a Q+A site for Solana developers on StackExchange.</p><p>The proposal is very close to the finish line — all it needs is a few more commits from high-reputation accounts on StackExchange and Stack Overflow. And if the proposal does not pass by June 26th, it will not be able to again.</p><p>This is the last chance!&nbsp;<a href=\"https://area51.stackexchange.com/proposals/126615?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Take a moment to commit today.</a></p><h3><strong>Brave Browser takes first steps in Solana integration</strong></h3><p>It's happening! A May 24th update to Brave, the privacy-focused browser, saw the first start of its planned Solana integration. The update allows people to use SPL tokens in the Brave wallet, use BAT on Solana, and more.</p><p>Future plans include integrating Magic Eden and Solana dApps on desktop.&nbsp;<a href=\"https://brave.com/1.39-release/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more on Brave's blog.</a></p><h3><strong>Solana Foundation and Solana Ventures launches Korea web3 startup fund</strong></h3><p>Big news. The Solana Foundation and Solana Ventures announced a $100 million fund to accelerate development and activity across all web3 verticals but with a particular focus on game studios, gamefi, NFTs, and DeFi.</p><p>“Korea has passionate, excited builders looking to build in a big way in web3 and currently seeking the best blockchain to build on for the long term,” said Solana Foundation Executive Director Dan Albert. “We want to help them see the opportunity on Solana and grow the Solana ecosystem.”</p><p><a href=\"https://solana.com/news/solana-ventures-and-solana-foundation-establish-100-million-investment-and-grant-fund-for-korea-web3-startups?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more.</a></p><h2><strong>Ecosystem Headlines</strong></h2><p>Here's what's new this month:</p><ul><li>Meet&nbsp;<a href=\"https://twitter.com/armaniferrante/status/1537507655266230273?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Coral</a>, the new home for Anchor, the Anchor Program Library, and more.</li><li><a href=\"https://orao.medium.com/orao-vrf-at-solana-hacker-house-austin-tx-876767000a4b?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">ORAO demonstrated VRF</a>&nbsp;at the Solana x Jump Hacker House in Austin.</li><li>Sec3 (formerly Soteria) announces they are making their&nbsp;<a href=\"http://sec3%20%28formerly%20soteria%29%2C%20is%20excited%20to%20announce%20that%20they%20are%20making%20their%20sec3%20pro%20auto%20auditor%20software%20publicly%20available%20to%20solana%20builders./\" rel=\"noopener noreferrer\" target=\"_blank\">Sec3 Pro Auto Auditor software</a>&nbsp;publicly available to Solana builders.</li><li><a href=\"https://twitter.com/CoinDesk/status/1527314311936634881?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Magic Eden</a>&nbsp;surpassed OpenSea in daily NFT transactions.</li><li>BigDipper,&nbsp;<a href=\"https://twitter.com/bigdipperlive/status/1530123272616288256?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">an open-source blockchain explorer</a>, now supports Solana.</li><li><a href=\"https://twitter.com/AlchemyPlatform/status/1532386304800870411?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Alchemy</a>, the web3 dev platform powering millions of users to build scalable and faster dApps, now supports Solana.</li><li>Strata Protocol announced a partnership with Metaplex to natively integrate&nbsp;<a href=\"https://twitter.com/StrataProtocol/status/1534527148140150784?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Dynamic Pricing</a>&nbsp;into Candy Machine mints.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8c1289fc1fb244b4a27fd6609ff1fbbf",
+  "lastUpdated": 1696414326479,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_eefab51b9f8b48d5bdb4f2a6177a125d",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687556314579,
+  "@originId": "eefab51b9f8b48d5bdb4f2a6177a125d",
+  "testRatio": 1,
+  "createdDate": 1687362488718,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=eefab51b9f8b48d5bdb4f2a6177a125d&builder.overrides.eefab51b9f8b48d5bdb4f2a6177a125d=eefab51b9f8b48d5bdb4f2a6177a125d&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly Community Update | June 2022",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

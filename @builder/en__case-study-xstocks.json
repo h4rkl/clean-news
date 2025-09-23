@@ -1,0 +1,921 @@
+{
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "createdDate": 1755134405663,
+  "data": {
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e",
+      "model": "author"
+    },
+    "datePublished": 1755532800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1269a16e9fb5400fb52e5ff52f7d264a",
+    "intro": "xStocks tokenized equities issued by BackedFi and powered by Solana are creating more democratized access to financial assets. Learn how they built it in this deep dive.",
+    "seo": {
+      "metaType": "article",
+      "seoDescription": "Learn how to issue tokenized equities and digital assets on Solana in this case study on xStocks.",
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5d1b3d15dfec41c39a0e610dc67a2526",
+      "seoTitle": "Case Study: A Deep Dive on xStocks, tokenized equities on Solana"
+    },
+    "slug": "case-study-xstocks",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5",
+          "model": "entity-blog-tags"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a06f417c4cb24d50b4ca8ca34a2230a7",
+          "model": "entity-blog-tags"
+        }
+      }
+    ],
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "xStocks: Tokenizing Equities on Solana"
+    },
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-9b5e81759a904d4b8d3f1c69ed9852bb",
+        "meta": {
+          "previousId": "builder-851f677adefd49519fd6c9b101aef7a1"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          },
+          "isRSC": null
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b73690dff10a4d7d848205432aa7b944",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline",
+                "callToAction.eyebrow",
+                "callToAction.headline",
+                "callToAction.description",
+                "callToAction.button.label"
+              ],
+              "previousId": "builder-f30652921a544f34a7cea9227868732c"
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Learn More"
+                    },
+                    "hierarchy": "outline",
+                    "url": "https://solana.com/solutions/tokenization"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Tokenization is changing capital markets"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Learn how Solana can help scale your financial products — bring your assets to the most liquid markets in DeFi."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In this article"
+                }
+              },
+              "isRSC": null
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-610279c10cbf44afb98cb5f59364a76a",
+                "meta": {
+                  "previousId": "builder-9472d3f0e0b0446fad20efffbfbfb79e",
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2><strong>TLDR</strong></h2><p>xStocks brings U.S. stocks and ETFs on-chain as tokens on Solana. Each token is backed 1:1 by a real share held with a regulated custodian. Non-U.S. traders get 24/7 market access, instant on-chain settlement, fractional ownership, and the ability to use stock exposure inside DeFi (lending, AMMs, collateral). xStocks has achieved a cumulative volume of nearly $500M onchain within six weeks of its launch.</p><h3>Highlights</h3><ul><li><strong>Tokenized U.S. stocks &amp; ETFs on Solana</strong> — each xStock is 1:1 backed by a real share with a regulated custodian; enables 24/7 trading, T+0 settlement, and fractional ownership.</li><li>Live since June 30, 2025 with 60+ tokenized stocks from <strong>some of the U.S.’s largest companies and ETFs (e.g., Apple, Nvidia, S&amp;P 500)</strong> available for non-U.S. persons to buy/hold like any SPL token.</li><li><strong>Distribution &amp; composability on day one</strong> — listed on Kraken &amp; Bybit; tradable via Raydium/Jupiter; available as collateral in Kamino, wallet-native in Phantom/Solflare.</li><li><strong>Programmable compliance features via Solana Token Extensions</strong> (corporate-action handling, pause/transfer controls) while staying DeFi-compatible.</li><li><strong>Early traction —</strong> ~$2.1B cumulative volume across venues in six weeks, including ~$500M on-chain; ~58% share of tokenized-stock trading in 2025 with Solana holding the majority of market value (as of Aug 11, 2025).</li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                    "paddingTop": "20px",
+                    "paddingLeft": "20px",
+                    "paddingRight": "20px",
+                    "paddingBottom": "20px",
+                    "opacity": "1",
+                    "borderRadius": "20px",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-d5b95c1ffb02487cb0f2cc9c1220683d",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-4a5d5c9c97f04083a309354cf7c78811"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>The Simple Problem</h2><p>For many people around the world, buying U.S. stocks is slow, expensive, or simply impractical. Equity markets operate on limited hours and require investors to navigate intermediaries and paperwork. Settlement traditionally can take several days. This adds friction for anyone looking to invest and locks out potential investors.</p><p>But what if a share could move like a token? What if it could be held in a wallet, moved in under a second, and used inside other financial apps? That’s the promise behind xStocks on Solana.</p><p>Tokenized stocks give non-U.S. traders financial exposure to shares and can be used as collateral, pooled in an AMM, or moved between platforms 24/7. This opens up new strategies and new kinds of liquidity.</p><p><a href=\"https://xstocks.com/\" rel=\"noopener noreferrer\" target=\"_blank\">xStocks</a> was launched on Solana on 30th June 2025 by <a href=\"https://backed.fi/\" rel=\"noopener noreferrer\" target=\"_blank\">Backed</a>, one of the longest-standing real world asset (RWA) issuers.&nbsp;</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-1d5d7d0077e84cd393ecf3047e431f11",
+                "component": {
+                  "name": "Embed",
+                  "options": {
+                    "url": "https://www.youtube.com/watch?v=s5NThuOmkbA&list=PLilwLeBwGuK4V7yAfJgwL9pluZMg2ZqdT&index=5",
+                    "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/s5NThuOmkbA?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;\"></iframe></div>"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "pointerEvents": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c9180ce6ab434c5da467219f90bd6905",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-d5b95c1ffb02487cb0f2cc9c1220683d"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>The initial list included over 55 tokenized stocks &amp; ETFs. Household names like Apple, Microsoft, Nvidia, Tesla, Meta, and more became tradable on Solana.&nbsp;</p><p>xStocks tickers end with an “x” such as NVDAx (Nvidia) and AMZNx (Amazon).</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "tagName": "a",
+                "id": "builder-ed436636d5e14e1880b6a02b82cb352a",
+                "properties": {
+                  "href": "http://xStocks.com",
+                  "target": "_blank"
+                },
+                "linkUrl": "http://xStocks.com",
+                "meta": {
+                  "previousId": "builder-128f9f1743364254bd258286e88f5bc2"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F75938476a9ae48b9abec034a37556486?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.505,
+                    "lockAspectRatio": false,
+                    "height": 678,
+                    "width": 1343,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "altText": "Image source: XStocks"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "cursor": "pointer",
+                    "pointerEvents": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-b4662a59ed71414ba692a6078af007d9",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-55cb8972c4284fdfaeae4c89863f8e31"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Image Source: <a href=\"http://xstocks.com\" rel=\"noopener noreferrer\" target=\"_blank\">xStocks</a></p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-3e872b6a4c854559bc88362cdedb1f66",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-c9180ce6ab434c5da467219f90bd6905"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong>The full list of 60+ xStocks live on Solana as of August 2025 includes:</strong></p><ul><li><a href=\"https://solscan.io/token/XsHtf5RpxsQ7jeJ9ivNewouZKJHbPxhPoEy6yYvULr7\" rel=\"noopener noreferrer\" target=\"_blank\">ABTx</a> - Abbott xStock</li><li><a href=\"https://solscan.io/token/XswbinNKyPmzTa5CskMbCPvMW6G5CMnZXZEeQSSQoie\" rel=\"noopener noreferrer\" target=\"_blank\">ABBVx</a> - AbbVie xStock</li><li><a href=\"https://solscan.io/token/Xs5UJzmCRQ8DWZjskExdSQDnbE6iLkRu2jjrRAB1JSU\" rel=\"noopener noreferrer\" target=\"_blank\">ACNx</a> - Accenture xStock</li><li><a href=\"https://solscan.io/token/XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN\" rel=\"noopener noreferrer\" target=\"_blank\">GOOGLx</a> - Alphabet xStock</li><li><a href=\"https://solscan.io/token/Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg\" rel=\"noopener noreferrer\" target=\"_blank\">AMZNx</a> - Amazon xStock</li><li><a href=\"https://solscan.io/token/XsaQTCgebC2KPbf27KUhdv5JFvHhQ4GDAPURwrEhAzb\" rel=\"noopener noreferrer\" target=\"_blank\">AMBRx</a> - Amber xStock</li><li><a href=\"https://solscan.io/token/XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp\" rel=\"noopener noreferrer\" target=\"_blank\">AAPLx</a> - Apple xStock</li><li><a href=\"https://solscan.io/token/XsPdAVBi8Zc1xvv53k4JcMrQaEDTgkGqKYeh7AYgPHV\" rel=\"noopener noreferrer\" target=\"_blank\">APPx</a> - AppLovin xStock</li><li><a href=\"https://solscan.io/token/Xs3ZFkPYT2BN7qBMqf1j1bfTeTm1rFzEFSsQ1z3wAKU\" rel=\"noopener noreferrer\" target=\"_blank\">AZNx</a> - AstraZeneca xStock</li><li><a href=\"https://solscan.io/token/XswsQk4duEQmCbGzfqUUWYmi7pV7xpJ9eEmLHXCaEQP\" rel=\"noopener noreferrer\" target=\"_blank\">BACx</a> - Bank of America xStock</li><li><a href=\"https://solscan.io/token/Xs6B6zawENwAbWVi7w92rjazLuAr5Az59qgWKcNb45x\" rel=\"noopener noreferrer\" target=\"_blank\">BRK.Bx</a> - Berkshire Hathaway xStock</li><li><a href=\"https://solscan.io/token/XsgSaSvNSqLTtFuyWPBhK9196Xb9Bbdyjj4fH3cPJGo\" rel=\"noopener noreferrer\" target=\"_blank\">AVGOx</a> - Broadcom xStock</li><li><a href=\"https://solscan.io/token/XsNNMt7WTNA2sV3jrb1NNfNgapxRF5i4i6GcnTRRHts\" rel=\"noopener noreferrer\" target=\"_blank\">CVXx</a> - Chevron xStock</li><li><a href=\"https://solscan.io/token/XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1\" rel=\"noopener noreferrer\" target=\"_blank\">CRCLx</a> - Circle xStock</li><li><a href=\"https://solscan.io/token/Xsr3pdLQyXvDJBFgpR5nexCEZwXvigb8wbPYp4YoNFf\" rel=\"noopener noreferrer\" target=\"_blank\">CSCOx</a> - Cisco xStock</li><li><a href=\"https://solscan.io/token/XsaBXg8dU5cPM6ehmVctMkVqoiRG2ZjMo1cyBJ3AykQ\" rel=\"noopener noreferrer\" target=\"_blank\">KOx</a> - Coca-Cola xStock</li><li><a href=\"https://solscan.io/token/Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu\" rel=\"noopener noreferrer\" target=\"_blank\">COINx</a> - Coinbase xStock</li><li><a href=\"https://solscan.io/token/XsvKCaNsxg2GN8jjUmq71qukMJr7Q1c5R2Mk9P8kcS8\" rel=\"noopener noreferrer\" target=\"_blank\">CMCSAx</a> - Comcast xStock</li><li><a href=\"https://solscan.io/token/Xs7xXqkcK7K8urEqGg52SECi79dRp2cEKKuYjUePYDw\" rel=\"noopener noreferrer\" target=\"_blank\">CRWDx</a> - CrowdStrike xStock</li><li><a href=\"https://solscan.io/token/Xseo8tgCZfkHxWS9xbFYeKFyMSbWEvZGFV1Gh53GtCV\" rel=\"noopener noreferrer\" target=\"_blank\">DHRx</a> - Danaher xStock</li><li><a href=\"https://solscan.io/token/Xs2yquAgsHByNzx68WJC55WHjHBvG9JsMB7CWjTLyPy\" rel=\"noopener noreferrer\" target=\"_blank\">DFDVx</a> - DFDV xStock</li><li><a href=\"https://solscan.io/token/Xsnuv4omNoHozR6EEW5mXkw8Nrny5rB3jVfLqi6gKMH\" rel=\"noopener noreferrer\" target=\"_blank\">LLYx</a> - Eli Lilly xStock</li><li><a href=\"https://solscan.io/token/XsaHND8sHyfMfsWPj6kSdd5VwvCayZvjYgKmmcNL5qh\" rel=\"noopener noreferrer\" target=\"_blank\">XOMx</a> - Exxon Mobil xStock</li><li><a href=\"https://solscan.io/token/Xsf9mBktVB9BSU5kf4nHxPq5hCBJ2j2ui3ecFGxPRGc\" rel=\"noopener noreferrer\" target=\"_blank\">GMEx</a> - Gamestop xStock</li><li><a href=\"https://solscan.io/token/Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re\" rel=\"noopener noreferrer\" target=\"_blank\">GLDx</a> - Gold xStock</li><li><a href=\"https://solscan.io/token/XsgaUyp4jd1fNBCxgtTKkW64xnnhQcvgaxzsbAq5ZD1\" rel=\"noopener noreferrer\" target=\"_blank\">GSx</a> - Goldman Sachs xStock</li><li><a href=\"https://solscan.io/token/XszjVtyhowGjSC5odCqBpW1CtXXwXjYokymrk7fGKD3\" rel=\"noopener noreferrer\" target=\"_blank\">HDx</a> - Home Depot xStock</li><li><a href=\"https://solscan.io/token/XsRbLZthfABAPAfumWNEJhPyiKDW6TvDVeAeW7oKqA2\" rel=\"noopener noreferrer\" target=\"_blank\">HONx</a> - Honeywell xStock</li><li><a href=\"https://solscan.io/token/XshPgPdXFRWB8tP1j82rebb2Q9rPgGX37RuqzohmArM\" rel=\"noopener noreferrer\" target=\"_blank\">INTCx</a> - Intel xStock</li><li><a href=\"https://solscan.io/token/XspwhyYPdWVM8XBHZnpS9hgyag9MKjLRyE3tVfmCbSr\" rel=\"noopener noreferrer\" target=\"_blank\">IBMx</a> - International Business Machines xStock</li><li><a href=\"https://solscan.io/token/XsGVi5eo1Dh2zUpic4qACcjuWGjNv8GCt3dm5XcX6Dn\" rel=\"noopener noreferrer\" target=\"_blank\">JNJx</a> - Johnson &amp; Johnson xStock</li><li><a href=\"https://solscan.io/token/XsMAqkcKsUewDrzVkait4e5u4y8REgtyS7jWgCpLV2C\" rel=\"noopener noreferrer\" target=\"_blank\">JPMx</a> - JPMorgan Chase xStock</li><li><a href=\"https://solscan.io/token/XsSr8anD1hkvNMu8XQiVcmiaTP7XGvYu7Q58LdmtE8Z\" rel=\"noopener noreferrer\" target=\"_blank\">LINx</a> - Linde xStock</li><li><a href=\"https://solscan.io/token/XsuxRGDzbLjnJ72v74b7p9VY6N66uYgTCyfwwRjVCJA\" rel=\"noopener noreferrer\" target=\"_blank\">MRVLx</a> - Marvell xStock</li><li><a href=\"https://solscan.io/token/XsApJFV9MAktqnAc6jqzsHVujxkGm9xcSUffaBoYLKC\" rel=\"noopener noreferrer\" target=\"_blank\">MAx</a> - Mastercard xStock</li><li><a href=\"https://solscan.io/token/XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2\" rel=\"noopener noreferrer\" target=\"_blank\">MCDx</a> - McDonald's xStock</li><li><a href=\"https://solscan.io/token/XsDgw22qRLTv5Uwuzn6T63cW69exG41T6gwQhEK22u2\" rel=\"noopener noreferrer\" target=\"_blank\">MDTx</a> - Medtronic xStock</li><li><a href=\"https://solscan.io/token/XsnQnU7AdbRZYe2akqqpibDdXjkieGFfSkbkjX1Sd1X\" rel=\"noopener noreferrer\" target=\"_blank\">MRKx</a> - Merck xStock</li><li><a href=\"https://solscan.io/token/Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu\" rel=\"noopener noreferrer\" target=\"_blank\">METAx</a> - Meta xStock</li><li><a href=\"https://solscan.io/token/XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX\" rel=\"noopener noreferrer\" target=\"_blank\">MSFTx</a> - Microsoft xStock</li><li><a href=\"https://solscan.io/token/XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ\" rel=\"noopener noreferrer\" target=\"_blank\">MSTRx</a> - MicroStrategy xStock</li><li><a href=\"https://solscan.io/token/Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ\" rel=\"noopener noreferrer\" target=\"_blank\">QQQx</a> - Nasdaq xStock</li><li><a href=\"https://solscan.io/token/XsEH7wWfJJu2ZT3UCFeVfALnVA6CP5ur7Ee11KmzVpL\" rel=\"noopener noreferrer\" target=\"_blank\">NFLXx</a> - Netflix xStock</li><li><a href=\"https://solscan.io/token/XsfAzPzYrYjd4Dpa9BU3cusBsvWfVB9gBcyGC87S57n\" rel=\"noopener noreferrer\" target=\"_blank\">NVOx</a> - Novo Nordisk xStock</li><li><a href=\"https://solscan.io/token/Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh\" rel=\"noopener noreferrer\" target=\"_blank\">NVDAx</a> - NVIDIA xStock</li><li><a href=\"https://solscan.io/token/XsGtpmjhmC8kyjVSWL4VicGu36ceq9u55PTgF8bhGv6\" rel=\"noopener noreferrer\" target=\"_blank\">OPENx</a> - OPEN xStock</li><li><a href=\"https://solscan.io/token/XsjFwUPiLofddX5cWFHW35GCbXcSu1BCUGfxoQAQjeL\" rel=\"noopener noreferrer\" target=\"_blank\">ORCLx</a> - Oracle xStock</li><li><a href=\"https://solscan.io/token/XsoBhf2ufR8fTyNSjqfU71DYGaE6Z3SUGAidpzriAA4\" rel=\"noopener noreferrer\" target=\"_blank\">PLTRx</a> - Palantir xStock</li><li><a href=\"https://solscan.io/token/Xsv99frTRUeornyvCfvhnDesQDWuvns1M852Pez91vF\" rel=\"noopener noreferrer\" target=\"_blank\">PEPx</a> - PepsiCo xStock</li><li><a href=\"https://solscan.io/token/XsAtbqkAP1HJxy7hFDeq7ok6yM43DQ9mQ1Rh861X8rw\" rel=\"noopener noreferrer\" target=\"_blank\">PFEx</a> - Pfizer xStock</li><li><a href=\"https://solscan.io/token/Xsba6tUnSjDae2VcopDB6FGGDaxRrewFCDa5hKn5vT3\" rel=\"noopener noreferrer\" target=\"_blank\">PMx</a> - Philip Morris xStock</li><li><a href=\"https://solscan.io/token/XsYdjDjNUygZ7yGKfQaB6TxLh2gC6RRjzLtLAGJrhzV\" rel=\"noopener noreferrer\" target=\"_blank\">PGx</a> - Procter &amp; Gamble xStock</li><li><a href=\"https://solscan.io/token/XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg\" rel=\"noopener noreferrer\" target=\"_blank\">HOODx</a> - Robinhood xStock</li><li><a href=\"https://solscan.io/token/XsczbcQ3zfcgAEt9qHQES8pxKAVG5rujPSHQEXi4kaN\" rel=\"noopener noreferrer\" target=\"_blank\">CRMx</a> - Salesforce xStock</li><li><a href=\"https://solscan.io/token/XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W\" rel=\"noopener noreferrer\" target=\"_blank\">SPYx</a> - SP500 xStock</li><li><a href=\"https://solscan.io/token/XsqBC5tcVQLYt8wqGCHRnAUUecbRYXoJCReD6w7QEKp\" rel=\"noopener noreferrer\" target=\"_blank\">TBLLx</a> - TBLL xStock</li><li><a href=\"https://solscan.io/token/XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB\" rel=\"noopener noreferrer\" target=\"_blank\">TSLAx</a> - Tesla xStock</li><li><a href=\"https://solscan.io/token/Xs8drBWy3Sd5QY3aifG9kt9KFs2K3PGZmx7jWrsrk57\" rel=\"noopener noreferrer\" target=\"_blank\">TMOx</a> - Thermo Fisher xStock</li><li><a href=\"https://solscan.io/token/XsjQP3iMAaQ3kQScQKthQpx9ALRbjKAjQtHg6TFomoc\" rel=\"noopener noreferrer\" target=\"_blank\">TQQQx</a> - TQQQ xStock</li><li><a href=\"https://solscan.io/token/XszvaiXGPwvk2nwb3o9C1CX4K6zH8sez11E6uyup6fe\" rel=\"noopener noreferrer\" target=\"_blank\">UNHx</a> - UnitedHealth xStock</li><li><a href=\"https://solscan.io/token/XsssYEQjzxBCFgvYFFNuhJFBeHNdLWYeUSP8F45cDr9\" rel=\"noopener noreferrer\" target=\"_blank\">VTIx</a> - Vanguard xStock</li><li><a href=\"https://solscan.io/token/XsqgsbXwWogGJsNcVZ3TyVouy2MbTkfCFhCGGGcQZ2p\" rel=\"noopener noreferrer\" target=\"_blank\">Vx</a> - Visa xStock</li><li><a href=\"https://solscan.io/token/Xs151QeqTCiuKtinzfRATnUESM2xTU6V9Wy8Vy538ci\" rel=\"noopener noreferrer\" target=\"_blank\">WMTx</a> - Walmart xStock</li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c7f0d1178f014567891417fde55cb814",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-2f17c9d9e9eb4936a9f61262c26ad60a"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2><strong>Exposure to Stocks as Easy as Getting Any Token</strong></h2>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-44dd2e2ebf224fbbad6a7bc567a109f9",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-79066a449fba4c21b945ad69c9c97354"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong>Getting started is quite easy. Buying xStocks looks and feels just like buying any token on Solana.</strong></p><ul><li><strong>You can use decentralized exchanges or aggregators like </strong><a href=\"https://raydium.io/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Raydium</strong></a><strong>, </strong><a href=\"https://app.kamino.finance/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Kamino</strong></a><strong> or </strong><a href=\"https://jup.ag/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Jupiter</strong></a><strong> to buy AAPLx or SPYx, or any other xStocks.</strong></li><li><strong>On a centralized exchange like </strong><a href=\"https://www.kraken.com/xstocks\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Kraken</strong></a><strong> or </strong><a href=\"https://www.bybit.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Bybit</strong></a><strong>, xStocks appear like any crypto asset. You can buy xStocks and then withdraw to a self-custodial wallet to completely control the assets.&nbsp;</strong></li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "tagName": "a",
+                "id": "builder-f8924b2aa6634adc8ca1d4c0827d7383",
+                "properties": {
+                  "href": "https://x.com/KaminoFinance/status/1939636928510390671",
+                  "target": "_blank"
+                },
+                "linkUrl": "https://x.com/KaminoFinance/status/1939636928510390671",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F091bfecb56e94e8c94187ca625db5e35?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.561,
+                    "lockAspectRatio": false,
+                    "height": 897,
+                    "width": 1600,
+                    "altText": "Image source: Kamino",
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "cursor": "pointer",
+                    "pointerEvents": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-55cb8972c4284fdfaeae4c89863f8e31",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-516409a0f77648b9a2976b98d0fd7c1a"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Image Source: <a href=\"https://x.com/KaminoFinance/status/1939636928510390671\" rel=\"noopener noreferrer\" target=\"_blank\">Kamino</a></p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-f025e58724b9477db72410eaea713d2a",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-541999bed9e0443881d8826e5612203b"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2><strong>Advantages Over Traditional Stock Trading and Brokerage Models for Users</strong></h2><p>It democratizes access to traditional equities. Users gain global market access without brokerage barriers. This is important. One of the classic paths to wealth, like index funds and stock investment, has historically been gatekept to certain geographies.</p><p>xStocks enables non-U.S. users around the world to invest in tokenized versions of U.S. stocks.&nbsp;</p><p>But that’s not all; it unlocks a lot more possibilities.</p><ul><li>xStocks can be traded continuously on Solana. Self-custody enables 24/7 trading on-chain. There is instant settlement as the trades execute on-chain immediately rather than waiting for clearing houses.</li><li>Each xStock can be divided on-chain. So that gives the flexibility of fractional ownership, which otherwise would have been prohibitive. Users can start with a small amount without having to buy a whole share. There is no minimum amount and no management fees.</li><li>The composability also means xStocks can be used as collateral, lent, or pooled. This unlocks new yield strategies that do not exist in legacy finance.</li></ul><p>Imagine someone in Brazil buys $50 of AAPLx at night. They can instantly use part of that position as collateral on Kamino to borrow stablecoins and supply the remainder into a Raydium liquidity pool and earn fees. All within minutes. No broker. No settlement waits.</p><p>This represents a fundamental expansion of what stock ownership can accomplish beyond traditional buy-and-hold strategies.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-10ef75d2e99148a697d7442d5bef98a0",
+                "meta": {
+                  "previousId": "builder-7d23df8aca2643feb66ea1c21cf3894d"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ddfea7f40cc42feb00fb6e812c9f227?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.568,
+                    "lockAspectRatio": false,
+                    "height": 832,
+                    "width": 1466,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-516409a0f77648b9a2976b98d0fd7c1a",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-f025e58724b9477db72410eaea713d2a"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Image Source: <a href=\"https://xstocks.com/\" rel=\"noopener noreferrer\" target=\"_blank\">xStocks</a></p><p>xStocks help fulfill the vision of bringing Wall Street to the blockchain, where regulated equity exposure merges with crypto’s programmability.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e89296c1a68a4c98a30f5325e2311345",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-fdbeee829f0b475596c9b1bd415f1162"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>How do xStocks Work?</h2><p>The basic idea of xStocks is simple. Each stock is tokenized as an <a href=\"https://solana.com/docs/tokens\" rel=\"noopener noreferrer\" target=\"_blank\">SPL token</a> that anyone with a wallet in allowed jurisdictions can buy, hold, and use. But under the hood, it has a lot of moving parts.</p><p>The issuance of xStocks happens under a regulated framework.</p><ol><li><strong>Share Acquisition</strong> - Backed purchases actual shares of companies like Tesla or Apple through traditional brokers and deposits them with a regulated custodian.</li><li><strong>Token Minting</strong> - For every real share held in custody, Backed mints exactly one SPL token on Solana. So 1 Tesla share equals 1 TSLAx token. This keeps the supply tied to real holdings maintaining a strict 1:1 backing ratio.</li><li><strong>Trading Ready</strong> - Chainlink runs dedicated data feeds to provide prices and corporate actions like dividends and splits. In the current xStocks design, the dividends are automatically reinvested into token balances.</li></ol><h3>xStocks utilize Token Extensions on Solana for Custom Functionality and Compliance Features</h3><p>The <a href=\"http://solana.com/tokenextensions\" rel=\"noopener noreferrer\" target=\"_blank\">Token Extensions</a> allow issuers like Backed to enforce rules, manage metadata, and integrate with DeFi on Solana while staying within a compliant framework. It's important to note that the extension set for a token cannot be changed after creation, so some of the following are initialized without actively being used.</p><p>Each xStock token utilizes the following Token Extensions:</p><ul><li><strong>Metadata Pointer</strong> – Links the token mint to off-chain metadata (like name, symbol, description, and market data) hosted by the issuer. This ensures xStocks display correctly across wallets and applications with up-to-date information.</li><li><strong>Scaled UI Amount Config</strong> – Allows the issuer to provide a multiplier that is used to represent onchain corporate actions like stock dividends, splits, and reverse splits. When an issuer updates this multiplier, all wallets holding the token automatically have their balance cosmetically adjusted. This enables point in time unilateral corporate action events that are historically extremely expensive to execute.</li><li><strong>Pausable Config</strong> – Lets the issuer pause all interactions with the token in case of emergencies, regulatory requirements, or security incidents — providing an important safeguard.</li><li><strong>Permanent Delegate </strong>– Assigns an authority designated by the token issuer (in this case, Backed) with ongoing rights to transfer or burn tokens from any address without requiring user-level permissions. This is often a regulatory requirement in order to seize assets based on a lawful court order.</li><li><strong>Default Account State</strong> – While currently set to have all token accounts start in an \"initialized\" state, adding this extension allows Backed to optionally support sRFC-37, enabling efficient blocklist management, in the future, as adoption increases.</li><li><strong>Transfer Hook</strong> – Enables custom logic on every token transfer. This can be used instead of sRFC-37 to support blocklists as required for regulatory compliance. Currently initialized, but disabled.</li><li><strong>Confidential Balances</strong> – Adds the framework for privacy-preserving transfers, where amounts and balances are hidden while still being verifiable and auditable. Currently initialized, but disabled.</li><li><strong>Token Metadata</strong> – Stores onchain metadata including the official name, ticker symbol, and a link to the issuer-hosted metadata file, ensuring transparent and verifiable asset details.</li></ul><p>These features make xStocks programmable in ways traditional securities and assets cannot be, combining compliance tooling with DeFi composability. You can learn more in our <a href=\"https://solana.com/solutions/tokenization\" rel=\"noopener noreferrer\" target=\"_blank\">2025 Tokenized Equities Report</a>.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e7fdeb945bbe49aebf8942dabe73202d",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-21fb6b127f744657b92d8813a17c4c7d"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h3><strong>Launch and Early Traction</strong></h3><p>Backed <a href=\"https://backed.fi/news-updates/xstocks-are-going-live-tokenized-stocks-for-the-defi-era\" rel=\"noopener noreferrer\" target=\"_blank\">launched</a> xStocks on June 30, 2025. The initial offerings included 55+ stocks and ETFs.</p><p>Launch distribution and momentum came from two vectors:</p><ul><li><strong>Centralized Exchanges</strong>: xStocks went live with two major launch partners, Kraken and Bybit, instantly making them available to users in over 185 countries.</li><li><strong>Onchain integrations</strong>: Within hours of launch, xStocks were live on major DeFi venues. Raydium became the primary AMM for on-chain liquidity, with Jupiter aggregating the best quotes. Kamino added xStock collateral pools so users could borrow against positions like AAPLx or TSLAx. Wallets such as Phantom, Solflare displayed the tickers natively alongside regular tokens.</li></ul><p>And then many other players followed, and the integrations formed the xStocks Alliance. It’s a group of exchanges, protocols, and service providers like Backed, Kraken, Bybit, Solana, AlchemyPay, Chainlink, Kamino, Raydium, Jupiter, and other partners who work towards accelerating the adoption of xStocks.</p><p>The result was fast adoption. Composability is the growth engine.</p><p>Within the first month, trading volumes crossed more than $300 million. And by the 6th week, the cumulative volume has crossed $2.1 billion. Onchain DEX activity accounted for <a href=\"https://dune.com/xstocks/xstocks\" rel=\"noopener noreferrer\" target=\"_blank\">more than $110 million</a> of that total.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-ce8c39ba6a9b47ada8cef9d200ad6298",
+                "meta": {
+                  "previousId": "builder-913078e31be2485787a560d8a82c1bd5"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3aaf2dabe65645b7898ac6da8a777aeb?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.468,
+                    "lockAspectRatio": false,
+                    "height": 634,
+                    "width": 1356,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-81b8630ade7e4203b84d2ce8167b1c1a",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-e7fdeb945bbe49aebf8942dabe73202d"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Image Source: <a href=\"https://dune.com/xstocks/xstocks\" rel=\"noopener noreferrer\" target=\"_blank\">Dune</a></p><p>According to rwa.xyz, xStocks on Solana accounted for roughly <a href=\"https://app.rwa.xyz/stocks\" rel=\"noopener noreferrer\" target=\"_blank\">58.4% of all tokenized stock trading</a> in 2025. The total value sits near $86 million, with Solana having over half the market share at $46 million as of August 11, 2025.&nbsp;</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-80b42f1801234618aea7a4d75051683a",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-bd2416b52acd45f0898bc5e5cffda316"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>The $120 Trillion Opportunity</h2><p>Global equity markets are <a href=\"https://www.sifma.org/resources/research/statistics/fact-book/\" rel=\"noopener noreferrer\" target=\"_blank\">massive</a>. The overall market capitalization is over $120 trillion. Tokenization targets a small slice at first, but the opportunity is large.</p><p>xStocks addresses three primary market segments with distinct value propositions.&nbsp;</p><ul><li>Non-U.S. residents. They represent the largest addressable market. These users gain easier access to U.S. equities without traditional brokerage account barriers.</li><li>Crypto-native investors. They want equity exposure that lives inside DeFi. For such users, self-custody, 24/7 access, and composability are important.</li><li>Retail investors. Fractional ownership, weekend trading, and instant settlement make investing cheaper and more flexible for small ticket sizes.</li></ul><p>The broader pitch is familiar to the “Internet Capital Markets” thesis. This tokenization reduces the gates between capital and people, and that can expand participation.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-7abb13c956db44ef939b88bb93f484c4",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-3712a05a10704c988d3f5e71c219e59c"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>The Bridge to Tomorrow</h2><p>It helps to think of xStocks as a bridge. It is a meaningful, practical step toward bringing traditional markets onto the blockchain and narrowing the gap between TradFi and DeFi.</p><p>It delivers two big shifts:</p><ul><li><strong>Access.</strong> People who couldn't reach U.S. markets now can. That alone widens the investor base.</li><li><strong>New ways to use ownership.</strong> A share now becomes a tool that you can borrow against, use in yield strategies, or move fractional pieces across apps. Composability creates new product surfaces that didn’t exist in TradFi.</li></ul><p>Letting public equities behave like tokens is a major upgrade for market infrastructure. xStocks’ early mover position, partnerships with exchanges, and use of Solana’s fast rails give it room to grow into something huge.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-b38a6426323a424b96657e58a227489f",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-76c6d109abbd40379307c4867d9ede6d"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h3>Resources and Further Reading</h3><ul><li><a href=\"https://solana.com/solutions/tokenization\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Tokenized Equities Report 2025</a></li><li><a href=\"http://solana.com/tokenextensions\" rel=\"noopener noreferrer\" target=\"_blank\">Token Extensions on Solana</a></li><li><a href=\"https://xstocks.com/\" rel=\"noopener noreferrer\" target=\"_blank\">xStocks Official Website</a></li><li><a href=\"https://app.rwa.xyz/platforms/backed-finance-xstocks\" rel=\"noopener noreferrer\" target=\"_blank\">xStocks RWA.xyz data dashboard</a></li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-51ad3a68c0fd430fabbd174179fa2bc7",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge",
+                "buttons.0.label",
+                "image.alt"
+              ],
+              "previousId": "builder-2b8f1872b0c841b8824403780f80d3a5"
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F164b00573079495f83756b6c533025f6"
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Internet Capital Markets are here."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p><span style=\"font-size: 20px;\">Tokenize equities and debt, create your own stablecoins and real-world assets, and access the most liquid markets in DeFi.</span></p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Get the Solana Tokenized Equities 2025 Report"
+                    },
+                    "url": "https://solana.com/solutions/tokenization"
+                  }
+                ]
+              },
+              "isRSC": null
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1755560840200,
+  "folders": [],
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3cb7d43fa3be46b99c0c6caecea6fd04",
+  "lastUpdated": 1755563456795,
+  "lastUpdatedBy": "rfkJKsR9FxTVJ7ts7qFHGvOaibA3",
+  "meta": {
+    "componentsUsed": {
+      "Content Editor": 1,
+      "Copy": 16,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": true,
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/case-study-xstocks?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditLayouts%2CeditLayers%2CeditContentPriority%2CeditFolders%2CcreateProjects&builder.user.role.name=Editor&builder.user.role.id=editor&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=3cb7d43fa3be46b99c0c6caecea6fd04&builder.overrides.3cb7d43fa3be46b99c0c6caecea6fd04=3cb7d43fa3be46b99c0c6caecea6fd04&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "originalContentId": "ce0f860b682549caac7bbb8492b390dd",
+    "winningTest": null
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "name": "Case Study: xStocks",
+  "previewUrl": "https://solana.com/news/case-study-xstocks",
+  "published": "published",
+  "query": [],
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F27b2beae77484be084ff77e20f8858bc",
+  "testRatio": 1,
+  "variations": {},
+  "@originId": "3cb7d43fa3be46b99c0c6caecea6fd04",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@liveSyncEnabled": true,
+  "rev": "l9w1e2t4y1"
+}

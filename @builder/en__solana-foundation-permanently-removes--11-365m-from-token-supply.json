@@ -1,0 +1,117 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1590130800000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nToday, the Solana Foundation successfully removed ◎11,365,067 (SOL) tokens from the circulating supply, in accordance with its commitment…\n",
+    "publishedDate": "Fri May 22 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Solana Foundation Permanently Removes ◎11.365M From Token Supply",
+      "ogUrl": "",
+      "ogDescription": "\nToday, the Solana Foundation successfully removed ◎11,365,067 (SOL) tokens from the circulating supply, in accordance with its commitment…\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana Foundation Permanently Removes ◎11.365M From Token Supply",
+      "noFollow": false,
+      "seoDescription": "\nToday, the Solana Foundation successfully removed ◎11,365,067 (SOL) tokens from the circulating supply, in accordance with its commitment…\n",
+      "seoTitle": "Solana Foundation Permanently Removes ◎11.365M From Token Supply",
+      "noIndex": false
+    },
+    "title": "Solana Foundation Permanently Removes ◎11.365M From Token Supply",
+    "twitterMeta": {
+      "twitterTitle": "Solana Foundation Permanently Removes ◎11.365M From Token Supply",
+      "twitterDescription": "\nToday, the Solana Foundation successfully removed ◎11,365,067 (SOL) tokens from the circulating supply, in accordance with its commitment…\n",
+      "twitterImage": null
+    },
+    "slug": "solana-foundation-permanently-removes--11-365m-from-token-supply",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-2d820145c42f4b9b8ee1f987f820c2b5",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-72768bca696d4af9aace9475774a6691",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Today, the Solana Foundation successfully removed ◎11,365,067 (SOL) tokens from the token supply, in accordance with its&nbsp;<a href=\"https://medium.com/solana-labs/solana-will-reduce-its-token-supply-to-account-for-market-making-allocation-b8366288acef?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">commitment</a>&nbsp;earlier this month to reduce the token supply to account for market-making activity.</p><p>At the time of this publication, the circulating supply is ◎16,350,594, which aligns with the total projected supply for May, as outlined in the SOL Token release schedule in the&nbsp;<a href=\"https://research.binance.com/projects/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Binance Research Report</a>, and is inclusive of all unlocked tokens not in the direct control of Solana Labs and the Foundation, including market making activity. Furthermore, no investors’ or team’s tokens have unlocked to date, nor are any additional tokens scheduled to be released by the Foundation in the month of May.</p><p>Throughout this process we have worked closely with key stakeholders and community members to determine the most efficient course of action. We’re grateful for the community’s support and participation. To summarize the Foundation’s actions this month:</p><ul><li>The Solana Foundation received a total of ◎3,365,067 back from the market maker, which were transferred to a wallet directly controlled by the Solana Foundation. The transaction took place on May 11th and 12th across four transactions¹.</li><li>An additional ◎8,000,000 was transferred from the Foundation into the same wallet, on May 22nd². This corresponds to the expected maximum monthly issuance of Foundation tokens that was otherwise scheduled for May (as previously published in the SOL Token release schedule in the Binance Research Report). These two steps brought the total amount of SOL in the Foundation controlled wallet to ◎11,365,067.</li><li><strong>The entire ◎11,365,067 was then removed from the supply</strong>³ by transferring the tokens to a&nbsp;<a href=\"https://github.com/solana-labs/solana/blob/b7a32f01c08dad2b0e0da770d4d0038c2bfc8762/core/src/non_circulating_supply.rs?ref=solana.ghost.io#L62-L77\" rel=\"noopener noreferrer\" target=\"_blank\">white-listed</a>&nbsp;wallet of non-circulating supply addresses (for further information on circulating and non-circulating supplies, please refer the public methods of accessing the current values below).</li><li>The ◎11,365,067, now in the non-circulating supply wallet, are scheduled to be sent to the Solana burn address once the Solana network reaches epoch 30. The burn address⁴ is a new feature, recently implemented and currently disabled. However, it is scheduled to be enabled at epoch 30⁵. By transferring the non-circulating ◎11,365,067 to this address, it will be permanently removed from the total supply.</li></ul><p>To thank the community for its patience during this process, the Solana Foundation, in coordination with Binance, will initiate a $100,000 BNB airdrop process shortly. As described in the previous announcement, this airdrop is eligible to Binance customers who traded SOL on Binance between the initial listing on 2020/04/09 4:00AM (UTC) and 2020/04/28 4:00 AM (UTC). The airdrop is to be distributed in proportion to those customers’ total trading volume in that period, provided eligibility requirements are met. We are coordinating with Binance to oversee this process and they will be making deposits directly.</p><p>The Solana Foundation is committed to facilitating healthy, sustainable growth for the SOL token ecosystem. To that end, we recently engaged the team at Hummingbot, an open source, institutional-grade automated market maker, to provide additional liquidity to the market. More can be read about that announcement&nbsp;<a href=\"https://medium.com/solana-labs/hummingbot-and-solana-team-up-to-launch-a-liquidity-mining-campaign-60d02bd2f607?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p>Finally, to ensure additional clarity moving forward, the current circulating supply is now accessible to be read directly from the network via:</p><ul><li>API Endpoint:<a href=\"http://api.mainnet-beta.solana.com/v0/circulating-supply?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;http://api.mainnet-beta.solana.com/v0/circulating-supply</a></li><li>JSON RPC:&nbsp;<a href=\"https://docs.solana.com/apps/jsonrpc-api?ref=solana.ghost.io#getsupply\" rel=\"noopener noreferrer\" target=\"_blank\">https://docs.solana.com/apps/jsonrpc-api#getsupply</a></li></ul><p>The current Total and Circulating Supply of SOL can also be referenced on the Solana Explorer at&nbsp;<a href=\"http://explorer.solana.com/supply?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">http://explorer.solana.com/supply</a>. A list of addresses excluded from the circulating supply calculation can be seen&nbsp;<a href=\"https://github.com/solana-labs/solana/blob/master/core/src/non_circulating_supply.rs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p>Any additional questions can be directed to&nbsp;<a href=\"http://hello@solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">hello@solana.com</a>.</p><p>—</p><p>¹ ◎3,365,067 back from the market maker: Transaction&nbsp;<a href=\"https://explorer.solana.com/transactions/uQf4pS38FjRF294QFEXizhYkZFjSR9ZSBvvV6MV5b4VpdfRnK3PY9TWZ2qHMQKtte3XwKVLcWqsTF6wL9NEZMty?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">1</a>,&nbsp;<a href=\"https://explorer.solana.com/transactions/DYrfStEEzbV5sftX8LgUa54Nwnc5m5E1731cqBtiiC66TeXgKpfqZEQTuFY3vhHZ2K1BsaFM3X9FqisR28EtZr8?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">2</a>,&nbsp;<a href=\"https://explorer.solana.com/transactions/3bLx2PLpkxCxJA5P7HVe8asFdSWXVAh1DrxfkqWE9bWvPRxXE2hqwj1vuSC858fUw3XAGQcHbJknhtNdxY2sehab?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">3</a>,&nbsp;<a href=\"https://explorer.solana.com/transactions/3fE8xNgyxbwbvA5MX3wM87ahDDgCVEaaMMSa8UCWWNxojaRYBgrQyiKXLSxcryMWb7sEyVLBWyqUaRWnQCroSqjY?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">4</a></p><p>² ◎8,000,000 from Foundation: Transaction&nbsp;<a href=\"https://explorer.solana.com/transactions/5PWymGjKV7T1oqeqGn139EHFyjNM2dnNhHCUcfD2bmdj8cfF95HpY1uJ84W89c4sJQnmyZxXcYrcjumx2jHUvxZQ?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">1</a></p><p>³ ◎11,365,067 removed from supply: Transaction&nbsp;<a href=\"https://explorer.solana.com/transactions/5K4KuqTTRNtzfpxWiwnkePzGfsa3tBEmpMy7vQFR3KWFAZNVY9tvoSaz1Yt5dKxcgsZPio2EsASVDGbQB1HvirGD?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">1</a></p><p>⁴ Solana burn address:&nbsp;<a href=\"https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">1nc1nerator11111111111111111111111111111111</a></p><p>⁵ As of the time of publication, the network is 8% of the way through epoch 29. Epoch 30 is estimated to be reached around 3am on 5/25/2020.</p><p>—</p><p><strong>Corrections &amp; Updates</strong></p><p>5/25/2020: Epoch 30 was reached and the burn was successful.</p><p>6/2/2020: This article originally stated that the tokens were removed from the “circulating” supply. The language has been updated to reflect that tokens were removed from a combination of circulating and non-circulating supply.</p><p>6/2/2020: The $100k airdrop has now been distributed.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F725bc781d1e549659a9b4c420878a793",
+  "lastUpdated": 1696416750707,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_72b25b554c7a4c82b93544241fafa59b",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687530373959,
+  "@originId": "72b25b554c7a4c82b93544241fafa59b",
+  "testRatio": 1,
+  "createdDate": 1687362701314,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=72b25b554c7a4c82b93544241fafa59b&builder.overrides.72b25b554c7a4c82b93544241fafa59b=72b25b554c7a4c82b93544241fafa59b&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Foundation Permanently Removes ◎11.365M From Token Supply",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

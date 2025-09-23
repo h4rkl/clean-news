@@ -1,0 +1,228 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1651604400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd4b3e97b2a4d4c87ace14fcefaa19c28",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Transaction requests elevate the power of a simple purchase",
+    "publishedDate": "Wed May 04 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Solana Pay transaction requests bring on-chain interactivity to the off-chain world",
+      "ogUrl": "",
+      "ogDescription": "Transaction requests elevate the power of a simple purchase",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana Pay transaction requests bring on-chain interactivity to the off-chain world",
+      "noFollow": false,
+      "seoDescription": "Transaction requests elevate the power of a simple purchase",
+      "seoTitle": "Solana Pay transaction requests bring on-chain interactivity to the off-chain world",
+      "noIndex": false
+    },
+    "title": "Solana Pay transaction requests bring on-chain interactivity to the off-chain world",
+    "twitterMeta": {
+      "twitterTitle": "Solana Pay transaction requests bring on-chain interactivity to the off-chain world",
+      "twitterDescription": "Transaction requests elevate the power of a simple purchase"
+    },
+    "slug": "solana-pay-transaction-requests-bring-on-chain-interactivity-to-the-off-chain-world",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_29b188b21b454f448f5aa0d064429cce"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-0d00574ef582444e8101ff7cfa092b0d",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-71cc2a94cf6a474389207dce7f181f2f",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana Pay continues to reshape the world of payments.</p><p>Only three months past&nbsp;<a href=\"https://solana.com/news/solana-pay-announcement?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">its introduction</a>, the first truly decentralized payments rail has captured&nbsp;<a href=\"https://solana.com/news/solana-pay-update-march-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the hearts and minds</a>&nbsp;of merchants and developers seeking a modern way to bring commerce activity on chain. In fact, many of the 130-plus competitors in the inaugural payments track of the recently completed&nbsp;<a href=\"https://solana.com/news/riptide-hackathon-winners-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Riptide hackathon</a>&nbsp;leveraged Solana Pay.</p><p>Solana Pay is now taking another leap forward with the availability of&nbsp;<strong>transaction requests</strong>&nbsp;for developers and merchants. Until now, Solana Pay has relied on simple one-way transfers of SOL, USDC, NFTs, and other tokens. These were fantastic starting points to enable truly decentralized payments.</p><p>But with transaction requests, it’s now possible to bring any Solana transaction into the real world through an interactive request between a checkout app and a mobile wallet, enabling NFT minting, dynamic discounts, tokenized loyalty programs, and so much more. Here’s how it works:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5da824b552d94b7c8595976955f75a70",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6ff6166d7c54f7ea7b43362dfdd9771?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.487,
+                "lockAspectRatio": false,
+                "height": 779,
+                "width": 1600,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6ff6166d7c54f7ea7b43362dfdd9771?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6ff6166d7c54f7ea7b43362dfdd9771?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6ff6166d7c54f7ea7b43362dfdd9771?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6ff6166d7c54f7ea7b43362dfdd9771?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6ff6166d7c54f7ea7b43362dfdd9771?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6ff6166d7c54f7ea7b43362dfdd9771?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6ff6166d7c54f7ea7b43362dfdd9771?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6ff6166d7c54f7ea7b43362dfdd9771?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6ff6166d7c54f7ea7b43362dfdd9771?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f76d2795710b4b968162ff4da05d9ba9",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<ol><li>The customer scans a merchant QR code, which their wallet app interprets as a Solana Pay transaction request URL.</li><li>The wallet makes an HTTP request to the merchant API.</li><li>The merchant receives the wallet address in the request and can respond with a customized transaction for the customer.</li><li>The wallet shows the transaction details to the customer just like any other transaction, and can also display a merchant URL and icon.</li><li>The customer approves (or declines) the transaction, signing with their private key, and sending the transaction to the network.</li></ol><p>Transaction requests elevate the power of a simple purchase, allowing any transaction that’s possible on Solana. Here are a some initial use cases for devs to explore:</p><ul><li>Merchants can enact a true bi-directional communication channel with customers. They can atomically mint an NFT or transfer loyalty tokens in the transaction at the point of sale.</li><li>Composable DeFi transactions involving borrowing, swaps, escrow, privacy, and more, can occur at the point of sale, enabling refunds, chargebacks, insurance, buy-now-pay-later, discounts, rewards, and yield generation.</li><li>Merchants can opt to pay for transaction fees, token account creation, and NFT minting on their customers’ behalf so they don't need SOL in their wallet, reducing the friction of interacting with the Solana ecosystem.</li><li>Merchants can decline to respond to a transaction request, which could be used to allow permissioned payments, such as in cases where authentication is required for compliance.</li><li>Think beyond payments. Merchants and brands can create dynamic experiences that send tokens, invitations, and gifts to customers. Check out mtnPay’s&nbsp;<a href=\"https://twitter.com/mtnPay/status/1512845787381829634?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Booth app</a>&nbsp;which mints 1:1 NFTs for customers using transaction requests.</li></ul><p>Transaction requests are now live and available for developers and merchants to use.&nbsp;<a href=\"https://phantom.app/download?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Phantom</a>&nbsp;and&nbsp;<a href=\"https://solflare.com/?ref=solana.ghost.io#devices-available\" rel=\"noopener noreferrer\" target=\"_blank\">Solflare</a>&nbsp;support them today, and more wallets are already working on it. Devs can read the spec&nbsp;<a href=\"https://docs.solanapay.com/spec?ref=solana.ghost.io#specification-transaction-request\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>, configure the&nbsp;<a href=\"https://github.com/solana-labs/solana-pay/tree/master/point-of-sale?ref=solana.ghost.io#using-transaction-requests\" rel=\"noopener noreferrer\" target=\"_blank\">Point of Sale app</a>&nbsp;to use transaction requests, read&nbsp;<a href=\"https://docs.solanapay.com/core/transaction-request/merchant-integration?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the merchant integration guide</a>, and&nbsp;<a href=\"https://discord.com/invite/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">join the Solana Tech Support Discord</a>. There’s also&nbsp;<a href=\"https://www.pointer.gg/tutorials/solana-pay-irl-payments/42175888-6330-4e5b-adef-c76ce490f903?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a tutorial available from Pointer</a>.</p><p>On May 5th, 2022, Solana Pay took over Atlas Cafe in San Francisco to demonstrate the unique utility of blockchain-based payments. Cafe customers made a purchase with USDC via Solana Pay, which automatically minted them an NFT loyalty token from Atlas and generated 20% off the purchase. The token is also good for automatic discounts through the end of May at Atlas when using Solana Pay.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7dbdc80235104ea4ad07fee8e49e2329",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/solana/status/1522597374559981570?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1522597374559981570%7Ctwgr%5E6589a2ce03c968187ce8efb7da08c2a8d16d276d%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fsolana-pay-transaction-requests-bring-on-chain-interactivity-to-the-off-chain-world</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0236cd6c1cc84f38827e76336a344dc0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This post has been updated with details about the Solana Pay takeover at Atlas Cafe on May 5th, 2022.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfa646e4f2c344a59a96d7bdc4bb208c",
+  "lastUpdated": 1696414790889,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f1fa4ec1db2d4e9fba6984da8c70ac29",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687551479564,
+  "@originId": "f1fa4ec1db2d4e9fba6984da8c70ac29",
+  "testRatio": 1,
+  "createdDate": 1687362508114,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=f1fa4ec1db2d4e9fba6984da8c70ac29&builder.overrides.f1fa4ec1db2d4e9fba6984da8c70ac29=f1fa4ec1db2d4e9fba6984da8c70ac29&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Pay transaction requests bring on-chain interactivity to the off-chain world",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

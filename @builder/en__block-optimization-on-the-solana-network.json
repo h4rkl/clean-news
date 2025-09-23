@@ -1,0 +1,189 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/block-optimization-on-the-solana-network",
+  "data": {
+    "datePublished": 1710475200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1874ed15459645e7b8f3afb21a38041f",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "There are a number of tools developers and operators can implement today to ensure continued high performance, and forthcoming protocol level improvements.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1874ed15459645e7b8f3afb21a38041f",
+      "seoDescription": "There are a number of tools developers and operators can implement today to ensure continued high performance, and forthcoming protocol level improvements.",
+      "seoTitle": "Block Optimization on the Solana Network"
+    },
+    "title": "Block Optimization on the Solana Network",
+    "slug": "block-optimization-on-the-solana-network",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-758b244de0f242799595422dd2422784",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f0964c61e1564d639752d1461872098c",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  The Solana network has been experiencing extremely high usage which has tested\n  components of the network — specifically the implementation of priority fees\n  and the transaction scheduler, both of which play important roles in block\n  optimization. While the network has remained stable during this period of high\n  usage, there are a number of tools developers and operators can implement\n  today to ensure continued high performance, as well as additional changes in\n  the works that will be released in the forthcoming software release to improve\n  network application performance.\n</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5cf937a1954646d9bf505d9812f973af",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Immediate Actions to Improve Network Performance</h2><ul><li><strong>Implement Priority Fees:</strong> Many applications built on Solana today still do not make use of priority fees, resulting in delayed or dropped transactions. Integrating dynamic priority fees into dApps will help address user experience issues. It is a straightforward integration. Read more: <a href=\"https://solana.com/developers/guides/advanced/how-to-use-priority-fees\" rel=\"noopener noreferrer\" target=\"_blank\">https://solana.com/developers/guides/advanced/how-to-use-priority-fees</a>.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-93202ea605744ae09294412f043f03f7",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<ul>\n  <li>\n    <strong>Priority fees</strong> are also being integrated into the CLI for\n    use in program deployment.&nbsp;\n  </li>\n  <li>\n    <strong>Exchanges</strong> can read use this updated guide for calculating\n    priority fees:\n    <a\n      href=\"https://solana.com/docs/more/exchange#prioritization-fees-and-compute-units\"\n      rel=\"noopener noreferrer\"\n      target=\"_blank\"\n      >https://solana.com/docs/more/exchange#prioritization-fees-and-compute-units</a\n    >&nbsp;\n  </li>\n</ul>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingLeft": "50px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cbd16d310343464cbe4df57657d42e19",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<ul>\n  <li>\n    <strong>Optimize Program CU Usage:</strong> When a transaction is confirmed\n    on the network, the transaction subtracts a number of total compute units\n    (CU) available in a block. Today the total compute cap on a block is 48M CU,\n    and during times of congestion this cap is often reached. Reducing the\n    number of CUs used in your programs can increase the amount of transactions\n    that can land on the network. Read more:\n    <a\n      href=\"https://solana.com/developers/guides/advanced/how-to-optimize-compute\"\n      rel=\"noopener noreferrer\"\n      target=\"_blank\"\n      >https://solana.com/developers/guides/advanced/how-to-optimize-compute</a\n    >\n  </li>\n  <li>\n    <strong>CU Budget Request Optimization:</strong> When a transaction is\n    submitted to the network, developers can specify a compute unit budget for\n    their specific transactions. If no budget is set, a default value is used,\n    which is higher than most transactions require. As there is currently no\n    penalty for requesting a higher budget than the transaction actually uses,\n    many transactions do not use the entire CU budget they are allocated.\n    Requesting too much compute upfront can lead to inefficient scheduling of\n    transactions, as the scheduler does not know how much compute is left in a\n    block until the transaction is executed. Developers should implement better\n    scoped CU requests that match the transaction requirements.\n  </li>\n  <li>\n    <strong>Use Stake-Weighted QoS: </strong>Infrastructure providers should\n    adopt stake-weighted QoS, a core protocol feature introduced last year which\n    allows block builders to identify and prioritize transactions proxied\n    through a staked validator, as an additional sybil resistance mechanism. A\n    guide to stake-weighted QoS is coming soon, and will be linked here once\n    ready.\n  </li>\n</ul>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8f60758636eb42ab97092bbe80fce8e0",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Upcoming Core Protocol Changes in v1.18</h2><ul><li><strong>The Transaction Scheduler: </strong>This component of the validator stack that helps efficiently and economically fill blocks is scheduled for improvement within the v1.18 software release, targeted for mid April. Changes to this component require careful testing. This new scheduler implementation will be introduced alongside the current scheduler in the v1.18 software release, but will not be enabled by default. Validator operators will be able to enable and monitor the performance of the new scheduler and easily failover back to the old scheduler if any problems are detected.</li></ul><p>The Solana Foundation will continue to keep the community updated. For the latest information, please refer to the <a href=\"https://twitter.com/solanafndn\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Foundation's X account</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5403ba708d6f400f93c55c0d5365b08b",
+  "lastUpdated": 1710529546467,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_49bc92027dc44c659cbccbf3817f724a",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1710520965731,
+  "@originId": "49bc92027dc44c659cbccbf3817f724a",
+  "testRatio": 1,
+  "createdDate": 1710514857778,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/block-optimization-on-the-solana-network?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=49bc92027dc44c659cbccbf3817f724a&builder.overrides.49bc92027dc44c659cbccbf3817f724a=49bc92027dc44c659cbccbf3817f724a&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 5,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Block Optimization on the Solana Network",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

@@ -1,0 +1,173 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/breakpoint-2023-day-3-render-network-peter-moore-armani-ferrante",
+  "data": {
+    "datePublished": 1698948000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5bd0d6c13aaf42a0b40210c01bf08526",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Check out the highlights from Solana Campus.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5bd0d6c13aaf42a0b40210c01bf08526",
+      "seoDescription": "Dig into the news from Breakpoint 2023's Solana Campus.",
+      "seoTitle": "Solana | Day 3 at Breakpoint: Peter Moore, Armani Ferrante, and Render Network!"
+    },
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Day 3 at Breakpoint: Peter Moore, Armani Ferrante, and Render Network!"
+    },
+    "slug": "breakpoint-2023-day-3-render-network-peter-moore-armani-ferrante",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-971712c525e4416a8943ab59971c2b15",
+        "meta": {
+          "previousId": "builder-d4686bd12e6f490d9c281b400140888c"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f581d97db52248faa631df76621a628a",
+            "meta": {
+              "previousId": "builder-378c000f18954250979014e81d27058e"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>It may have been a blustery day, but Breakpoint still shone on! Day 3 was full of ecosystem announcements, exciting talks, and historical retrospectives. Here’s the highlights.&nbsp;</p><h3>Session Highlights</h3><ul><li>Video game veteran and former executive at Sega, XBox, and Electronic Arts <a href=\"https://youtu.be/eFN-IeVmZgg?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\">Peter Moore</a> gave a look back at the past — and future — of the video game industry.</li><li>Veteran developer Armani Ferrante dug into some of <a href=\"https://www.youtube.com/watch?v=kSG-NK8qldc\" rel=\"noopener noreferrer\" target=\"_blank\">the future plans</a> of Backpack and X.</li><li>At “Creating Opportunities for Artists and Collectors” on the Innovator Stage, the Solana Foundation announced it and the greater community will be heading to <a href=\"https://twitter.com/SolanaFndn/status/1720046867394810036\" rel=\"noopener noreferrer\" target=\"_blank\">Art Basel Miami</a> this December. ExchangeArt also dropped <a href=\"https://www.youtube.com/watch?v=a_AG7teev7I\" rel=\"noopener noreferrer\" target=\"_blank\">previews</a> on some upcoming plans.</li><li>On the Developer Stage, Steven Luscher of Solana Labs introduced the <a href=\"https://youtu.be/JUJtAPhES5g?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\">new web3.js</a>.</li><li>On the Main Stage, Trevor Harries-Jones <a href=\"https://smb.greenvilleadvocate.com/article/Render-Network-Completes-Its-Successful-Upgrade-To-Solana?storyId=6543c85d2661f32216c74ff2\" rel=\"noopener noreferrer\" target=\"_blank\">announced that Render Network</a>, the world’s leading decentralized compute network, has successfully upgraded its core infrastructure from Ethereum to Solana.&nbsp;</li><li>Star Atlas’ Michael Wagner took to the Main Stage to preview <a href=\"https://twitter.com/staratlas/status/1720038598211162328\" rel=\"noopener noreferrer\" target=\"_blank\">what’s to come</a> to the browser-based game.</li><li>Hue Rhodes announced the<a href=\"https://blockster.com/friday-protocol-unveils-mobile-app-at-solana-breakpoint-empowering-users-to-reclaim-their-data\" rel=\"noopener noreferrer\" target=\"_blank\"> launch of FRIDAY</a>, a mobile consumer app that gives users access to their web2 data.</li><li>See all Day 3 panels <a href=\"https://www.youtube.com/@SolanaFndn\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</li></ul><h3>Event Highlights</h3><ul><li>Aurory has been <a href=\"https://twitter.com/SolanaConf/status/1720106154200572376?t=Yi90q-wo-kT5Ich_4_eTyQ&amp;s=19\" rel=\"noopener noreferrer\" target=\"_blank\">previewing their blockchain game</a> on the Innovator Stage!</li><li>Also at the Innovator Stage, Raposa Coffee has been creating <a href=\"https://twitter.com/beeman_nl/status/1720094839357026528\" rel=\"noopener noreferrer\" target=\"_blank\">PFP lattes</a> at their booth!</li></ul><h3>ICYMI</h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b4b10d92e56748f2976d88b5329e889d",
+            "meta": {
+              "previousId": "builder-f2878ed77d4e484dba8e03eb2359ba50"
+            },
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://twitter.com/keoneHD/status/1720128971759653187",
+                "content": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" align=\"center\"><p lang=\"en\" dir=\"ltr\">Weather has been insane all week, but vibes are immaculate at Breakpoint! <a href=\"https://t.co/8Jlhk9R7cV\">pic.twitter.com/8Jlhk9R7cV</a></p>&mdash; Keone (@keoneHD) <a href=\"https://twitter.com/keoneHD/status/1720128971759653187?ref_src=twsrc%5Etfw\">November 2, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5bbe853270894c7ba9dde2ffcdca3cc7",
+            "meta": {
+              "previousId": "builder-89d840ea582d424e833cc790fc3dfd8e"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Tune into our <a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">livestream</a> to catch all the action from home. Don’t miss out on the excitement and knowledge being shared on the last day of Breakpoint.</p><p>Engage with Breakpoint attendees and the Solana community at <a href=\"https://twitter.com/solanaconf\" rel=\"noopener noreferrer\" target=\"_blank\">@SolanaConf</a>. Use the hashtag <a href=\"https://twitter.com/search?q=%23Breakpoint2023&amp;src=typed_query\" rel=\"noopener noreferrer\" target=\"_blank\">#Breakpoint2023</a> to share your moments and follow the conversation!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc24a7c0578404d3d8f310b46c933e217",
+  "lastUpdated": 1725702268040,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e15b46ab47e94a15ad1ea9389666139d",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1698781360928,
+  "@originId": "e15b46ab47e94a15ad1ea9389666139d",
+  "testRatio": 1,
+  "createdDate": 1698950686800,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/breakpoint-2023-day-3-render-network-peter-moore-armani-ferrante?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=e15b46ab47e94a15ad1ea9389666139d&builder.overrides.e15b46ab47e94a15ad1ea9389666139d=e15b46ab47e94a15ad1ea9389666139d&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "originalContentId": "39482f4d49b8488b8ddc04743c2bc5a4",
+    "componentsUsed": {
+      "Copy": 2,
+      "Section Molecule": 1
+    },
+    "hasLinks": false,
+    "winningTest": null
+  },
+  "name": "Day 3 at Breakpoint: Peter Moore, Armani Ferrante, and Render Network!",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

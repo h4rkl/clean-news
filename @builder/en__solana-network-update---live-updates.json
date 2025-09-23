@@ -1,0 +1,126 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1606982400000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nSolana network outage on December 4th, 2020\n",
+    "publishedDate": "Thu Dec 03 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "seo": {
+      "internalName": "Solana Network Update — Live Updates",
+      "noFollow": false,
+      "seoDescription": "\nSolana network outage on December 4th, 2020\n",
+      "seoTitle": "Solana Network Update — Live Updates",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Solana Network Update — Live Updates",
+      "ogUrl": "https://www.solana.com/blog/solana-network-update---live-updates",
+      "ogDescription": "\nSolana network outage on December 4th, 2020\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "Solana Network Update — Live Updates",
+    "twitterMeta": {
+      "twitterTitle": "Solana Network Update — Live Updates",
+      "twitterImage": null,
+      "twitterDescription": "\nSolana network outage on December 4th, 2020\n"
+    },
+    "slug": "solana-network-update---live-updates",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_fef5a877104b48dfaa1e762da9566882"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-b19c2384604e4e12a8fcbd02948f710b",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3ee3e6c01aaa4711bf76042b79a6c437",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Solana network outage on December 4th,&nbsp;2020</strong></h2><p>At approximately 1:46pm UTC on December 4th, 2020, the Solana Mainnet Beta cluster stopped producing blocks at slot 53,180,900, which prevented any new transactions from being confirmed. The Solana team is actively working with the validator community to restart the network. No funds are at risk, and the team’s primary focus is performing a smooth restart of the network. As information unfolds, we will continue to provide updates in this post, on Discord, and on our social platforms.</p><p><strong>UPDATE</strong>: As of 9:30pm UTC 12/7/20, Solana Engineers have identified the issue and are working on a post-mortem. Again, no funds are at risk and the network is functioning normally. Once the issue is fully patched and validators update to the fix, a comprehensive post-mortem will be published.</p><p>While we work on the fix, we would like to thank the passionate and diligent global network of validators who identified this issue and coordinated to restart the network.</p><h2><strong>Live Updates</strong></h2><p><strong>1:46pm UTC:&nbsp;</strong>The Mainnet Beta network halted new block confirmation. Validators began to work with the team in Discord to identify the issue.</p><p><strong>2:02pm UTC:&nbsp;</strong>DevOps began their investigation into the root cause of the issue.</p><p><strong>2:18pm UTC:&nbsp;</strong>The validator community began collecting logs in&nbsp;<a href=\"https://github.com/solana-labs/solana/issues/13958?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">GitHub</a>&nbsp;to assist with the diagnosis.</p><p><strong>2:45pm UTC:&nbsp;</strong>Initial cluster restart plans were assembled.</p><p><strong>4:22pm UTC:&nbsp;</strong>The engineering team began testing the network restart instructions.</p><p><strong>4:50pm UTC:&nbsp;</strong>Network restart instructions were circulated to the validator community; the cluster restart began.</p><p><strong>5:56pm UTC:</strong>&nbsp;58% of active stake is prepared to restart.</p><p><strong>6:19pm UTC:&nbsp;</strong>63% of active stake is prepared to restart.</p><p><strong>6:41pm UTC:&nbsp;</strong>67% of active stake is prepared to restart.</p><p><strong>7:14pm UTC:&nbsp;</strong>73% of active stake is prepared to restart.</p><p><strong>7:22pm UTC:&nbsp;</strong>77% of active stake is prepared to restart. 80% is needed for the network to resume.</p><p><strong>7:32pm UTC:</strong>&nbsp;80% reached. The network has restarted and blocks are once again being produced.</p><p><strong>7:46pm UTC:</strong>&nbsp;Network activity on&nbsp;<a href=\"http://explorer.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">explorer.solana.com</a>&nbsp;has resumed.&nbsp;<a href=\"http://solanabeach.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">solanabeach.io</a>&nbsp;is expected to resume functioning shortly.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F55d134fb277243c4b973c25f74a429dd",
+  "lastUpdated": 1694189927109,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e4874028220d4b86a839ee38cf959b89",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687593047068,
+  "@originId": "e4874028220d4b86a839ee38cf959b89",
+  "testRatio": 1,
+  "createdDate": 1687362655813,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=e4874028220d4b86a839ee38cf959b89&builder.overrides.e4874028220d4b86a839ee38cf959b89=e4874028220d4b86a839ee38cf959b89&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Network Update — Live Updates",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

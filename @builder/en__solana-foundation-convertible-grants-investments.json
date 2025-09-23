@@ -1,0 +1,191 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1681455600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7621368333784f9fbed3b695b0d8ac65",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "New additions to the grants process will allow the Foundation to support commercial projects.",
+    "publishedDate": "Fri Apr 14 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Solana Foundation introduces convertible grants and  investments to support Solana ecosystem",
+      "ogUrl": "",
+      "ogDescription": "New additions to the grants process will allow the Foundation to support commercial projects.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana Foundation introduces convertible grants and  investments to support Solana ecosystem",
+      "noFollow": false,
+      "seoDescription": "New additions to the grants process will allow the Foundation to support commercial projects.",
+      "seoTitle": "Solana Foundation introduces convertible grants and  investments to support Solana ecosystem",
+      "noIndex": false
+    },
+    "title": "Solana Foundation introduces convertible grants and  investments to support Solana ecosystem",
+    "twitterMeta": {
+      "twitterTitle": "Solana Foundation introduces convertible grants and  investments to support Solana ecosystem",
+      "twitterDescription": "New additions to the grants process will allow the Foundation to support commercial projects."
+    },
+    "slug": "solana-foundation-convertible-grants-investments",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-0d5d6707642448a98db42aca0834a16a",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3b4ed25bc28144ad9f2b5a51c13c7fc0",
+            "meta": {
+              "previousId": "builder-9589dbd9b50043d6bbdde0754799e5e5"
+            },
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Since its founding in 2019, the Solana Foundation has provided funding to projects around the world that are advancing the adoption, utility, decentralization, and security of the Solana network. It has done so primarily through grants, which support the development of noncommercial public goods on Solana.</p><p>The Solana Foundation’s objective is to make sure the right projects are getting the right funding at the right time. And while grants have had a significant impact — supporting third-party development of&nbsp;<a href=\"https://beta.solpg.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">new educational resources</a>&nbsp;for developers,&nbsp;<a href=\"https://www.cardinal.so/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">new infrastructure</a>&nbsp;for NFTs, and even&nbsp;<a href=\"https://jumpcrypto.com/firedancer/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">alternate validator clients</a>&nbsp;— there is more that can be done to support the greater Solana ecosystem.</p><p>Today, the Solana Foundation is excited to announce that its capital deployment strategy is expanding to include&nbsp;<strong><u>convertible grants</u></strong>&nbsp;and&nbsp;<strong><u>investments</u></strong><u>.</u></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1665faabd7dc4ff4aa6014e8786ee7df",
+            "meta": {
+              "previousId": "builder-3d01a78fb24c4e8f8b1de6b55856c8f1"
+            },
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc4cb9b6e16f74f32a2af618734d8cb58?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 540,
+                "width": 960,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc4cb9b6e16f74f32a2af618734d8cb58?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc4cb9b6e16f74f32a2af618734d8cb58?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc4cb9b6e16f74f32a2af618734d8cb58?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc4cb9b6e16f74f32a2af618734d8cb58?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc4cb9b6e16f74f32a2af618734d8cb58?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc4cb9b6e16f74f32a2af618734d8cb58?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc4cb9b6e16f74f32a2af618734d8cb58?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc4cb9b6e16f74f32a2af618734d8cb58?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc4cb9b6e16f74f32a2af618734d8cb58?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc4cb9b6e16f74f32a2af618734d8cb58?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-519a5fafdcb24833933484e59e0eeb07",
+            "meta": {
+              "previousId": "builder-edd6c67a2ee6462990163355af7c451f"
+            },
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>New methods for supporting the entire ecosystem</strong></h2><p><strong><u>Grants</u></strong>&nbsp;have been the primary mechanism the Foundation uses to support public goods in the Solana ecosystem. (“Public goods” generally meaning things that make it easier to build and develop on Solana, and things that other developers can re-use in their own projects.)</p><p>Historically, grant-eligible projects have generally been limited to open source, non-commercial projects. These projects need financial support to get off the ground the most, as they are the least likely to attract external capital. Developer tooling is a perfect example of a type of project that is vital to the health and growth of Solana, but in many cases would be unlikely to exist if not for grant support.</p><p>The Foundation remains committed to fostering open source development on Solana. However, closed source products can also deliver public goods to the ecosystem. Because of the grants program’s limitations, the Foundation has generally been unable to support great projects that could benefit the community simply because they were planning to turn their product into a profit-making enterprise.&nbsp;While grants will remain the primary way the Foundation supports the development of the greater community, two new funding methods will greatly expand how the Solana Foundation can help.</p><p><strong><u>Convertible grants</u></strong>&nbsp;are grants that will convert to investments only if a project reaches certain milestones, such as raising a priced round or completing certain growth objectives. This will allow projects to build a viable business, with Solana Foundation support, without the restrictions associated with traditional grants. For instance, some good candidates for a convertible grant could be a project that needs support in building a totally novel proof of concept before being able to raise venture funds, or an infrastructure company that operates closed source.</p><p><strong><u>Investments</u>&nbsp;</strong>are simply investments from the Foundation into a company. This option is more appropriate for for-profit companies building on Solana that have a commercialized product and are actively raising a funding round. These are projects the Foundation believes could either directly or indirectly forward its goals to advance the adoption, utility, decentralization, or security of the Solana network, but may not be public goods.</p><p>Investing in commercial ventures comes with its own set of challenges and risks. That’s why the Foundation will be taking a thoughtful and deliberate approach, and will only invest in companies that align with its values and demonstrate a commitment to public goods in the Solana ecosystem — and&nbsp;<strong><u>any and all investment returns will be cycled back into the grants program, so that the Foundation can sustainably support builders in the future.</u></strong>&nbsp;This ensures that investments are creating a positive impact on the Solana community and supporting its long-term growth and success.</p><p>The Foundation’s decision to invest in companies reflects its desire to help expand the diversifying array of funding options in the greater Solana ecosystem,&nbsp;<strong><u>but it should not be seen as an endorsement of a particular project over another building in the space</u></strong><u>.</u>&nbsp;Look out for updates as the Foundation embarks on this new chapter of its work.</p><h2><strong>How to apply</strong></h2><p>If you are interested in applying for a convertible grant or investment, please use the application form at&nbsp;<a href=\"https://solana.org/grants?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">solana.org/grants</a>. In the form, you’ll have an option to note that you will or are actively raising investment funds for your project. If interested, the Foundation will discuss what funding option makes sense for the specific situation.</p><p>The Solana Foundation looks forward to supporting you!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02ca61315ac94d818392e89407c2613c",
+  "lastUpdated": 1696410594398,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_fd1352e430364bccaba46ad94a87a5ba",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687593794223,
+  "@originId": "fd1352e430364bccaba46ad94a87a5ba",
+  "testRatio": 1,
+  "createdDate": 1687362387088,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=fd1352e430364bccaba46ad94a87a5ba&builder.overrides.fd1352e430364bccaba46ad94a87a5ba=fd1352e430364bccaba46ad94a87a5ba&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Foundation introduces convertible grants and  investments to support Solana ecosystem",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

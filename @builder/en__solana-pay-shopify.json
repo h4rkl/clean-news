@@ -1,0 +1,185 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-pay-shopify",
+  "data": {
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab7853ed13fa49008e1dc5e421b988ff",
+    "inputs": [],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "title": "Solana Pay Integrates with Shopify as New Payment Option to Transform Commerce",
+    "twitterMeta": {
+      "twitterTitle": "Solana Pay Integrates with Shopify as New Payment Option to Transform Commerce",
+      "twitterDescription": "Millions of businesses and consumers now have easy access to decentralized payments on Solana.",
+      "twitterImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab7853ed13fa49008e1dc5e421b988ff"
+    },
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_29b188b21b454f448f5aa0d064429cce"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a70200e65d34494b65f9e04c0727a14"
+        }
+      }
+    ],
+    "datePublished": 1692795600000,
+    "intro": "Millions of businesses and consumers now have easy access to decentralized payments on Solana.",
+    "publishedDate": null,
+    "openGraph": {
+      "ogTitle": "Solana Pay Integrates with Shopify as New Payment Option to Transform Commerce",
+      "ogDescription": "Millions of businesses and consumers now have easy access to decentralized payments on Solana.",
+      "ogImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab7853ed13fa49008e1dc5e421b988ff"
+    },
+    "seo": {
+      "seoTitle": "Solana Pay Integrates with Shopify as New Payment Option to Transform Commerce"
+    },
+    "slug": "solana-pay-shopify",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-b57359fa55674ca6a4bd88a034c89368",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6a53195cebc14a69a10d1c307b60b506",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Solana Pay, a decentralized, open-source, peer-to-peer payments protocol built on Solana by Solana Labs, is now available to millions of businesses as an approved app integration with Shopify Inc. (NYSE, TSX: SHOP), the leading global commerce company that provides essential internet infrastructure for commerce.</p><p>Solana Pay makes it easy for merchants to get real-time access to their money and greater ability to manage working capital, liquidity, and liability protection. With no intermediary, Solana Pay eliminates bank fees, chargebacks, and holding times while enabling immediate, direct payment settlement of USD stablecoins compatible with Solana.&nbsp;</p><p>“Solana Pay on Shopify opens up millions of merchants to a more dynamic and efficient payment choice, while consumers get the convenience and increased utility of being able to pay for goods and services with digital dollar currencies from the vast network of merchants using Shopify,” said Josh Fried, Head of Commerce Business Development, Solana Foundation.</p><p>An extra benefit for merchants and consumers of using Solana Pay: Payments become a gateway for web3-enabled commerce experiences, including token-gated offers, simple cross-border payments, and NFT-based loyalty programs.&nbsp;</p><p>Solana Pay is an open-source protocol built on the decentralized Solana network. Solana’s high transaction speeds, near-zero fees, and sustainability make it an ideal choice for scaling web3 payments while also providing a great user experience.</p><p>Several brands currently active on Solana have already committed to making Solana Pay a payment option in their Shopify-powered storefronts, seeing the opportunity of providing a web3-native payment option for their web3-savvy customers: <a href=\"https://monkedao.io/shop/\" rel=\"noopener noreferrer\" target=\"_blank\">MonkeDAO</a>, <a href=\"https://store.madlads.com/\" rel=\"noopener noreferrer\" target=\"_blank\">MadLads</a>, <a href=\"https://www.helius.dev/\" rel=\"noopener noreferrer\" target=\"_blank\">Helius</a>, and <a href=\"http://store.solana.com\" rel=\"noopener noreferrer\" target=\"_blank\">Solana’s merch store</a>.</p><p>Merchants who want to implement Solana Pay in their Shopify storefront can go to <a href=\"http://solanapay.com/\" rel=\"noopener noreferrer\" target=\"_blank\">http://solanapay.com/</a> to learn more.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ae05232a0a1b4034b43e2a2b4317f085",
+            "meta": {
+              "previousId": "builder-324b36dbcafb4e2c99527255dfe63c8b"
+            },
+            "component": {
+              "name": "Conversion Panel",
+              "options": {
+                "variant": "inline-centered",
+                "heading": "Learn about Solana Pay",
+                "body": "",
+                "buttons": [],
+                "logos": [],
+                "showLogos": false,
+                "listItems": [
+                  {
+                    "label": "SolanaPay.com",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://solanapay.com"
+                  },
+                  {
+                    "label": "Solana Pay x Shopify Docs",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://solana.com/newsletter"
+                  },
+                  {
+                    "label": "Payments on Solana",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://solana.com/developers/payments"
+                  },
+                  {
+                    "label": "Keep in touch",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://solana.com/newsletter"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0bc45c1b12f43cf8256bd86462a2eef",
+  "lastUpdated": 1704915067136,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_8fdcef76a8ef4701b892e06acaab09ea",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1692795800390,
+  "@originId": "8fdcef76a8ef4701b892e06acaab09ea",
+  "testRatio": 1,
+  "createdDate": 1692730644310,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-pay-shopify?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=8fdcef76a8ef4701b892e06acaab09ea&builder.overrides.8fdcef76a8ef4701b892e06acaab09ea=8fdcef76a8ef4701b892e06acaab09ea&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Conversion Panel": 1,
+      "Copy": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Pay Integrates with Shopify as New Payment Option to Transform Commerce",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

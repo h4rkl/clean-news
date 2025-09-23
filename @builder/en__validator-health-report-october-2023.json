@@ -1,0 +1,746 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1696424400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39d849421c9d4002a44df9d62db8bb88",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "A data-driven analysis of the health of the Solana validator network.",
+    "publishedDate": "Wed Oct 04 2023 09:00:00 GMT-0400 (Eastern Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Validator Health Report: October 2023 | Solana",
+      "ogDescription": "A data-driven analysis of the health of the Solana validator network.",
+      "ogImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39d849421c9d4002a44df9d62db8bb88",
+      "ogType": "article"
+    },
+    "seo": {
+      "internalName": "",
+      "seoDescription": "A data-driven analysis of the health of the Solana validator network.",
+      "seoTitle": "Validator Health Report: October 2023 | Solana"
+    },
+    "title": "Validator Health Report: October 2023",
+    "twitterMeta": {
+      "twitterTitle": "Validator Health Report: October 2023 | Solana",
+      "twitterDescription": "A data-driven analysis of the health of the Solana validator network.",
+      "twitterImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39d849421c9d4002a44df9d62db8bb88"
+    },
+    "slug": "validator-health-report-october-2023",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_7b5366711ebf4904ac04e87cbff92525"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-3b2bb4be3687465faf149d5af6271652",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-80f47905d60844d7a1552b24119a1786",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Summary</h2><p>The Solana validator network continues to grow and thrive, as measured by metrics including node count, Nakamoto Coefficient, and node distribution and diversity. Notably, since the last validator health report:</p><ul><li>There has been rapid progress in Solana’s evolution as a multi-client network, with over 31% of stake running through the Jito Labs client: This is up from 0% just over one year ago. Additionally, two more validator clients are in development.</li><li>The network has experienced 100% uptime: Multiple new practices in software upgrade procedures have been implemented since<a href=\"https://solana.com/news/02-25-23-solana-mainnet-beta-outage-report?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"> a February 2023 performance degradation</a>. Since February 26, 2023, the network has experienced 100% uptime.&nbsp;</li></ul><p>As of Sept. 6, 2023, Solana continues to be one of the largest proof of stake networks in the world by node count, and one of the most distributed, as measured by <a href=\"https://solana.com/news/network-performance-report-july-2023\" rel=\"noopener noreferrer\" target=\"_blank\">Nakamoto Coefficient</a> and now, validator software clients.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6009f68b176f40ee9608d45463a5d270",
+            "component": {
+              "name": "Image",
+              "options": {
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.453,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 73vw",
+                "height": 544,
+                "width": 1200,
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F91df6ea2cf564b148ff863b73f9b40fe?width=1022",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F91df6ea2cf564b148ff863b73f9b40fe?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F91df6ea2cf564b148ff863b73f9b40fe?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F91df6ea2cf564b148ff863b73f9b40fe?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F91df6ea2cf564b148ff863b73f9b40fe?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F91df6ea2cf564b148ff863b73f9b40fe?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F91df6ea2cf564b148ff863b73f9b40fe?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F91df6ea2cf564b148ff863b73f9b40fe?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F91df6ea2cf564b148ff863b73f9b40fe?width=1022 1022w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F91df6ea2cf564b148ff863b73f9b40fe?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F91df6ea2cf564b148ff863b73f9b40fe?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "maxWidth": "1022px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-500727a64cff44eeb7127adfe8c0c2c8",
+            "meta": {
+              "previousId": "builder-ae882673e3a44b06b9c400fda7792ce3"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The Solana Foundation has also seen a noticeable uptick in the engagement of the validator network in recent months. These are hard metrics to put a number to, but some indicators of validator community engagement include:&nbsp;</p><ul><li>Regular <a href=\"https://hackmd.io/@KFEZk8oMTz6vBlwADz0M4A/ByElSqDg2\" rel=\"noopener noreferrer\" target=\"_blank\">community led validator calls</a>: In March 2023, the validator ecosystem began planning and convening consistent calls for the validator community to share notes and best practices.</li><li><a href=\"https://lu.ma/0k9m99s1\" rel=\"noopener noreferrer\" target=\"_blank\">Block 0</a>, a conference for Solana validators: The validator community is hosting the first ever Block 0 in Amsterdam on Oct. 30, 2023. This is an entirely community-run event to discuss the evolution of the Solana network and reinforce social ties.&nbsp;</li></ul><p>Solana mainnet beta launched in March 2020, three and a half years ago. In that time, the ecosystem has matured substantially. The Solana Foundation strives to be rigorous and intellectually honest as we assess the network’s health and opportunities to make it even more resilient, and we encourage the community to share their thoughts <a href=\"https://solanafoundation.typeform.com/to/ffGy5y9t\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><h2><strong>Core Client Development</strong></h2><p>In the previous Validator Health Report, the Foundation discussed changes in thinking about the best way to measure and evaluate the health of the network. <strong>In particular, the Foundation has spent significant effort recently reinforcing the validator network’s health at the software level.</strong> In this vein, the Foundation has focused on encouraging the development of new software clients and reinforcing a network of core contributing developers from multiple organizations.&nbsp;</p><p>Validators are computers that run a Solana validator client, which is the operating system of the Solana network. It’s important for the resiliency and decentralization of any blockchain network to have more than one software client; this helps ensure that there’s no single failure point in the network’s software. One of the biggest victories for the ecosystem is Solana becoming a multi-client network, which means validators have a choice of clients to run.&nbsp;</p><h4><em>How Solana is doing:</em></h4><p>There are four different validator client implementations for the Solana network in active development, built on three independent codebases. <strong>Notably, the Jito Labs client is run by over 31% of Solana validators, up from 16% since March 2023 (</strong><a href=\"https://solana.com/news/validator-health-report-march-2023\" rel=\"noopener noreferrer\" target=\"_blank\">the previous Validator Health Report</a><strong>) and up from 0% since August 2022, when the client first launched to mainnet. </strong><sup style=\"vertical-align: super; font-size: smaller;\">9</sup></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f2467af094e143db88f74e257170f7f1",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05e14cc48f9941ed8aeaeab01bfb1fac?width=1022",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.263,
+                "lockAspectRatio": false,
+                "height": 315,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05e14cc48f9941ed8aeaeab01bfb1fac?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05e14cc48f9941ed8aeaeab01bfb1fac?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05e14cc48f9941ed8aeaeab01bfb1fac?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05e14cc48f9941ed8aeaeab01bfb1fac?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05e14cc48f9941ed8aeaeab01bfb1fac?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05e14cc48f9941ed8aeaeab01bfb1fac?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05e14cc48f9941ed8aeaeab01bfb1fac?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05e14cc48f9941ed8aeaeab01bfb1fac?width=1022 1022w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05e14cc48f9941ed8aeaeab01bfb1fac?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05e14cc48f9941ed8aeaeab01bfb1fac?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 73vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "maxWidth": "1022px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-40b1c17506564b61b4c555ead02a3243",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe4fd3af47db24e1ab8527ba87ae14251?width=1022",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.515,
+                "lockAspectRatio": false,
+                "height": 618,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe4fd3af47db24e1ab8527ba87ae14251?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe4fd3af47db24e1ab8527ba87ae14251?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe4fd3af47db24e1ab8527ba87ae14251?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe4fd3af47db24e1ab8527ba87ae14251?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe4fd3af47db24e1ab8527ba87ae14251?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe4fd3af47db24e1ab8527ba87ae14251?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe4fd3af47db24e1ab8527ba87ae14251?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe4fd3af47db24e1ab8527ba87ae14251?width=1022 1022w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe4fd3af47db24e1ab8527ba87ae14251?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe4fd3af47db24e1ab8527ba87ae14251?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 73vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "maxWidth": "1022px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fb20019fff714b6393274399d23e7112",
+            "meta": {
+              "previousId": "builder-ea08405f35c34e5a8c39ef1d31dcfaf9"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Validator client diversity is important for the long term health and functioning of the network. With multiple validator clients, the risk of one bug or harmful piece of code in a single client is mitigated by the existence of other independent clients, which are unlikely to have the same bug or malware attack, making a total network outage less likely.</p><p>The first validator client on Solana was originally developed by Solana Labs. Since then, there’s been several independent efforts to create additional full or light validator clients on the Solana network:</p><ul><li><u>Jito Labs:</u> In August 2022, <a href=\"https://www.jito.wtf/\" rel=\"noopener noreferrer\" target=\"_blank\">Jito Labs</a> released a second validator client to mainnet. This is a fork of Solana Labs code that Jito is independently building and is responsible for maintaining, changing, and deploying. However, because this is a fork of the existing client, a bug in the Solana Labs client would likely be present in this client.&nbsp;</li><li><u>Firedancer:</u> Also in August 2022, Jump Crypto <a href=\"https://jumpcrypto.com/writing/jump-crypto-sets-out-to-build-new-validator-client-for-the-solana-blockchain-to-increase-the-throughput-and-reliability-of-the-network/\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> plans to build a completely new validator client on Solana. This validator client is being developed from the ground up in C++ and has shown significant performance improvements. In testing environments, Firedancer has processed up to one million transactions per second (in comparison, the original Solana Labs client processes closer to 55,000 transactions per second in similar testing environments.).&nbsp;</li><li><u>Sig:</u> In July 2023, Syndica <a href=\"https://blog.syndica.io/introducing-sig-by-syndica-an-rps-focused-solana-validator-client-written-in-zig/\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> the development of Sig, a validator client for the Solana network written in the Zig programming language. In September 2023, the validator team at Syndica unveiled the initial implementation of the <a href=\"https://blog.syndica.io/sig-engineering-1-gossip-protocol/\" rel=\"noopener noreferrer\" target=\"_blank\">gossip protocol for Sig.</a></li><li><u>TinyDancer:</u> In addition to these four validator clients, TinyDancer, a light client for Solana, <a href=\"https://docs.tinydancer.io/\" rel=\"noopener noreferrer\" target=\"_blank\">is in active development</a>. Light clients like TinyDancer do not build blocks and participate in consensus, but instead make it easier for users to verify the state of a blockchain without having to run a full node themselves.</li></ul><h2>Total Validator Count</h2><p>Blockchains with more validators tend to be more resilient. When a user executes a contract on a blockchain, they need to be confident that their transmission will be recorded. Ideally, each addition to a blockchain is recorded on every validator on that chain, which is why a higher number of validators is important; a large number of diverse validators protects against catastrophic events like a data center outage.&nbsp;</p><p>There are two types of validators:</p><ul><li>Consensus nodes: Consensus nodes are central to the functioning of the network by providing two essential functions: (1) creating and proposing new blocks to the rest of the network and (2) voting on the validity of new blocks proposed by other nodes on the network.</li><li>RPC nodes: Remote Procedure Call (RPC) nodes are an application’s gateway to the Solana infrastructure. These nodes, like consensus nodes, independently verify all new blocks and changes to the network. However, they do not vote.&nbsp;</li></ul><p>See the appendix for more details on total validator count and why it’s important.</p><h4><em>How Solana is doing:&nbsp;</em></h4><p>In March 2023, total consensus nodes dropped from around 2200 to roughly 1700: this drop was due to a large amount of stake that was redelegated away from nodes that were charging 100% commission. The stakeholder recognized the issue and reallocated their delegation to more active validators. After this drop, and as of Sept. 13, consensus nodes have slowly and steadily grown upwards, reaching 1,961 consensus nodes and 2,874 validator nodes total.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-80700e987b21424995b2a2060cd81f79",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fe37755aa654282a5da27afe24946c7?width=1022",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "height": 675,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fe37755aa654282a5da27afe24946c7?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fe37755aa654282a5da27afe24946c7?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fe37755aa654282a5da27afe24946c7?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fe37755aa654282a5da27afe24946c7?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fe37755aa654282a5da27afe24946c7?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fe37755aa654282a5da27afe24946c7?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fe37755aa654282a5da27afe24946c7?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fe37755aa654282a5da27afe24946c7?width=1022 1022w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fe37755aa654282a5da27afe24946c7?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fe37755aa654282a5da27afe24946c7?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 73vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "maxWidth": "1022px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-79e6f3fac1d941ec82dbd5461a415f9b",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The absolute number of nodes on Solana is quite high relative to other proof of stake blockchains. The Foundation expects to undertake changes to its programs in the coming months to encourage node <em>quality</em> – not just node quantity.&nbsp;</p><p>What makes a “high-quality validator” is subjective, but some examples include uptime, hardware performance, service levels in the case of a user issue, or how active the validator operator is in the broader validator community. The Foundation has identified a few opportunities to encourage validators to meet these standards and will begin sharing these and rolling them out to the community in the coming months.&nbsp;</p><h2>Nakamoto Coefficient for Voting Power</h2><p>The Nakamoto Coefficient for voting power is defined as the minimum number of nodes that would need to be compromised to censor blocks or stop consensus in a network, thereby preventing some or all new blocks (and the transactions within them) from being confirmed. For most proof of stake networks, this is the minimum number of nodes required to represent at least 33.4% of voting power.&nbsp;</p><p>When stake distribution is highly centralized, a smaller number of validators may represent 33.4% (a superminority) of total stake delegations. In a more decentralized distribution of stake and consensus power, this set is larger, making it more difficult for a business, rogue actor, or other entity to manipulate the blockchain through censorship.&nbsp;</p><p>See the appendix for more background on evaluating decentralization with respect to the Nakamoto Coefficient.&nbsp;&nbsp;</p><h4><em>How Solana is doing:</em></h4><p>When pulled on Sept. 6, 2023, the Nakamoto Coefficient on Solana was 31. This means the lowest number of validators that would have to collude to censor the network is 31. The Nakamoto Coefficient is unchanged from the last <a href=\"https://solana.com/news/validator-health-report-march-2023\" rel=\"noopener noreferrer\" target=\"_blank\">Validator Health Report</a> (March 2023), when it was also 31.&nbsp;</p><p>Solana’s Nakamoto Coefficient grew steadily from the chain’s launch in March 2020 through September 2022 and has remained relatively stable since then. A Nakamoto Coefficient of 31 is robust. While the Foundation would prefer to see this increase over time, seeing the number grow is not a leading indicator of the network’s decentralization, given that the Solana network is fairly distributed from the perspective of stake distribution.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1a354ef844b74c99938f2c4ad63d2ab6",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F284125f47a6044509b4fb72fda6b74d8?width=1009",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.541,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 73vw",
+                "height": 649,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F284125f47a6044509b4fb72fda6b74d8?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F284125f47a6044509b4fb72fda6b74d8?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F284125f47a6044509b4fb72fda6b74d8?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F284125f47a6044509b4fb72fda6b74d8?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F284125f47a6044509b4fb72fda6b74d8?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F284125f47a6044509b4fb72fda6b74d8?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F284125f47a6044509b4fb72fda6b74d8?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F284125f47a6044509b4fb72fda6b74d8?width=1009 1009w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F284125f47a6044509b4fb72fda6b74d8?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F284125f47a6044509b4fb72fda6b74d8?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "maxWidth": "1009px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bdc976a883e94ba587c4336cda3fbd5a",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Listed below are the Nakamoto Coefficient of several other proof of stake blockchains, for the sake of benchmarking.&nbsp;<sup style=\"vertical-align: super; font-size: smaller;\">10</sup></p><p><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2cc548751b4443b786641ac181fb673a",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Listed below are the Nakamoto Coefficient of several other proof of stake blockchains, for the sake of benchmarking.&nbsp;<sup style=\"vertical-align: super; font-size: smaller;\">10</sup></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-738f5d4a6d5549e9b2f08b414bb70b13",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6aaf0578cdc84d5f8f6012e6c3d66408?width=1022",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.534,
+                "lockAspectRatio": false,
+                "height": 641,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6aaf0578cdc84d5f8f6012e6c3d66408?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6aaf0578cdc84d5f8f6012e6c3d66408?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6aaf0578cdc84d5f8f6012e6c3d66408?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6aaf0578cdc84d5f8f6012e6c3d66408?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6aaf0578cdc84d5f8f6012e6c3d66408?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6aaf0578cdc84d5f8f6012e6c3d66408?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6aaf0578cdc84d5f8f6012e6c3d66408?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6aaf0578cdc84d5f8f6012e6c3d66408?width=1022 1022w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6aaf0578cdc84d5f8f6012e6c3d66408?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6aaf0578cdc84d5f8f6012e6c3d66408?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 73vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "maxWidth": "1022px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-82f6feb800fb4eff8cfac85fdbee19e8",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Even a large, highly distributed network with multiple software clients is vulnerable to several exogenous factors that could impact the resilience of a blockchain. These are discussed in the next and final section.&nbsp;</p><h2>Distribution</h2><p>The Nakamoto Coefficient and client diversity are critical metrics, but don’t capture the human element involved in running a blockchain. One of the least appreciated aspects of validator network health is the role of exogenous factors such as geopolitics, natural disasters, and corporate incentives.&nbsp;</p><p>In this final section, we look at the Solana network’s resilience in the context of a few exogenous factors and how they could potentially affect a proof of stake network like Solana.&nbsp;</p><h3><em>Stake Distribution by Data Center Provider:</em></h3><p>Anyone can run a Solana node. Because the Solana protocol requires highly performant hardware, validator operators will often rent server space from third-party data centers to run their nodes. This is not unusual; the majority of the computing power on most blockchains is done on third-party owned servers in large data centers.&nbsp;</p><p>The risk of using third-party data centers to run validators means that the owners of data centers have disproportionate power over the functioning of a blockchain. Stake should be relatively distributed among private companies that rent server space, in order to minimize the risk that a single company can compromise a chain.</p><p>This risk reared its head in November 2022, <a href=\"https://www.theblock.co/post/182283/1000-solana-validators-go-offline-as-hetzner-blocks-server-access\" rel=\"noopener noreferrer\" target=\"_blank\">when server provider Hetzner blocked Solana nodes.</a> Notably, the network continued performing through this time. This was the equivalent of a 20% attack on the network and demonstrates why distribution of stake across multiple server providers is so critical.&nbsp;</p><h4><em>How Solana is doing:</em></h4><p>Data centers providers often operate multiple data centers and ASNs (Autonomous System Number). The data below is split out based on ASNs of major data centers, based on data that’s publicly available.&nbsp;</p><p>An Autonomous System (AS) is a network of servers with a single routing number. Different Autonomous Systems are identified by a unique number, known as the ASN.&nbsp; Depending on how the internal networking&nbsp; or routing is configured, a single ASN could span multiple physical locations in different geographies.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6326f81300ea412ebbcdb8a366ca8e99",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F14477c888cc94b23a7cad0ee65e1c6b0?width=1022",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.593,
+                "lockAspectRatio": false,
+                "height": 712,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F14477c888cc94b23a7cad0ee65e1c6b0?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F14477c888cc94b23a7cad0ee65e1c6b0?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F14477c888cc94b23a7cad0ee65e1c6b0?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F14477c888cc94b23a7cad0ee65e1c6b0?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F14477c888cc94b23a7cad0ee65e1c6b0?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F14477c888cc94b23a7cad0ee65e1c6b0?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F14477c888cc94b23a7cad0ee65e1c6b0?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F14477c888cc94b23a7cad0ee65e1c6b0?width=1022 1022w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F14477c888cc94b23a7cad0ee65e1c6b0?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F14477c888cc94b23a7cad0ee65e1c6b0?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 73vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "maxWidth": "1022px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-034781df357e4b329f8fb5d3d84cdc36",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><a href=\"https://www.validators.app/data-centers?%20locale=en&amp;network=mainnet&amp;sort_by=asn\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Source</em></a><em> (last updated 9/7/23)&nbsp;</em></p><p>Stake on Solana is relatively distributed among ASNs, with no one autonomous system hosting anything close to 33.3% of active stake. At the moment, at least three data centers would have to collude to assemble more than 33.3% of stake and halt the network.&nbsp;</p><h3><em>Stake Distribution by Geography:</em></h3><p>A global, resilient blockchain has to continue operating, no matter the events in a given part of the world. Consider:</p><ul><li>One government carries out an attack on underwater fiber cables that deliver internet, and knocks out internet to an entire region.&nbsp;</li><li>A dissident facing retribution from a dictatorial regime has to feel confident she can access funds, even if that regime chooses to shut down servers running a chain in-country.</li><li>A natural disaster disrupts all the nodes in a particular region. Users of a blockchain in any part of the world still need to feel confident that the chain will keep running, even when many validators are unexpectedly knocked offline.</li></ul><h4><em>How Solana is doing:</em></h4><p>Here’s a snapshot of the geographic distribution of the network, organized based on the percentage of stake in each country.&nbsp;</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6f03fd98bbbc478a95fe0dc2b985fb48",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4fc710b2f774846b2a798a9850c308c?width=1022",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.518,
+                "lockAspectRatio": false,
+                "height": 622,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4fc710b2f774846b2a798a9850c308c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4fc710b2f774846b2a798a9850c308c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4fc710b2f774846b2a798a9850c308c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4fc710b2f774846b2a798a9850c308c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4fc710b2f774846b2a798a9850c308c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4fc710b2f774846b2a798a9850c308c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4fc710b2f774846b2a798a9850c308c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4fc710b2f774846b2a798a9850c308c?width=1022 1022w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4fc710b2f774846b2a798a9850c308c?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4fc710b2f774846b2a798a9850c308c?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 73vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "maxWidth": "1022px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3bb2dc847c694180bb3cfd4571f9a2b9",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><a href=\"https://www.validators.app/data-centers?locale=en&amp;network=mainnet\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Source</em></a><em> (last updated 9/7/23)</em></p><p>The network is well distributed geographically, with no one country having 33.3% of active stake, although recent gains in the United States suggest they could eventually achieve that percentage. Notably, the United States plus Canada have a combined active stake of 34.3%. The stake percentages by country here differ significantly from the absolute number of <a href=\"https://www.validators.app/data-centers?locale=en&amp;network=mainnet\" rel=\"noopener noreferrer\" target=\"_blank\">data centers by country</a>.&nbsp;</p><p>Stake running through the United States has increased substantially since the last report, going from 23.5% to 29.2%. The Foundation is monitoring this change closely, and taking actions to address it, for example, by assisting stake pools in optimizing decentralization by geography in their scoring algorithms.&nbsp;</p><h2>Looking to the future</h2><p>The Solana Foundation is continuously working to improve the health of the validator network by providing tools and education to our global community of validators and stakers, and by encouraging the community to be thoughtful participants in securing the network.&nbsp;</p><p>We continue to celebrate growth in the validator community and Nakamoto Coefficient, but the Foundation's focus has broadened to include less easily measurable ways to improve the network health.&nbsp;</p><p>The Solana validator community has created several new initiatives to improve the health of the network, including organizing <a href=\"https://lu.ma/0k9m99s1\" rel=\"noopener noreferrer\" target=\"_blank\">Block 0</a> <strong>(a conference for validators),</strong><a href=\"https://hackmd.io/@KFEZk8oMTz6vBlwADz0M4A/ByElSqDg2\" rel=\"noopener noreferrer\" target=\"_blank\"> community led validator calls,</a> <strong>and new governance practices.&nbsp;</strong></p><p>Over the coming months, the Foundation will be adding support to the community’s efforts with its own initiatives designed to improve validator network health, including changes to the Solana Foundation Delegation program that will help validators become more self-reliant and sustainable and reinforce the network’s community orientation.&nbsp;</p><p>The Foundation <a href=\"https://solanafoundation.typeform.com/to/ffGy5y9t\" rel=\"noopener noreferrer\" target=\"_blank\">welcomes feedback </a>and questions on the Validator Health Report.&nbsp;</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-74de180dd48a4ed3ad4fa109ee9a97b4",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Listed below are the Nakamoto Coefficients of several other proof of stake blockchains, for the sake of benchmarking.&nbsp;</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b676d4479d414a0b9e6ba030fc87b362",
+            "meta": {
+              "previousId": "builder-ef549fb2298a441ba73ae7d0506af6e8"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3738de0dfc9d47598712161c86c603c5",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><em>Special thanks to:</em></p><ul><li><em>Joseph Burgess, for his countless hours on this report.</em></li><li><em>The team at </em><a href=\"https://solana.chainflow.io/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Chainflow</em></a><em>, who always offers incredibly valuable feedback.</em></li><li><em>Elias and the team </em><a href=\"http://rated.network/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Rated</em></a><em>, for their excellent data and willingness to walk through Ethereum Nakamoto Coefficient calculations; and, @larry0x on Threads, whose </em><a href=\"https://twitter.com/larry0x/status/1608844203748102144?s=46&amp;t=qVn5uMZcVxlNDBABN8wK3A\" rel=\"noopener noreferrer\" target=\"_blank\"><em>excellent thread</em></a><em> explains the various ways one might calculate Ethereum’s Nakamoto Coefficient.</em></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9b25d03ac53640c0b7c43b02320664b8",
+            "meta": {
+              "previousId": "builder-ef549fb2298a441ba73ae7d0506af6e8"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n<p id=\"appendix\"></p>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b22208c1ba9546998d942e36ef2f3a49",
+            "component": {
+              "name": "Accordion",
+              "options": {
+                "headline": "Footnotes and Appendices",
+                "eyebrow": "",
+                "accordions": [
+                  {
+                    "title": "Footnotes",
+                    "body": "<ol><li>Source: <a href=\"https://nakaflow.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Nakaflow</a> (as of 9-6-2023)</li><li>Source: Solana command line (as of 9-13-2023)</li><li>Source: <a href=\"https://subnets.avax.network/\" rel=\"noopener noreferrer\" target=\"_blank\">Avalanche</a> (as of 9-5-2023)</li><li>Source: <a href=\"https://atomscan.com/validators\" rel=\"noopener noreferrer\" target=\"_blank\">Cosmos </a>(as of 9-5-2023)</li><li>Source: <a href=\"https://ethernodes.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Ethernodes</a> (as of 9-5-2023), filtered for unsynced nodes</li><li>Source: The Nakamoto Coefficient of Ethereum is manually calculated using data on stake distribution from <a href=\"https://www.rated.network/?network=mainnet&amp;view=pool&amp;timeWindow=1d&amp;page=1\" rel=\"noopener noreferrer\" target=\"_blank\">Rated</a> as of 9-19-23. We made several assumptions: 1) Lido nodes should be treated as separate operators, 2) The Nakamoto Coefficient of Ethereum is reached when 50% of all stake is compromised, which could result in a real-time halt to the Ethereum network (as opposed to 33% on most Proof of Stake networks).</li><li>Source: <a href=\"https://explorer.near.org/\" rel=\"noopener noreferrer\" target=\"_blank\">NEAR</a> (as of 9-5-2023)</li><li>Source: <a href=\"https://polygonscan.com/stat/miner?range=7&amp;blocktype=blocks\" rel=\"noopener noreferrer\" target=\"_blank\">Polygon</a> (as of 9-5-2023)</li><li>Source: <a href=\"https://jito.retool.com/embedded/public/3557dd68-f772-4f4f-8a7b-f479941dba02\" rel=\"noopener noreferrer\" target=\"_blank\">Jito Labs</a> (as of 9-11-2023)</li><li>Source: <a href=\"https://nakaflow.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Nakaflow</a> (as of 9-6-2023 and 3-7-2023)</li></ol>"
+                  },
+                  {
+                    "title": "Appendix A: Validators on the Solana Network",
+                    "body": "<p>Blockchains with more validators tend to be more resilient. When a user executes on a contract on a blockchain, they need to be confident that their transmission will be recorded. Ideally, each transmission on a blockchain is recorded on every validator on that chain, which is why a higher number of validators is important: The more times that a message is recorded, the more confident a user can be that their message is accurately recorded and won’t be tampered with.&nbsp;</p><p>There are two types of validators on the Solana network:</p><p><u>Consensus nodes:</u> Consensus nodes are central to the functioning of the network by providing two essential functions: (1) creating and proposing new blocks to the rest of the network and (2) voting on the validity of new blocks proposed by other nodes on the network.</p><p>Each block contains many messages that are submitted by various users and applications on the network. Every consensus node independently verifies all new messages in a proposed block before voting on its validity. The more nodes that participate in this consensus process, the more confidence a user or third party has that a change to the network or a transaction was verified by a large population.&nbsp;</p><p><u>RPC nodes:</u> Remote Procedure Call (RPC) nodes are an application’s gateway to the Solana infrastructure. RPC node operators can offer API, indexing, or other services to provide a convenient interface for users and applications to the core Solana network. These are often commissioned or run by individual applications and are dedicated to that program’s particular task, rather than maintaining consensus on the blockchain. RPC nodes, like consensus nodes, all independently verify all new blocks and changes to the network. They do not vote.&nbsp;</p><p>A large number of nodes is critical for the health of the network. There’s no clear number for how many nodes is enough. What’s important is that:</p><ul><li><u>Users feel confident that their submission will be recorded, no matter what.</u> This is why it’s important to have a large number of copies of the current state available on many nodes, and that they exist in a broad distribution across the world. Solana’s single global state tracks the latest contents of each account, updated in real time with the latest information.&nbsp;</li><li><u>Nodes operate independently of each other.</u> A failure of a single node or set of nodes (say, run by a single entity or in a particular geography) should not impact the functioning of the network.&nbsp;</li><li><u>Users can verify the accuracy of submissions by looking at other nodes.</u> If a single node goes down or has an issue recording a message, users can rely on other nodes to verify the accuracy of the blockchain.&nbsp;</li><li><u>Having 100% uptime in the period since the last Validator Health Report intersects with the above points.</u> Having nodes or sets of nodes act independently helps ensure the functioning of the network, while having a high uptime percentage ensures users are confident their submissions will be recorded and they can verify the accuracy of submissions.</li></ul>"
+                  },
+                  {
+                    "title": "Appendix B: Nakamoto Coefficient",
+                    "body": "<p>Users of a blockchain must be confident that any valid message they submit will be included in a block and then confirmed through consensus. If a group of consensus nodes becomes compromised or acts maliciously in a coordinated manner, it can attempt to alter or prevent the network from achieving consensus on new blocks.&nbsp;The Nakamoto Coefficient is a common way to measure a blockchain’s resilience against such behavior. The Nakamoto Coefficient, a metric <a href=\"https://news.earn.com/quantifying-decentralization-e39db233c28e\" rel=\"noopener noreferrer\" target=\"_blank\">first proposed</a> by Balaji Srinivasan, is defined as the minimum number of nodes that would need to be compromised to alter or stop consensus in a network, thereby preventing some or all new blocks (and therefore the transactions within them) from being confirmed. This process is known as censorship, and could impact the entire network or some subset of users or applications. In proof of stake networks, the Nakamoto Coefficient is the minimum number of nodes required to represent at least 33.4% of voting power.&nbsp;</p><p>This set of validators with a cumulative 33% of the network’s stake delegation is known as a superminority.&nbsp;A compromise of a superminority would impact the blockchain’s real-time ability to guarantee that new blocks be voted on and added to the chain. In the event that a superminority is compromised, the blockchain could recover by excising the affected validators and restarting consensus without them. The Nakamoto Coefficient for stake distribution represents the size of the smallest population of individual validators which comprise a superminority of stake delegations. When stake distribution is highly centralized, a smaller number of validators may represent 33% (superminority) of total stake delegations.&nbsp;In a more decentralized distribution of stake and consensus power, this set is larger, making it more difficult for a business, rogue actor, or other entity to manipulate the blockchain through censorship.</p>"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9db4801a062647cc9be472051c89f1f4",
+            "component": {
+              "name": "Conversion Panel",
+              "options": {
+                "variant": "centered",
+                "buttons": [
+                  {
+                    "label": "Sign up",
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "url": "https://solana.com/newsletter"
+                  }
+                ],
+                "heading": "Join the community",
+                "body": "Sign up for the Solana Community Update newsletter and hear the latest from ecosystem teams around the world.",
+                "newsLetter": false
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa140c83361104db3b2a9ac56ae69eac6",
+  "lastUpdated": 1696438772185,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_865663122a02413f8c985b864df1ab3c",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1696424409906,
+  "@originId": "865663122a02413f8c985b864df1ab3c",
+  "testRatio": 1,
+  "createdDate": 1696359369936,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=865663122a02413f8c985b864df1ab3c&builder.overrides.865663122a02413f8c985b864df1ab3c=865663122a02413f8c985b864df1ab3c&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Accordion": 1,
+      "Conversion Panel": 1,
+      "Copy": 11,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Validator Health Report: October 2023",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

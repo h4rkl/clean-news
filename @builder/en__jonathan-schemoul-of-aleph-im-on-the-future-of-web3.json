@@ -1,0 +1,155 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1633417200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F81f77f0c248343b3bb8e4832e9b83de1",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Anatoly Yakovenko speaks to Aleph.im founder Jonathan Schemoul about building the infrastructure of web3. ",
+    "publishedDate": "Tue Oct 05 2021 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "Jonathan Schemoul of Aleph.im on the future of web3",
+    "seo": {
+      "internalName": "Jonathan Schemoul of Aleph.im on the future of web3",
+      "noFollow": false,
+      "seoDescription": "Anatoly Yakovenko speaks to Aleph.im founder Jonathan Schemoul about building the infrastructure of web3. ",
+      "seoTitle": "Jonathan Schemoul of Aleph.im on the future of web3",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Jonathan Schemoul of Aleph.im on the future of web3",
+      "ogUrl": "https://www.solana.com/blog/jonathan-schemoul-of-aleph-im-on-the-future-of-web3",
+      "ogDescription": "Anatoly Yakovenko speaks to Aleph.im founder Jonathan Schemoul about building the infrastructure of web3. ",
+      "ogImage": "https://solana.ghost.io/content/images/2021/10/solana-podcast-48-jonathan-schemoul-aleph.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Jonathan Schemoul of Aleph.im on the future of web3",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/10/solana-podcast-48-jonathan-schemoul-aleph.png",
+      "twitterDescription": "Anatoly Yakovenko speaks to Aleph.im founder Jonathan Schemoul about building the infrastructure of web3. "
+    },
+    "slug": "jonathan-schemoul-of-aleph-im-on-the-future-of-web3",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9091a1aea4b04885a63b65fb647eed45"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_527f852addb941169af8061791e00ebc"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-59192caa064a4103a4a4ff69711c02e9",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a39bf04e9f3a4a12abd3cd677df2fd64",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe\n  height=\"200px\"\n  width=\"100%\"\n  frameborder=\"no\"\n  scrolling=\"no\"\n  seamless=\"\"\n  src=\"https://player.simplecast.com/e9a39412-0576-42d1-9826-10b34439ce22?dark=true\"\n></iframe>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4ed3ddc10e7847d384f0e791253e4493",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Listen on&nbsp;<a href=\"https://pca.st/js84742w?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Pocket Casts</a>&nbsp;|&nbsp;<a href=\"https://podcasts.apple.com/us/podcast/the-solana-podcast/id1476353378?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Apple Podcasts</a>&nbsp;|&nbsp;<a href=\"https://open.spotify.com/show/5m24z58eqLGgxMLHHxNCwV?si=7juEuEAWTdmscwa7yUAyUw&amp;dl_branch=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Spotify</a>&nbsp;|&nbsp;<a href=\"https://www.iheart.com/podcast/269-no-sharding-the-solana-pod-54152133/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">iHeartRadio</a>&nbsp;|&nbsp;<a href=\"https://feeds.simplecast.com/W1NI2v3Z?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RSS</a></p><p>Web3 is coming — but there’s still some key components missing. Every web3 application will still need UI interfaces, business logic, and more. Jonathan Schemoul, the founder of Aleph.im, is hoping to fill the gaps.</p><p><a href=\"https://podcast.solana.com/episodes/jonathan-schemoul-founder-of-alephim-ep-48?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">In the latest episode of \"The Solana Podcast,\"</a>&nbsp;Anatoly Yakovenko spoke with him about the work that Aleph is doing, how it works, and their vision for the future. Here are the highlights.</p><p>These quotes have been edited for length and clarity.</p><h2><strong>On building the infrastructure for web3</strong></h2><p><strong>Jonathan Schemoul:&nbsp;</strong>“Most of the DeFi applications that we see have some centralized back-end behind them. They're running on [Amazon Web Services], sometimes on dedicated servers or stuff like that that is still centralized. If a government, and we just saw something about it today, wants to shut down the DeFi protocol that is organized like that, they can. With Aleph.im what we are trying to do is decentralize the last mile, because for that last mile most projects are using AWS, so we need to decentralize AWS.”</p><h2><strong>How Aleph connects all the pieces</strong></h2><p><strong>Jonathan Schemoul:</strong>&nbsp;“To connect all the pieces together, we didn't develop some really fancy stuff like proof of space and time and things like that to verify that the data is really stored. We are using something much more low-tech, which is just a quality control. We have core channel nodes, which are the controllers of the network, which needs to keep some Aleph have stakers on such economics. They are verifying that other core channel nodes are behaving well. And that also the resource nodes are behaving well. Then the resource nodes are really doing the work of storing data, providing computing, et cetera. And they're continuously controlled by the core channel nodes.”</p><h2><strong>The vision for Aleph</strong></h2><p><strong>Jonathan Schemoul:</strong>&nbsp;“We aim at bigger than just the crypto ecosystem. What we really want to do is decentralize the web, so getting bigger, way, way bigger, that's the goal. We are working with a few bigger partners who are part of the Ubisoft entrepreneurial labs, for example. We want to have a lot of hosting partners in the game that start providing resources so that I want it to be as easy as spinning up AWS server or whatever, you would just spin up VMs under the .im network. I want it to be as easy as using Firebase, using Amazon Lambda, et cetera.</p><p>“And we have another big project going on, which is the indexing on Solana, where we are indexing data for a few protocols, currently Raydium, we might have another already soon. Well, I can say the name. We are working a lot on Orca, on port finance right now, and a lot of others actually that I can't really talk yet. But the idea is to have all these data available, have all these data feed coming up so that you can have events based on them, also do off-chain computation and things like that.</p><p>“I really want DeFi to be totally resilient because until it's totally decentralized, you can stop DeFi. When it's totally decentralized, you can't. And if there is only the smart contracts that are decentralized, you can still stop it.”</p><h2><strong>What’s currently missing in web3</strong></h2><p><strong>Jonathan Schemoul:</strong>&nbsp;“What is missing today in the Web 3 ease of use for all this. We are trying to tackle this, but we have so much on our end. So this is a big issue, ease of use for developers, ease of use for users. Well, Phantom is already doing a great work on that end on Solana. But yeah, this and also I think that there is some kind of breaks between the ... In DeFi, if you want to move money into the real world, it gets hard really fast because there has been some kind of complications that have been put in place by regulators, by banks, by whatever. If we could just get all these parts simpler, it could be great. Some kind of link between fintech and crypto that would work everywhere in the world, including Europe, USA, et cetera. It would be great. There are a lot of people working on it, but that's something that is missing as well.”</p><p>Read the full transcript. (Click to expand.)</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>SHARE ARTICLE</p><p>Managed by</p><p>©&nbsp;2023&nbsp;Solana Foundation. All rights reserved.SOLANA</p><ul><li><a href=\"https://solana.org/grants\" rel=\"noopener noreferrer\" target=\"_blank\">Grants</a></li><li><a href=\"https://break.solana.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Break Solana</a></li><li><a href=\"https://solana.com/branding\" rel=\"noopener noreferrer\" target=\"_blank\">Media Kit</a></li><li><a href=\"https://jobs.solana.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Careers</a></li><li><a href=\"https://solana.com/tos\" rel=\"noopener noreferrer\" target=\"_blank\">Disclaimer</a></li></ul><p>GET CONNECTED</p><ul><li><a href=\"https://solana.com/ecosystem\" rel=\"noopener noreferrer\" target=\"_blank\">Ecosystem</a></li><li><a href=\"https://solana.com/news\" rel=\"noopener noreferrer\" target=\"_blank\">Blog</a></li><li><a href=\"https://solana.com/newsletter\" rel=\"noopener noreferrer\" target=\"_blank\">Newsletter</a></li></ul><p>EN</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F233485aeec1e4037ae4a35ea8fefa1c9",
+  "lastUpdated": 1694189929871,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f135d76eed534b0a919f516173afa45e",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687613532823,
+  "@originId": "f135d76eed534b0a919f516173afa45e",
+  "testRatio": 1,
+  "createdDate": 1687362601283,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=f135d76eed534b0a919f516173afa45e&builder.overrides.f135d76eed534b0a919f516173afa45e=f135d76eed534b0a919f516173afa45e&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Jonathan Schemoul of Aleph.im on the future of web3",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

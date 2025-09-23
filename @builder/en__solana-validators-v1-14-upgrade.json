@@ -1,0 +1,125 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1685430000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F44570c2ade5846e9ba671d046026441d",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Here’s what developers, validators, and the ecosystem can expect.",
+    "publishedDate": "Tue May 30 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Solana validators adopt the v1.14 upgrade",
+      "ogUrl": "",
+      "ogDescription": "Here’s what developers, validators, and the ecosystem can expect.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana validators adopt the v1.14 upgrade",
+      "noFollow": false,
+      "seoDescription": "Here’s what developers, validators, and the ecosystem can expect.",
+      "seoTitle": "Solana validators adopt the v1.14 upgrade",
+      "noIndex": false
+    },
+    "title": "Solana validators adopt the v1.14 upgrade",
+    "twitterMeta": {
+      "twitterTitle": "",
+      "twitterDescription": ""
+    },
+    "slug": "solana-validators-v1-14-upgrade",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_754b6e4668cd4d128d1bd8f74d55d4cc"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-e577a03fda9043eda47d468912a66187",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0fa0142143334d9a923ff1dac1eb20bb",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>On May 1, 2023, Solana Labs engineers notified validators that version 1.14, a proposed upgrade to the Solana Labs validator client, would soon be available for mainnet-beta. After several weeks of upgrades and monitoring, Solana Labs engineers recommended that all mainnet-beta validators adopt v1.14 on May 21, and as of publication time on May 30, it has been adopted by 97.4% of stake.</p><p><br></p><p>Version 1.14 unlocks a number of highly anticipated new features on the Solana blockchain that will be activated over time, and understanding how upgrading works helps users understand the network overall.</p><p><br></p><h2><strong>Why should you care?</strong></h2><p>As a network for decentralized, permissionless, and composable applications, the experience of all ecosystem participants depends on the performance of the validator nodes that finalize transactions and record them to the blockchain ledger — whether a validator, builder, creator or just a participant in the Solana ecosystem.</p><p>Updates to the Solana Labs validator client require participation from the validator network. While Solana Core engineers may recommend that validators update to a certain release, validators elect to update of their own accord.</p><p>Validators upgraded 10 percent of mainnet-beta stake to v1.14 during the week of May 8, 2023, and 25 percent of the stake upgraded the week of May 15. All validator operators were notified on May 21 that they may choose to update to the new release. Once greater than 66.6% of stake on the network chose to upgrade on May 22, v1.14 was considered adopted by the cluster.</p><p><br></p><h2><strong>What’s in the release?</strong></h2><p>This version of the Solana Labs validator client, release v1.14, includes a number of significant new features to improve the experience of the Solana network. Please keep in mind that some of these features are embodied in the release but will not be available until the feature gate is activated. In many cases, the experience on the network will remain unchanged until dApps and projects in the ecosystem take advantage of these new features. Links to forum discussions, Github repositories, and other resources are included at the bottom of this blog post for developers who wish to take a deeper dive into the release.</p><p>Here are some of the notable new features included in this release.</p><p><br></p><h3><strong>Get Estimated Fees Remote Procedure Call (RPC)</strong></h3><p>This release allows developers on Solana to retrieve recent fees paid for transactions and then apply that information to estimate future transactions. Applications can use this RPC Applied Programming Interface (API) to alert the user to the potential fees that will be required when signing a transaction. This feature also lays the groundwork for developers to take full advantage of localized fee markets that will be introduced in future releases.</p><p><br></p><h3><strong>Improvements to the Staking Program</strong></h3><p>The updates to the staking program include the following:</p><ul><li><strong><u>Permissionless deactivation of delinquent stake.</u></strong>&nbsp;Delinquent stake on the network causes blocks to be skipped and degrades the overall network performance. This release permits the removal of delinquent stake if it has been offline for more than five epochs (Each epoch spans roughly two days).</li><li><strong><u>Minimum stake delegation.</u></strong>&nbsp;This release lays the foundation to apply a minimum required stake delegation, should validator governance approve and introduce a new RPC to retrieve the current minimum stake delegation.</li><li><strong><u>Optimized caching.</u></strong>&nbsp;The performance, cost and consistency of storing information in the bank as a stake cache has been improved. The cache is also now being applied to the inflationary rewards distribution process.&nbsp;</li></ul><p>While these features are significant in themselves, they also lay the groundwork for continued improvements to the staking program in future releases.</p><p><br></p><h3><strong>Compact Vote State Update Instruction</strong></h3><p>A new instruction has been added to the native vote program which allows for votes to be cast in a less complex way. Previously, validators have been required to track their vote state locally, independent from the state tracked on-chain. This requires some fairly complex logic to attempt to keep the two in sync. With the new CompactVoteStateUpdate instruction, votes instead propose the new on-chain vote state explicitly, leaving only verification that the transition from old to new state is legal to be completed during execution. The reduction in complexity makes voting more efficient and simplifies validator operations.</p><p><br></p><h3><strong>Turbine Improvements</strong></h3><p>Turbine is Solana’s block propagation protocol, which puts it at the heart of the network. Improvements to Turbine can affect the overall experience of the Solana blockchain.</p><p>Turbine breaks blocks into chunks of transmissible data called “shreds.” Shreds come in two varieties — “data shreds,” containing raw block data, and “coding shreds,” which contain erasure data used to recover shreds that do not arrive as intended. In previous versions, this “erasure configuration” required that shreds be padded out to fill out the erasure batch, which was costly in time and bandwidth. In this release, the erasure configuration is now dynamic, avoiding padding and preventing overhead.</p><p><br></p><h2><strong>How was it tested?</strong></h2><p>The core engineering team at Solana Labs has been collaborating with validators and third parties to increase the stability, reliability, performance, and security of this release. Quality assurance teams have simulated this update numerous times on Testnet over the last several months, starting as early as March. Testnet has been running an early version of v1.14 since Sept. 15, 2022 and the current version since May 1, 2023.</p><p>This is part of a larger effort of adversarial testing for Solana validator releases. Solana Labs&nbsp;<a href=\"https://github.com/solana-labs/security-audits?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">publicly provided a security audit</a>&nbsp;for version 1.14. Meanwhile, independent and inter-organizational QA teams have undertaken internal and external efforts to run tests, such as ongoing fuzzing tests against the Solana runtime and various networking protocols.</p><p><br></p><h2><strong>Where can I monitor for future releases?</strong></h2><p>If you are not a validator, the best place to monitor updates to the Solana Labs validator client is the&nbsp;<a href=\"https://twitter.com/solanastatus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Status Twitter account.</a></p><p><strong><u>Related links:</u></strong></p><ul><li>Solana Forum</li><li style=\"text-indent: 1em;\">\t<a href=\"https://forum.solana.com/t/version-1-14-17-release-summary/175?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Overview of 1.14 Release</a></li><li style=\"text-indent: 1em;\">\t<a href=\"https://forum.solana.com/t/feature-compact-vote-state-1-14-17?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Compact Vote State*</a></li><li style=\"text-indent: 1em;\">\t<a href=\"https://forum.solana.com/t/version-1-14-17-release-summary/175?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Stake Program Changes*</a></li><li style=\"text-indent: 1em;\">\t<a href=\"https://forum.solana.com/t/feature-rpc-call-to-get-estimated-priority-fees-1-14-17?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RPC Call to Get Estimated Priority Fees</a></li><li style=\"text-indent: 1em;\">\t<a href=\"https://forum.solana.com/t/feature-accounts-index-on-disk-1-14-17?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Accounts Index on Disk</a></li><li style=\"text-indent: 1em;\">\t<a href=\"https://forum.solana.com/t/feature-turbine-improvements-1-14-17?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Turbine Improvements*</a></li><li style=\"text-indent: 1em;\">\t<a href=\"https://forum.solana.com/t/feature-increased-tx-account-lock-limits-1-14-17?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Increased TX Account Lock Limits*</a></li></ul><p><br></p><ul><li>Github</li><li style=\"text-indent: 1em;\">\t<a href=\"https://github.com/solana-labs/solana/wiki/Feature-Gate-Activation-Schedule?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Feature Gate Activation Schedule</a></li><li style=\"text-indent: 1em;\">    <a href=\"https://github.com/solana-labs/solana/releases/tag/v1.14.17?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Version 1.14.17 Release Page*</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5dd9bf21d5b548baa5197c4fea4fee22",
+  "lastUpdated": 1696408340483,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_977911f103324cbab8f9125150b70e3b",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687594998146,
+  "@originId": "977911f103324cbab8f9125150b70e3b",
+  "testRatio": 1,
+  "createdDate": 1687362367911,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=977911f103324cbab8f9125150b70e3b&builder.overrides.977911f103324cbab8f9125150b70e3b=977911f103324cbab8f9125150b70e3b&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana validators adopt the v1.14 upgrade",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

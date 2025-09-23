@@ -1,0 +1,367 @@
+{
+  "query": [],
+  "folders": [],
+  "createdDate": 1734102247799,
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_28935bc1bd4f42e196f9d6aa91e5efbe",
+  "name": "Gather to Build (Solana Foundation Events 2025)",
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "published": "published",
+  "meta": {
+    "componentsUsed": {
+      "Copy": 4,
+      "Switchback": 1,
+      "Section Molecule": 1,
+      "Content Editor": 1
+    },
+    "kind": "component",
+    "lastPreviewUrl": "https://staging.solana.com/news/solana-foundation-events-2025?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers%2CeditContentPriority&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_28935bc1bd4f42e196f9d6aa91e5efbe&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_28935bc1bd4f42e196f9d6aa91e5efbe=983ae1dad0ba4ca4ac6dd4ac310edee1_28935bc1bd4f42e196f9d6aa91e5efbe&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "hasLinks": false
+  },
+  "data": {
+    "seo": {
+      "seoTitle": "Gather to Build: Solana Foundation Events in 2025",
+      "seoDescription": "What you can expect from events in 2025.",
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6126f5afdc32490da50e1ba05c8947ef"
+    },
+    "slug": "solana-foundation-events-2025",
+    "intro": "Learn more about Solana Foundation events in 2025.",
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Gather to Build"
+    },
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_287c3d7a52a047c1a86c2052b0ebd515",
+      "model": "author"
+    },
+    "datePublished": 1734098400000,
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91",
+          "model": "entity-blog-tags"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71",
+          "model": "entity-blog-tags"
+        }
+      }
+    ],
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6126f5afdc32490da50e1ba05c8947ef",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-d625f41ace7c40489aaf9948945196c3",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1835507764c4427cb26b194f90b19ee0",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline",
+                "callToAction.eyebrow",
+                "callToAction.headline",
+                "callToAction.description",
+                "callToAction.button.label"
+              ]
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "FiNd YOUR EVENT"
+                    },
+                    "hierarchy": "outline",
+                    "url": "/events"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "EVENTS"
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Meet Your Solana Community"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Find events happening in your region, hosted by teams across the Solana ecosystem."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In This Article"
+                }
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-38ba277e560947a893c5d6b163d70e7c",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>As we come up to 2025, it is clear to us that crypto events remain both underrated and overrated. Underrated because they are the cornerstone of serendipitous interactions and developer onboarding for the ecosystem. Overrated because most events end up becoming panels and networking mixers.</p><p>If you’ve attended a Solana event, you know they’re different and purposeful. When you’re taking a flight to a city, booking hotels, and dedicating time to attend a Solana event — or even just taking a day off work — we want to ensure it’s worth the investment. In 2025, our goal is to make these events deeply product- and growth-focused.</p><p>Attendees should walk away with actionable playbooks to solve their growth challenges, engage in deep work with peers, connect with potential hires or enterprise partners, or drive communication and marketing outcomes.</p><p>How do we do that?</p><p>TLDR:</p><ol><li><strong>Sharp focus on product.</strong> This means supporting founders that are building apps and tokenizing assets on the network. You already saw an early version of this at Breakpoint 2024. Read more <a href=\"https://x.com/akshaybd/status/1861225525265735749\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</li><li><strong>Side events &gt; sponsorships. </strong>By default, we will not sponsor conferences. At this stage of the ecosystem, paying to display a logo on a wall offers little return. Instead, the Foundation will focus on hosting side events to bring together individuals who are interested in building on Solana or investing in the ecosystem.</li><li><strong>Integrate community events. </strong>We will work closer with our community to co-program Foundation events with us. Additionally, side events will be an integral part of the conference experience – making it easy for teams to plug into the larger events by helping them co-locate, co-produce, or surfacing them to the greater community.</li><li><strong>A barbell format. </strong>Stick to small events for a niche group (like product designers or DePIN teams) or XL events that serve everyone in the ecosystem. For small events, we will strive to create specific outcomes (such as connections made between teams). For large events, we will strive for each category of participants (devs, marketers, validators, and so on) to have a bespoke attendee experience.</li></ol><p>With this background, here’s what you can expect for next year’s events hosted by the Foundation.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-bebe028393c24314a1e85321ce69b87e",
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "space": 30,
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-cc8bc740791e4a97a0760cf54f1b71a6",
+                            "meta": {
+                              "localizedTextInputs": [
+                                "rawHtml"
+                              ]
+                            },
+                            "component": {
+                              "name": "Copy",
+                              "options": {
+                                "rawHtml": {
+                                  "@type": "@builder.io/core:LocalizedValue",
+                                  "Default": "<h2>The American Crypto Renaissance&nbsp;</h2><p>2025 is set up to be a banner year for crypto as the results of the recent US elections are likely to fuel an unprecedented period of political and cultural transformation. Frontiers are simultaneously opening up for crypto in San Francisco (founders), New York (Wall St.), Chicago (high-frequency trading), and Washington, D.C. (regulations). We will look back at these years as a transformative period for the United States, ushering an innovation renaissance spurred by a pro-technology, pro-enterprise policy and culture. The Solana Foundation will be doubling down to support crypto innovation in the U.S. – and using that momentum to catalyze similar progress in technologically-progressive regions around the world.</p><p>New York City is where the action is. The Solana Foundation will host two flagship events next year. Mark your calendars for 19-23 May 2025.</p><p>Join us to celebrate American technology leadership:</p><ul><li><strong>Scale or die. </strong>First, the Solana Foundation will be hosting a first-of-its kind tech conference for the Solana ecosystem. Open by application only, this workshop-driven event on 19-20 May is for the developers, validators, engineers, PMs, and strategists who want to move data at the speed of light. <a href=\"https://solanafoundation.typeform.com/to/eJ39iJ1N\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up</a> to hear when applications open.</li><li><strong>Ship or die. </strong>The tech event will be immediately followed by a larger conference for the U.S. crypto industry. Open to all, this event will introduce the Solana ecosystem – and the crypto world at large – to the killer products and deep innovation happening in the United States. Coming 22-23 May to New York – <a href=\"https://solanafoundation.typeform.com/to/oY7aAqcH\" rel=\"noopener noreferrer\" target=\"_blank\">sign up for more information.</a></li></ul><p>More information about these events in February 2025.</p>"
+                                }
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-030a9f727b7943cea2090f3853a6ffe0",
+                            "meta": {
+                              "localizedTextInputs": [
+                                "rawHtml"
+                              ]
+                            },
+                            "component": {
+                              "name": "Copy",
+                              "options": {
+                                "rawHtml": {
+                                  "@type": "@builder.io/core:LocalizedValue",
+                                  "Default": "<h2>Solana is Global</h2><p>Solana’s global footprint is unmatched. Over 94% of Radar hackathon projects were submitted by globally-distributed, non-US teams. We will continue to support builders in each mega-region through a series of Foundation- and community-hosted gatherings.</p><ul><li><strong>APEX.</strong> Introducing APEX: focused, mega-regional events meant to initiate and incubate high-quality apps. Each mega-region will have its own conference – focussed on founders, apps and tokens – where teams can showcase their products and connect with investors and partners. Coming in 2025 to Mexico City, Cape Town, Budapest, Singapore, and Mumbai.</li><li><strong>Startup Villages.</strong> Startup Villages, hosted by Superteam with other ecosystem teams, have started to pop up ahead of larger-scale events like Hong Kong Fintech Week. Inspired by mtnDAO, these longer-formats create opportunities for attendees to engage in deep work, attend workshops and build meaningful products and connections over two weeks, instead of a couple of days. More are coming in 2025.</li><li><strong>Community events.</strong> Ecosytem-native hacker houses, such as mtnDAO, IslandDAO, Solana After Breakpoint in Bali, Founder Villas, and more, have taken the mantle of the traditional Solana Hacker Houses. We are incredibly grateful that the community is stepping up to fill this important niche, allowing us to expand into other types of live events to support the ecosystem. Meanwhile, other community conferences continue to grow, such as <a href=\"https://www.solanacrossroads.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Crossroads</a> in Istanbul (April 2025) or <a href=\"https://solanasummit.org/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Summit</a> (later in 2025).</li></ul><p>We will continue to have a presence alongside major conferences and cities you’d expect to see the Solana community at.</p>"
+                                }
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-23e34b139a974274aad0943da91330b6",
+                            "meta": {
+                              "localizedTextInputs": [
+                                "rawHtml"
+                              ]
+                            },
+                            "component": {
+                              "name": "Copy",
+                              "options": {
+                                "rawHtml": {
+                                  "@type": "@builder.io/core:LocalizedValue",
+                                  "Default": "<h2>Breakpoint 2025</h2><p>The Solana Foundation will once again host the landmark <a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Breakpoint</a> conference, coming to Abu Dhabi in December 2025. Tickets will officially go on sale in January – but there’s a flash sale happening until 13 December! Get your tickets <a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p>The Solana community continues to be the lifeblood of the onchain economy. Thank you for all you do and see you at your nearest event in 2025!</p>"
+                                }
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "stackColumnsAt": "tablet"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a93c1ed876f540d08c26e66ec2c36471",
+            "meta": {
+              "previousId": "builder-8cbb90ea37d94f7a8bd3317d34aebde6",
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge",
+                "buttons.0.label",
+                "image.alt"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "lg",
+                    "iconSize": "md",
+                    "url": "/events",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "FIND AN EVENT"
+                    }
+                  }
+                ],
+                "image": {
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd5f74dc4016144949ecfad28e812d004",
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "EVENTS"
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Solana IRL"
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>The best way to build is in person. Find the meetups, events, workshops, networking opportunities, and more happening in your region.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "variations": {},
+  "lastUpdated": 1734105792205,
+  "firstPublished": 1734103231686,
+  "previewUrl": "https://staging.solana.com/news/solana-foundation-events-2025",
+  "testRatio": 1,
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0f2c1471f96419b877be1cd083fc1fb",
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "@originId": "28935bc1bd4f42e196f9d6aa91e5efbe",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@liveSyncEnabled": true,
+  "rev": "l9w1e2t4y1"
+}

@@ -1,0 +1,799 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/2023-state-of-solana-developer-ecosystem",
+  "data": {
+    "datePublished": 1704729600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4a609d00f4674a26a32fc621e7552511",
+    "inputs": [],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "A look into the health of the Solana developer ecosystem.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4a609d00f4674a26a32fc621e7552511",
+      "seoDescription": "A look into the health of the Solana developer ecosystem.",
+      "seoTitle": "The 2023 State of the Solana Developer Ecosystem"
+    },
+    "title": "The 2023 State of the Solana Developer Ecosystem",
+    "slug": "2023-state-of-solana-developer-ecosystem",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-745107d75e414089ba2abf0a2ddb10cc",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d9db0a4024134cda898ac90e14e0fe5c",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  The Solana developer ecosystem continues to grow. Throughout 2023, the\n  developer ecosystem has made major advancements in tooling, developer\n  experience, quality of content, and diversity of available programming\n  languages. Today, the Solana developer ecosystem has over 2500 monthly active\n  developers on open source repositories, ongoing growth of professional\n  developers joining the ecosystem, and a maturing developer environment.</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8a6e820b137e455b8abcbc687d7fa111",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Understanding the developer ecosystem</h2><p>The health of a developer ecosystem on any blockchain is vital for sustaining the network. Measuring the health of an ecosystem is difficult. While no single factor will tell the whole story, the following metrics are vital to measure:</p><ul><li><strong>Total Monthly Active Open Source Developers: </strong>The monthly active open source developers that are building within the ecosystem.</li><li><strong>Developer Retention: </strong>The “stickiness” of the ecosystem to foster ongoing development.</li><li><strong>Developer Experience Level: </strong>The professional experience of developers.</li><li><strong>Developer Growth: </strong>The amount of developers entering the ecosystem at any given point.</li></ul><h3>Total monthly active developers</h3><p>One of the simplest ways to measure how a network is growing is the number of monthly active developers building on the chain. At the Solana Foundation, we use <a href=\"https://github.com/solana-foundation/solana-developer-data\" rel=\"noopener noreferrer\" target=\"_blank\">an open source service to gather developer data</a> and have publicly <a href=\"https://solana.com/news/measuring-developer-and-user-activity-on-solana-december-2022\" rel=\"noopener noreferrer\" target=\"_blank\">documented</a> how we gather this data. This past year, we have had a steady number of around 2500 - 3000 monthly active developers building on Solana throughout the year.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f470192e0f8d4224af3de4b9eb97170e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67fac131d4647b09395b0208797cdf7?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 675,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67fac131d4647b09395b0208797cdf7?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67fac131d4647b09395b0208797cdf7?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67fac131d4647b09395b0208797cdf7?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67fac131d4647b09395b0208797cdf7?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67fac131d4647b09395b0208797cdf7?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67fac131d4647b09395b0208797cdf7?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67fac131d4647b09395b0208797cdf7?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67fac131d4647b09395b0208797cdf7?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67fac131d4647b09395b0208797cdf7?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67fac131d4647b09395b0208797cdf7?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-23acccb8f6094805b069f65ecf66ecb6",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Sustaining a consistent amount of developers is an important indicator of a healthy ecosystem as it showcases the ecosystem’s ability to attract and retain new talent.</p><p>It’s important to note that this measurement only accounts for developers that are contributing to public repositories and does not account for developer activity taking place in private repositories. This may result in an underestimation of the number of active developers at any given point in time. The Solana Foundation is committed to supporting the growth of the open source community on the Solana blockchain, and renewed support by the Foundation for development in public will help push innovation for the future of Solana-based applications.&nbsp;</p><h3>Developer retention</h3><p>Measuring monthly active developers is only part of the story. A substantial number of developers experimenting with the blockchain may not translate into sustainable growth of a developer community if the retention rate is low. Low retention rate poses a risk, possibly leading to developers departing before making meaningful contributions to the network. To further gauge the health of a developer community, it’s crucial to measure retention rate alongside monthly active developers.</p><p>For the purposes of this report, a developer is defined as retained if they have made at least one commit in three consecutive months after starting.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-65bfeb5182044bf9934f2602928c93bc",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F183db247513941fba49263cb9431fd2b?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 675,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F183db247513941fba49263cb9431fd2b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F183db247513941fba49263cb9431fd2b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F183db247513941fba49263cb9431fd2b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F183db247513941fba49263cb9431fd2b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F183db247513941fba49263cb9431fd2b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F183db247513941fba49263cb9431fd2b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F183db247513941fba49263cb9431fd2b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F183db247513941fba49263cb9431fd2b?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F183db247513941fba49263cb9431fd2b?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F183db247513941fba49263cb9431fd2b?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0477d538f0894227a30b8d03a9d230e8",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Over the course of 2023, 3 month developer retention within the Solana ecosystem has increased from 31% to &gt;50%, keeping more developers that join in the ecosystem. This retention increase may be the result of a few reasons:</p><ul><li>Developer onboarding is improving.</li><li>The Solana blockchain has become a clearer choice for developers.</li><li>Opportunity in the ecosystem has increased.</li></ul><p>Developer onboarding flow has been steadily improving within the last year, as the Solana Foundation has released multiple <a href=\"https://solana.com/developers/guides\" rel=\"noopener noreferrer\" target=\"_blank\">new guides</a> on <a href=\"https://solana.com/developers/guides/getstarted/hello-world-in-your-browser\" rel=\"noopener noreferrer\" target=\"_blank\">how to get started</a>. Through multiple developer bootcamps that vary in focus and difficulty, there are 400-500 senior developers graduating every 6 months with the intention of building on Solana. Data from the recent <a href=\"https://solana.com/hyperdrive\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Hyperdrive Hackathon</a> shows that ~50% of the top 150 submissions and ~50% of the winners had completed one of these bootcamps.&nbsp;</p><p>There has also been significant support from ecosystem teams building on Solana. For example, the team at <a href=\"https://www.helius.dev/\" rel=\"noopener noreferrer\" target=\"_blank\">Helius</a> has released blog posts on <a href=\"https://www.helius.dev/blog/evaluating-solana-for-enterprise-use-a-comprehensive-guide\" rel=\"noopener noreferrer\" target=\"_blank\">why developers should choose to build on Solana</a>.&nbsp;</p><p>While opportunities for developers within the ecosystem are hard to measure, the number of jobs posted to <a href=\"https://jobs.solana.com/\" rel=\"noopener noreferrer\" target=\"_blank\">jobs.solana.com</a> — a resource that aggregates jobs across the Solana ecosystem — has been steadily increasing over time, from 15 in January 2023 to 95 at the time of publication. In the month of December 2023 alone 41 jobs were added. While it's an imperfect metric, jobs are important to keep new talent contributing and building on the network.</p><h3>Developer experience levels</h3><p>The skill level of developers building on a chain directly contributes to the overall success of the chain. If a network has a majority of more senior developers building applications on the network, there is a higher likelihood that the applications built will gain new users. On Solana, more than half of the developers coming into the ecosystem have at least 3 years of experience, leading to a more senior level of contribution to applications built on the network.&nbsp;</p><p>One way to measure this is by measuring the experience level of attendees at Solana Hacker Houses, week-long events hosted by the Solana Foundation around the world. These events serve as learning and networking spaces, with talks and office hours specifically aimed at developers and founders.</p><p>Among the 1059 developers who attended Solana Hacker Houses in 2023, 52.5% said they had more than three years experience as a developer — more than any other group at our events.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9b36a848aff346768679504b848ce29a",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b6edae61bf443e4a315821d2f5e17ce?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 675,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b6edae61bf443e4a315821d2f5e17ce?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b6edae61bf443e4a315821d2f5e17ce?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b6edae61bf443e4a315821d2f5e17ce?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b6edae61bf443e4a315821d2f5e17ce?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b6edae61bf443e4a315821d2f5e17ce?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b6edae61bf443e4a315821d2f5e17ce?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b6edae61bf443e4a315821d2f5e17ce?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b6edae61bf443e4a315821d2f5e17ce?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b6edae61bf443e4a315821d2f5e17ce?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b6edae61bf443e4a315821d2f5e17ce?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-46e4b64ab0bc463c850e7afc900a7e26",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p style=\"text-indent: 1em;\"><em>Source: Solana Hacker House Registrations</em></p><h3>Developer growth</h3><p>Although the Solana ecosystem is relatively new — Solana mainnet beta went live in March 2020 —&nbsp; its developer ecosystem has <a href=\"https://www.developerreport.com/developer-report\" rel=\"noopener noreferrer\" target=\"_blank\">grown to the second largest ecosystem in total monthly active developers</a>. This growth is due to many different factors and it is hard to pinpoint what led to the majority of developers joining. Since the launch of mainnet beta, the Solana Foundation has either run or funded a variety of initiatives with the core objective of growing the developer ecosystem. A few key initiatives include Solana Hackathons, Solana Hacker Houses, Breakpoint, educational bootcamps, and sponsored university events. There have been a variety of ecosystem-led groups that have contributed to this growth as well, such as SuperteamDAO, mtnDAO, Metcamp, and Gen3.</p><p>We expect the Solana Hackathons to be a top indicator for the health of the developer ecosystem. There have been eight Solana Foundation-sponsored hackathons since 2020. Over the past three years, more than 3000 projects have launched and over $600 million in funding has been raised for projects submitted to the hackathons. With each hackathon, the number of project submissions has increased. The most recent hackathon, Solana Hyperdrive, had more than 900 submissions.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-17edbea6d6b54f0c9fe75f69c1134841",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a7f75def0934a209369083faa9ca256?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.571,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 685,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a7f75def0934a209369083faa9ca256?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a7f75def0934a209369083faa9ca256?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a7f75def0934a209369083faa9ca256?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a7f75def0934a209369083faa9ca256?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a7f75def0934a209369083faa9ca256?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a7f75def0934a209369083faa9ca256?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a7f75def0934a209369083faa9ca256?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a7f75def0934a209369083faa9ca256?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a7f75def0934a209369083faa9ca256?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a7f75def0934a209369083faa9ca256?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4b7a73a980c6466a8f8243dfbf82cb60",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Global growth</h3><p>It is important to note that while the ecosystem is growing overall, a meaningful amount of that growth is coming from newly-onboarded regions around the world. Global developer ecosystem efforts come from a philosophy of bottom-up communities, which grow outwardly. One example of this is <a href=\"https://superteam.fun\" rel=\"noopener noreferrer\" target=\"_blank\">SuperteamDAO</a> a community of builders focused on India. SuperteamDAO began to expand to other countries in early 2023 and now has branches in eight countries. Other groups with similar philosophies include <a href=\"http://gen3.network\" rel=\"noopener noreferrer\" target=\"_blank\">Gen3</a> in Taiwan, <a href=\"https://www.metacamp.so/\" rel=\"noopener noreferrer\" target=\"_blank\">MetacampDAO</a> in Singapore, and <a href=\"https://twitter.com/mtndao\" rel=\"noopener noreferrer\" target=\"_blank\">mtnDAO</a> in the United States.</p><p>While the Solana Foundation does not currently track granular regional growth daily, the Solana Hackathons that take place every six months can shed light on growth rates at a regional level.&nbsp;</p><p>The Solana Foundation’s most recent hackathon, Hyperdrive, saw 151 countries represented among participants. Of those, participants from 65 countries made final submissions.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f29543089e2c44ea87a46d76adc751eb",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F709305b5405242dfa1edcaaab49c4e12?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 1080,
+                "width": 1920,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F709305b5405242dfa1edcaaab49c4e12?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F709305b5405242dfa1edcaaab49c4e12?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F709305b5405242dfa1edcaaab49c4e12?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F709305b5405242dfa1edcaaab49c4e12?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F709305b5405242dfa1edcaaab49c4e12?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F709305b5405242dfa1edcaaab49c4e12?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F709305b5405242dfa1edcaaab49c4e12?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F709305b5405242dfa1edcaaab49c4e12?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F709305b5405242dfa1edcaaab49c4e12?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F709305b5405242dfa1edcaaab49c4e12?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-905f66d3db704fb2808720b092028bb3",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  Historically, the United States has been the most-represented nation in Solana\n  Hackathons, with India close behind. In recent years, the share of hackathon\n  submissions outside of the United States has grown substantially, from 76% in\n  2021 to 91% in Hyperdrive. Developer communities have been a priority focus in\n  countries with deep benches of engineering talent, such as India, Germany,\n  China, the United Kingdom, Turkey, and Vietnam. Nations to watch out for in\n  the coming year include Brazil and Latin America more broadly, Japan, France,\n  Nigeria, and Israel.</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d1ecebed16e64d2caa9b6a235df19867",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faff592bbd504488ca4ddc71a89ebd1af?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 1080,
+                "width": 1920,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faff592bbd504488ca4ddc71a89ebd1af?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faff592bbd504488ca4ddc71a89ebd1af?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faff592bbd504488ca4ddc71a89ebd1af?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faff592bbd504488ca4ddc71a89ebd1af?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faff592bbd504488ca4ddc71a89ebd1af?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faff592bbd504488ca4ddc71a89ebd1af?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faff592bbd504488ca4ddc71a89ebd1af?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faff592bbd504488ca4ddc71a89ebd1af?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faff592bbd504488ca4ddc71a89ebd1af?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faff592bbd504488ca4ddc71a89ebd1af?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e68762bd018c41548e763dc8a80d97e6",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  As the most mature region in the Solana ecosystem, the United States still\n  dominates performance in terms of hackathon winners, but those numbers\n  continue to shift. Ultimately, high-quality projects that are evenly dispersed\n  around the world should be the goal of any developer ecosystem.</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-922b0bae240248f5bfd9da4caa1c5c9c",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b0e482e772a49db9b1d45aedfd50d39?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 1080,
+                "width": 1920,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b0e482e772a49db9b1d45aedfd50d39?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b0e482e772a49db9b1d45aedfd50d39?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b0e482e772a49db9b1d45aedfd50d39?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b0e482e772a49db9b1d45aedfd50d39?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b0e482e772a49db9b1d45aedfd50d39?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b0e482e772a49db9b1d45aedfd50d39?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b0e482e772a49db9b1d45aedfd50d39?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b0e482e772a49db9b1d45aedfd50d39?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b0e482e772a49db9b1d45aedfd50d39?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b0e482e772a49db9b1d45aedfd50d39?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-08a68a937578412f800f8eaff544383d",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Building on Solana Today</h2><p>Widespread blockchain adoption hinges on the availability of robust infrastructure and developer tooling to enable seamless onboarding and continued development. When selecting an ecosystem to build within, developers are guided by several key factors:</p><ul><li><strong>Developer Experience: </strong>How easy is it to learn and build applications?</li><li><strong>Maintenance:</strong> How much work is required to maintain and monitor applications in production?</li></ul><p>As the Solana ecosystem continues to evolve, the expectation is that each of these areas will also mature and become more accessible to developers.</p><h3>Developer Experience</h3><p>The developer experience is a key part of any ecosystem — the resources available and maturity of tooling can make or break a developer’s build process. Today, the Solana blockchain has a maturing tooling ecosystem and a plethora of learning resources for developer onboarding. Going forward, there is opportunity to release more resources around building a project end to end that can help accelerate newer developers, as well as tooling that helps debugging and understanding usage of compute resources.</p><p>The parallel processing that the Solana protocol has become known for is only possible by having developers declare what part of state they are working with up front. Because of this up front work, developers need proper frameworks and tooling to make it easier to manage all the state. A developer deciding if they want to build on Solana would be asking questions on:</p><ul><li><strong>Documentation and Examples: </strong>How easy is it to reference available documentation and resources while building?</li><li><strong>Programs and Courses:</strong> What education is available for developers?</li><li><strong>SDKs and Frameworks:</strong> Do common SDKs and frameworks exist to accelerate my development?</li><li><strong>Local Development Tools:</strong> How malleable are the local tools so that I can quickly prototype a new application?</li><li><strong>Tooling Parity:</strong> How does Solana compare with other ecosystems?</li></ul><h4>Documentation and Examples</h4><p>The <a href=\"https://solana.com/docs\" rel=\"noopener noreferrer\" target=\"_blank\">current documentation</a> on the Solana blockchain is largely conceptual and includes guides to help developers <a href=\"https://solana.com/developers/guides/getstarted/hello-world-in-your-browser\" rel=\"noopener noreferrer\" target=\"_blank\">getting started</a> building on Solana. This past year a large number of <a href=\"https://github.com/solana-developers/program-examples\" rel=\"noopener noreferrer\" target=\"_blank\">program examples</a> have been created to help anyone building on-chain applications on Solana, which has helped to jumpstart the onchain developer ecosystem. <a href=\"https://solanacookbook.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Cookbook</a> has a comprehensive selection of client code examples, including hundreds of code snippets with at least three different programming languages each.&nbsp;</p><p>For developers looking for more information on how the Solana protocol works, there currently is a lack of up-to-date information on the latest internals. This is in part due to the fast-pace of Solana protocol updates. The <a href=\"https://github.com/solana-foundation/solana-improvement-documents\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Improvement Documents</a> and <a href=\"https://github.com/solana-foundation/specs\" rel=\"noopener noreferrer\" target=\"_blank\">protocol specifications</a> will be built out to fill in the missing gaps by putting documentation before implementation. As Solana continues to mature and more researchers like <a href=\"https://www.umbraresearch.xyz/\" rel=\"noopener noreferrer\" target=\"_blank\">Umbra Research</a> start writing about the internals, up-to-date information should be more common in the documentation.</p><h4>Educational Programs and Courses</h4><p>At the time of publication, there are multiple full-length educational programs and courses that can help developers onboard into the Solana ecosystem. These include both self-serve courses and instructor-led, cohort-based programs. A varied structure to educational development programs helps developers learn in their preferred way, keeping accountability high and improving the participants’ chance of success.</p><p>Self-serve educational programs and courses over the last 12 months include:</p><ul><li><a href=\"https://www.soldev.app/course\" rel=\"noopener noreferrer\" target=\"_blank\">Unboxed Solana Course</a></li><li><a href=\"https://web3.freecodecamp.org/solana\" rel=\"noopener noreferrer\" target=\"_blank\">Freecodecamp</a></li><li><a href=\"https://www.easya.io/\" rel=\"noopener noreferrer\" target=\"_blank\">EasyA</a></li><li><a href=\"https://careerbooster.io/\" rel=\"noopener noreferrer\" target=\"_blank\">IdeaSoft</a></li></ul><p>Additionally, some of the instructor-led programs are:</p><ul><li><a href=\"https://web3builders.dev/\" rel=\"noopener noreferrer\" target=\"_blank\">Web3BuildersAllianace</a></li><li><a href=\"https://www.encode.club/\" rel=\"noopener noreferrer\" target=\"_blank\">Encode Club</a></li><li><a href=\"https://ackeeblockchain.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Ackee Blockchain</a></li><li><a href=\"https://www.narra8ive.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Narr8ative</a></li><li><a href=\"https://calyptus.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Calyptus</a></li><li><a href=\"https://devsnest.in/\" rel=\"noopener noreferrer\" target=\"_blank\">DevsNest</a></li><li><a href=\"https://www.risein.com/\" rel=\"noopener noreferrer\" target=\"_blank\">RiseIn</a></li><li><a href=\"https://nasacademy.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Nas Academy</a></li></ul><h4>SDKs and Frameworks</h4><p>The Solana developer ecosystem has a strong foundation of SDKs impacting the majority of developers. On UI-frameworks, the Solana blockchain has a high concentration of React and Next.js tools. For each language, we can evaluate the available tooling with the following:</p><ul><li><strong>Solana SDK:</strong> The SDK to interact with RPCs and create transactions to interact with the blockchain.</li><li><strong>Program Framework: </strong>The ability to create Solana programs with a specific programming language.</li><li><strong>Developer Impact:</strong> Measured by the <a href=\"https://www.jetbrains.com/lp/devecosystem-2021/#Main_programming-languages\" rel=\"noopener noreferrer\" target=\"_blank\">percentage of developers</a> working with a programming language or <a href=\"https://survey.stackoverflow.co/2023/#section-most-popular-technologies-web-frameworks-and-technologies\" rel=\"noopener noreferrer\" target=\"_blank\">UI Framework</a>.</li></ul><h4>SDK Availability</h4>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-59b16eca1ad44d9e81b267adf7f66b4a",
+            "meta": {
+              "previousId": "builder-882e9cc5622b409c9cebacf6a03ef716"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<style type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .gray{\n      background-color: #424242;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n</style>\n<table class=\"custom\">\n  <thead>\n    <tr>\n      <td>Language</td>\n      <td>SDK</td>\n      <td>Program Framework</td>\n      <td>Developer Impact</td>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Rust</td>\n      <td class=\"green\"><a href=\"https://docs.rs/solana-sdk/latest/solana_sdk/\" target=\"_blank\">Available</a></td>\n      <td class=\"green\">Native/Anchor</td>\n      <td class=\"green\">High</td>\n    </tr>\n    <tr>\n      <td>Solidity</td>\n      <td class=\"gray\"></td>\n      <td class=\"green\"><a href=\"https://solang.readthedocs.io/en/v0.3.3/\" target=\"_blank\">Solang</a></td>\n      <td class=\"green\">High</td>\n    </tr>\n    <tr>\n      <td>TS/JS</td>\n      <td class=\"green\">\n        <a href=\"https://github.com/solana-labs/solana-web3.js\" target=\"_blank\"\n          >Available</a\n        >\n      </td>\n      <td class=\"red\">Not Available</td>\n      <td class=\"green\">High(69% total)</td>\n    </tr>\n    <tr>\n      <td>Python</td>\n      <td class=\"green\">\n        <a href=\"https://github.com/michaelhly/solana-py\" target=\"_blank\"\n          >Available</a\n        >\n      </td>\n      <td class=\"green\">\n        <a href=\"https://www.seahorse.dev/\" target=\"_blank\">Seahorse</a>\n      </td>\n      <td class=\"green\">High(52% total)</td>\n    </tr>\n    <tr>\n      <td>Java</td>\n      <td class=\"green\">\n        <a href=\"https://github.com/skynetcap/solanaj\" target=\"_blank\"\n          >Available</a\n        >\n      </td>\n      <td class=\"green\">Not Available</td>\n      <td class=\"green\">High(49% total)</td>\n    </tr>\n    <tr>\n      <td>PHP</td>\n      <td class=\"green\">\n        <a href=\"https://github.com/verze-app/solana-php-sdk\" target=\"_blank\"\n          >Available</a\n        >\n      </td>\n      <td class=\"gray\"></td>\n      <td class=\"green\">High(32% total)</td>\n    </tr>\n    <tr>\n      <td>C++</td>\n      <td class=\"green\">\n        <a href=\"https://github.com/mschneider/solcpp\" target=\"_blank\"\n          >Available</a\n        >\n      </td>\n      <td class=\"green\">Native</td>\n      <td class=\"yellow\">23%</td>\n    </tr>\n    <tr>\n      <td>C#</td>\n      <td class=\"green\">\n        <a href=\"https://github.com/bmresearch/Solnet\" target=\"_blank\"\n          >Available</a\n        >\n      </td>\n      <td class=\"green\">Not Available</td>\n      <td class=\"yellow\">21%</td>\n    </tr>\n    <tr>\n      <td>C</td>\n      <td class=\"green\">Not Available</td>\n      <td class=\"green\">Native</td>\n      <td class=\"yellow\">19%</td>\n    </tr>\n    <tr>\n      <td>GoLang</td>\n      <td class=\"green\">\n        <a href=\"https://github.com/gagliardetto/solana-go\" target=\"_blank\"\n          >Available</a\n        >\n      </td>\n      <td class=\"green\">\n        <a href=\"https://sol.goscript.dev/\" target=\"_blank\">Available</a>\n      </td>\n      <td class=\"yellow\">17%</td>\n    </tr>\n    <tr>\n      <td>Kotlin</td>\n      <td class=\"green\">\n        <a\n          href=\"https://github.com/metaplex-foundation/SolanaKT\"\n          target=\"_blank\"\n          >Available</a\n        >\n      </td>\n      <td class=\"red\">Not Available</td>\n      <td class=\"yellow\">14%</td>\n    </tr>\n    <tr>\n      <td>Dart</td>\n      <td class=\"green\">\n        <a\n          href=\"https://github.com/espresso-cash/espresso-cash-public/tree/master/packages/solana\"\n          target=\"_blank\"\n          >Available</a\n        >\n      </td>\n      <td class=\"gray\"></td>\n      <td class=\"red\">8%</td>\n    </tr>\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingRight": "50px",
+                "paddingLeft": "50px",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-de68238d4b68420891dcffefad883bf4",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>A new developer entering the ecosystem can now be fully onboarded to building on Solana by writing in Typescript — and never learning Rust or writing a Solana smart contract. Not only that, but developers in different technology sectors have new tools to use. Game developers have a fully featured Unity SDK, Godot SDK, and Unreal Engine SDK. Fintech developers can onboard to Solana’s speed quickly with <a href=\"https://docs.solanapay.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SolanaPay</a>. Building on Solana today is easier than ever before.&nbsp;</p><h4>UI Frameworks</h4><p>Both a <a href=\"https://github.com/solana-labs/dapp-scaffold\" rel=\"noopener noreferrer\" target=\"_blank\">scaffold</a> and a <a href=\"https://github.com/solana-labs/wallet-adapter\" rel=\"noopener noreferrer\" target=\"_blank\">wallet-adapter</a> exist to make developer’s experience easier for each UI framework. Currently the most supported frameworks are React and Next.js, covering a large number of developers.</p><ul><li><strong>Scaffold:</strong> A tool that allows developers to quickly get setup with a boilerplate website.</li><li><strong>Wallet-adapter: </strong>Tooling that supports easy integration with Solana wallets.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-89d71fc8097f496797f6eb4b2e0daf7a",
+            "meta": {
+              "previousId": "builder-96ef1a3930c64b639d12c5bae390f2e7"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<style type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .gray{\n      background-color: #424242;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n</style>\n<table class=\"custom\">\n  <thead>\n    <tr>\n      <td></td>\n      <td>Scaffold</td>\n      <td>Wallet-adapter</td>\n      <td>Impact</td>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Rust</td>\n      <td class=\"green\">Available</td>\n      <td class=\"green\">Available</td>\n      <td class=\"green\">43%</td>\n    </tr>\n    <tr>\n      <td>Angular</td>\n      <td class=\"red\">Not Available</td>\n      <td class=\"green\"><a href=\"https://github.com/heavy-duty/wallet-adapter\" target=\"_blank\">Available</a></td>\n      <td class=\"green\">20%</td>\n    </tr>\n    <tr>\n      <td>Next.js</td>\n      <td class=\"green\">Available\n      </td>\n      <td class=\"green\">Available</td>\n      <td class=\"yellow\">17%</td>\n    </tr>\n    <tr>\n      <td>Vue.js</td>\n      <td class=\"yellow\">Available; Not Maintained</td>\n      <td class=\"yellow\">\n        Available; Not Maintained</a>\n      </td>\n      <td class=\"yellow\">17%</td>\n    </tr>\n    <tr>\n      <td>Laravel</td>\n      <td class=\"red\">\n        Not Available\n      </td>\n      <td class=\"red\">Not Available</td>\n      <td class=\"red\">8%</td>\n    </tr>\n    <tr>\n      <td>Svelte</td>\n      <td class=\"red\">\n        Not Available\n      </td>\n      <td class=\"red\">Not Available</td>\n      <td class=\"red\">6%</td>\n    </tr>\n\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingRight": "50px",
+                "paddingLeft": "50px",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2f0190a059a84539991f2209f5e7d2a7",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h4>Local development</h4><p>The local development environment is the collection of tools that enable developers to build on their local machines to both accelerate development and lower their building overhead. To build a new application, developers begin by building on their local computer. The effectiveness of the local development environment can dramatically reduce the friction a developer has when building on a new framework.&nbsp;</p><p>The main local environment tool people use today to build on Solana is the <a href=\"https://docs.solana.com/cli/install-solana-cli-tools\" rel=\"noopener noreferrer\" target=\"_blank\">Solana tool suite</a>. The Solana tool suite enables developers to run a test validator on their local machine, send transactions, airdrop, deploy smart contracts, and run tests against their environment. This tool allows developers to run an application in production from start to finish.</p><p>Compared to mature tooling such as <a href=\"https://github.com/foundry-rs/foundry\" rel=\"noopener noreferrer\" target=\"_blank\">Foundry</a> in EVM, the Solana Tool Suite has the capability to send transactions via CLI and provide easy copying of accounts on mainnet, though the experience is not as simple. Pulling down accounts is more manual than Foundry because smart contracts on Solana are stateless, meaning that users have to gather or create the state across many different locations to run your tests locally. Sending transactions is possible, but not as extendable to any smart contract. This is because the Solana protocol gives users the choice of serialization when interacting with smart contracts, leading to a number of different ways to communicate and no direct standard. Both of these are solvable in the long term.</p><h4>Tooling parity with other ecosystems</h4><p>One way to measure the Solana ecosystem’s tooling availability is to compare it with popular tools within EVM beyond Foundry. More often than not, developers that are onboarding into web3 and smart contracts for the first time learn Solidity as their first language in addition to EVM programming paradigms. This first exposure to EVM complicates onboarding later to the Solana ecosystem, as it often requires the developers to unlearn what they know about EVM to develop properly using the Solana protocol’s account model. <a href=\"https://www.developerreport.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Out of the 5800 monthly active Solidity developers</a>, only 7% have ever tried out Solana development.</p><p>Some tools already exist to help speed up adoption of the Solana blockchain and iteration speed of developers coming from EVM. Solidity development is being enabled with the following projects:</p><ul><li><a href=\"https://neon-labs.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Neon</a>: EVM-compatible developer environment</li><li><a href=\"https://github.com/hyperledger/solang\" rel=\"noopener noreferrer\" target=\"_blank\">Hyperledger Solang</a>: Solidity compiler on Solana</li></ul><p>Beyond EVM compatible environments, many developers will likely use Solana-native development practices. For most of the major tools available to the EVM ecosystem there is a Solana equivalent:&nbsp;</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0baae5cd2be943f491e36c30cc81d2af",
+            "meta": {
+              "previousId": "builder-96ef1a3930c64b639d12c5bae390f2e7"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<style type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .gray{\n      background-color: #424242;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n</style>\n<table class=\"custom\">\n  <thead>\n    <tr>\n      <td>Tool</td>\n      <td>Description</td>\n      <td>Solana Equivalent</td>\n      <td>Developer Impact</td>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><a href=\"https://hardhat.org/\">HardHat</a></td>\n      <td>Testing framework with local network\n</td>\n      <td class=\"green\"><a href=\"https://docs.solana.com/developing/test-validator\">Solana Test Validator</td>\n      <td class=\"green\">High</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://eth-brownie.readthedocs.io/en/stable/\">Testing Framework</a></td>\n      <td>Testing framework</td>\n      <td class=\"green\"><a href=\"https://docs.rs/solana-program-test/latest/solana_program_test/\" target=\"_blank\">Program-test</a>,<br><a href=\"https://kevinheavey.github.io/solana-bankrun/\">BankRun.js</a></td>\n      <td class=\"green\">High</td>\n    </tr>\n    <tr>\n      <td>Ethers, Wagmi</td>\n      <td>Frontend framework\n      </td>\n      <td class=\"green\"><a href=\"https://www.npmjs.com/package/@solana/web3.js\">@solana/web.js</a></td>\n      <td class=\"green\">High</td>\n    </tr>\n    <tr>\n      <td>Remix</td>\n      <td>Web-based IDE\n      </td>\n      <td class=\"green\"><a href=\"https://beta.solpg.io/\">Solana Playground</a></td>\n      <td class=\"green\">High</td>\n    </tr>\n        <tr>\n      <td>Debugging</td>\n      <td>Breakpoint debugger\n      </td>\n      <td class=\"green\"><a href=\"https://github.com/Blade-Labs-Corp/bokken\">Bokken</a>,<br><a href=\"https://docs.solana.com/developing/on-chain-programs/debugging#source-level-debugging\">Ledger Tool Debugger</a></td>\n      <td class=\"green\">High</td>\n    </tr>\n      <tr>\n      <td>ABI</td>\n      <td>Common ABI for interaction between<br>Programs\n      </td>\n      <td class=\"green\">Anchor Framework's IDL</td>\n      <td class=\"green\">High</td>\n    </tr>\n        <tr>\n      <td><a href=\"https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity\">VSCode Extension</td>\n      <td>Extension to speed up Solidity development\n      </td>\n      <td class=\"green\"><a href=\"https://marketplace.visualstudio.com/items?itemName=solana-playground.solpg\">Solana Playground Extension</a></td>\n      <td class=\"yellow\">Medium</td>\n    </tr>\n <tr>\n      <td>Etherscan</td>\n      <td>Blockchain explorer</td>\n      <td class=\"green\"><a href=\"https://solana.fm/\">SolanaFM</a>,<br><a href=\"https://xray.helius.xyz/\">XRay</a></td>\n      <td class=\"yellow\">Medium</td>\n    </tr>\n     <tr>\n      <td><a href=\"https://trufflesuite.com/ganache/\">Ganache</td>\n      <td>UI-based developer environment</td>\n      <td class=\"yellow\">Lava Suite (Beta)</td>\n      <td class=\"yellow\">Medium</td>\n    </tr>\n     <tr>\n      <td><a href=\"https://github.com/scaffold-eth/scaffold-eth-2\">scaffold-eth</td>\n      <td>dApp boilerplate</td>\n      <td class=\"green\"><a href=\"https://github.com/solana-developers/create-solana-dapp\">create-solana-dapp</a></td>\n      <td class=\"yellow\">Medium</td>\n    </tr>\n     <tr>\n      <td><a href=\"https://blocktorch.xyz/\">Blocktorch</td>\n      <td>Smart contract observability platform</td>\n      <td class=\"green\"><a href=\"https://www.ironforge.cloud/\">Ironforge</a></td>\n      <td class=\"yellow\">Medium</td>\n    </tr>\n     <tr>\n      <td>EthLint</td>\n      <td>Linter</td>\n      <td class=\"green\"><a href=\"https://rust-analyzer.github.io/\">Rust Analyzer</a>,<br><a href=\"https://github.com/rust-lang/rust-clippy\">Clippy</a></td>\n      <td class=\"red\">Low</td>\n    </tr>\n      <tr>\n      <td>Eth Fiddle</td>\n      <td>Sharable, executable smart contract code snippets</td>\n      <td class=\"green\"><a href=\"https://beta.solpg.io/657691b9fb53fa325bfd0c58\">Solana Playground Snippets</a></td>\n      <td class=\"red\">Low</td>\n    </tr>\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingRight": "50px",
+                "paddingLeft": "50px",
+                "paddingTop": "20px"
+              },
+              "medium": {
+                "display": "flex"
+              },
+              "small": {
+                "display": "flex"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-700e401e8cf34ebdb0d20dda3c0425fe",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Given how new the Solana blockchain is compared to EVM, this is a testament to the developer ecosystem building out all the tooling required to make a Solana developer experience better. While not yet meeting all the standards of Foundry, the Solana ecosystem is in a good position to further improve and mature its tooling ecosystem.</p><h3>Maintenance</h3><p>Any developer that has deployed their application to production knows that being able to maintain your application easily will relieve a lot of headache. How does the Solana protocol stack up when it comes to maintaining your application?</p><p>Understanding how easy it will be to maintain your application comes down to a few things:</p><ul><li><strong>Testing and Debugging: </strong>How easy is it to write tests to maintain functionality and debug potential issues?</li><li><strong>Security: </strong>How do you keep your application secure?</li><li><strong>Analytics:</strong> How do you properly monitor your application running in production?</li></ul><h4>Testing and Debugging</h4><p>Testing and debugging is important in the development lifecycle. Tooling related to testing and debugging can pay back in hours of software development time, helping companies find issues faster and lessen their risk in production. Over 2023, the developer ecosystem has built out tooling to make testing and debugging an easier process.</p><ul><li><strong>Debugger:</strong> In the past year, two ways of using a step debugger were created, <a href=\"https://github.com/Blade-Labs-Corp/bokken\" rel=\"noopener noreferrer\" target=\"_blank\">Bokken</a> and <a href=\"https://docs.solana.com/developing/on-chain-programs/debugging#source-level-debugging\" rel=\"noopener noreferrer\" target=\"_blank\">ledger-tool's debugger</a>. With these tools you can step through breakpoints on your Solana-based smart contracts, understanding both the account state at each line of code.</li><li><strong>Testing:</strong> Anchor framework’s mocha tests are the most commonly used testing framework for Solana smart contracts today. In the past six months, <a href=\"https://kevinheavey.github.io/solana-bankrun/\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Bankrun</a> was created, enabling much faster testing and more capabilities around testing. <a href=\"https://crates.io/crates/solana-program-test\" rel=\"noopener noreferrer\" target=\"_blank\">Solana-program-test</a> also exists,&nbsp;with similar capabilities and speed.</li><li><strong>Code Coverage:</strong> Code coverage tools for smart contracts on Solana are lacking. Developers can use general Rust code coverage tools, but most of them will not accurately measure your coverage.</li><li><strong>Logging: </strong>The base Solana logger is used within solana-program for most cases. This logger can be picked up via smart contract logs and piped via <a href=\"https://github.com/rpcpool/solana-geyser-park\" rel=\"noopener noreferrer\" target=\"_blank\">Geyser</a> or <a href=\"https://github.com/brytelands/sologger\" rel=\"noopener noreferrer\" target=\"_blank\">sologger</a> to help with analytics. SaaS tools such as <a href=\"https://www.ironforge.cloud/\" rel=\"noopener noreferrer\" target=\"_blank\">Ironforge</a> also exist to help watch application logs in production. In the past year, there have been improvements to the base logger via the <a href=\"https://www.anchor-lang.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Anchor framework</a> to avoid many of the earlier limitations.</li><li><strong>Events:</strong> The Anchor framework currently provides a <a href=\"https://github.com/coral-xyz/anchor/blob/master/tests/events/programs/events/src/lib.rs\" rel=\"noopener noreferrer\" target=\"_blank\">very basic way of handling events</a> in Solana on-chain applications. This framework, however, doesn’t give you an immediate event queue that you can use to catch up to the tip without some infrastructure involved. There are some <a href=\"https://github.com/solana-foundation/solana-improvement-documents/pull/57\" rel=\"noopener noreferrer\" target=\"_blank\">proposals</a> around improving events on Solana in the future.</li></ul><h4>Security</h4><p>Having a secure application in production is paramount for any company wanting to operate safely. Security in decentralized applications is even more critical. Any bug within your smart contract can lead to large amounts of funds lost if you’re not careful. How do developers keep their smart contracts secure today?</p><ul><li><strong>CI Scanning:</strong> Developers can use basic scanning via <a href=\"https://medium.sec3.dev/announcing-official-soteria-pro-action-auto-auditor-in-github-ci-cd-175dfea05e2c\" rel=\"noopener noreferrer\" target=\"_blank\">Github Actions</a> to scan for small vulnerabilities within their smart contracts. This kind of scanning can help them find vulnerabilities quickly before any deployment is made.</li><li><strong>Audits:</strong> Any serious smart contract developer will get audits done by third-party companies within the ecosystem. Throughout the few years that Solana development has existed, multiple companies have popped up solely focused on audits.</li><li><strong>Fuzz Testing:</strong> Properly fuzz testing against common known vulnerabilities is a good way to keep your smart contracts secure. There are fuzz testing frameworks like <a href=\"https://github.com/Ackee-Blockchain/trdelnik\" rel=\"noopener noreferrer\" target=\"_blank\">trdelnik</a> that provide a quick way to understand if your smart contract is vulnerable to simple threats.</li><li><strong>Live Scanning:</strong> While running in production it is best to be proactive against any potential threat by live scanning transactions for anomalies. <a href=\"https://riverguard.neodyme.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Riverguard</a> provides a high level of scanning on mainnet to understand if an on-chain application is vulnerable or susceptible to attacks given a pattern of transactions.</li></ul><p>The Solana developer ecosystem has a decent amount of tooling around keeping your on-chain applications secure in production. But while the developer skill level grows, so do more sophisticated attacks - we continue to improve our applications, furthering education and tooling around security is critical for success.</p><h4>Analytics</h4><p>Developers seek analytics about the performance of their applications and those of their competitors. Today, analytics platforms support Solana with both raw and parsed transaction support. Due to the lack of availability and depth of data within IDLs, analytics platforms are slowed down and cannot provide rich accounts analysis. Once the IDL framework provided by Anchor is improved and more globally available, analysis will also improve on smart contracts.</p><h2>Opportunities for the Future</h2><p>The Solana developer ecosystem has only been around for four years. In that time, the availability of content and tooling to help developers&nbsp;build has cultivated today’s maturing ecosystem.</p><p>There are still plenty of opportunities within the ecosystem. In the future, the developer ecosystem must further improve the local development environment to match the best-in-class tooling like Foundry provides, add a more robust event system, and provide more end-to-end product examples to accelerate the development of new applications.&nbsp;</p><p>The Solana Foundation is continuously working to help the Solana developer ecosystem grow, encouraging new developers to contribute to the developer experience, and supporting the maturing of tools.&nbsp;</p><p>If you have an idea of how to improve the Solana developer ecosystem and are in need of financial support, feel free to <a href=\"https://solana.org/grants\" rel=\"noopener noreferrer\" target=\"_blank\">apply for a grant</a>. We welcome <a href=\"https://solanafoundation.typeform.com/to/p1E5by5B\" rel=\"noopener noreferrer\" target=\"_blank\">any feedback</a> on the developer ecosystem and how the experience can be made better.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b49382c3dee04463ad2323894dff6739",
+            "meta": {
+              "previousId": "builder-64047d5578174b58b9ec78293dccd501"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-36ca5900382c4cfcad39ab63b39023c4",
+            "component": {
+              "name": "Heading",
+              "options": {
+                "eyebrow": "Learn more",
+                "headline": "Start building on Solana",
+                "body": "",
+                "variant": "standard"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8edba229752e42c391ca7557c9934f8f",
+            "meta": {
+              "previousId": "builder-d859d6ed10ea4df8be20bcfeeeefb904"
+            },
+            "component": {
+              "name": "Card Deck",
+              "options": {
+                "cards": [
+                  {
+                    "type": "image",
+                    "heading": "Intro to Solana Development",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Development Course",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://www.soldev.app/course",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Bootcamp",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "More Solana Developer Tools",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  }
+                ],
+                "featured": true,
+                "numCols": 3
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F20e3b9edad4b4962910e3e287f0361a2",
+  "lastUpdated": 1704914745583,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_ce68449c257746419772cc94cdc952c5",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1704733271610,
+  "@originId": "ce68449c257746419772cc94cdc952c5",
+  "testRatio": 1,
+  "createdDate": 1704467736115,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/2023-state-of-solana-developer-ecosystem?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=ce68449c257746419772cc94cdc952c5&builder.overrides.ce68449c257746419772cc94cdc952c5=ce68449c257746419772cc94cdc952c5&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Heading": 1,
+      "Copy": 12,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "The 2023 State of the Solana Developer Ecosystem",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

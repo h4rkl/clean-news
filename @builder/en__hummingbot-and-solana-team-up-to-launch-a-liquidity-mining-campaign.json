@@ -1,0 +1,210 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1589266800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1c25b438eeca46e1878e9cc7c0e12d02",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nWe are excited to share that we have been working with the Hummingbot team in preparation for the launch of a liquidity mining campaign.\n",
+    "publishedDate": "Tue May 12 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Hummingbot and Solana Team Up To Launch A Liquidity Mining Campaign",
+      "ogUrl": "https://www.solana.com/blog/hummingbot-and-solana-team-up-to-launch-a-liquidity-mining-campaign",
+      "ogDescription": "\nWe are excited to share that we have been working with the Hummingbot team in preparation for the launch of a liquidity mining campaign.\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Hummingbot-and-Solana-Team-Up-To-Launch-A-Liquidity-Mining-Campaign/1-wzomu95qCv8FbaVnkIxCgg-1.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "Hummingbot and Solana Team Up To Launch A Liquidity Mining Campaign",
+    "seo": {
+      "internalName": "Hummingbot and Solana Team Up To Launch A Liquidity Mining Campaign",
+      "noFollow": false,
+      "seoDescription": "\nWe are excited to share that we have been working with the Hummingbot team in preparation for the launch of a liquidity mining campaign.\n",
+      "seoTitle": "Hummingbot and Solana Team Up To Launch A Liquidity Mining Campaign",
+      "noIndex": false
+    },
+    "twitterMeta": {
+      "twitterTitle": "Hummingbot and Solana Team Up To Launch A Liquidity Mining Campaign",
+      "twitterDescription": "\nWe are excited to share that we have been working with the Hummingbot team in preparation for the launch of a liquidity mining campaign.\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Hummingbot-and-Solana-Team-Up-To-Launch-A-Liquidity-Mining-Campaign/1-wzomu95qCv8FbaVnkIxCgg-1.png"
+    },
+    "slug": "hummingbot-and-solana-team-up-to-launch-a-liquidity-mining-campaign",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-1b331fbdb501410ba69f07e84d117080",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1d3ef9c512e74bd58c3ffa872f8914ea",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a788eccd466481cbadc7b9ba5859ba7?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.585,
+                "lockAspectRatio": false,
+                "height": 702,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a788eccd466481cbadc7b9ba5859ba7?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a788eccd466481cbadc7b9ba5859ba7?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a788eccd466481cbadc7b9ba5859ba7?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a788eccd466481cbadc7b9ba5859ba7?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a788eccd466481cbadc7b9ba5859ba7?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a788eccd466481cbadc7b9ba5859ba7?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a788eccd466481cbadc7b9ba5859ba7?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a788eccd466481cbadc7b9ba5859ba7?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a788eccd466481cbadc7b9ba5859ba7?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-aa9a6a4b31f342e78ba975efe3bde3aa",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>We are excited to share that we have been working with the Hummingbot team in preparation for the launch of a liquidity mining campaign. Through this campaign, our communities will be able to participate in contributing liquidity for the SOL tokens and earn token rewards.</p><p>In this blog, we will introduce the joint campaign to our community beginning May 26th, 2020, at 12:00 am UTC, offering a total reward of $7500 USDC over 12 weeks. The eligible token pairs will be SOL/BTC, SOL/BUSD, and SOL/BNB. Campaigns will run on a weekly basis (Monday to Monday) with payouts happening three days after each campaign ends.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d1b3772f9c024fc1867809c4edc698df",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff200aea026a4e42a49ce671b7207a4b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.178,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 142,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff200aea026a4e42a49ce671b7207a4b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff200aea026a4e42a49ce671b7207a4b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff200aea026a4e42a49ce671b7207a4b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff200aea026a4e42a49ce671b7207a4b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff200aea026a4e42a49ce671b7207a4b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff200aea026a4e42a49ce671b7207a4b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff200aea026a4e42a49ce671b7207a4b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff200aea026a4e42a49ce671b7207a4b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fff200aea026a4e42a49ce671b7207a4b?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8f93c39ad48c4fdc8d6ec87ae8aeafe7",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Click Here To&nbsp;Register</p><p>You can learn more about this campaign on&nbsp;<a href=\"https://hummingbot.io/blog/2020-05-solana-liquidity-mining-campaign-coming-soon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Hummingbot’s website</a>, and, get direct customer support from a Hummingbot representative on our&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram channel</a>.</p><p>Traditionally, institutions or projects engage market makers to maintain liquidity for a particular asset. The market maker simultaneously creates buy and sell orders for an asset in a market, thereby acting as a liquidity provider and facilitating other market participants to trade by giving them the ability to fill the market maker’s orders. However, the role of a market maker has generally had a relatively high barrier to entry, limited to quantitative hedge funds, trading desks, or large financial institutions.</p><p>One of the major challenges within crypto markets today is liquidity fragmentation. This is a problem that the team at Hummingbot have dedicated themselves to solving because, despite the incredible level of innovation brought forward by the digital assets industry, market-making has generally remained stagnant. This leads to issues, such as:</p><ul><li>Adverse Selection: When certain market participants utilize asymmetric information to selectively transact in a market to benefit at the expense of other participants</li><li>Monopolization Risk: Given the high coordination costs of negotiating and maintaining bilateral contracts, most exchanges and issuers only engage with a few market makers, increasing their dependence on them for liquidity</li><li>Verification Difficulty: For non-exchange market participants, such as token issuers compensating market makers for their services, it is extremely difficult to verify compliance with non-manipulative trading practices</li></ul><p>To tackle these challenges, the team at Hummingbot have launched the&nbsp;<a href=\"https://miners.hummingbot.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Liquidity Mining platform</a>, a community-based, data-driven approach to market-making, in which a token issuer or exchange can reward a pool of miners to provide liquidity for a specified token. They believe that a marketplace-based approach can promote consistent liquidity provision, mitigate the risk of manipulative practices, and improve matching efficiency in the market for liquidity.</p><p>Our team at Solana share their passion and vision for more efficient markets, particularly one that properly aligns incentives against common market manipulation tactics, such as wash trading, spoofing, and price manipulation. Hummingbot’s Liquidity Mining has already proven extremely successful to date, and we’re excited that they’ve prioritized their next integration with Solana to continue disrupting this sector.</p><p>Upon launch, this will allow our community to be able to leverage the Liquidity Mining platform to act as market makers for the SOL token. Hummingbot’s turnkey trading bots will allow users to run various strategies and be compensated in doing so. We also believe this will have a positive impact on the liquidity of the SOL asset and reduce slippage between buyers and sellers.</p><p><strong>About Hummingbot</strong></p><p>Hummingbot is a VC-backed, Silicon Valley company that specializes in data engineering and machine learning for financial applications. It has created the eponymous Hummingbot software client, which is an open-source high-frequency trading bot for cryptocurrencies. While the bot has been engineered for institutional-grade trading capabilities and reliability, it has also been designed for ease of use in order to allow even novice traders and non-technical users access to algorithmic trading and market-making.</p><p>The Hummingbot team also created&nbsp;Liquidity Mining, a decentralized, crowd-sourced alternative for market-making that aims to tackle the problem of liquidity in the crypto markets. Liquidity mining uses a data-driven approach to create a fair model for rewarding market makers — one that aligns rewards with contributions to a token’s trading efficiency that result in deeper, consistent order books with tighter spreads. This provides a cost-effective and sustainable way for token issuers and exchanges to support liquidity for their tokens, as well as a way to engage and reward their communities for contributing to token liquidity.</p><p><strong>Learn more about the Liquidity Mining Campaign</strong></p><p>[Hummingbot Miners](<a href=\"https://miners.hummingbot.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://miners.hummingbot.io</a>)</p><p>[Liquidity mining campaign terms](<a href=\"https://docs.hummingbot.io/liquidity-mining/?ref=solana.ghost.io#active-programs\" rel=\"noopener noreferrer\" target=\"_blank\">https://docs.hummingbot.io/liquidity-mining/#active-programs</a><strong>)</strong></p><p>[Liquidity mining FAQs](<a href=\"https://docs.hummingbot.io/faq/liquidity-mining/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://docs.hummingbot.io/faq/liquidity-mining/</a>)</p><p>[Leaderboard]&nbsp;<a href=\"https://miners.hummingbot.io/leaderboard?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://miners.hummingbot.io/leaderboard</a></p><p>[Register]&nbsp;<a href=\"https://miners.hummingbot.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://miners.hummingbot.io/</a></p><p>Customer Support [<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://t.me/solanaio</a>]</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2e7b90b140ac47e696e5d33321671b96",
+  "lastUpdated": 1694189898445,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5e394241ea17459ea257f06d5d7b2684",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687529598831,
+  "@originId": "5e394241ea17459ea257f06d5d7b2684",
+  "testRatio": 1,
+  "createdDate": 1687362705981,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=5e394241ea17459ea257f06d5d7b2684&builder.overrides.5e394241ea17459ea257f06d5d7b2684=5e394241ea17459ea257f06d5d7b2684&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Hummingbot and Solana Team Up To Launch A Liquidity Mining Campaign",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

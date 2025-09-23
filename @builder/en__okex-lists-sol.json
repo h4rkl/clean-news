@@ -1,0 +1,196 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1601362800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F47ccbc5e657a45db8582e24c3b9e1a1c",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nThe Solana Foundation is ecstatic to announce the latest SOL listing on OKEx.\n",
+    "publishedDate": "Tue Sep 29 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "OKEx Lists SOL",
+    "openGraph": {
+      "ogTitle": "OKEx Lists SOL",
+      "ogUrl": "https://www.solana.com/blog/okex-lists-sol",
+      "ogDescription": "\nThe Solana Foundation is ecstatic to announce the latest SOL listing on OKEx.\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/OKEx-Lists-SOL/1-AZ26BwZ0guop2PB8n_gkWA-3.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "OKEx Lists SOL",
+      "noFollow": false,
+      "seoDescription": "\nThe Solana Foundation is ecstatic to announce the latest SOL listing on OKEx.\n",
+      "seoTitle": "OKEx Lists SOL",
+      "noIndex": false
+    },
+    "twitterMeta": {
+      "twitterTitle": "OKEx Lists SOL",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/OKEx-Lists-SOL/1-AZ26BwZ0guop2PB8n_gkWA-3.png",
+      "twitterDescription": "\nThe Solana Foundation is ecstatic to announce the latest SOL listing on OKEx.\n"
+    },
+    "slug": "okex-lists-sol",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc162926a1c34884938092e2be078099"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e3b1cc9c0e41498f813cef2258d81647"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2f3a618701124521874730783ed79998"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-acb3b40fe46948899361f5267e304516",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bdee24aa991542eebcd23cf1d78d7444",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fceed6715584545d982174ac500ebb8c6?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.523,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 628,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fceed6715584545d982174ac500ebb8c6?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fceed6715584545d982174ac500ebb8c6?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fceed6715584545d982174ac500ebb8c6?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fceed6715584545d982174ac500ebb8c6?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fceed6715584545d982174ac500ebb8c6?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fceed6715584545d982174ac500ebb8c6?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fceed6715584545d982174ac500ebb8c6?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fceed6715584545d982174ac500ebb8c6?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fceed6715584545d982174ac500ebb8c6?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e7c3769e996347af920a83555cf6c72e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Pairs: SOL/BTC, SOL/USDT, SOL/ETHDeposits Open: 2 AM UTC on September 30th, 2020</p><p>Trading Starts: 10 AM UTC on September 30th, 2020 [SOL/USDT] / 11 AM UTC on September 30th, 2020 [SOL/BTC &amp; SOL/ETH]</p><p>Withdraws Open: 4 PM UTC on September 30th, 2020</p><p>The Solana Foundation is ecstatic to announce the latest SOL listing on OKEx. Deposits open 2 AM UTC on September 30th with trading starting 10 AM UTC on September 30th.</p><p><strong>About OKEx</strong></p><p>OKEx is a world-leading cryptocurrency exchange, providing advanced financial services to traders globally by using blockchain technology.</p><p>OKEx provides hundreds of token &amp; futures trading pairs to help traders optimize their strategy. OKEX is one of the top digital asset exchanges by trading volume, serving millions of users in over 100 countries.</p><p><a href=\"https://solana.com/earn/okex?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana and OKEx ◎20,000 Campaign</strong></a></p><p>In collaboration with OKEx, The Solana Foundation is offering a chance for our community to&nbsp;<a href=\"https://solana.com/earn/okex?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">earn SOL rewards</a>&nbsp;by completing various tasks. There will be a total of 20,000 SOL available for prizes.</p><p><strong>Here are the steps to participate in the&nbsp;</strong><a href=\"https://solana.com/earn/okex?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>earn campaign</strong></a><strong>.</strong></p><ol><li>Complete the form at&nbsp;<a href=\"https://solana.com/earn/okex?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://solana.com/earn/okex</a></li><li>Sign up for the&nbsp;<a href=\"http://solana.com/newsletter?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana newsletter</a></li><li>Join the&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Telegram group</a></li><li>Follow&nbsp;<a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana on Twitter</a></li><li>Take the&nbsp;<a href=\"https://solana.com/earn/okex?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Quiz</a></li><li>Purchase at least 5 SOL on OKEx after 10:00 September 30, 2020 (UTC)</li><li>Refer at least one friend</li></ol><p><strong>Event Rules</strong></p><ul><li>Duplicate submissions are not allowed. If your submission is found to be fraudulent or high-risk, you will be disqualified.</li><li>Delivery of the airdrop will happen within 3 weeks after the campaign ends. Please keep an eye on the Solana Telegram and Twitter for a final 24-hour announcement.</li><li>Airdrops will be distributed to the Solana (SOL) address associated with the ID you provided upon registration.</li><li>The following countries are restricted from participating in this campaign: Bangladesh, Bolivia, Crimea, Cuba, Ecuador, Hong Kong, Iran, Kyrgyzstan, North Korea, Malaysia, Sudan, Syria, USA [including all USA territories such as Puerto Rico, American Samoa, Guam, Northern Mariana Island, and the US Virgin Islands (St. Croix, St. John and St. Thomas)].</li><li>OKEx will be distributing all token awards.</li><li>OKEx reserves the right to cancel or amend any Activity Rules at our sole discretion, as well as the final interpretation of user task completion.</li></ul><p><a href=\"https://www.okex.com/promotion/9ML8P5?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>OKEx Deposit Campaign</strong></a><strong> — $40,000 USDT in prizes</strong></p><p>Activity Period: 09/30/2020–10/30/2020</p><p>During the activity period, OKEx new users who deposit 100USDT worth SOL for the first time or trade volume(buys+sells) of SOL no less than 1000USDT will receive 10USDT rewards.</p><p>Registered users who deposit 200USDT worth SOL for the first time or trade volume(buys+sells) of SOL no less than 2000USDT will receive 10USDT rewards.</p><p>40,000 USDT Prize Pool will be shared evenly across qualified participants. First come first served.</p><p>Follow Solana on these others channels for daily updates.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockfolio</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9e2c96e1f6142239c380fcdbe21bd98",
+  "lastUpdated": 1694189922670,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cbf29d6675944928a337edb0d4257b33",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687548254862,
+  "@originId": "cbf29d6675944928a337edb0d4257b33",
+  "testRatio": 1,
+  "createdDate": 1687362675217,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=cbf29d6675944928a337edb0d4257b33&builder.overrides.cbf29d6675944928a337edb0d4257b33=cbf29d6675944928a337edb0d4257b33&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "OKEx Lists SOL",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

@@ -1,0 +1,287 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1647414000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F04c1dd1c631347c186f172c70f424377",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "When the Russian government invaded Ukraine, the world was shocked — but for some Solana projects, it was personal.",
+    "publishedDate": "Wed Mar 16 2022 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Monthly Community Update | February 2022",
+      "noFollow": false,
+      "seoDescription": "When the Russian government invaded Ukraine, the world was shocked — but for some Solana projects, it was personal.",
+      "seoTitle": "Monthly Community Update | February 2022",
+      "noIndex": false
+    },
+    "title": "Monthly Community Update | February 2022",
+    "openGraph": {
+      "ogTitle": "Monthly Community Update | February 2022",
+      "ogUrl": "https://www.solana.com/blog/monthly-community-update-february-2022",
+      "ogDescription": "When the Russian government invaded Ukraine, the world was shocked — but for some Solana projects, it was personal.",
+      "ogImage": "https://solana.ghost.io/content/images/2022/04/community-update-february-22.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Monthly Community Update | February 2022",
+      "twitterDescription": "When the Russian government invaded Ukraine, the world was shocked — but for some Solana projects, it was personal.",
+      "twitterImage": "https://solana.ghost.io/content/images/2022/04/community-update-february-22.png"
+    },
+    "slug": "monthly-community-update-february-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-adff2451c3f14ffc8fc3e9eaaaa0c3b9",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0d1d4a06a0e647a08fb6709aeda5ee11",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Aid for Ukraine: How a DAO mobilized during an emergency</strong></h2><p>When the Russian government invaded Ukraine on February 24th, the world was shocked — but for some projects, it was personal.</p><p>\"All 96 people who work in Everstake faced the war in one way or another,” writes Sergey Vasylchuk, CEO of Ukraine-based&nbsp;<a href=\"https://everstake.one/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Everstake</a>, a staking infrasturcture provider and early supporter of the Solana blockchain. “Many of the employees joined territorial defense forces. Some joined the army and relocated to the front line to resist the enemy. A significant number of employees are currently volunteering and doing all they can to help our army and people in need.”</p><p>While the people at Everstake were stepping up on the ground, the Solana community was ready too. The crypto community —and the Solana ecosystem in particular — has deep ties to Ukraine, with many devs, founders, and projects coming from the country.</p><p>“Obviously, after all the news, the Solana community began to worry about Ukraine,” Vasylchuk wrote. “Many people began to ask how they could help Ukraine and where they could donate.” And the idea for&nbsp;<a href=\"https://nation.io/dao/ukraine?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Aid for Ukraine</a>&nbsp;was born.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-64a5ee9a3e664a959377278f7f7f6d4c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/_AidForUkraine/status/1498346319190048770?ref=solana.ghost.io</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d53d50c7f8e942cf8d1f819fe8f9c780",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Aid for Ukraine is a DAO that collects money from the Solana community and distributes it to an official Ukrainian government wallet. On February 26th, the Everstake team reached out to Ryan Shea of Solana Labs, who had been working on the new DAO interface called&nbsp;<a href=\"https://nation.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Nation</a>, to help them get started.</p><p>“A DAO is the best option to do it quickly,” writes Vasylchuk. “For us, the most important thing is decentralization, so that all the money goes into the right hands.”</p><p>This is especially with so much uncertainty in the air, says Shea. “We really, in an unfortunate way, are using the features of a DAO for security and also for protection, because it's wartime.”</p><p>Using Nation’s user-focused front end was intended to make it easy for everyone to participate. “Number one is really making the experience of participating in and creating a DAO seamless for crypto-native users,” says Shea. Ultimately, Nation’s vision is to allow anyone — even non-crypto native folks — to easily make a DAO.</p><p>As a proof of concept, Aid for Ukraine has been a major success — in just a couple of days, the DAO raised over $1.4 million for the Ukrainian government.&nbsp;<a href=\"https://nation.io/dao/ukraine?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">And you can still contribute here.</a></p><p>But for those who want to do more, Vasylchuk says it’s easy to help the Ukrainian cause. “Spread the info around the world! Support Ukraine with reposts and likes, show the truth,” he writes. “The more everyone talks about it, the better.”</p><p><a href=\"https://nation.io/dao/ukraine?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Contribute here.</a></p><h2><strong>Top Solana News</strong></h2><h3><strong>Save the date for Solana Miami</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c54635d73e7b43b5bb56a7404986e434",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96c4800d804b4ea99f987cc17ea6ac9d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 563,
+                "width": 1000
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2d0580b98617448c9cdc3c3d2958b784",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Solana Hacker House World Tour is taking to the streets.</p><p>The Solana Foundation is proud to announce Solana Miami! Running from Apr. 5th through 10th, this exciting event is taking over a full block of beautiful Wynwood to celebrate the work of the builders, artists, merchants, and users who make up the Solana community — as well as the glass-chewing Solana Hacker House experience you know and love.</p><p>Grab your tickets early! This is going to be big.</p><p><a href=\"https://solana.com/events/solana-miami?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up here.</a></p><h3><strong>Enter your project in #Riptide, the global Solana hackathon</strong></h3><p>Builders, get ready! The submission form for Riptide, the global Solana hackathon with $5 million in prizes and seed funding, is officially live. Submissions are due on March 17th at 11:59pm PT.</p><p>As you're working on your entry, remember to keep in mind:</p><ul><li>The hackathon has a hard cutoff date/time, so if it looks like you might miss it, submit your project early. You can always update it after you submit it.</li><li>The presentation is SUPER important, whether it be a video or a slide deck. Each hackathon has a ton of submissions, and not all projects will have the chance to make it to the code review stage. Make sure your presentation is compelling enough to grab the judges and make it to the next round.</li></ul><p><a href=\"https://solana.com/riptide?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Submit your project</a></p><h3><strong>Change, Metaplex team up to power charity NFTs</strong></h3><p>Now it's easier than ever to give back on Solana.</p><p>Change, a donation protocol, recently announced&nbsp;<a href=\"https://www.metaplex.com/posts/metaplex-x-change-making-charity-nfts-easy?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a team-up with Metaplex</a>&nbsp;to power charity NFTs. The API will allow anyone to split royalties on NFT sales towards a charitable wallet.</p><p>Change previously worked with charitable NFT projects in the Solana ecosystem like&nbsp;<a href=\"https://belugies.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Belugies</a>&nbsp;and&nbsp;<a href=\"https://getchange.io/solana/cause/4mdH8GhdWgqDQ4Q1BYTxr87CojhycfngYHXAnXE2cMKL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Welcome to Chinatown</a>.</p><p><a href=\"https://getchange.io/metaplex/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Get started.</a></p><h3><strong>Easy payments with mtnPay</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-70bd92b065b24294bcce1f1a0b89aba5",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd46f03f75b44a8d8d63752450d9c532?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 1.256,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 1452,
+                "width": 1156,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd46f03f75b44a8d8d63752450d9c532?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd46f03f75b44a8d8d63752450d9c532?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd46f03f75b44a8d8d63752450d9c532?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd46f03f75b44a8d8d63752450d9c532?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd46f03f75b44a8d8d63752450d9c532?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd46f03f75b44a8d8d63752450d9c532?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd46f03f75b44a8d8d63752450d9c532?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd46f03f75b44a8d8d63752450d9c532?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd46f03f75b44a8d8d63752450d9c532?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f89fcfd851ce46b1988ddbf70fa3fcb4",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>mtnPay, a Solana Pay-powered payment app built that came out of the community-run&nbsp;<a href=\"https://mtndao.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">mtnDAO</a>&nbsp;hacker house, just released&nbsp;<a href=\"https://twitter.com/mtnPay/status/1500906560905695242?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">its merchant beta</a>.</p><p>mtnPay uses Solana Pay and Square for an easy iOS point-of-sale system — and is already being used by merchants (<a href=\"https://twitter.com/RepJohnCurtis/status/1494705551699292161?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">and even a congressperson!</a>)</p><p><a href=\"https://mtnpay.notion.site/mtnPay-The-iOS-Point-of-Sale-App-for-Solana-Pay-2f9faf1139964d1f95545b43829b3abf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here.</a></p><h2><strong>Ecosystem Headlines</strong></h2><p>Here's what's new this month:</p><ul><li><a href=\"https://twitter.com/williamallen/status/1500858324819976195?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Adobe's Behance</a>&nbsp;adds support for Solana NFTs.</li><li><a href=\"https://twitter.com/3onetree/status/1495799291671191561?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cronos</a>, a decentralized task scheduler for Solana, launched on mainnet.</li><li>Dune Analytics, a powerful tool for blockchain analytics and research,&nbsp;<a href=\"https://twitter.com/DuneAnalytics/status/1493973278867734536?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">now supports Solana</a>.</li><li><a href=\"https://www.coinspeaker.com/chingari-gari-crypto-wallet-launch/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Chingari</a>, India's super entertainment app and decentralized short video platform, brings 35 million active users to Solana with the launch of its in-app wallet.</li><li><a href=\"https://twitter.com/AudiusProject/status/1493967561784008714?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Audius Rewards</a>&nbsp;are now live on Solana.</li><li>STEPN, a web3 running app with fun social and game elements. is now officially&nbsp;<a href=\"https://twitter.com/Stepnofficial/status/1489819012317937664?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">live on the Apple iOS store</a>.</li><li>Dialect,&nbsp;<a href=\"https://twitter.com/saydialect/status/1499024079319453700?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a web3 messaging app</a>&nbsp;that aims to give wallets a secure, is now live and audited on Solana mainnet.</li><li>Everlend,&nbsp;<a href=\"https://twitter.com/EverlendFinance/status/1501605679064395780?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a decentralized meta lending protocol</a>&nbsp;with in-built money market and yield / loan aggregator built on Solana, launched their alpha version.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb68d68ee949c4e7e815978d9b089d829",
+  "lastUpdated": 1694189920366,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c47f2f0e6e634a36977f68836f9a7994",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687623803391,
+  "@originId": "c47f2f0e6e634a36977f68836f9a7994",
+  "testRatio": 1,
+  "createdDate": 1687362543980,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=c47f2f0e6e634a36977f68836f9a7994&builder.overrides.c47f2f0e6e634a36977f68836f9a7994=c47f2f0e6e634a36977f68836f9a7994&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly Community Update | February 2022",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

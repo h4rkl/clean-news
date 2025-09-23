@@ -1,0 +1,189 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1591513200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fad3202e2610c42e19b2c804454e12c44",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nOn April 8th, 2020 Solana Labs transferred all IP related to the protocol and a majority of SOLs to the Solana Foundation.\n",
+    "publishedDate": "Sun Jun 07 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "Announcing the Formation of the Solana Foundation",
+    "seo": {
+      "internalName": "Announcing the Formation of the Solana Foundation",
+      "noFollow": false,
+      "seoDescription": "\nOn April 8th, 2020 Solana Labs transferred all IP related to the protocol and a majority of SOLs to the Solana Foundation.\n",
+      "seoTitle": "Announcing the Formation of the Solana Foundation",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Announcing the Formation of the Solana Foundation",
+      "ogUrl": "https://www.solana.com/blog/announcing-the-formation-of-the-solana-foundation",
+      "ogDescription": "\nOn April 8th, 2020 Solana Labs transferred all IP related to the protocol and a majority of SOLs to the Solana Foundation.\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Announcing-the-Formation-of-the-Solana-Foundation/1-T4Q7V3QlD0KKnpLbgTP6Rg-1.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Announcing the Formation of the Solana Foundation",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Announcing-the-Formation-of-the-Solana-Foundation/1-T4Q7V3QlD0KKnpLbgTP6Rg-1.png",
+      "twitterDescription": "\nOn April 8th, 2020 Solana Labs transferred all IP related to the protocol and a majority of SOLs to the Solana Foundation.\n"
+    },
+    "slug": "announcing-the-formation-of-the-solana-foundation",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_03e6904c00924a32b6187f46a5fa40d0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a903aab5e70849bb9af1d8e91f683c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a86296532f764a6c808d549d5648ae4c"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-6a372b68710946408ff6a47cf44cdf93",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e10ca210768f48daab93bee6e2e7e635",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F503e210afdba4a4d97fc054bf6e665f1?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F503e210afdba4a4d97fc054bf6e665f1?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F503e210afdba4a4d97fc054bf6e665f1?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F503e210afdba4a4d97fc054bf6e665f1?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F503e210afdba4a4d97fc054bf6e665f1?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F503e210afdba4a4d97fc054bf6e665f1?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F503e210afdba4a4d97fc054bf6e665f1?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F503e210afdba4a4d97fc054bf6e665f1?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F503e210afdba4a4d97fc054bf6e665f1?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F503e210afdba4a4d97fc054bf6e665f1?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bc3f3bd738e644dd85ba32690f862fc0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>On April 8th, 2020 Solana Labs transferred all IP related to the protocol and 167m SOLs to the Solana Foundation. Solana Labs plans to transfer more SOLs to the Foundation. Solana Labs expects to retain a small number of SOL tokens to support operations (estimated to be 50m, but this is subject to change).</p><p>The Solana Foundation was founded with a mission to advance the adoption of decentralized technologies as a public good. The vision of a world where individuals are empowered to retain ownership of their data and can access networks through which they transfer value without being reliant on third-parties.</p><p>Over the past two decades, we have seen the worldwide web evolve to become an essential part of our lives. Initially, the web accounted for 1% of all information flow across telecommunications networks but eventually reached 97% by 2007. The web was supposed to be a place for freedom built on the vision of permissionless participation, knowledge sharing, and trust on a global scale. However, it is becoming increasingly apparent that the original vision is at risk of being compromised, due to the way intermediaries have handled data to date.</p><p>In addition, the emergence of the internet has spawned a global network for value transfer. However, due to the nature of its underlying infrastructure, it relies on intermediaries to maintain operations, adding layers of additional complexity that extract a significant amount of value from the overall ecosystem.</p><p>Since the advent of Bitcoin and decentralized technologies, it’s been recognized that these innovations are a solution that can be implemented to revitalize and sustainably maintain the original vision of the web, provide digital equality and streamline existing value transfer networks. Specifically, it is a way for us to create decentralized, permissionless, censorship-resistant networks that can preserve the privacy of individuals and empower them to be the owners of their own data.</p><p>The Solana Foundation’s initial focus is expanding and developing the ecosystem of the Solana protocol. We believe that the first step toward global access to decentralized technologies is through networks that are designed with the capacity to meet the technological needs of global marketplaces. The Solana protocol is the only blockchain platform that currently meets this demand.</p><h2><strong>Key Initiatives</strong></h2><p><strong>Grant and Delegation Programs</strong></p><p>The Solana Foundation will set aside funds for research and development initiatives led by third parties that advance the overall growth and development of the ecosystem.</p><p><strong>Education and Advancement</strong></p><p>General support for the education and adoption of decentralized technology.</p><p><strong>Development</strong></p><p>To initiate these efforts, the Solana Foundation will be supporting the development of the Solana Protocol. As of April 8, 2020, the Foundation now owns and manages all of the Intellectual Property previously owned by Solana Labs, Inc.</p><p><strong>Research</strong></p><p>The Solana Foundation will collaborate with teams who are undertaking research that is critical to the development of decentralized technologies. Some of the initial topics we’ll be supporting are:</p><ul><li>Verifiable Delay Functions (VDF)</li><li>Cryptography</li><li>Consensus Algorithms</li><li>RSA Accumulators</li><li>Secure Computation Hardware</li><li>Threshold Signatures</li><li>Governance</li><li>Interchain interoperability</li></ul><h2><strong>Foundation Council&nbsp;Members</strong></h2><p><strong>Anatoly Yakovenko</strong></p><p>Anatoly is one of the co-founders of Solana. He led the development of operating systems at Qualcomm, distributed systems at Mesosphere, and compression at Dropbox. He holds 2 patents for high performance Operating Systems protocols, was a core kernel developer for BREW which powered every CDMA flip phone (100m+ devices), and led development of tech that made Project Tango (VR/AR) possible on Qualcomm phones.</p><p><strong>Wolfgang Albrecht</strong></p><p>Wolfgang is an entrepreneur and investor both in and outside the crypto sphere. He is a co-founder of Staking Facilities, which strives to develop industry standards for convenient staking with compelling project selection while retaining the highest security standards.</p><p><strong>James Prestwich</strong></p><p>James is a cryptocurrency engineer and entrepreneur. He is a co-founder of Summa, where he leads the on-chain services team. As part of his work on cross-chain development, he contributes to Cross-Chain Group research and maintains free and open-source Bitcoin libraries for a number of public chains.</p><p><strong>Mable Jiang</strong></p><p>Mable is an investor at Multicoin Capital, where she and her colleagues manage a hedge fund and a venture fund. A big part of her work focuses on helping entrepreneurs identify the best operational strategy and partnership opportunities, and bridge the East-West knowledge gap. Prior to crypto investment, Mable had experience in traditional finance at Citi and strategy at Didi.</p><p><strong>Patrick von Felton</strong></p><p>Patrick has deep experience in the Swiss Financial sector, specializing in the active management of international organizations</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbfd29c0f96b94e2ca6befe9c8f5b783f",
+  "lastUpdated": 1694189897492,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_51c38ad78a3442c990b4d747dd8c9cca",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687530884742,
+  "@originId": "51c38ad78a3442c990b4d747dd8c9cca",
+  "testRatio": 1,
+  "createdDate": 1687362700910,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=51c38ad78a3442c990b4d747dd8c9cca&builder.overrides.51c38ad78a3442c990b4d747dd8c9cca=51c38ad78a3442c990b4d747dd8c9cca&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Announcing the Formation of the Solana Foundation",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

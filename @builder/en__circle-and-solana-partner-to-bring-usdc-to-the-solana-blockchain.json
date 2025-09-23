@@ -1,0 +1,196 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1603782000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10869a82f1c24e2b9bd733cf2b5098d7",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nCircle, the creators of USDC, announced that they are integrating USDC with the Solana blockchain, known as USDC-SPL. USDC is one of the…\n",
+    "publishedDate": "Tue Oct 27 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Circle and Solana Partner to Bring USDC to the Solana Blockchain",
+      "ogUrl": "https://www.solana.com/blog/circle-and-solana-partner-to-bring-usdc-to-the-solana-blockchain",
+      "ogDescription": "\nCircle, the creators of USDC, announced that they are integrating USDC with the Solana blockchain, known as USDC-SPL. USDC is one of the…\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Circle-and-Solana-Partner-to-Bring-USDC-to-the-Solana-Blockchain/0-8G7Dq1rL9QSguaqj-3.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "Circle and Solana Partner to Bring USDC to the Solana Blockchain",
+    "seo": {
+      "internalName": "Circle and Solana Partner to Bring USDC to the Solana Blockchain",
+      "noFollow": false,
+      "seoDescription": "\nCircle, the creators of USDC, announced that they are integrating USDC with the Solana blockchain, known as USDC-SPL. USDC is one of the…\n",
+      "seoTitle": "Circle and Solana Partner to Bring USDC to the Solana Blockchain",
+      "noIndex": false
+    },
+    "twitterMeta": {
+      "twitterTitle": "Circle and Solana Partner to Bring USDC to the Solana Blockchain",
+      "twitterDescription": "\nCircle, the creators of USDC, announced that they are integrating USDC with the Solana blockchain, known as USDC-SPL. USDC is one of the…\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Circle-and-Solana-Partner-to-Bring-USDC-to-the-Solana-Blockchain/0-8G7Dq1rL9QSguaqj-3.png"
+    },
+    "slug": "circle-and-solana-partner-to-bring-usdc-to-the-solana-blockchain",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_8f8a41ad2117430984ca560add5cd866"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f9b0b61e6c724b7d896377b5184c3dff"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2669f66989524627a4bd5fcf1ca48b31"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-4778d13c45f34a4bb2fd9b96e61b29a2",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ab16ede4221d4e20827114aa0305a067",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12274acaf0584d5a9bc45077a78ee1ae?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 417,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12274acaf0584d5a9bc45077a78ee1ae?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12274acaf0584d5a9bc45077a78ee1ae?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12274acaf0584d5a9bc45077a78ee1ae?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12274acaf0584d5a9bc45077a78ee1ae?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12274acaf0584d5a9bc45077a78ee1ae?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12274acaf0584d5a9bc45077a78ee1ae?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12274acaf0584d5a9bc45077a78ee1ae?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12274acaf0584d5a9bc45077a78ee1ae?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12274acaf0584d5a9bc45077a78ee1ae?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d9209b9e638b43da86ac13fe530e0bc1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://www.circle.com/en/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Circle</a>, the creators of USDC, announced that they are integrating USDC with the Solana blockchain, known as USDC-SPL. USDC is one of the fastest-growing, full-reserve US Dollar stablecoins in the crypto ecosystem. It’s based on open standards and governed through&nbsp;<a href=\"https://www.centre.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Centre</a>, a consortium consisting of Coinbase and Circle.</p><p>“Solana is optimized to be low cost, fast, and scalable blockchain infrastructure. All that was missing was a stable unit of account. Now, with the addition of USDC, the path is clear for anyone to build composable, high-speed DeFi apps the likes we’ve never seen before.” — Jeremy Allaire, CEO, Circle.</p><p>Over $2.7 billion USDC has been issued to date and hundreds of crypto apps rely on USDC for fast, secure payments. USDC plays a critical role in DeFi, as one of the most popular collateral types used in decentralized lending platforms, alternative saving accounts, decentralized exchanges and much more.</p><p>Solana is only the fourth protocol, after Ethereum, Algorand, and Stellar to partner with Circle and integrate USDC. In addition, Circle’s platform is plugging into Solana to enable faster USDC transactions within its ecosystem of services. Existing users of Circle Business Accounts and APIs will immediately benefit from Solana’s speed and can easily move funds between traditional banks and the Solana blockchain in sub-second timeframes. Collaboration between Circle’s Platform, USDC, and the Solana Foundation will open up the design space for DeFi products. Also, once the integration is complete, Solana will also be interoperable with every other stablecoin that is compatible with USDC.</p><p>The integration will use Solana’s SPL Token standard and is slated to complete by Q4 of this year. This is a major milestone for the project and a major catalyst for developers. Serum is already integrating Solana USDC-SPL.</p><p>“We chose Solana because their blockchain is 10,000 faster and 1 million times cheaper than Ethereum. Their team knows what they are doing and are great to work with.” — Sam Bankman-Fried, CEO of FTX &amp; Founder of Serum.</p><p>Support across Circle Business Accounts and Circle APIs will launch later this quarter, while immediate issuance and redemption is available on a limited basis through designated market makers and exchanges, including Alameda Research, FTX and Serum</p><p>To get started with Solana USDC, review the&nbsp;<a href=\"https://www.circle.com/en/usdc?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">documentation</a>&nbsp;on the Circle website and check out their<a href=\"https://www.circle.com/blog/circle-solana-partner-to-bring-usdc-to-solana-blockchain?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;official announcement here</a>.</p><p>15M USDC-SPL has already&nbsp;<a href=\"https://explorer.solana.com/address/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/largest?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">been issued</a>&nbsp;on the Solana blockchain.</p><p>Make sure to follow us on our various social channels to get daily updates on what’s going on in the Solana ecosystem.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockfolio</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe9f544f800c64c4e92a0963840593398",
+  "lastUpdated": 1694189911216,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a10eb38cfbfe44c8826b8dd55787ebd6",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687550704837,
+  "@originId": "a10eb38cfbfe44c8826b8dd55787ebd6",
+  "testRatio": 1,
+  "createdDate": 1687362667825,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=a10eb38cfbfe44c8826b8dd55787ebd6&builder.overrides.a10eb38cfbfe44c8826b8dd55787ebd6=a10eb38cfbfe44c8826b8dd55787ebd6&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Circle and Solana Partner to Bring USDC to the Solana Blockchain",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

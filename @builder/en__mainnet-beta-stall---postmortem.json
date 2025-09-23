@@ -1,0 +1,126 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1607932800000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "On Friday, December 4th at 1:46pm UTC, Solana’s Mainnet Beta network halted new block confirmations, which resulted in a temporary outage…\n",
+    "publishedDate": "Mon Dec 14 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "openGraph": {
+      "ogTitle": "Mainnet Beta Stall - Postmortem",
+      "ogUrl": "",
+      "ogDescription": "On Friday, December 4th at 1:46pm UTC, Solana’s Mainnet Beta network halted new block confirmations, which resulted in a temporary outage…\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Mainnet Beta Stall - Postmortem",
+      "noFollow": false,
+      "seoDescription": "On Friday, December 4th at 1:46pm UTC, Solana’s Mainnet Beta network halted new block confirmations, which resulted in a temporary outage…\n",
+      "seoTitle": "Mainnet Beta Stall - Postmortem",
+      "noIndex": false
+    },
+    "title": "Mainnet Beta Stall - Postmortem",
+    "twitterMeta": {
+      "twitterTitle": "Mainnet Beta Stall - Postmortem",
+      "twitterDescription": "\nOn Friday, December 4th at 1:46pm UTC, Solana’s Mainnet Beta network halted new block confirmations, which resulted in a temporary outage…\n",
+      "twitterImage": null
+    },
+    "slug": "mainnet-beta-stall---postmortem",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_fef5a877104b48dfaa1e762da9566882"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-2be836840c034f279e24d637ebca0b55",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-157d23bf35a24ffcaacc7caacb188872",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>On Friday, December 4th at 1:46pm UTC, Solana’s Mainnet Beta network halted new block confirmations, which resulted in a temporary outage. The core developer team and Solana validator community immediately responded and were able to successfully restart the network&nbsp;within 6 hours. This feat required consensus across 393 validators in many different time zones; while the community quickly diagnosed the issue, the majority of the outage time was due to waiting for sufficient stake weight to come back online.</p><p>To be clear,&nbsp;<strong>no funds were at risk&nbsp;</strong>as a result of the network halt, and no decentralized exchange trades were at risk due to the reboot. As mentioned before, the Solana network waves a Beta flag to indicate the network is still new.</p><h2><strong>Cause</strong></h2><p>A validator booted up two instances of their machine and it started transmitting multiple different blocks for the same slot, eventually creating 3 different unconfirmed minority partitions of the network. This very specific set of attempted simultaneous block propagations led the network to stall because the partitions could not download different suggested blocks from each other. The stall was due to a known issue in the block propagation/repair path where duplicate blocks for the same slot cannot be repaired between partitions. If a similar partition was created by the same leader, with the same timing, same voting pattern by all the validators, but on two different slots, the network would have eventually repaired the missing blocks across all the partitions and consensus would have been able to move forward. Similarly, if there had been a single corrupted block produced by a leader the network would have successfully recognized it as such and not included it in consensus.</p><p>To be absolutely clear here: the liveness failure was due to a previously known issue in the block repair and processing code. The specific way that this bug was triggered was due to a previously unknown bug in Turbine and how it propagates these kinds of faults. In general, the Solana consensus algorithm, and the network as it has been functioning, is fully capable of handling missing or corrupted block suggestions by a leader, makes no assumptions about non-faulty leaders, and handles consensus disagreements with up to ⅓ of faulty validators.</p><p>This is a known Mainnet Beta&nbsp;<a href=\"https://github.com/solana-labs/solana/issues/11713?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">data availability issue</a>&nbsp;that can cause liveness failures.</p><h2><strong>The Data Availability Bug</strong></h2><p>The internal data structures that track blocks and the computed state for that block use the PoH slot number, which is a u64, as the identifier for the state and block that occupies that slot. This is a legacy and incorrect mapping that existed long before Mainnet Beta was launched and we have been in the process of factoring it out.</p><p>The validator that transmitted two different blocks was able to successfully propagate the blocks to two different partitions, A and B, while a third partition detected the fault. All 3 partitions were minority partitions, none with enough weight to achieve consensus on their own. Once the three partitions were created, the nodes in different partitions could not repair and download the A, B blocks from each other, since their block intake code had no way to distinguish block A vs block B for the same slot causing every partition that had block A or block B to assume that the other side had the same block. Since the state transitions were different, all forks chained to a block on slot 53180935 were rejected by the other partition.</p><h2><strong>Consensus vs Data Availability</strong></h2><p>Tower, Solana’s consensus algorithm, is tolerant of forks generated by a single leader for the same slot. It’s tolerant of different validators voting on different forks, missing blocks, the arrival of forks in any slot or time ordering and eventually coming to a consistent state as long as fewer than ⅓ of the validators are faulty.</p><h2><strong>The Unexpected Turbine&nbsp;Failure</strong></h2><p>Turbine is a block propagation protocol that has a high probability of success of propagating blocks and faults under a wide range of adversarial network conditions. This is what allowed Mainnet Beta to handle 50 million blocks and 7 billion transactions (recently 20% which are 3rd party application transactions) since March. As far as we know, Solana had handled more consecutive transactions without halting than any other public blockchain. With a high probability, Turbine allows a large portion of the validators to observe at least some duplicate shreds for the same block before it is voted on, allowing the network to drop the faulty block in real-time before voting. Over the course of Mainnet Beta the network has dropped over 3 million blocks due to block producer failures and partitions, including similar ones that caused the halt on December 4th. While Turbine has a high degree of success, it doesn’t provide a guarantee that all faults are propagated before a partition can be created. Tower is designed to handle up to ⅓ faulty validators by stake weight regardless of whether Turbine succeeds or not.</p><p>This specific failure was due to an optimization in Turbine. Turbine stopped propagating shreds for the same slot and shred index only once from any block per validator. The fix for this specific failure can be tracked&nbsp;<a href=\"https://github.com/solana-labs/solana/pull/13976?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><h2><strong>Recovery</strong></h2><p>Validators stopped generating roots after slot 53180900, and the last optimistically confirmed block was on slot 53180935. 32 blocks between slot 53180900 and 53180935 contained no transfers. The only non-vote transactions in those blocks were Serum “market cranks”, which check if any trades are possible, but are not trades themselves; the outcome of these cranks is deterministic and so would eventually result in exactly the same outcome no matter what. Coincidently the last Serum trade was on slot 53180900. After a discussion the validator community felt comfortable using the battle-tested recovery procedure which uses the rooted slots as the hard fork point and ultimately achieved consensus resuming network propagation as of slot 53180900, losing the optimistically confirmed state transitions up to slot 53180935. Our major partners including Serum were notified prior to the hard fork and had no objections. Had transfers, trades, or any other transactions besides votes and empty cranks been present between slots 53180900 and 53180935, we would have recovered the network with all the optimistically confirmed blocks as well, but chose to avoid taking the unnecessary operational risk.</p><h2><strong>Resolution</strong></h2><p>The resolution is coming in several phases:</p><ol><li>Fix places in Turbine where fault detection can be done earlier. This is not a complete fix but increases the likelihood of early detection for these kinds of partitions. Already shipped as 1.4 mainnet beta update.</li><li><a href=\"https://github.com/solana-labs/solana/pull/13992?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://github.com/solana-labs/solana/pull/13992</a></li><li><a href=\"https://github.com/solana-labs/solana/pull/13976?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://github.com/solana-labs/solana/pull/13976</a></li><li>Propagate the first detected fault through gossip. This is not a complete fix, but since Turbine only transmits data once without retiring, gossip will propagate the faults eventually to all validators.</li><li>Fix repair, replay, blocktree, and bankforks services to track blocks by hash instead of slot number. This is a complete fix. If any number of blocks for the same slot create partitions, they are treated no differently than partitions with blocks that occupy different slots. Nodes will be able to repair all possible forks and consensus will be able to resolve the partitions.</li><li><a href=\"https://github.com/solana-labs/solana/pull/9698?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://github.com/solana-labs/solana/pull/9698</a></li><li><a href=\"https://github.com/solana-labs/solana/pull/13995?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://github.com/solana-labs/solana/pull/13995</a></li><li>TdS recovery dry runs that include optimistic blocks. Make sure that our validator community has the operational experience of dealing with the new reboot procedure that doesn’t hardfork any of the optimistically confirmed blocks.</li></ol><p>The first phase has already been released as part of 1.4 upgrade to mainnet-beta. Exchanges and other partners are running as normal. We expect the first patch to rollout within a week, and the subsequent refactoring will take a full release cycle.</p><p><strong>We’d like to give a HUGE thank you to the 390+ validators who responded quickly on Friday, joined the community discussion, and achieved greater than 80% network consensus to help get the network back up and running as quickly as possible. It is an unfortunate property of distributed consensus algorithms that identifying a bug is not enough to get the network back up, but it is inseparable from the decentralization and censorship-resistance that define public blockchains in the first place.</strong></p><h2><strong>Conclusion</strong></h2><p>We are grateful for the outpouring of support on Twitter and from the global Solana community. The community rallied in a tough situation, and the Solana network is now more resilient than it was before the bug.</p><p>We launched Mainnet Beta because we have a high degree of confidence in the system’s safety, performance, and consensus algorithm. We knew there was a possibility to uncover bugs that could result in liveness failures. The three partitions, while they existed, were not rooted or optimistically confirmed by Tower, so they did not finalize any transactions. All funds were safe.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F33b77b311e074bab9a330cf7da84807c",
+  "lastUpdated": 1696416483180,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c13685bd3350463e80539178d17372c0",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687593629982,
+  "@originId": "c13685bd3350463e80539178d17372c0",
+  "testRatio": 1,
+  "createdDate": 1687362653110,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=c13685bd3350463e80539178d17372c0&builder.overrides.c13685bd3350463e80539178d17372c0=c13685bd3350463e80539178d17372c0&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Mainnet Beta Stall - Postmortem",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

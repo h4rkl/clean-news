@@ -1,0 +1,213 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/crypto-policy-bootcamp-solana-foundation-polygon-labs",
+  "data": {
+    "datePublished": 1698328800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba75d23e14664dce88090ec71b8889e8",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_947846597fe840b2a1153e86acbda648"
+    },
+    "intro": "The Bootcamp aimed to give participants knowledge and skills with how to effective engage in political conversations and beyond.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F34ef61b010cb49f1b257d8dc0b604a91",
+      "seoDescription": "The Bootcamp aimed to give participants knowledge and skills with how to effective engage in political conversations and beyond.",
+      "seoTitle": "Solana | The Solana Foundation and Polygon Labs Host Inaugural Crypto Policy Bootcamp in D.C."
+    },
+    "title": "The Solana Foundation and Polygon Labs Host Inaugural Crypto Policy Bootcamp in D.C.",
+    "slug": "crypto-policy-bootcamp-solana-foundation-polygon-labs",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-bc6ebb43b3f64f85af290ec209776f0e",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a94273dc38604ef891755ddf32be7534",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Polygon Labs and the Solana Foundation collaborated to host the first Crypto Policy Bootcamp in Washington D.C. yesterday.&nbsp;</p><p>The Bootcamp focused on the United States and aimed to give participants the knowledge and skills required to effectively engage in policy conversations on Capitol Hill and beyond.</p><p>Founders, CEOs, VCs, and other stakeholders in the space heard from policy experts and Congressional staffers about the current state of crypto legislation, different types of advocacy, and how to effectively tell stories about the value of blockchain.&nbsp;</p><p>“Learning to effectively engage in the political process is foundational to a healthy, functioning democracy,” said Amira Valliani, Head of Policy at the Solana Foundation. “I’m proud that we were able to collaborate across industry to educate builders on becoming engaged citizens.”</p><p>Policy work for an emerging sector like blockchain is not a solo effort.&nbsp;</p><p>It requires bringing together a range of stakeholders — and to that end, Solana Foundation and Polygon Labs collaborated on this event in order to enact the kinds of relationships required for effective policy making.</p><p>“Our first Bootcamp was nothing short of energizing — it was inspirational to see legal and regulatory experts, staffers, builders and founders come together for a common goal of creating a foundation of knowledge for effective advocacy for the industry, especially with those who never engaged before,” said Rebecca Rettig, Chief Legal &amp; Policy Officer at Polygon Labs.&nbsp; “As a group, we created specific action items that will create new pathways for engagement, which will empower the industry for effective engagement.”</p><p>After a day of workshops, participants left the Bootcamp with a few key takeaways, but the most important one is: policy is a “doing” word.&nbsp;</p><p>Below, we provide a quick summary about what was covered to become an effective advocate for a more open and accessible web.</p><h2>Policy is a doing word</h2><p>Individuals can become effective advocates, even if they don’t live in D.C. or have access to policymakers, especially as builders, executives or enthusiasts&nbsp; in a budding industry. The day was filled with sessions that covered a range of topics, including the state of play of blockchain policy and the myriad forms that advocacy takes.</p><p>A few key takeaways.</p><p><strong>1. How to be an effective advocate.</strong></p><ul><li>Reach out to your member of Congress (in your District). It’s surprising how few members hear about blockchain from operators and builders in the space.</li><li>Let your expertise shine. Industry stakeholders are reliable sources of expertise. Members of Congress and staff are eager to learn from experts.&nbsp;</li><li>You can be a guide. Consider showcasing how your project works.&nbsp;</li><li>Offer relevant and unbiased information relevant to a state or district. Industry experts have the opportunity to become reliable sources of expertise and can more easily remain engaged in policy as it is developed.</li><li>Not sure who your Member of Congress is? <a href=\"https://www.house.gov/representatives/find-your-representative\" rel=\"noopener noreferrer\" target=\"_blank\">Find them here</a>.</li></ul><p><strong>2. Storytelling matters.</strong></p><ul><li>Learn to tell your story succinctly and in plain language.</li><li>Be clear. There is a huge knowledge gap, and clarity is key.</li><li>Focus on impact. How specifically does a project have a positive impact that isn’t possible without blockchain?</li><li>Diversify the media where stories appear. Tell stories on social media, op-eds, and blog posts.</li></ul><p><strong>3. Legislation is a process, with some promising first steps.</strong></p><ul><li>Getting a bill passed into law is a long and complicated journey.&nbsp;</li><li>And the U.S. government has numerous bodies that work in both the legislative and regulatory space.</li><li>Two bills recently passed out of Committee (one on market structure and one on stablecoin), which are monumental steps for crypto legislation.&nbsp;</li></ul><p>Policy is a doing word: talking, advocating, explaining, teaching. Building relationships, offline and on, to more effectively shape emerging frameworks that can help the industry thrive.&nbsp;</p><p>This was the first bootcamp–an experiment in how members of the blockchain community can work together cross-industry to help people in the space engage in the democratic process. Plans for future bootcamps include sessions outside of Washington, D.C. and open to a wider group of participants.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-818dc4db650f4f2ab901588e13440d08",
+            "meta": {
+              "previousId": "builder-64047d5578174b58b9ec78293dccd501"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e744d8da2568473a8716b02a18c4f827",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Interested in learning about future sessions and other opportunities to get involved in policy? <a href=\"https://solanafoundation.typeform.com/to/P1uJPyG9\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up here.</a></p><p><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2cec5b89e2dd42939a7bf811fa66b41f",
+            "meta": {
+              "previousId": "builder-324b36dbcafb4e2c99527255dfe63c8b"
+            },
+            "component": {
+              "name": "Conversion Panel",
+              "options": {
+                "variant": "inline-centered",
+                "heading": "Join the Community",
+                "body": "",
+                "buttons": [],
+                "logos": [],
+                "showLogos": false,
+                "listItems": [
+                  {
+                    "label": "Twitter",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://twitter.com/solana"
+                  },
+                  {
+                    "label": "LinkedIn",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://www.linkedin.com/company/solana-foundation/"
+                  },
+                  {
+                    "label": "Email",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://solana.com/newsletter"
+                  },
+                  {
+                    "label": "Telegram",
+                    "hierarchy": "link",
+                    "size": "md",
+                    "endIcon": "arrow-up-right",
+                    "url": "https://t.me/solanaannouncements"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F05bd60fbf70344b59289ca6c176f6a91",
+  "lastUpdated": 1704915484479,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3e35ddeb7e044298a0141bab0771c02f",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1698332146439,
+  "@originId": "3e35ddeb7e044298a0141bab0771c02f",
+  "testRatio": 1,
+  "createdDate": 1698269684738,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/crypto-policy-bootcamp-solana-foundation-polygon-labs?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=3e35ddeb7e044298a0141bab0771c02f&builder.overrides.3e35ddeb7e044298a0141bab0771c02f=3e35ddeb7e044298a0141bab0771c02f&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Conversion Panel": 1,
+      "Copy": 2,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "The Solana Foundation and Polygon Labs Host Inaugural Crypto Policy Bootcamp in D.C.",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

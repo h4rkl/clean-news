@@ -1,0 +1,135 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/proof-of-history",
+  "data": {
+    "datePublished": 1638212400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F155dd49c22de41509bf808dc4ceefb08",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Got the time? Solana does — and it’s part of the reason why it is the most performant blockchain.",
+    "publishedDate": "Tue Nov 30 2021 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Proof of History: How Solana brings time to crypto",
+      "ogUrl": "https://www.solana.com/blog/proof-of-history",
+      "ogDescription": "Got the time? Solana does — and it’s part of the reason why it is the most performant blockchain.",
+      "ogImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa3b228ca7bb3414cb2928b2a6c263949",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Proof of History: How Solana brings time to crypto",
+      "noFollow": false,
+      "seoDescription": "Got the time? Solana does — and it’s part of the reason why it is the most performant blockchain.",
+      "seoTitle": "Proof of History: How Solana brings time to crypto",
+      "noIndex": false
+    },
+    "title": "Proof of History: How Solana brings time to crypto",
+    "twitterMeta": {
+      "twitterTitle": "Proof of History: How Solana brings time to crypto",
+      "twitterDescription": "Got the time? Solana does — and it’s part of the reason why it is the most performant blockchain.",
+      "twitterImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa3b228ca7bb3414cb2928b2a6c263949"
+    },
+    "slug": "proof-of-history",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_55b6d70608874ebdb32c37771b2d0a8b"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-7908cb559fa5449193d9fa6725fed162",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-59efa7d5540643e8ae1e8261bb2c0203",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This article is&nbsp;<a href=\"https://solana.com/news/tag/core-technical-innovations?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">part of a series</a>&nbsp;that explains the core technical innovations behind Solana, the world’s most performant blockchain.</p><p>Time is a construct. No, really.</p><p>It used to be all a matter of perspective. Not that long ago, time was determined by how high the sun was in the sky. Every town had their own version of the time — which was fine, because each of the towns did not need to interact with each other. You could only get to the next town based on how fast you could physically travel, like on a horse or by foot. If noon was a few minutes earlier in your town versus a town a hundred miles to the west, what did it matter? What’s the difference if there’s no way to communicate with them any faster than how fast a horse can gallop?</p><p>Then the railroads arrived, and people started moving a lot faster. And those couple of minutes difference started to become a problem. Things needed to be on an accurate schedule so you could plan ahead — you needed to know when a train was going to leave New York and arrive at Philadelphia, Pittsburgh, Cleveland, and Chicago so you could sell goods, send information, and even arrive at the right time. So on November 18th, 1883, American railroads&nbsp;<a href=\"https://www.history.com/news/when-did-the-united-states-start-using-time-zones?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">adopted four time zones to standardize time</a>&nbsp;across the United States.</p><p>As communication got faster, this idea of standardized time persisted. Computers and phones will&nbsp;<a href=\"https://cs.stackexchange.com/questions/54933/how-do-computers-keep-track-of-time/54935?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">check back with a centralized clock</a>&nbsp;when connected to the internet to make sure their internal clocks are accurate.</p><p>But how do you determine time when there is no single, centralized clock? How do you validate information without a central source of time?</p><h2><strong>Have you got the time?</strong></h2><p>This time problem gets pretty difficult in distributed systems. When you need to move fast and process transactions as soon as possible, you need to be able to time in small units. But many programmable blockchains, like Ethereum, rely on outside programs to assign a “median” timestamp — which they then use to validate transactions in the order they were received.</p><p>But referring back to a centralized source defeats the purpose of a decentralized system. Solana solves this problem by using an innovative technology called&nbsp;<strong>Proof of History</strong>, which allows these “timestamps” to be built into the blockchain itself. This is done through a verifiable delay function, a VDF.</p><p>“Every block producer has to crank through the VDF, this proof of history, to get to their assigned slot and produce a block,” says Anatoly Yakovenko, co-founder of Solana Labs.</p><p>Solana does this by inserting data into the sequence by appending the hash of the data of the previously generated states. The state, input data, and count are all published — and impossible to recreate or create alternate versions of. This sets up an upper bound on time — and because Proof of History can reference previous hashes, there is also a lower bound of time. While this VDF won’t tell you it’s 12:02:01 PM, it will tell you exactly when in the past and future of the global state machine a transaction occurred.</p><p>The block producers are doing this locally, in approximate real time, with a SHA256 hash function — which is what most major chip manufacturers are optimized towards. And using this hash to keep track of time, Yakovenko says, “gives the ledger this interesting property where you can infer when events occurred when you examine it.”</p><h2><strong>Using time to move quicker</strong></h2><p>Why is proof of history important? Well, if you know the precise time, you can validate information a lot quicker.</p><p>Imagine you wanted to send a very important letter on a train that leaves New York and arrives in Chicago at 5pm, stopping at Philadelphia, Pittsburgh, and Cleveland along the way. And because this letter is so important, you want to verify that this is indeed the train with that letter every time it stops — and not the train going from Boston to Atlanta, Detroit to New Orleans, or even New York to San Francisco.</p><p>On Other Chains Railways, it would take a ridiculous amount of time and resources to determine that the information was correct every time the train stopped because there’s no schedule.The train station attendant in Cleveland would have to contact their counterpart in each of the other cities to confirm that this was the correct train — “Hey there, Philadelphia, did this train stop by you?” “Hey Chicago, are you due to get a train from New York?” — because there’s no mark on the letter itself. They could potentially check in with a centralized schedule, but because it’s centralized, any inaccurate (or tampered) information could mess up the whole process. It could take hours to get ahold of everybody and verify everything.</p><p>On the Solana Railroad, though, every time that train stops, the letter gets a stamp from that city that includes the time. By the time that train arrives in Cleveland, it already has stamps from Pittsburgh, Philadelphia, and New York — so this train station attendant knows that it’s heading to Chicago and is due to arrive at 5pm. The attendant gives it the appropriate Cleveland stamp and the train heads off in a matter of minutes, instead of the hours spent trying to get in touch with every other station. It saves a ton of time and money.</p><p>On the Solana blockchain, any individual node can validate the entire chain with just a small piece of information — even if they’re not connected to the rest of the network. In fact, even if every computer runs at a slightly different speed, the ASIC will stay within 30% of what is bound in the network. “Everybody has this local synchronized atomic clock and these clocks never need to be resynchronized,” Yakovenko says. “So even if we get cut off and communication links go down, our clocks never drift because they are logical based on this SHA256.”</p><p>Even better, because the blockchain can be verified by a small piece of info, it means that it can be verified in parallel, or more than one piece can be verified at any given time. Most programmable blockchains can only validate a blockchain one at a time.</p><p>Think of it this way: Other Chain Railways only has one attendant doing that long verification process for every letter on the train. But the Solana Railroad has multiple attendants that can check many different letters on the train for their stamps at the same time — which means the trains move much faster.</p><h2><strong>Learn more</strong></h2><p><strong>Proof of History</strong>&nbsp;is just one of the innovations that make Solana the most performant blockchain in the world.</p><p>This is part of a series of articles explaining each of Solana’s core technical innovations.&nbsp;<a href=\"https://solana.com/news/tag/core-technical-innovations?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">You can read the rest of them here.</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto",
+                "pointerEvents": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F315265a15d964994967089a4ea968bf3",
+  "lastUpdated": 1704915658626,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e1ed3de46e654b45934295129ec419a8",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687617578864,
+  "@originId": "e1ed3de46e654b45934295129ec419a8",
+  "testRatio": 1,
+  "createdDate": 1687362583589,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/proof-of-history?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=e1ed3de46e654b45934295129ec419a8&builder.overrides.e1ed3de46e654b45934295129ec419a8=e1ed3de46e654b45934295129ec419a8&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Proof of History: How Solana brings time to crypto",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

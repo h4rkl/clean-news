@@ -1,0 +1,617 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1567926000000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+    "publishedDate": "Sun Sep 08 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "Sealevel — Parallel Processing Thousands of Smart Contracts",
+    "seo": {
+      "internalName": "Sealevel — Parallel Processing Thousands of Smart Contracts",
+      "noFollow": false,
+      "seoDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+      "seoTitle": "Sealevel — Parallel Processing Thousands of Smart Contracts",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Sealevel — Parallel Processing Thousands of Smart Contracts",
+      "ogUrl": "https://www.solana.com/blog/sealevel---parallel-processing-thousands-of-smart-contracts",
+      "ogDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Sealevel — Parallel Processing Thousands of Smart Contracts",
+      "twitterImage": null,
+      "twitterDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n"
+    },
+    "slug": "sealevel---parallel-processing-thousands-of-smart-contracts",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-92b1a03db1454f869796eb0d4673bd57",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b5b6a8ced00b45c69f968a89a5d7630d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Understand 1 of 8 key technologies that make&nbsp;</strong><a href=\"https://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana</strong></a><strong>&nbsp;the most performant blockchain in the&nbsp;world</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1d1fdb0f74d946ab868ff7e7e456a775",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ba61338e764548931272b682a84331?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ba61338e764548931272b682a84331?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ba61338e764548931272b682a84331?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ba61338e764548931272b682a84331?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ba61338e764548931272b682a84331?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ba61338e764548931272b682a84331?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ba61338e764548931272b682a84331?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ba61338e764548931272b682a84331?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ba61338e764548931272b682a84331?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ba61338e764548931272b682a84331?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-444581c2bdf54fdbba114ca17455b079",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana is the most performant permissionless blockchain in the world. On current iterations of the Solana Testnet, a network of 200 physically distinct nodes supports a sustained throughput of more than 50,000 transactions per second when running with GPUs. Achieving as such requires the implementation of several optimizations and new technologies, and the result is a breakthrough in network capacity that signals a new phase in blockchain development.</p><h3><strong>There are 8 key innovations that make the Solana network possible:</strong></h3><ul><li><a href=\"https://solana.ghost.io/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Proof of History (POH)</strong></a><strong> </strong>— a clock before consensus;</li><li><a href=\"https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Tower BFT </strong></a>— a PoH-optimized version of PBFT;</li><li><a href=\"https://solana.ghost.io/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Turbine</strong></a> — a block propagation protocol;</li><li><a href=\"https://solana.ghost.io/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Gulf Stream</strong></a><strong> </strong>— Mempool-less transaction forwarding protocol;</li><li><a href=\"https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sealevel </strong></a>— Parallel smart contracts run-time;</li><li><a href=\"https://solana.com/pipelining-in-solana-the-transaction-processing-unit/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Pipelining</strong></a> — a Transaction Processing Unit for validation optimization</li><li><a href=\"https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Cloudbreak</strong></a><strong> </strong>— Horizontally-Scaled Accounts Database; and</li><li><a href=\"https://solana.com/archivers/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Archivers</strong></a> — Distributed ledger store</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dc43305090fd421d9c4656d5b8f8c83c",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0ddb6af766d4d039d8199de53ab0e17?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0ddb6af766d4d039d8199de53ab0e17?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0ddb6af766d4d039d8199de53ab0e17?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0ddb6af766d4d039d8199de53ab0e17?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0ddb6af766d4d039d8199de53ab0e17?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0ddb6af766d4d039d8199de53ab0e17?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0ddb6af766d4d039d8199de53ab0e17?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0ddb6af766d4d039d8199de53ab0e17?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0ddb6af766d4d039d8199de53ab0e17?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0ddb6af766d4d039d8199de53ab0e17?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5afb2db45ca64137b1185ff3f50d6713",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In this blog post, we’ll explore&nbsp;<strong>Sealevel</strong>, Solana’s parallel smart contracts runtime. Before we start, one thing to consider is that EVM and EOS’s WASM-based runtimes are all single threaded. That means that one contract at a time modifies the blockchain state. What we’ve built in Solana is a runtime that can process tens of thousands of contracts in parallel, using as many cores as are available to the Validator.</p><p>The reason why Solana is able to process transactions in parallel is that Solana transactions describe all the states a transaction will read or write while executing. This not only allows for non-overlapping transactions to execute concurrently, but also for transactions that are only reading the same state to execute concurrently as well.</p><h2><strong>Programs and&nbsp;Accounts</strong></h2><p>Cloudbreak, our accounts database, is a mapping of Public Keys to Accounts. Accounts maintain balances and data, where data is a vector of bytes. Accounts have an “owner” field. The owner is the Public Key of the program that governs the state transitions for the account. Programs are code and have no state. They rely on the data vector in the Accounts assigned to them for state transitions.</p><ol><li>Programs can only change the data of accounts they own.</li><li>Programs can only debit accounts they own.</li><li>Any program can credit any account.</li><li>Any program can read any account.</li></ol><p>By default, all accounts start as owned by the System Program.</p><ol><li>System Program is the only program that can assign account ownership.</li><li>System Program is the only program that can allocate zero-initialized data.</li><li>Assignment of account ownership can only occur once in the lifetime of an account.</li></ol><p>A user-defined program is loaded by the loader program. The loader program is able to mark the data in the accounts as executable. The user performs the following transactions to load a custom program:</p><ol><li>Create a new public key.</li><li>Transfer coin to the key.</li><li>Tell System Program to allocate memory.</li><li>Tell System Program to assign the account to the Loader.</li><li>Upload the bytecode into the memory in pieces.</li><li>Tell Loader program to mark the memory as executable.</li></ol><p>At this point, the loader verifies the bytecode, and the account to which the bytecode is loaded into can be used as an executable program. New Accounts can be marked as owned by the user-defined program.</p><p>The key insight here is that programs are code, and within our key-value store, there exists some subset of keys that the program and only that program has write access.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2e1027cd2e084ac5beab29e2a22d853f",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1ff06fc801e48b59442d0b1afc35cb6?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1ff06fc801e48b59442d0b1afc35cb6?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1ff06fc801e48b59442d0b1afc35cb6?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1ff06fc801e48b59442d0b1afc35cb6?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1ff06fc801e48b59442d0b1afc35cb6?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1ff06fc801e48b59442d0b1afc35cb6?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1ff06fc801e48b59442d0b1afc35cb6?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1ff06fc801e48b59442d0b1afc35cb6?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1ff06fc801e48b59442d0b1afc35cb6?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1ff06fc801e48b59442d0b1afc35cb6?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dc34fb26e8fd447587bdcccb19aeb755",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Transactions</strong></h2><p>Transactions specify an instruction vector. Each instruction contains the program, program instruction, and a list of accounts the transaction wants to read and write. This interface is inspired by low level Operating System interfaces to devices:</p><p>size_t<strong>readv</strong>(int d, const struct iovec *iov, int iovcnt);</p><p>struct iovec {</p><p>char *iov_base; /* Base address. */</p><p>size_t iov_len; /* Length. */</p><p>};</p><p>Interfaces such as readv or writev tell the kernel ahead of time all the memory the user wants to read or write. This allows the OS to prefetch, prepare the device, and execute the operation concurrently if the device allows it.</p><p>On Solana, each instruction tells the VM which accounts it wants to read and write ahead of time. This is the root of our optimizations to the VM.</p><ol><li>Sort millions of pending transactions.</li><li>Schedule all the non-overlapping transactions in parallel.</li></ol><p>What’s more is that we can take advantage of how CPU and GPU hardware are designed.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7a48bcffb97f4cd5a5d9abe876162b30",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d73361d1ea949a89e4d1c2829f9c3ad?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 1.18,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 944,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d73361d1ea949a89e4d1c2829f9c3ad?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d73361d1ea949a89e4d1c2829f9c3ad?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d73361d1ea949a89e4d1c2829f9c3ad?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d73361d1ea949a89e4d1c2829f9c3ad?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d73361d1ea949a89e4d1c2829f9c3ad?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d73361d1ea949a89e4d1c2829f9c3ad?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d73361d1ea949a89e4d1c2829f9c3ad?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d73361d1ea949a89e4d1c2829f9c3ad?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d73361d1ea949a89e4d1c2829f9c3ad?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-616878cfecf2454b826d6a922e7b2cbe",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://en.wikipedia.org/wiki/SIMD?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SIMD</a>&nbsp;instructions allow for a single piece of code to execute over multiple data streams. This means that Sealevel can execute an additional optimization, which is unique to Solana design:</p><ol><li>Sort all the instructions by program ID.</li><li>Run the same Program over all accounts concurrently.</li></ol><p>To get an idea of why this is such a powerful optimization, take a look at the&nbsp;<a href=\"http://developer.download.nvidia.com/compute/cuda/3_1/toolkit/docs/NVIDIA_CUDA_C_ProgrammingGuide_3.1.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">CUDA Developer Guide</a>:</p><p>“The CUDA architecture is built around a scalable array of multithreaded Streaming Multiprocessors (SMs). When a CUDA program on the host CPU invokes a kernel grid, the blocks of the grid are enumerated and distributed to multiprocessors with available execution capacity.”</p><p>A modern Nvidia GPU has 4000 CUDA cores, but about 50 multiprocessors. While a multiprocessor can execute only a single program instruction at a time, it can execute that instruction over 80 different inputs in parallel. So, if the incoming transactions that are loaded by Sealvel all call the same program instructions, such as CryptoKitties::BreedCats, Solana can execute all the transactions concurrently over all the available CUDA cores.</p><p>There is no free lunch in performance, so for SIMD optimizations to be feasible, the executed instructions should contain a small number of branches and should all take the same branch. The multiprocessor is bound by the slowest path execution will take in the batch. Even with this consideration, parallel processing via Sealevel presents a foundational development in the way that blockchain networks function compared to single-threaded runtimes, enabling exceptionally high throughput and usability.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7d8c5006eeb845ad9d27f8d7c60877dd",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F707f34e550b842d283e77e29bc5ab47d?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.361,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 433,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F707f34e550b842d283e77e29bc5ab47d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F707f34e550b842d283e77e29bc5ab47d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F707f34e550b842d283e77e29bc5ab47d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F707f34e550b842d283e77e29bc5ab47d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F707f34e550b842d283e77e29bc5ab47d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F707f34e550b842d283e77e29bc5ab47d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F707f34e550b842d283e77e29bc5ab47d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F707f34e550b842d283e77e29bc5ab47d?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F707f34e550b842d283e77e29bc5ab47d?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a34bb66906b64dd6b2814f81d37ea4f0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana’s implementation of Sealevel, alongside innovations like Proof of History, Proof of Replication, and Gulf Stream combine to create the most performant blockchain in the world. Solana’s testnet is live today. You can see it at&nbsp;<a href=\"https://testnet.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://testnet.solana.com</a>. For cost purposes, we are only running a handful of nodes. However, we have spun it up on many instances to over 200 physically distinct nodes (not on shared hardware) across 23 data centers on AWS, GCE, and Azure for benchmarking.</p><p>The runtime is functioning today, and developers can deploy code on the testnow now. Developers can build smart contracts in C today, and we are aggressively working on the Rust toolchain. Rust will be the flagship language for Solana smart contract development. The&nbsp;<a href=\"https://github.com/solana-labs/solana-web3.js?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Rust toolchain is publicly available</a>&nbsp;as part of the Solana Javascript SDK, and we are further iterating on the Software Development Kit.</p><p>Solana will soon launch a public beta incentivizing validators to run nodes via&nbsp;<a href=\"https://medium.com/solana-labs/solana-announces-tour-de-sol-an-incentivized-testnet-event-b26372a58a51?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tour de SOL</a> — analogous to Cosmos’s Game of Stakes — that challenges the public at large to test the limits of the Solana network while earning tokens for doing so.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-65a33757dec84447bbb4f7c349a06807",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe3a62091da0449fb9816c302afbb352d?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe3a62091da0449fb9816c302afbb352d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe3a62091da0449fb9816c302afbb352d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe3a62091da0449fb9816c302afbb352d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe3a62091da0449fb9816c302afbb352d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe3a62091da0449fb9816c302afbb352d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe3a62091da0449fb9816c302afbb352d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe3a62091da0449fb9816c302afbb352d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe3a62091da0449fb9816c302afbb352d?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe3a62091da0449fb9816c302afbb352d?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3120507d64bb429594e2e87242c5820a",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9762240a9d649ec8c1f6f5e422984f5?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9762240a9d649ec8c1f6f5e422984f5?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9762240a9d649ec8c1f6f5e422984f5?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9762240a9d649ec8c1f6f5e422984f5?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9762240a9d649ec8c1f6f5e422984f5?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9762240a9d649ec8c1f6f5e422984f5?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9762240a9d649ec8c1f6f5e422984f5?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9762240a9d649ec8c1f6f5e422984f5?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9762240a9d649ec8c1f6f5e422984f5?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff9762240a9d649ec8c1f6f5e422984f5?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bdb10f9a24f4405abeecacd1091a6e19",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe152ef87f8c640baa5e6984b2b12ccbc?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.067,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 80,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe152ef87f8c640baa5e6984b2b12ccbc?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe152ef87f8c640baa5e6984b2b12ccbc?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe152ef87f8c640baa5e6984b2b12ccbc?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe152ef87f8c640baa5e6984b2b12ccbc?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe152ef87f8c640baa5e6984b2b12ccbc?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe152ef87f8c640baa5e6984b2b12ccbc?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe152ef87f8c640baa5e6984b2b12ccbc?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe152ef87f8c640baa5e6984b2b12ccbc?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe152ef87f8c640baa5e6984b2b12ccbc?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4fefe12b35f44a65b6002ae90255f3c1",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa71f912c724348a1a2390161a1666d4a?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa71f912c724348a1a2390161a1666d4a?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa71f912c724348a1a2390161a1666d4a?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa71f912c724348a1a2390161a1666d4a?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa71f912c724348a1a2390161a1666d4a?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa71f912c724348a1a2390161a1666d4a?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa71f912c724348a1a2390161a1666d4a?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa71f912c724348a1a2390161a1666d4a?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa71f912c724348a1a2390161a1666d4a?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa71f912c724348a1a2390161a1666d4a?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f413db23075646c480011b7ffad649bd",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F97438ef345384806be14fd668dbd1158?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F97438ef345384806be14fd668dbd1158?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F97438ef345384806be14fd668dbd1158?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F97438ef345384806be14fd668dbd1158?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F97438ef345384806be14fd668dbd1158?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F97438ef345384806be14fd668dbd1158?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F97438ef345384806be14fd668dbd1158?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F97438ef345384806be14fd668dbd1158?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F97438ef345384806be14fd668dbd1158?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F97438ef345384806be14fd668dbd1158?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-542f1753c2af499793f880b266a982e6",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ed21c6b5e74970a885f584409d28f0?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ed21c6b5e74970a885f584409d28f0?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ed21c6b5e74970a885f584409d28f0?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ed21c6b5e74970a885f584409d28f0?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ed21c6b5e74970a885f584409d28f0?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ed21c6b5e74970a885f584409d28f0?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ed21c6b5e74970a885f584409d28f0?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ed21c6b5e74970a885f584409d28f0?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ed21c6b5e74970a885f584409d28f0?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63ed21c6b5e74970a885f584409d28f0?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2fa142a2550945a090ecbc2f7ff12398",
+  "lastUpdated": 1694189913731,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_aafe8b5ca60b44bdbf26f61547c49f84",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687496865332,
+  "@originId": "aafe8b5ca60b44bdbf26f61547c49f84",
+  "testRatio": 1,
+  "createdDate": 1687362740382,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=aafe8b5ca60b44bdbf26f61547c49f84&builder.overrides.aafe8b5ca60b44bdbf26f61547c49f84=aafe8b5ca60b44bdbf26f61547c49f84&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Sealevel — Parallel Processing Thousands of Smart Contracts",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

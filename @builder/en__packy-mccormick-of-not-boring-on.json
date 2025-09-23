@@ -1,0 +1,140 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1634022000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4c644a2a47324ad0b246ba8e6d0acdea",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "What happens after you make a $2 million+ mistake? You hold it. Anatoly Yakovenko speaks to Not Boring’s Packy McCormick.",
+    "publishedDate": "Tue Oct 12 2021 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "Crypto and the metaverse with Packy McCormick of Not Boring",
+    "seo": {
+      "internalName": "Crypto and the metaverse with Packy McCormick of Not Boring",
+      "noFollow": false,
+      "seoDescription": "What happens after you make a $2 million+ mistake? You hold it. Anatoly Yakovenko speaks to Not Boring’s Packy McCormick.",
+      "seoTitle": "Crypto and the metaverse with Packy McCormick of Not Boring",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Crypto and the metaverse with Packy McCormick of Not Boring",
+      "ogUrl": "https://www.solana.com/blog/packy-mccormick-of-not-boring-on",
+      "ogDescription": "What happens after you make a $2 million+ mistake? You hold it. Anatoly Yakovenko speaks to Not Boring’s Packy McCormick.",
+      "ogImage": "https://solana.ghost.io/content/images/2021/10/solana-podcast-packy-mccormick-not-boring-2.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Crypto and the metaverse with Packy McCormick of Not Boring",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/10/solana-podcast-packy-mccormick-not-boring-2.png",
+      "twitterDescription": "What happens after you make a $2 million+ mistake? You hold it. Anatoly Yakovenko speaks to Not Boring’s Packy McCormick."
+    },
+    "slug": "packy-mccormick-of-not-boring-on",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3605291697f44b2189222e5f8b18c8b0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9091a1aea4b04885a63b65fb647eed45"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_527f852addb941169af8061791e00ebc"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-08f940fb2ca04925b6c60bf0d12ef52c",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2bf5b0af821e49069a78792a34df3c67",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Listen on&nbsp;<a href=\"https://pca.st/js84742w?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Pocket Casts</a>&nbsp;|&nbsp;<a href=\"https://podcasts.apple.com/us/podcast/the-solana-podcast/id1476353378?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Apple Podcasts</a>&nbsp;|&nbsp;<a href=\"https://open.spotify.com/show/5m24z58eqLGgxMLHHxNCwV?si=7juEuEAWTdmscwa7yUAyUw&amp;dl_branch=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Spotify</a>&nbsp;|&nbsp;<a href=\"https://www.iheart.com/podcast/269-no-sharding-the-solana-pod-54152133/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">iHeartRadio</a>&nbsp;|&nbsp;<a href=\"https://feeds.simplecast.com/W1NI2v3Z?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RSS</a></p><p>For a lot of people, making a very expensive mistake is enough to get them out of the market. Not so for Packy McCormick, the founder and writer behind Not Boring. His mistake got him into crypto, where he’s become one of the space’s foremost voices —&nbsp;<a href=\"https://www.notboring.co/p/solana-summer?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">including a deep dive on Solana</a>.</p><p>On the latest episode of the Solana Podcast, he joins Solana Labs cofounder and CEO Anatoly Yakovenko for a two-way interview about the crypto space — and what’s coming next.</p><p>These quotes have been edited for length and clarity.</p><h2><strong>On how web2 companies like Facebook and Twitter are at risk of being disintermediated by crypto</strong></h2><p><strong>Packy McCormick:</strong>&nbsp;“Yes. On a long enough time horizon, absolutely. I don't know what it looks like, and I think the early attempts to do it have been a bit&nbsp;<a href=\"https://en.wikipedia.org/wiki/Skeuomorph?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">skeuomorphic</a>, and that's one of the things that interest me here is that BitClout was, I guess, interesting, but it was Twitter with coins. I don't think that the next social network will look like Twitter with coins.</p><p>“I think it will look like something that is maybe wallet-first, or maybe in the 3D world, or something that looks different but then achieves a very similar end. And so I think, yes, 100% they're at risk, but I don't think that they're at risk from something that looks like a clone but adds a token.”</p><h2><strong>On&nbsp;Axie Infinity</strong></h2><p><strong>Packy McCormick:</strong>&nbsp;“<a href=\"https://www.notboring.co/p/infinity-revenue-infinity-possibilities?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">I wrote a piece on&nbsp;Axie</a>. I think it's so fascinating.”</p><p><strong>Anatoly Yakovenko:</strong>&nbsp;“I'm terrified of a world where everything we do is like, ‘You got to do this to get your 20 extra cents on your dollar.’ Right? It just sounds like a nightmare.”</p><p><strong>Packy McCormick:</strong>&nbsp;“I know. I mean, I am of the mind that dystopia is probably overstated because people have to opt in at every gate, and so I've had conversations with people where they're like, ‘Isn't it wild that we'd be spending time in the metaverse? Isn't that dystopian?’ And then you think about how we spend a lot of our time right now, we're in a two dimensional screen. Wouldn't it be more fun if there was an immersive environment that we were interacting with here, and would we just continue to choose to do the 2D version until the 3D version got realistic and fun enough that we made the shift? And so there's going to be those gates at all times where people can opt in or not.</p><p>A lot of the people playing&nbsp;Axie&nbsp;right now are in the Philippines, were unemployed, thanks in large part due to COVID, and so their options were, \"Don't do this and figure out some other way to make money or start playing this game, that you might be playing anyway, and actually make money while doing it.\" So, that's an incredible option that people have, but you also don't see a ton of people in the West flocking to&nbsp;Axie&nbsp;to make a couple of bucks because the trade-off doesn't make sense for them. And so I think the trade-offs have to make sense for people but everybody has agency, to some extent, and will opt in to the things that make sense for them.</p><h2><strong>On Packy McCormick’s ill-fated crypto origin story</strong></h2><p><strong>Packy McCormick:</strong>&nbsp;“So, I got into crypto back in 2013. I read Fred Wilson's blog post on investing in Coinbase, bought a bunch of Bitcoin, I think 38 Bitcoin, and then I went on a trip to Oktoberfest, and I felt bad about it, I had just quit my job, so I was like, ‘You know what, instead of spending money when I'm unemployed, let me just sell this stupid Bitcoin and I will pay for the trip.’</p><p>“So, because of that, because of the pain of selling then, I avoided it until earlier this year, later last year, and really, really got back into it as I was talking to a couple companies that I was thinking about investing in and thinking about the intersection of crypto and the metaverse and how an open economy just fits so much better with that vision, since then, I've just gotten deeper, and deeper, and deeper down the rabbit hole.”</p><p><strong>Anatoly Yakovenko:</strong>&nbsp;“So, you held Bitcoin because you can sell it? That's just too big of a pain in the ass.”</p><p><strong>Packy McCormick:</strong>&nbsp;“I felt so bad about selling it and missing out. I think at the peak, it was like a two million dollar plus mistake, and so I was like, ‘You know what? I'm out of this for a little while.’”</p><h2><strong>On the future of web3</strong></h2><p><strong>Packy McCormick:</strong>&nbsp;“I wrote a piece called the Interface Phase, and it was a little bit like a high kid post where I was like, \"What are the interfaces going to be?\" But just the fact that the first internet needed Netscape and needed a graphical interface, Web 2.0 needed things like Digg and Facebook that were interactive for that kind of capability, the read-write interface to really be there, and I don't think Web3 has gotten there yet. I do think that either a wallet based thing, and I don't know what that looks like, and I'm not smart enough to figure out what that looks like, or the kind of metaverse. And I think it's such an interesting mistake of history or just a coincidence of history that the tech for the metaverse and Web 3.0 Are peaking at the same time?</p><p>“One of the things I think crypto does well is give physical-ish characteristics to digital things, and so I think a interface that makes that clear will have a lot of value in just making a lot of the stuff that feels a little more ethereal feel more real and tangible, and actually, there will be physical places that people meet up and all that.”</p><h2><strong>On whether place matters</strong></h2><p><strong>Packy McCormick:</strong>&nbsp;“The internet is Silicon Valley. A more amorphous idea is Silicon Valley at this point, but I'm in New York, I'm probably 30 minutes away. I'm in Park Slope and the crypto hub has become Williamsburg, and I talk to all those people all the time, and I never take the 30 minute trip over to Williamsburg because I have Twitter, and I have Discord, and I'm pretty much right there with them. So, I don't think physical place matters nearly as much. Gathering in physical places is awesome. I think the idea of conferences, and quarterly team meetups, and all of that kind of stuff is absolutely going to explode. There's a really fun thing about only knowing somebody on the internet and then meeting them in person and feeling like you've known each other for a long time, but I don't think the physical place where you all live all the time matters that much.”</p><p>Read the full transcript. (Click to expand.)</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>SHARE ARTICLE</p><p>Managed by</p><p>©&nbsp;2023&nbsp;Solana Foundation. All rights reserved.SOLANA</p><ul><li><a href=\"https://solana.org/grants\" rel=\"noopener noreferrer\" target=\"_blank\">Grants</a></li><li><a href=\"https://break.solana.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Break Solana</a></li><li><a href=\"https://solana.com/branding\" rel=\"noopener noreferrer\" target=\"_blank\">Media Kit</a></li><li><a href=\"https://jobs.solana.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Careers</a></li><li><a href=\"https://solana.com/tos\" rel=\"noopener noreferrer\" target=\"_blank\">Disclaimer</a></li></ul><p>GET CONNECTED</p><ul><li><a href=\"https://solana.com/ecosystem\" rel=\"noopener noreferrer\" target=\"_blank\">Ecosystem</a></li><li><a href=\"https://solana.com/news\" rel=\"noopener noreferrer\" target=\"_blank\">Blog</a></li><li><a href=\"https://solana.com/newsletter\" rel=\"noopener noreferrer\" target=\"_blank\">Newsletter</a></li></ul><p>EN</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F15b8d34ac10448dab7d6034994fe4969",
+  "lastUpdated": 1694189932748,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_fb86f76f2402400fadccb0b243c0dd87",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687614846148,
+  "@originId": "fb86f76f2402400fadccb0b243c0dd87",
+  "testRatio": 1,
+  "createdDate": 1687362597107,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=fb86f76f2402400fadccb0b243c0dd87&builder.overrides.fb86f76f2402400fadccb0b243c0dd87=fb86f76f2402400fadccb0b243c0dd87&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Crypto and the metaverse with Packy McCormick of Not Boring",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

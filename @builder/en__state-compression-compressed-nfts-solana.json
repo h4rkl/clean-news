@@ -1,0 +1,402 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/state-compression-compressed-nfts-solana",
+  "data": {
+    "datePublished": 1680764400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4453b1c3aaf74d8ba68172ca685f446e",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_16e80be9358446b1931ac8fe261183ee"
+    },
+    "intro": "With an innovative use of Merkle trees, state compression drastically lowers the cost of storing information on-chain.",
+    "publishedDate": "Thu Apr 06 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "State compression brings down cost of minting 1 million NFTs on Solana to ~$110",
+      "ogUrl": "",
+      "ogDescription": "With an innovative use of Merkle trees, state compression drastically lowers the cost of storing information on-chain.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "State compression brings down cost of minting 1 million NFTs on Solana to ~$110",
+      "noFollow": false,
+      "seoDescription": "With an innovative use of Merkle trees, state compression drastically lowers the cost of storing information on-chain.",
+      "seoTitle": "State compression brings down cost of minting 1 million NFTs on Solana to ~$110",
+      "noIndex": false
+    },
+    "title": "State compression brings down cost of minting 1 million NFTs on Solana to ~$110",
+    "twitterMeta": {
+      "twitterTitle": "State compression brings down cost of minting 1 million NFTs on Solana to ~$110",
+      "twitterDescription": "With an innovative use of Merkle trees, state compression drastically lowers the cost of storing information on-chain."
+    },
+    "slug": "state-compression-compressed-nfts-solana",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_33fe975401244255a461cc5f0bcac6a5"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a06f417c4cb24d50b4ca8ca34a2230a7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-28b528cacb224ab085de8b35a7b437c2",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c0e695812c284aa89b7511343af95fc3",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><em>Jon Wong is technical lead on the ecosystem engineering team at the Solana Foundation.</em></p><p>When it comes to building web3 experiences at scale, Solana has been the industry leader thanks to its unparalleled speed, minimal environmental impact, composability, and low gas fees. But now, it’s about to cost even less to build user-first web3 projects.</p><p>Introducing <strong>state compression</strong>, a new way to store data directly on-chain that cuts down on cost by magnitudes of scale.&nbsp;</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b652b5e21c5842809c2fa232f088ef0b",
+            "meta": {
+              "previousId": "builder-62e84462d21e458ba33c62088f6ef0b5"
+            },
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd195ac0289eb44aea226456cb9974368?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.598,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 1077,
+                "width": 1800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd195ac0289eb44aea226456cb9974368?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd195ac0289eb44aea226456cb9974368?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd195ac0289eb44aea226456cb9974368?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd195ac0289eb44aea226456cb9974368?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd195ac0289eb44aea226456cb9974368?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd195ac0289eb44aea226456cb9974368?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd195ac0289eb44aea226456cb9974368?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd195ac0289eb44aea226456cb9974368?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd195ac0289eb44aea226456cb9974368?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd195ac0289eb44aea226456cb9974368?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-80b3a0c5e9594a69aafb184e24dac897",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  <em\n    >This chart is based on a snapshot taken on April 5, 2023 and based on a\n    price of SOL at $21.14, MATIC at $1.14, and ETH at $1,909.45. </em\n  ><a\n    href=\"https://solana.com/news/state-compression-compressed-nfts-solana#footnotes\"\n    rel=\"noopener noreferrer\"\n    target=\"_blank\"\n    ><em>See footnote.</em></a\n  >\n</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "paddingLeft": "50px",
+                "paddingRight": "50px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8141c2b9ef0b4a0d8ac41d4d1f75164b",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>State compression is already being used by teams across the Solana ecosystem to power large, user-friendly experiences:</p><ul><li><strong>Dialect</strong>, a blockchain-based messaging service, uses state compression for compressed NFTs to cover the minting cost of NFT stickers to thousands of users. <a href=\"https://solana.com/news/case-study-dialect\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more.</a></li><li><strong>Crossmint</strong>, an NFT and API tooling company, is using state compression to create integrations that power deeper customer loyalty for companies around the world.<a href=\"https://solana.com/news/case-study-dialect\" rel=\"noopener noreferrer\" target=\"_blank\"> Learn more.</a></li></ul><p>And that’s just the beginning — projects like user-owned wireless network <a href=\"https://www.helium.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Helium</a> and on-chain publisher <a href=\"https://www.wordcelclub.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Wordcel</a> are using state compression to bring their scalable, user-first experiences to Solana.</p><p>Although state compression can be used to store any sort of data on-chain, the first use of this innovative technology is <strong>compressed NFTs. </strong>Compressed NFTs are just like regular NFTs, only drastically cheaper — minting 100 million compressed NFTs costs about ◎50 to store on-chain, compared to ◎1.2mm for their uncompressed counterpart. In fact, because every incremental compressed NFT is solely a modification of an existing tree, the cost of an NFT on Solana is now as little as the cost of a single transaction (◎0.000005)! <a href=\"https://solana.com/news/how-to-use-compressed-nfts-on-solana\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about how compressed NFTs work here.</a></p><p>A true cross-ecosystem effort — built by developers at Solana Labs and Metaplex, powered by RPC providers and indexers Helius, Triton, and SimpleHash, and with support from Phantom, Solflare, the Solana Foundation, and more — state compression is a novel technology primitive that takes advantage of Merkle trees. This compression-friendly data structure allows developers to store a small bit of data on-chain and updates directly in the Solana ledger, cutting the data storage cost down dramatically while still using the security and decentralization of Solana’s base layer.</p><p>State compression makes elegant use of a well-known data structure and brings it to bear at the speed of Solana, once again proving Solana is the best place to build scalable, user-first web3 products. We can’t wait to see what you make.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingBottom": "50px",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-11a3e678d5694429afacec7e31d04101",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Learn more from Solana Developers</h3>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f0764147975a41a587da1c48c4e0d7b3",
+            "meta": {
+              "previousId": "builder-d859d6ed10ea4df8be20bcfeeeefb904"
+            },
+            "component": {
+              "name": "Card Deck",
+              "options": {
+                "cards": [
+                  {
+                    "type": "image",
+                    "heading": "Intro to Solana Development",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Development Course",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://www.soldev.app/course",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Bootcamp",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "More Solana Developer Tools",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  }
+                ],
+                "featured": true,
+                "numCols": 3
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-72fc396c98494d1296579ec7308ddf65",
+            "meta": {
+              "previousId": "builder-64047d5578174b58b9ec78293dccd501"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-10db0309c0384c89aa164728a6bd9919",
+            "properties": {
+              "id": "footnotes"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Footnotes</h3><ol><li>This estimate assumes an average gas price of 44 Gwei for Ethereum and 77 Gwei for Polygon based on estimates pulled from <a href=\"https://etherscan.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Etherscan.io</a> and <a href=\"https://polygonscan.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Polygonscan.io</a> on April 5, 2023. As there is no fixed cost for minting NFTs on Ethereum or Polygon as there is for NFT minting on Solana, the calculations were based on 2m gas units for contract deployment and 400k gas units for minting NFTs, based on estimates gathered from multiple NFT projects on those chains, as well as the assumption that there is the ability to mint as many NFTs specified in a single contract.</li></ol>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-d6ff5f55df44496da1d8c8de4abb9215",
+        "component": {
+          "name": "Copy",
+          "options": {
+            "rawHtml": "<p>Hello! Use the editor to add your copy!"
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-ae422ae63c13470cbdcfd48e6537b8b0",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf34ac557bf84fad93a0dca17b08dd89",
+  "lastUpdated": 1710354549019,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bd4f5ea96fb44dacb7345fe8dbfdb818",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687593407145,
+  "@originId": "bd4f5ea96fb44dacb7345fe8dbfdb818",
+  "testRatio": 1,
+  "createdDate": 1687362391722,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/state-compression-compressed-nfts-solana?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=bd4f5ea96fb44dacb7345fe8dbfdb818&builder.overrides.bd4f5ea96fb44dacb7345fe8dbfdb818=bd4f5ea96fb44dacb7345fe8dbfdb818&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Copy": 6,
+      "Section Molecule": 2
+    },
+    "hasLinks": false
+  },
+  "name": "State compression brings down cost of minting 1 million NFTs on Solana to ~$110",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

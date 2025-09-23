@@ -1,0 +1,430 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://staging.solana.com/news/case-study-etherfuse",
+  "data": {
+    "datePublished": 1724860800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8fd7a6e017af4d6cb5efb4cba61226a5",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Etherfuse's financial product could create more inclusive, democratized financial systems.",
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Case Study: Etherfuse Introduces a Mexican ‘Stablebond’ on Solana "
+    },
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8fd7a6e017af4d6cb5efb4cba61226a5",
+      "seoDescription": "Etherfuse's financial product could create more inclusive, democratized financial systems.",
+      "seoTitle": "Case Study: Etherfuse Introduces a Mexican ‘Stablebond’ on Solana "
+    },
+    "slug": "case-study-etherfuse",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_0bf606310ab04c828ac86ff3273a86ee"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-4fbfe92876804762b8dfc8f82b084eb0",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7dd875cdd740431ebccc08eabeef0ae3",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline"
+              ]
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Learn More"
+                    },
+                    "hierarchy": "outline",
+                    "url": "https://solana.com/solutions/real-world-assets"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Tokenized Real-World Assets"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Learn how Solana can enables real-time exchanges with instant, programmable, cross-border settlement."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In this article"
+                }
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-a8c4d78b848d4352a8b966cfcd838b96",
+                "meta": {
+                  "previousId": "builder-a2abc99253ec49f69248008fef6fe3a8",
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong>Highlights</strong></p><ul><li>In October 2023, Etherfuse introduced Stablebonds, a tokenized bond product for non-U.S. retail investors, at Solana Breakpoint 2023 in Amsterdam.</li><li>Using the Solana blockchain, Etherfuse aims to simplify and reduce the cost of buying bond-backed assets, making the process as easy as possible.</li><li>Etherfuse worked closely with Mexican regulators and have created a solid legal infrastructure for its innovative crypto bond product.</li><li>Etherfuse’s Stablebonds allow non-U.S. retail traders to make small transactions in tokenized bonds, democratizing access to what was traditionally an elite market.</li><li>Using Solana’s high-speeds and scalable platform, Etherfuse is poised to capture a significant share of the global bond market on blockchain.</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                    "paddingTop": "20px",
+                    "paddingLeft": "20px",
+                    "paddingRight": "20px",
+                    "paddingBottom": "20px",
+                    "opacity": "1",
+                    "borderRadius": "20px",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-2646b26f2a254dd88ac825d40c2f4672",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Etherfuse is redistributing financial power using the Solana blockchain.</p><p>Led by founder and CEO <a href=\"https://www.linkedin.com/in/lifehug/\" rel=\"noopener noreferrer\" target=\"_blank\">David Taylor</a>, Etherfuse harnesses the high-speed, low-cost technology of the Solana network to introduce “Stablebonds,” an asset backed with government debt. The innovative financial product aims to democratize access to Mexico’s growing bond market and make it possible for individuals to invest in bonds with smaller, more manageable amounts.&nbsp;</p><p>The approach seeks to normalize tokenized bond holdings for retail traders, making them straightforward and accessible for everyone. \"Our long-term vision is that we enable access to backed assets onchain, providing transparency to anyone in the world,” said Taylor.&nbsp;</p><p>According to Etherfuse’s <a href=\"https://www.coindesk.com/markets/2023/10/31/blockchain-startup-etherfuse-rolls-out-tokenized-bonds-in-mexico-targeting-retail-investors/\" rel=\"noopener noreferrer\" target=\"_blank\">research</a>, Mexico has the second-largest bond market in Latin America after Brazil, with over $623 billion in debt and an average daily trading volume of $200 million. Etherfuse is offering tokenized bonds with rewards valued at up to 11% yield on that activity, which is significantly higher than most high-yield savings accounts and, thanks to blockchain’s borderless setup, is available to non-US traders around the world. That includes Mexico’s unbanked population, which accounts for some 50% of people, according to <a href=\"https://www.cgdev.org/publication/puzzle-financial-inclusion-mexico-closeable-gap\" rel=\"noopener noreferrer\" target=\"_blank\">various studies</a>.</p><p>As Taylor puts it, putting Mexican bonds on the blockchain offer several unique value propositions. For one thing, bonds are low-risk, particularly due to the <a href=\"https://www.dallasfed.org/research/economics/2023/0926\" rel=\"noopener noreferrer\" target=\"_blank\">strong recent performance of the Mexican peso</a> during a period of tightening by the Federal Reserve in the U.S. And with Mexico's economy <a href=\"https://www.usnews.com/news/best-countries/rankings/movers\" rel=\"noopener noreferrer\" target=\"_blank\">named</a> by U.S. News &amp; World Report as one of the world's fastest-growing economies, Taylor <a href=\"https://youtu.be/UNfeffz2YcY?t=71\" rel=\"noopener noreferrer\" target=\"_blank\">believes</a> buying a Mexican bond is like placing a strategic bet on the country’s expanding economy — not to mention, the <a href=\"https://www.nytimes.com/2023/02/21/podcasts/the-daily/us-mexico-trade-china.html\" rel=\"noopener noreferrer\" target=\"_blank\">global manufacturing shift</a> from China to Mexico that picked up speed after the Covid-19 pandemic.&nbsp;</p><p>Now, participating in such economic activity is no longer limited to sophisticated institutional investors, such as financial institutions. “We have customers from 40 different countries,” said Taylor. “We started with Solana because we wanted to make it possible to buy the smallest unit of Stablebond and have it still have value.\"</p><p>Taylor says the lowest Stablebond unit available for purchase is the USDC equivalent of one peso. And because of Solana’s low fees, “that's a good transaction after a week.\"</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-3414af4a0711496c9624ca55a33d9ca9",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Working With Mexican Regulators</h2><p>A seasoned computer scientist with a background in tech, security and cryptography, Taylor and his team founded Etherfuse in May 2021. The company was born out of a desire to enhance the speed and efficiency of financial transactions, which can be slow and costly.&nbsp;</p><p>The team found blockchain to be a promising alternative to existing methods and attempted to create a more efficient bond that could be tokenized.&nbsp;Their search led them to Mexico, where a significant portion of the population is unbanked and the economy has a strong reliance on remittances.&nbsp;</p><p>“We saw a lot of value and money going to Mexico for remittances which already has product market fit and a lot of people holding money in the dollar,” said Taylor. In November 2021 Etherfuse decided to engage directly with Mexico’s key regulatory bodies like the Ministry of Finance and the National Banking and Securities Commission (CNBV), which Taylor describes as Mexico’s version of the U.S. Securities and Exchange Commission.</p><p>“We proposed, ‘Hey, this is new, and we want to work through this with you,’” said Taylor. Working with lawyers from <a href=\"https://en.legalparadox.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Legal Paradox</a>, the team applied to enter a Regulatory Sandbox model that would allow Etherfuse to operate under a temporary, government-supervised framework.</p><p>In a Regulatory Sandbox model, if the Mexican government classifies an activity as subject to registration, authorization or concession from the financial authorities that will be carried out in an disruptive way and the other requirements set forth in the FinTech Law and other financial regulations are met'reserved' and lacks clear pre-existing guidelines, it may be granted a temporary, government-supervised authorization.&nbsp;</p><p>After three years, these deliberations culminated in the launch of Stablebonds, a cetes-backed token with the same stability and transparency of a stablecoin with the added benefit of providing rewards back to its holders.&nbsp;In 2024, Etherfuse had received enough legal guidance and interpretations of the law to establish the proper legal infrastructure to operate and launch its products</p><p>“We are legally operating now on reverse solicitation,” said Taylor. “Our website's up. People are buying. We have freely transferable tokens that are available to non-U.S. persons.”</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-747ca978cbe44652b20a3844b80c596f",
+                "component": {
+                  "name": "Embed",
+                  "options": {
+                    "url": "https://twitter.com/etherfuse/status/1719302966597886062",
+                    "content": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" align=\"center\"><p lang=\"en\" dir=\"ltr\">Live from the heart of Amsterdam, I got to introduce Stablebonds at <a href=\"https://twitter.com/SolanaConf?ref_src=twsrc%5Etfw\">@SolanaConf</a> <a href=\"https://twitter.com/hashtag/Breakpoint2023?src=hash&amp;ref_src=twsrc%5Etfw\">#Breakpoint2023</a>. This is more than just a presentation; it&#39;s a call to action for a brighter, more secure financial future.🛡️<br><br>Learn more at <a href=\"https://t.co/3sqP36MHEf\">https://t.co/3sqP36MHEf</a> <a href=\"https://t.co/orpZC4aBMV\">pic.twitter.com/orpZC4aBMV</a></p>&mdash; etherfuse (@etherfuse) <a href=\"https://twitter.com/etherfuse/status/1719302966597886062?ref_src=twsrc%5Etfw\">October 31, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-b0dae85cc2e64873b3941d1fc7721c6b",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Why Mexico?</h2><p>Mexico has proven to be a fertile ground for innovative financial products. Taylor says that’s due to several factors:</p><ul><li><strong>High remittance flows:</strong> A significant amount of money flows into Mexico in the form of remittances, indicating a strong product-market fit.</li><li><strong>Large unbanked population: </strong>About 50% of the population does not have access to traditional banking services, presenting a sizeable potential user base for Etherfuse’s products.</li><li><strong>Receptive regulatory environment: </strong>Mexican regulators and large financial entities were open to attend to Etherfuse's business model and work together to build new technologies and engaged in constructive dialogue to help the company in its growth plans.</li><li><strong>Favorable long-term ratings: </strong>The Mexican local currency bonds are rated <a href=\"https://disclosure.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3120459\" rel=\"noopener noreferrer\" target=\"_blank\">BBB+</a> by Standard &amp; Poor (S&amp;P) global ratings, with a stable outlook. This rating indicates a good credit quality, with only a moderate risk of default.</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-7cc7c55aa3b7475fb9998d7938292d63",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>The Role of the Solana Blockchain</h2><p>The Solana blockchain’s ability to process transactions quickly and at a fraction of the cost compared to other blockchains is crucial for Etherfuse's operation. Here’s why:</p><ul><li><strong>High throughput and low cost: </strong>Etherfuse’s mission of democratizing financial access means the company wants to sell small denominations of tokenized bonds (as low as the USDC equivalent of one peso) without the transaction fees outweighing the transaction.&nbsp;</li><li><strong>Unprecedented scalability: </strong>Solana’s scalability ensures that Etherfuse can handle a growing number of operations as its customer base expands. This is essential for maintaining performance and reliability as the platform scales internationally.</li><li><strong>Strong community and dev support: </strong>Taylor says Solana's strong developer community has helped Etherfuse innovate and improve offerings, particularly at events like Breakpoint 2023 where the company rolled out its Stablebond product. He also says <a href=\"https://solana.com/solutions/token-extensions\" rel=\"noopener noreferrer\" target=\"_blank\">token extensions</a> on Solana allowed Etherfuse to streamline its products. Specifically, they helped his team create an interest-bearing (IB) extension, thereby enabling the issuance of Stablebonds as tokens that operate like traditional cryptocurrency but with added value accrual over time. (Previously, users had to manually transfer their tokens weekly, a cumbersome process that users disliked.)</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-98b4ed8afb434afa955a0aa08276767a",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Impact and results</h2><p>The impact of Etherfuse’s products has been profound, particularly in terms of financial inclusion.</p><ul><li><strong>Access to privileged products: </strong>By lowering entry barriers, Etherfuse has enabled individuals in Mexico and other non-U.S. countries to have assets backed with bonds with as little as the USDC equivalent of one peso, democratizing access to opportunities that were previously designed for institutional investors.&nbsp;</li><li><strong>Economic impact: </strong>For many users, the returns from Stablebonds have significant life-changing potential. For example, Taylor says one Mexican user reported being able to pay his rent from the rewards earned from Stablebonds.</li></ul><p>Etherfuse's experience in Mexico, supported by the technological advantages of the Solana blockchain, provides a compelling case study of how innovative financial technologies can create real-world impact. For businesses and projects in the fintech space, the Etherfuse story highlights the importance of choosing the right technological platform and engaging proactively with regulatory environments with the legal basis as an ally. It also highlights the transformative potential of blockchain technology in making financial systems more inclusive, efficient and accessible worldwide.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-406d31219e114ded9a98f714bde1f8b4",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ],
+              "previousId": "builder-d161c6d54f5b4904b72480973a1a3dd7"
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8394a7c13a8b4714a3df212f0799b409"
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Unchain Crypto with Blinks and Solana Actions"
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Mint, swap, sell, vote, and process any Solana transaction — from anywhere. Start building blockchain links and Solana Actions today.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Read the docs"
+                    },
+                    "url": "https://solana.com/docs/advanced/actions"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7ca27fedcb60491fbfe113c4941f2dd8",
+  "lastUpdated": 1726462163574,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a323e7a4deb2425e98a11d0236f7fa7d",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1726462035064,
+  "@originId": "a323e7a4deb2425e98a11d0236f7fa7d",
+  "testRatio": 1,
+  "createdDate": 1726448652347,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "lastPreviewUrl": "https://staging.solana.com/news/case-study-etherfuse?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_a323e7a4deb2425e98a11d0236f7fa7d&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_a323e7a4deb2425e98a11d0236f7fa7d=983ae1dad0ba4ca4ac6dd4ac310edee1_a323e7a4deb2425e98a11d0236f7fa7d&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Copy": 6,
+      "Content Editor": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: Etherfuse",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

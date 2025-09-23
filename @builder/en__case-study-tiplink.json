@@ -1,0 +1,422 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://staging.solana.com/news/case-study-tiplink",
+  "data": {
+    "datePublished": 1725120000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fde14da1eb9834123aafe386d06ea5700",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "TipLink makes it possible to send money with interactive links, a step change in the accessibility and affordability of payments.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8a6b08837d744117b90d60158a2fb896",
+      "seoDescription": "TipLink makes it possible to send money with interactive links, a step change in the accessibility and affordability of payments.",
+      "seoTitle": "Case Study: TipLink Makes Payments as Easy as Sending a Link"
+    },
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Case Study: TipLink Makes Payments as Easy as Sending a Link"
+    },
+    "slug": "case-study-tiplink",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-13f19ff37a9446a38a6a4dc4560bda38",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c8dcf3e4706b40e890b30c2e8490306d",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline"
+              ]
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Learn More"
+                    },
+                    "hierarchy": "outline",
+                    "url": "https://solana.com/solutions/payments"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Frictionless Payments are Here"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Learn how a new generation of payments protocols with near-instant settlement and low fees are building on Solana."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In this article"
+                }
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-0f14c111b0c94326aad507407ddf52bf",
+                "meta": {
+                  "previousId": "builder-a2abc99253ec49f69248008fef6fe3a8",
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong>Highlights:</strong></p><ul><li>TipLink allows users to send and receive money through links, removing barriers in peer-to-peer payments.&nbsp;</li><li>TipLink enables users to send money to anyone for less than 1/10th of a penny, taking advantage of the low fees associated with the Solana blockchain.&nbsp;</li><li>The link’s ability to generate a wallet for the recipient removes accessibility issues for those without bank accounts or knowledge of web3.&nbsp;</li><li>The TipLink Wallet Adapter, introduced in 2024, makes it possible to introduce a TipLink wallet on any site.</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                    "paddingTop": "20px",
+                    "paddingLeft": "20px",
+                    "paddingRight": "20px",
+                    "paddingBottom": "20px",
+                    "opacity": "1",
+                    "borderRadius": "20px",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-b2f1daa951894527808465dce9d730cf",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Imagine a world where sending money is as simple as sharing a link. Online payments would be as easy and intuitive as handing over cash.</p><p>Even after 30 years of payment innovation, sending and receiving money online is still surprisingly complex and inaccessible to underbanked populations. Traditional payment systems, like banks and money transfer tools, require users to share extensive personal information. Even peer-to-peer platforms like Venmo and PayPal have limitations — they lock-in customers to their universes, making cross-platform payments difficult or impossible (ie, a Venmo customer can’t easily send money to someone who only has a PayPal account). Creating a bank account or opening a credit card is a demanding and complex process, requiring several forms of identification, credit history, and proof of residency. In an increasingly cashless society, this means that many homeless, undocumented, and underbanked communities are being left behind.&nbsp;</p><p>Enter TipLink, a solution that aims to simplify the payment process for everyone by leveraging the power of links and the speed and affordability of the Solana blockchain.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-3a050b529227499ca6da9c1a3c2c1242",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>User-Focused Experience</h2><p>TipLink co-founders Ian Krotinsky and Aashiq Dheeraj wanted to address pain points in both traditional payment systems as well as web3, which also involves a complicated onboarding process. When Ian discusses his product vision for TipLink, he says, “We’re focusing on making it easy enough for my mom’s generation to be able to use.”</p><p>TipLink's potential is in its simplicity. Josh Fried, head of commerce business development at Solana Foundation, says, “When the internet was first created in the late 1990s and early 2000s, the way we experienced the internet was through link sharing. The modality that TipLink has chosen is the perfect way to onboard hundreds of millions of people who are used to that classic Internet experience.” He says of TipLink, “Paying with a link feels like magic.”</p><p>“The beauty of sending things over links is that links are just letters and numbers, making it easy to send anything over any platform,” says Krotinsky. Ian envisions a world where sending money over the internet didn't require users to be on the same platform or share personal information. “With TipLink, users can send crypto or NFTs with just a link. <strong>The link itself is the wallet</strong>, meaning the user receiving it doesn't need to know anything about crypto.”&nbsp;</p><p>For each TipLink sent, the link generates a wallet, which then can be withdrawn to an existing bank account or a lightweight non-custodial crypto wallet that can be accessed with a Google login, making TipLink accessible to anyone, regardless of their understanding of web3. The user-friendly capabilities of TipLink have unlocked a myriad of different use cases.</p><p>The idea for the product originated as Ian and Aashiq were experimenting with a different startup idea and needed an easy way to reward product testers for their feedback. Ian tells the story: “We wanted to give $10 to one tester as a reward for testing our product, but she didn’t have PayPal or Venmo, and didn’t want to give us her bank account information. It was so hard to give her money; we thought sending money should be as easy as sending a link. That was our ‘Aha!’ moment.”</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-b9cd154acdd041ae95cb31478ed3723c",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Only Possible on Solana</h2><p>Building on Solana was the only practical way to bring the vision to life. Ian notes the challenges of other chains, explaining that many were too slow and expensive to support the product he wanted to build: “When Solana came around, we realized that this system was fast and cheap enough to actually build this product.” TipLink leverages the Solana Pay protocol, a payments protocol that is built for immediate transactions, fees that are fractions of a penny, and a net-zero environmental impact.&nbsp;</p><p>With TipLink, users can send $100 of USDC for a fraction of a penny, almost instantly. Hundreds and thousands of TipLinks have been created this year to date&nbsp; – and the number is growing. State compression on Solana, which was announced <a href=\"https://solana.com/news/state-compression-compressed-nfts-solana\" rel=\"noopener noreferrer\" target=\"_blank\">in 2023 </a>, has been crucial in enabling new product features and managing Tipllink’s growing user base.</p><p>State compression on Solana makes it possible to mint one million NFTs <a href=\"https://solana.com/news/state-compression-update-december-2023\" rel=\"noopener noreferrer\" target=\"_blank\">for only a few hundred dollars</a>. On other platforms, this might cost hundreds of thousands of dollars. TipLink uses compressed NFTs to power dynamic QR codes, a game-changer in digital asset distribution. Each scan of these QR codes at events, whether it's a wedding or a music festival, creates a unique wallet and token for the attendee.&nbsp;</p><p>This capability was on full display during a launch event for Boba Guys (a nation-wide bubble tea chain) in New York. Attendees visited a dedicated boba booth and collected unique tokens directly into their Solana wallets as souvenirs from the event. Though there were a wide array of ways that people used to collect the rewards, for those using TipLink, it was incredibly easy and efficient to quickly receive the rewards in their wallets. Reflecting on the experience, Fried remarked, “Many Solana wallets have integrated Solana Pay for seamless checkout experiences at the point of sale. But with TipLink, where the link is your wallet, an even more frictionless experience is created.”</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-5251a71c675e42ed8fcffb0aa3de097c",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>TipLink’s Vision for Financial Inclusivity</h2><p>Ian and Aashiq believe that they can drive a more inclusive financial infrastructure with TipLink.&nbsp;</p><p>Krotinsky highlights the cost-saving potential for small businesses, noting, \"Small businesses run razor-thin margins. If you are a small business and you accept payments, 2-3% of the cost of the payment goes to credit card processing fees.” Though other platforms have attempted to eat into these margins, many are just too volatile and expensive to support such operations. “With USDC on the Solana blockchain, paying for an item can cost less than one tenth&nbsp;of a cent.” Ian and Aashiq hope to help small businesses increase their margins drastically by implementing Tiplink at checkout. A feature introduced in 2024, the Tiplink Wallet Adapter, allows Tiplinks to be embedded on any website.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-2e06cd2c21a14dada371110d408a8335",
+                "component": {
+                  "name": "Embed",
+                  "options": {
+                    "url": "https://x.com/TipLinkOfficial/status/1800552077673807946",
+                    "content": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" align=\"center\"><p lang=\"en\" dir=\"ltr\">Solana is going mainstream - it&#39;s time to ditch browser extensions, seed phrases, and clunky popups.<br><br>We are excited to announce a product suite that redefines the wallet experience for new users.<br><br>Check it out in our keynote below! <a href=\"https://t.co/wZUdcjChBn\">pic.twitter.com/wZUdcjChBn</a></p>&mdash; TipLink (@TipLinkOfficial) <a href=\"https://twitter.com/TipLinkOfficial/status/1800552077673807946?ref_src=twsrc%5Etfw\">June 11, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-5a933087612343f38ee67819c32237bc",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Tiplink is also mindful about addressing many relevant risks with illicit finance, especially in staying consistent with existing anti-money laundering regulations. TipLink works with companies like Stripe, Moonpay, Coinflow, and a number of others for KYC/AML (Know-Your-Customer and Anti-money laundering) checks when interacting with the banking system, ensuring transparency in the face of illicit finance and the security of all users. Krotinsky says, “Each country has its own policies and regulatory frameworks so we leverage the expertise of our various partners to comply with their requirements.”</p><p>Over time, Ian and Aashiq want to see Tiplink’s applications transcend international boundaries, making digital payments accessible to a broader range of communities worldwide. The team is most excited about using Tiplink to facilitate more affordable and faster remittances and about enabling secure payments and transfers for populations without easy access to banking.&nbsp;</p><p>“The implications for this new distribution mechanism are massive,” said Krotinsky. “Instead of sending digital assets to only people in the small crypto ecosystem, you can now send assets to anyone on the planet with an internet connection.”</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-009898a0817c4113bdda8c895775b195",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ],
+              "previousId": "builder-d161c6d54f5b4904b72480973a1a3dd7"
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8394a7c13a8b4714a3df212f0799b409"
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Unchain Crypto with Blinks and Solana Actions"
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Mint, swap, sell, vote, and process any Solana transaction — from anywhere. Start building blockchain links and Solana Actions today.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Read the docs"
+                    },
+                    "url": "https://solana.com/docs/advanced/actions"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7b9a96a8d23046f18eb9e465e52a1264",
+  "lastUpdated": 1726448632227,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_28ac97127dda45b09f39f5d4ae6e1828",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1726396181921,
+  "@originId": "28ac97127dda45b09f39f5d4ae6e1828",
+  "testRatio": 1,
+  "createdDate": 1726393524852,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://staging.solana.com/news/case-study-tiplink?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_28ac97127dda45b09f39f5d4ae6e1828&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_28ac97127dda45b09f39f5d4ae6e1828=983ae1dad0ba4ca4ac6dd4ac310edee1_28ac97127dda45b09f39f5d4ae6e1828&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 6,
+      "Content Editor": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: Tiplink",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

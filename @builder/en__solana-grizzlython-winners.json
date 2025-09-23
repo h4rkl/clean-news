@@ -1,0 +1,214 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1680850800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3e8c9927af5e4fdaa415424f547e2e49",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Over 10,000 participants submitted 813 final projects, the largest Solana hackathon to date.",
+    "publishedDate": "Fri Apr 07 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Meet the winners of Solana Grizzlython",
+      "ogUrl": "",
+      "ogDescription": "Over 10,000 participants submitted 813 final projects, the largest Solana hackathon to date.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Meet the winners of Solana Grizzlython",
+      "noFollow": false,
+      "seoDescription": "Over 10,000 participants submitted 813 final projects, the largest Solana hackathon to date.",
+      "seoTitle": "Meet the winners of Solana Grizzlython",
+      "noIndex": false
+    },
+    "title": "Meet the winners of Solana Grizzlython",
+    "twitterMeta": {
+      "twitterTitle": "Meet the winners of Solana Grizzlython",
+      "twitterDescription": "Over 10,000 participants submitted 813 final projects, the largest Solana hackathon to date."
+    },
+    "slug": "solana-grizzlython-winners",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bec3d03a15a94e16b13707bd0f0163b2"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-1c9d177280b34b6c88dab6b02e1ce8d3",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4b2da7030d9c47198977bf3f6d8fa307",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Solana Foundation is thrilled to announce the results of the&nbsp;<a href=\"https://solana.com/grizzlython?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Grizzlython Online Hackathon</a>, a global competition focused on bringing the next wave of high-impact projects into the Solana ecosystem. Grizzlython is the seventh Solana hackathon, bringing together founders and developers from around the world to launch products spanning Infrastructure, Payments, DeFi, Mobile, Gaming, DAOs and Network States, Web3 Consumer and everything in-between.</p><p>Grizzlython saw over 10,000 participants submit 813 final projects to the judges, the largest Solana hackathon to date. Stripe, Amazon Web Services, Monaco Protocol, SolanaFM, Brave, Solana Mobile, Superteam, EasyA, and Hello Moon joined the Solana Foundation as category sponsors for the hackathon, offering a platform for Solana ecosystem teams to jumpstart their crypto journey.</p><p>“I’m excited to see all the projects that have launched during Grizzlython,” said Anatoly Yakovenko, co-founder of Solana Labs. “From payments to governance, games to finance to mobile, the builders in the Solana ecosystem are paving the way for mass adoption of blockchain technology.”</p><p>Browse through all the project submissions in the&nbsp;<a href=\"https://solana.com/grizzlython/projects?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Grizzlython public directory</a>.</p><p>Without further ado, here are your winners:</p><h2><strong>Grand Champion</strong></h2><p><a href=\"https://solana.com/grizzlython/projects/underdog-api?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Underdog API</a>, a platform that allows anyone to seamlessly integrate dynamic NFTs into products and turn the blockchain into a shared data layer, received the Grand Champion prize of $50,000 in USDC along with passes to attend&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint</a>, the annual Solana conference in Amsterdam Oct. 30- Nov. 3, 2023.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-de18e3ef88b941549d902617bea619f2",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/watch?v=EBhK5gDGvJE",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/EBhK5gDGvJE?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d327c52812474777b89fd29ac418fa50",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EBhK5gDGvJE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f1f8bcad64c24deebbbec92208ece9d3",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EBhK5gDGvJE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ca127be16dc24193877ff39338cc01af",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Mobile Track</strong></h2><p>For the Mobile track, first prize goes to&nbsp;<a href=\"https://solana.com/grizzlython/projects/tap?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tap</a>, a cash app that makes sending, spending, and earning cash easy, powered by Solana and USDC, with an award of $30,000 in USDC.</p><p>Additional prizes went to:</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/grizzlython/projects/aqua-id?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">AquaID</a>, a self custody human identity protocol built on Solana.</li><li>Third:&nbsp;<a href=\"https://solana.com/grizzlython/projects/d-reader?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">dReader</a>, an on-chain comic book store.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/proto?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Proto</a>, an API for spatial data and proof-of-location on Solana.</li><li>Fifth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/saganize?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SAGAnize</a>, a mobile tool suite consisting of Products/SDKs/Libraries to onboard developers to build Solana Native Mobile dApps.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/grizzlython/projects/maius-fun?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Maius Fun</a></li><li><a href=\"https://solana.com/grizzlython/projects/duckee?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Duckee</a></li><li><a href=\"https://solana.com/grizzlython/projects/tinft?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">tiNFT</a></li><li><a href=\"https://solana.com/grizzlython/projects/ceramic?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ceramic</a></li></ul><h2><strong>Infrastructure &amp; Tools Track</strong></h2><p>For the Infrastructure track, first prize goes to&nbsp;<a href=\"https://solana.com/grizzlython/projects/bunkr?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bunkr</a>, a permissionless asset protection tool powered by code-based 2FA in your authenticator app of choice, with an award of $30,000 in USDC.</p><p>Additional prizes went to:</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/grizzlython/projects/xray?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Xray</a>, a human-readable Solana explorer.</li><li>Third:&nbsp;<a href=\"https://solana.com/grizzlython/projects/extrnode?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Extrnode</a>, a fault-tolerant, disaster-resistant, decentralized RPC service for web3 products, aimed to eliminate the problem of a single point of failure and speed up RPC 100x.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/tinydancer?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">TinyDancer</a>, a light client for the Solana blockchain.</li><li>Fifth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/shadow-portal?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Shadow Portal</a>, infrastructure that allows developers to summon off-chain data onto Solana.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/grizzlython/projects/custos-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Custos</a></li><li><a href=\"https://solana.com/grizzlython/projects/antbit?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Antbit</a></li><li><a href=\"https://solana.com/grizzlython/projects/bokken-solana-debugger?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bokken</a></li><li><a href=\"https://solana.com/grizzlython/projects/illuminare?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Illuminare</a></li></ul><h2><strong>Gaming Track</strong></h2><p>For the Gaming track, first prize goes to&nbsp;<a href=\"https://solana.com/grizzlython/projects/michi?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Michi</a>, a casual roguelike dungeon crawling game powering an ecosystem of games/products, with an award of $30,000 USDC.</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/grizzlython/projects/kyogen-clash-by-dominari?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Kyogen Clash</a>, a fully on-chain RTS game built using the Dominari Game Engine.</li><li>Third:&nbsp;<a href=\"https://solana.com/grizzlython/projects/rps?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RPS</a>, an on-chain wager-based gaming studio for Solana.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/sporting-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sporting Labs</a>, an on-chain F1 Fantasy League on xNFT Backpack.</li><li>Fifth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/3ntertain?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">3ntertain</a>, an end-to-end event-oriented solution, dedicated to entertain and monetize communities while fairly rewarding game developers.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/grizzlython/projects/pet-legends?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Pet Legends</a></li><li><a href=\"https://solana.com/grizzlython/projects/zk-battleships-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Zk Battleships</a></li><li><a href=\"https://solana.com/grizzlython/projects/little-bonkers-proof-of-play-game-for-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Little Bonkers</a></li><li><a href=\"https://solana.com/grizzlython/projects/galactic-war?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Galactic War</a></li></ul><h2><strong>DeFi Track</strong></h2><p>For the DeFi track, first prize goes to&nbsp;<a href=\"https://solana.com/grizzlython/projects/dbl-dex?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DBL DEX</a>, an on-chain periodic double auction DEX and DeFi primitive, with an award of $30,000 USDC.</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/grizzlython/projects/sujiko?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sujiko</a>, a derivatives stack enabling NFT perp markets.</li><li>Third:&nbsp;<a href=\"https://solana.com/grizzlython/projects/arbon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Arbon</a>, a project to improve global carbon market with a computer vision-assisted oracle network providing trustless measurement, reporting, and verification (MRV) and a \"last mile\" network of stewards to coordinate local forest protection via an incentivization system built around land parcel NFTs in the Amazon.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/slide-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Slide Labs</a>, a social trading platform that bridges between the best traders and people who do not have investing expertise.</li><li>Fifth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/defi-os?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">defiOS</a>, a scaling layer for open-source collaboration.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/grizzlython/projects/pascal-finance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Pascal</a></li><li><a href=\"https://solana.com/grizzlython/projects/rebirth?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Rebirth</a></li><li><a href=\"https://solana.com/grizzlython/projects/sdx?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SDX</a></li><li><a href=\"https://solana.com/grizzlython/projects/resynth-trade?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Resynth</a></li><li><a href=\"https://solana.com/grizzlython/projects/robox-fi?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Robox</a></li><li><a href=\"https://solana.com/grizzlython/projects/root-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Root Protocol</a></li></ul><h2><strong>Web3 Consumer Track</strong></h2><p>In the Web3 Consumer track, first prize was awarded to&nbsp;<a href=\"https://solana.com/grizzlython/projects/lancer?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Lancer</a>, a marketplace for hiring developers on a per-task basis, with an award of $30,000 USDC</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/grizzlython/projects/floop?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Floop</a>, a mobile-first NFT entertainment platform with creator experience on the go.</li><li>Third:&nbsp;<a href=\"https://solana.com/grizzlython/projects/crossbow-analytics-google-analytics-for-web3?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Crossbow Analytics</a>, an analytics platform for web3.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/w3bber?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">w3bber</a>, a decentralized ratings platform for the internet.</li><li>Fifth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/triggr?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Triggr</a>, a Zapier for power users on Solana.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/grizzlython/projects/trails-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Trails Protocol</a></li><li><a href=\"https://solana.com/grizzlython/projects/dream-walks?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DreamWalks</a></li><li><a href=\"https://solana.com/grizzlython/projects/sidechain?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sidechain</a></li><li><a href=\"https://solana.com/grizzlython/projects/build-a-burger-by-blessed-burgers?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blessed Burgers</a></li><li><a href=\"https://solana.com/grizzlython/projects/lisnin-io?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Lisnin</a></li></ul><h2><strong>DAOs and Network States Track</strong></h2><p>For the DAOs and Network States Track, first prize goes to&nbsp;<a href=\"https://solana.com/grizzlython/projects/trove?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Trove</a>, a treasury management solution for Solana NFT project founders, with an award of $30,000 in USDC.</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/grizzlython/projects/agora-courts?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Agora Courts</a>, an on-chain arbitration platform focused on allowing other protocols to integrate fully customizable disputes between any number of users.</li><li>Third:&nbsp;<a href=\"https://solana.com/grizzlython/projects/re-naissance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Re:naissance</a>, a seamless royalty solution for NFT Communities built as xNFT on Backpack.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/align?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Align</a>, a tool bringing transparency and aligned incentives to how NFT-based DAO funds are spent on Solana by allowing both members and the managing team to put forward proposals for tasks that would benefit the project and get funded from a pooled treasury.</li><li>Fifth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/cubik?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cubik</a>, a decentralized funding platform for public goods.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/grizzlython/projects/cordelia?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cordelia</a></li><li><a href=\"https://solana.com/grizzlython/projects/x-andria?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">xAndria</a></li></ul><h2><strong>Payments Track</strong></h2><p>For the Payments track, first prize goes to&nbsp;<a href=\"https://solana.com/grizzlython/projects/tamperproof?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tamperproof</a>, a new protocol to encrypt, embed and seal a secret into a Solana NFT, opening up on-chain distribution of coupons, gift cards and tickets, with an award of $30,000 USDC.</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/grizzlython/projects/split-wave-split-secure-simplify?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SplitWave</a>, a dApp that enables users to seamlessly split transactions and manage their finances using Solana Pay, providing a faster, more efficient and secure alternative to traditional payment methods.</li><li>Third:&nbsp;<a href=\"https://solana.com/grizzlython/projects/pay-leaf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Payleaf</a>, a payment solution to help the cannabis industry send and accept digital payments on Solana.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/west-57th?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">West 57th</a>, a payments platform that allows users to use Solana at any merchant that accepts MasterCard.</li><li>Fifth:&nbsp;<a href=\"https://solana.com/grizzlython/projects/heliport?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Heliport</a>, which enables anyone to pay and transact on Solana through the Helium Network.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/grizzlython/projects/crosspay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Crosspay</a></li><li><a href=\"https://solana.com/grizzlython/projects/solana-rewards-program?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Rewards Program</a></li><li><a href=\"https://solana.com/grizzlython/projects/minty?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Minty</a></li><li><a href=\"https://solana.com/grizzlython/projects/sol-lightning?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SolLightning</a></li></ul><h2><strong>University Award</strong></h2><p>The University Award, which recognizes excellence from a project led by university students, goes to&nbsp;<a href=\"https://solana.com/grizzlython/projects/digi-divers?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Digi Divers</a>, a gamified peer-to-peer data annotation platform working to scale ethical and reliable data labeling practices to advance the AI industry, receiving a $20,000 USDC prize for the project.</p><h2><strong>Climate Award</strong></h2><p>The Climate Award, recognizing projects that are built with climate change and sustainability in mind, goes to&nbsp;<a href=\"https://solana.com/grizzlython/projects/sunrise-stake?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sunrise Stake</a>, a regenerative finance staking protocol, receiving a $5,000 USDC prize for the project.</p><p>Thank you to all who participated, submitted a project, and judged. Grizzlython was the largest Solana hackathon to date, and it could not have been done without your support.</p><p><a href=\"https://solana.com/grizzlython/projects?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Check out all the submissions</a>. Congratulations, everyone!</p><p><a href=\"https://solana.com/hackathon-grizzlython-official-rules-2023.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SOLANA Foundation Hackathon Official Rules</a></p><p>The Solana Grizzlython Hackathon is a competition where projects will be evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon will create software solely for purposes of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon. All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon.</p><p>The developer resources that Solana Foundation (“SF”) provides are for educational and inspirational purposes only. SF does not encourage, induce or sanction the deployment of any such applications in violation of applicable laws or regulations. SF does not encourage, induce or sanction the deployment, integration or use of any such applications (including the code comprising the Solana blockchain protocol) in violation of applicable laws or regulations and hereby prohibits any such deployment, integration or use. This includes use of any such applications by the reader (a) in violation of export control or sanctions laws of the United States or any other applicable jurisdiction, (b) if the reader is located in or ordinarily resides in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC), (c) if the reader is or is working on behalf of a Specially Designated National (SDN) or is a person subject to similar blocking or denied party prohibitions, or (d) in violation of the Commodities and Exchange Act.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fce5a625ea88f48efa65f9009b74abd64",
+  "lastUpdated": 1696411000729,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_04bfc1e4b77a4f0ab9793d112b32011c",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687593586119,
+  "@originId": "04bfc1e4b77a4f0ab9793d112b32011c",
+  "testRatio": 1,
+  "createdDate": 1687362389101,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=04bfc1e4b77a4f0ab9793d112b32011c&builder.overrides.04bfc1e4b77a4f0ab9793d112b32011c=04bfc1e4b77a4f0ab9793d112b32011c&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Meet the winners of Solana Grizzlython",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

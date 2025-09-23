@@ -1,0 +1,842 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/case-study-helio",
+  "data": {
+    "datePublished": 1714050000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa77ff3560ecc40c3983b6e6f0e056c92",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Solana Mobile’s Chapter 2 used the plugin to save over $1,000,000 in fees over traditional payments methods.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa77ff3560ecc40c3983b6e6f0e056c92",
+      "seoDescription": "Solana Mobile’s Chapter 2 used the plugin to save over $1,000,000 in fees over traditional payments methods.",
+      "seoTitle": "Case Study: Helio’s Shopify x Solana Pay Plugin Powers Phone Sales"
+    },
+    "title": "Case Study: Helio’s Shopify x Solana Pay Plugin Powers Phone Sales",
+    "slug": "case-study-helio",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-acc3bc9109044d2ab8dc7feb3242375b",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5c3e2d2e31e44afca33e4531bf22356c",
+            "meta": {
+              "previousId": "builder-5df3c7c89c504e12aa0909f7c8137c4d"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><strong>Highlights</strong></p><ul><li><em>Solana Mobile recently used Helio’s Solana Pay x Shopify plugin to support the release of their Chapter 2 mobile device — and saved over $1,000,000 in fees compared to traditional payment methods.</em></li><li><em>The Solana Pay x Shopify plugin is managed by Helio, a Solana-first web3 payments platform that makes it easier to accept crypto payments.</em></li><li><em>The plugin merges the speed and efficiency of crypto payments with Shopify’s extensive market and offers low-fee, fast, real-time settlements in USDC, a stablecoin on Solana.</em></li><li><em>Over 200 Shopify stores adopted the plugin within three months of launch.</em></li><li><em>Helio is taking the plugin forward by focusing on support of more tokens and advanced web3 features such as token gating and NFT receipts.</em></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                "paddingTop": "20px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingBottom": "20px",
+                "opacity": "1",
+                "borderRadius": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6e8f0ba41b9a4f94a6e0fcf93c9fb039",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>When Solana Mobile recently launched <a href=\"https://two.solanamobile.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Chapter 2</a> of their web3-native mobile device, they needed a simple payment solution that also&nbsp;fully embraced crypto-powered payment methods. They also needed a solution that would not only scale, but would save them from the high fees of traditional payment processors.</p><p>Solana Mobile turned to <a href=\"https://apps.shopify.com/solana-pay\" rel=\"noopener noreferrer\" target=\"_blank\">Helio’s Solana Pay x Shopify plugin</a> to give customers the option of making crypto payments, alongside a traditional credit card option. The plugin combines the speed and global acceptance of crypto with the global reach of Shopify. And since the plugin is built on the decentralization of the Solana network, there are no traditional intermediary fees. At the time of publication, about the majority of customers chose to use the plugin and pay with USDC on Solana. To date, Solana Mobile has saved over $1,000,000 in fees.&nbsp;<a href=\"https://solana.com/news/case-study-helio#footnotes\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super; font-size: smaller;\">1</sup></a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3e440d7771aa4c58b1d3d0699bf72d3c",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Helio, Shopify, and the Challenge of Crypto Payments</h2><p>While using cryptocurrency for payments has been gaining traction as&nbsp;a cheaper, faster, and more accessible experience for merchants, for end users, it hasn’t been easy. Previous solutions have offered limited options that are complex to implement and difficult to use, particularly for users who are new to web3. High transaction fees and high failure rates have resulted in low conversion rates for merchants and a nearly unusable experience for consumers.</p><p><a href=\"https://www.hel.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Helio</a> — a&nbsp;Solana-first web3 payments platform — was founded to solve these challenges by enabling both traditional and web3-native merchants to accept payments made with cryptocurrency. Tools like paylinks, checkout widgets, JavaScript APIs, and plugins for ecommerce platforms allow developers, merchants, and creators with no development experience to integrate crypto payments alongside traditional payment methods.&nbsp;</p><p>“With Helio you can accept payment [with cryptocurrency] and&nbsp;receive money directly from buyers, anywhere in the world, making it a perfect fit for cross border commerce,” said Stijn Paumen, CEO of Helio. “Transactions are handled onchain, so costs are minimal and payments are settled near-instantly. And because the payments are on the Solana network, settlement is fast and reliable.”</p><p>In January 2024, Helio took ownership of the Solana Pay x Shopify plugin. It fit well with their vision of a fast, inexpensive, and straightforward digital payment experience. The plugin functions directly within Shopify, providing a familiar checkout experience and allowing customers to pay using their crypto wallets.&nbsp;</p><p>And according to Josh Fried, commerce lead at the Solana Foundation, Helio was a natural fit. “They are an established team that not only understands blockchain but also has a deep expertise in payments,” Fried said. “When it comes to bringing crypto-native payments to mainstream merchants and ecommerce, they just get it.\"&nbsp;</p><p>The plugin is built with <a href=\"https://solanapay.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay</a>, an open, free-to-use payments framework that operates as a direct merchant-to-consumer payment rail. It eliminates intermediaries and their fees while simplifying the transaction flow. Solana Pay was built to enable fast, easy, and cheap digital payments.</p><p>“Combining Helio's blockchain expertise with Solana Pay’s rails and Shopify's reach of nearly 2 million merchants and 450 million buyers was a major step in integrating crypto payments into global ecommerce,” said Jim Walker, CTO, and founder of Helio. “For sellers, the plugin simplifies implementation and minimizes transaction costs. Adopting digital currency payments becomes not just easy but also cheaper than traditional payment methods. ”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7c12577cfd5c4a219084d6ad7a3721ae",
+            "meta": {
+              "previousId": "builder-2d0769a3ce28428ba40003e8ba9c2465"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-a8203dfae14f4ebab75e7440cd8fcb29",
+                "meta": {
+                  "previousId": "builder-8ad52c3eec004e2da4b2273fe1f83d7d"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0baeada05eaa41658781f189e19d45fc?width=1176",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.684,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 89vw, (max-width: 998px) 92vw, 84vw",
+                    "height": 676,
+                    "width": 988,
+                    "altText": "The Hivemapper S Dashcam",
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0baeada05eaa41658781f189e19d45fc?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0baeada05eaa41658781f189e19d45fc?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0baeada05eaa41658781f189e19d45fc?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0baeada05eaa41658781f189e19d45fc?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0baeada05eaa41658781f189e19d45fc?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0baeada05eaa41658781f189e19d45fc?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0baeada05eaa41658781f189e19d45fc?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0baeada05eaa41658781f189e19d45fc?width=1176 1176w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0baeada05eaa41658781f189e19d45fc?width=566 566w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0baeada05eaa41658781f189e19d45fc?width=910 910w"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-2ac571b1c83f4231994bfd8a06a085d3",
+                "meta": {
+                  "previousId": "builder-827b694ec56c4746b42dfb22ec8d0dd0"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p><em>Web3 payments using a familiar web2 experience with the Solana Pay x Shopify plugin.</em></p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "fontSize": "16px",
+                    "color": "rgba(155, 155, 155, 1)"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "20px",
+                "paddingBottom": "20px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-aa42d9b3ec2445dba285ec09bc64433f",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  Using the\n  <a\n    href=\"https://apps.shopify.com/solana-pay\"\n    rel=\"noopener noreferrer\"\n    target=\"_blank\"\n    >app</a\n  >, which requires minimal setup on the\n  <a\n    href=\"https://merchant.solanapay.com/\"\n    rel=\"noopener noreferrer\"\n    target=\"_blank\"\n    >merchant portal</a\n  >, web2 and web3 businesses can quickly set up payments on Solana. Merchants\n  can track transactions, issue refunds, integrate with the Shopify product\n  delivery flow, and more by using the dashboard.\n</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6f4ce031eaed4157bf8b540db2d60503",
+            "meta": {
+              "previousId": "builder-2d0769a3ce28428ba40003e8ba9c2465"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c3b40dd9302342a28aa9cc3e37f773bf",
+                "meta": {
+                  "previousId": "builder-8ad52c3eec004e2da4b2273fe1f83d7d"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84bc18fad09b4cbb9ad9d4f8d73235b7?width=1176",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.65,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 89vw, (max-width: 998px) 92vw, 84vw",
+                    "height": 832,
+                    "width": 1280,
+                    "altText": "The Hivemapper S Dashcam",
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84bc18fad09b4cbb9ad9d4f8d73235b7?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84bc18fad09b4cbb9ad9d4f8d73235b7?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84bc18fad09b4cbb9ad9d4f8d73235b7?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84bc18fad09b4cbb9ad9d4f8d73235b7?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84bc18fad09b4cbb9ad9d4f8d73235b7?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84bc18fad09b4cbb9ad9d4f8d73235b7?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84bc18fad09b4cbb9ad9d4f8d73235b7?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84bc18fad09b4cbb9ad9d4f8d73235b7?width=1176 1176w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84bc18fad09b4cbb9ad9d4f8d73235b7?width=566 566w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84bc18fad09b4cbb9ad9d4f8d73235b7?width=910 910w"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c92d671555b749bf9683a7cccc91c949",
+                "meta": {
+                  "previousId": "builder-827b694ec56c4746b42dfb22ec8d0dd0"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p><em>Single-click installation of the Solana Pay x Shopify Plugin.</em></p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "fontSize": "16px",
+                    "color": "rgba(155, 155, 155, 1)"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "20px",
+                "paddingBottom": "20px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-528856a101c24517ba5200edabbb4990",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-34d2ed2504ae4d1b86875c02adbba99a",
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<p>Along with speed and ease of use, merchants get reduced fees, immediate access to payments, and a payment system with a transaction success rate in line with traditional payments systems.</p><p>Within the first three months of launch, over 200 Shopify stores implemented Solana Pay on Shopify. In that time, Helio has seen a significant shift in transaction volume to Solana Pay and a 10x increase in transaction volume over the past year.&nbsp;</p><h2>Solana Mobile Cuts Intermediary Costs</h2><p>Helio’s Solana Pay x Shopify plugin was put to the test by processing payments for Solana Mobile’s launch of Chapter 2. The presale began on Jan. 16, 2024&nbsp;</p><p>The launch saw $35 million in sales — all of which was facilitated through the plugin, with more than half of the transactions conducted in crypto. The plugin processed more than&nbsp;20 sales per second at peak times. Helio initially offered a 0% fee for merchants, though it plans to increase that to 0.75%, which is still significantly lower than the typical credit card processing fees of around 3%. This translated into Solana Mobile saving over $600,000 in fees by Feb. 13, 2024 using Helio’s plugin instead of traditional credit card payment methods ($1,050,000 in savings at the time of publication)</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-4df8ab7155754356b1227e0f79053171",
+                        "meta": {
+                          "previousId": "builder-227b4330595e40dc9b63a507a4239087"
+                        },
+                        "component": {
+                          "name": "Stats",
+                          "options": {
+                            "stats": [
+                              {
+                                "description": "increase in Helio's transaction volume over the last year",
+                                "value": {
+                                  "statType": "static",
+                                  "staticValue": "10x"
+                                }
+                              },
+                              {
+                                "description": "saved in fees by Solana Mobile using Solana Pay",
+                                "value": {
+                                  "statType": "static",
+                                  "staticValue": "$1m+"
+                                }
+                              },
+                              {
+                                "description": "transaction success rate",
+                                "value": {
+                                  "statType": "static",
+                                  "staticValue": "98%"
+                                }
+                              }
+                            ],
+                            "contained": false,
+                            "headline": "Key Performance Highlights",
+                            "headingAs": "h3"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "auto",
+                            "marginBottom": "auto",
+                            "marginLeft": "auto",
+                            "marginRight": "auto"
+                          },
+                          "medium": {
+                            "display": "flex"
+                          },
+                          "small": {
+                            "display": "none"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-68693c6716f64587a3669975b04461cf",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://x.com/aeyakovenko/status/1757470276332450030",
+                "content": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" align=\"center\"><p lang=\"en\" dir=\"ltr\">We did 20m+ in <a href=\"https://twitter.com/solanamobile?ref_src=twsrc%5Etfw\">@solanamobile</a> sales with <a href=\"https://twitter.com/Shopify?ref_src=twsrc%5Etfw\">@Shopify</a> <a href=\"https://twitter.com/solana?ref_src=twsrc%5Etfw\">@solana</a> usdc, paid $0 fees. The credit card sales cost us over $600k in fees on about the same volume. That’s 3 full time engineers. 🤯🤯🤯<br><br>Thanks <a href=\"https://t.co/nkwFCxI4hD\">https://t.co/nkwFCxI4hD</a>!!!<a href=\"https://t.co/tUtEm3Y3N9\">https://t.co/tUtEm3Y3N9</a></p>&mdash; toly 🇺🇸 (@aeyakovenko) <a href=\"https://twitter.com/aeyakovenko/status/1757470276332450030?ref_src=twsrc%5Etfw\">February 13, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-73e887d420e24805a66294bc6492fbf7",
+            "meta": {
+              "previousId": "builder-1a1a1747404f496da6f00458eb1b72de"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Key Performance Stats</h3>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "none",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              },
+              "medium": {
+                "display": "none"
+              },
+              "small": {
+                "display": "flex"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0f9febdfb3e74d8da7645587d4c6668e",
+            "meta": {
+              "previousId": "builder-419e9d1a13334d63ba1cff9d97d045b5"
+            },
+            "component": {
+              "name": "Rich Text Stats",
+              "options": {
+                "stats": [
+                  {
+                    "stat": "10x",
+                    "description": "increase in Helio's transaction volume over the last year"
+                  },
+                  {
+                    "stat": "$1,000,000+",
+                    "description": "saved in fees by Solana Mobile using Solana Pay"
+                  },
+                  {
+                    "stat": "98%",
+                    "description": "transaction success rate"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "none",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              },
+              "medium": {
+                "display": "none"
+              },
+              "small": {
+                "display": "flex"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2a34d9a883da4f119ae354461d9e8c3e",
+            "meta": {
+              "previousId": "builder-c383a4bc4abf44b0b8b9407fc1455724"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Looking Forward to a New Era of eCommerce</h2><p>Helio's Solana Pay x Shopify plugin has not only achieved high growth, but also improved cost efficiency, transaction success, speed, adoption rates, and market reach. Helio plans to release a new version of the plugin in the coming months with broadening token support and adding advanced web3 features such as token gating, automated know-your-buyer and security, single-tap purchasing, NFT receipts, and more.</p><p>\"We envision a future where ecommerce is powered by blockchain technology,” said Walker. “The Solana Pay for Shopify plugin not only reduces transaction costs but also accelerates the adoption of digital currencies, foreshadowing a new era of efficiency and inclusivity in ecommerce. We're not just facilitating transactions; we're building the foundation for a global, decentralized marketplace.\"</p><p>Merchants who want to implement Solana Pay in their Shopify storefront can go to<a href=\"http://solanapay.com/\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><a href=\"https://www.hel.io/solutions/e-commerce\" rel=\"noopener noreferrer\" target=\"_blank\">Helio</a> to learn more.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f827072e52314892af5e3a52007ae35a",
+            "meta": {
+              "previousId": "builder-418400c18f4849da8714ceb442fbe81c"
+            },
+            "component": {
+              "name": "Section Molecule",
+              "options": {
+                "noPadding": "none"
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-be837af906f6426aaa900f769c2d9b38",
+                "meta": {
+                  "previousId": "builder-1d5b43268c5d4b1d815f2b29235edc94"
+                },
+                "component": {
+                  "name": "Heading",
+                  "options": {
+                    "eyebrow": "",
+                    "headline": "Learn from Solana Developers",
+                    "body": "",
+                    "variant": "standard"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginBottom": "-90px"
+                  },
+                  "medium": {
+                    "marginBottom": "-45px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-65455fbda0254c3baabc88eb344b380f",
+                "meta": {
+                  "previousId": "builder-e0cd71544752483abcd032749a544dc4"
+                },
+                "component": {
+                  "name": "Card Deck",
+                  "options": {
+                    "cards": [
+                      {
+                        "type": "image",
+                        "heading": "Intro to Solana Development",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      },
+                      {
+                        "type": "image",
+                        "heading": "Solana Development Course",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "https://www.soldev.app/course",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      },
+                      {
+                        "type": "image",
+                        "heading": "Solana Bootcamp",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      },
+                      {
+                        "type": "image",
+                        "heading": "More Solana Developer Tools",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "/developers",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      }
+                    ],
+                    "featured": true,
+                    "numCols": 3
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a0059e456d0346fd9d6bcdb12465dfb3",
+            "component": {
+              "name": "Section Molecule",
+              "options": {
+                "noPadding": "none"
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-98139ef970aa42a897c1bd2a351d42fa",
+                "component": {
+                  "name": "Custom Code",
+                  "options": {
+                    "code": "<hr>",
+                    "scriptsClientOnly": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-0ceeaba46b8d49dfa217cdee0aa9d7d9",
+                "properties": {
+                  "id": "footnotes"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": "<p><em>Footnotes</em></p><ol><li><em>As of April 19, 2024. This number was calculated by assuming an average of 3% in credit card fees, with 70,000 total sales at $500 each.</em></li></ol>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "paddingLeft": "20px",
+                    "paddingRight": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7325b37c1fc647a3afbe67450ce46548",
+            "component": {
+              "name": "Rich Text Stats",
+              "options": {}
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f5f669a656714990abfc50d68af5b2fb",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Key Performance Stats</h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F288eb55d01f64413b18082995c6a8fcb",
+  "lastUpdated": 1714056746787,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5799b5af57eb490c8e82302902aced09",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1714055382177,
+  "@originId": "5799b5af57eb490c8e82302902aced09",
+  "testRatio": 1,
+  "createdDate": 1713991982810,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/case-study-helio?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=5799b5af57eb490c8e82302902aced09&builder.overrides.5799b5af57eb490c8e82302902aced09=5799b5af57eb490c8e82302902aced09&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Heading": 1,
+      "Copy": 9,
+      "Rich Text Stats": 2,
+      "Stats": 1,
+      "Section Molecule": 3
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: Helio",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

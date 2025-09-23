@@ -1,0 +1,349 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/case-study-xp",
+  "data": {
+    "datePublished": 1707314400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6398d22e46f45e0bf09e452c21241f7",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "XP tackles the \"Ticketmaster problem\" by using Solana.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6398d22e46f45e0bf09e452c21241f7",
+      "seoDescription": "XP, an independent blockchain ticketing platform, uses the Tamperproof protocol to offer a more transparent way to buy and sell live event tickets.",
+      "seoTitle": "Case Study: XP Tackles 'the Ticketmaster Problem'"
+    },
+    "title": "Case Study: XP’s Ticket Marketplace Could Upend the Entertainment Industry",
+    "slug": "case-study-xp",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_d7664ab5344b428d8d628809aa7f60c1"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-56ad4d63750341768aa8260954722300",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-af6ee61b8fc34bd796f507c3a8344dfd",
+            "meta": {
+              "previousId": "builder-5df3c7c89c504e12aa0909f7c8137c4d"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><em>Highlights</em></p><ul><li><em>XP is a blockchain-based ticket marketplace offering secure and transparent ticket transactions using XP’s proprietary Tamperproof protocol.</em></li><li><em>It enables the encryption of ticket codes as NFTs, allowing seamless ticket trading on its platform.</em></li><li><em>XP’s marketplace hosts 34 million tickets from more than 110,000 live events in the United States and Canada, including concerts, sports, comedy, and more.&nbsp;</em></li><li><em>Solana's significantly lower fees make it financially viable to eliminate the dreaded 'junk fees' that have long plagued ticket buyers.</em></li><li><em>Instantaneous, real-time settlements on Solana help XP foster a more direct connection between buyers and sellers.</em></li><li><em>Solana’s speed and high throughput is essential for building a scalable ticketing platform with the potential to service millions of high user traffic.&nbsp;</em></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                "paddingTop": "20px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingBottom": "20px",
+                "opacity": "1",
+                "borderRadius": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2deeb5e1584f4f0d8705aba0ebb63014",
+            "meta": {
+              "transformed.rawHtml": "localized",
+              "localizedTextInputs": [
+                "rawHtml"
+              ]
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>The ticket industry is broken, and its number-one issue can be summed up as the “Ticketmaster problem.”&nbsp;</p><p>It sounds familiar: A musical artist comes to town, and you decide to buy tickets online. The venue advertises the price of admission as $55, but upon adding the ticket to your online shopping card and clicking “buy now,” at least three unique types of fees pop up — service fees, processing fees and delivery fees — bringing the final price to $80, a 37% markup from face value.</p><p>Then there’s the lack of transparency. You don’t know who gets a cut of these fees, whether Ticketmaster or its now-parent company, Live Nation. But you do know one thing: Artists and performers won’t receive a portion of those extra fees, even though they frequently pay Ticketmaster-affiliated vendors a slice of their merch sales and split revenue from ticket sales. In fact, the issue is so problematic that the U.S. Senate <a href=\"https://time.com/6249644/clyde-lawrence-ticketmaster-taylor-swift-hearing/\" rel=\"noopener noreferrer\" target=\"_blank\">held a hearing</a> in January 2023 to question why some 70% of tickets are sold through a single vendor.</p><h2>XP solves the ‘Ticketmaster problem’ using Solana</h2><p>The so-called “Ticketmaster problem” could be solved through decentralized technology.&nbsp;</p><p><a href=\"https://www.xp.xyz/\" rel=\"noopener noreferrer\" target=\"_blank\">XP</a>, an independent blockchain ticketing platform, uses the <a href=\"https://www.tamperproof.xyz/\" rel=\"noopener noreferrer\" target=\"_blank\">Tamperproof protocol</a> to offer a more transparent, efficient, and cost-effective way to buy and sell tickets. Behind the scenes, XP's transactions use Solana's blockchain, denominated in USDC, to help buyers easily make the switch and rival the user experience (UX) of incumbent vendors — just without the junk fees.&nbsp;</p><p>XP encrypts ticket codes as nonfungible tokens (NFTs), allowing for the seamless exchange between buyers and sellers, who can see when a ticket is redeemed.</p><p>The Tamperproof protocol has the ability to encrypt or “seal” ticket claim codes within a special type of NFT known as “Tamperproof NFTs” (tpNFTs). This ensures they remain inaccessible until the holder decides to break the seal.&nbsp;</p><p>This unique sealing feature addresses the need for security and authenticity, both major concerns when selling any kind of real-world asset on a secondary marketplace. Transactions are secure, transparent and verifiable, thanks to the public visibility of the blockchain and instantaneous updates of a tpNFT’s sealed or unsealed status on the Solana public ledger.</p><p>At the time of publication, XP has an inventory of roughly 34 million tickets, spanning over 110,000 events — a wide selection for prospective attendees.</p>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8be30c85101f41d1801356615d40296c",
+            "meta": {
+              "previousId": "builder-b5db7ec87b094c20abd0dd0448545dc7"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a1dc9cc165f74aed9be2dfcdefc8b0f7",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-2e2108c4adb3474f9cbf138378160b9c",
+                        "component": {
+                          "name": "Feature Highlight",
+                          "options": {
+                            "eyebrow": "Sealed vs. Unsealed",
+                            "headline": "Ensuring authenticity",
+                            "body": "Tickets on XP are more than just digital passes; they are Tamperproof NFTs. This innovative approach to ticket encryption means buyers and sellers can confidently engage in transactions, knowing that their tickets are secure and their value is preserved.",
+                            "color": "purple",
+                            "cards": [
+                              {
+                                "feature": "Sealed tickets",
+                                "body": "The protocol recognizes that sealed tickets contain an unused code and therefore not redeemed yet. The automation in the protocol makes this secure.",
+                                "variant": "none",
+                                "color": "aqua"
+                              },
+                              {
+                                "feature": "Unsealed tickets",
+                                "body": "Once unsealed, these tickets are ready to be transferred to the end user. ",
+                                "variant": "none",
+                                "color": "purple"
+                              }
+                            ],
+                            "headingAs": "h4"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3fadc7d5dc4f4d9d9ea24f2f0046081b",
+            "meta": {
+              "previousId": "builder-b5db7ec87b094c20abd0dd0448545dc7"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e0773b2f4aed4539ac6ba96703f09c1c",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Why Solana? The strategic choice</h2><p>Choosing Solana for XP was a deliberate decision, says Michael Saunders, CEO of XP. The decision was driven by the need for efficiency and cost-effectiveness.</p><p>“I found Ethereum back in 2017,” he said, “but using it with anything for anything real with gas fees being as high as it was just seemed unscalable.”&nbsp;</p><p>While searching for the blockchain for his company to build the protocol, it became clear that Solana’s low transaction fees and high-throughput capabilities provided a major competitive advantage.</p><p>XP leverages Solana’s blockchain technology in a few different ways.</p><ul><li><strong>Tokenized tickets:</strong> The protocol encrypts and seals secret ticket codes in the form of “Tamperproof nonfungible tokens” (tpNFTs), ensuring their integrity and redeemability.</li><li><strong>Composable oracle services:</strong> Any company or independent ticket vendor can use the platform to sell tickets at market value, with real-world data encoding the price of the ticket into its NFT.&nbsp;</li><li><strong>Cost effectiveness:</strong> Solana enables XP to offer cheaper ticketing and user-friendly payment methods (credit card, USDC).&nbsp;</li><li><strong>Transparency:</strong> XP's tpNFTs maintain their sealed or unsealed status publicly, visible in the NFT metadata on the Solana public ledger. This transparency ensures that sealed tpNFTs contain an unused code.</li><li><strong>Transaction volume and community-building at scale: </strong>While cost savings is one of the primary benefits of using the Solana network, its high-throughput design makes it possible for artists, entertainers and vendors to form communities for their ticket buyers. Saunders believes this feature will lend itself to VIP experiences, fan clubs and more.</li><li><strong>Security with Tamperproof Protocol:</strong> Authenticity is coded into the ticket, critical for establishing user verifiability.</li><li><strong>Industry disruption:</strong> XP challenges the high fees and lack of transparency in the traditional ticketing industry.</li></ul><h2>The benefit to customers&nbsp;</h2><p>For now, says Saunders, the benefit to customers is cost savings. “We are 20% to 30% cheaper than StubHub, Vivid or Seat Geek, and we are safer than Reddit or Facebook Marketplace,” he said.&nbsp;&nbsp;</p><p>But that’s just the beginning, he expects. “We are built on top of Solana, and because of that there are different types of experiences beyond just a ticket,” he explained, highlighting the infinite potential when speed, scalability and cost are not adding friction.</p><p>XP's platform is also designed with user experience in mind, offering a familiar and comfortable interface for purchasing tickets. Users can sign up with a phone number and purchase tickets with a credit card, without needing to understand or interact with cryptocurrency directly — making it accessible to audiences outside of web3.</p><p>The platform aims to be a discovery tool for events as well as a secondary marketplace, providing users with access to a wide range of tickets at competitive prices. Saunders envisions XP as a community where users can access wholesale prices on tickets, benefiting from being part of the XP user base.</p><p>Overall, XP represents an innovative approach to ticketing, combining traditional marketplace features with the benefits of blockchain technology to offer a more user-friendly, secure, and cost-effective ticket buying experience.&nbsp;</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-84894b256aba49909e83759361fedd32",
+            "meta": {
+              "previousId": "builder-edc70af5c55945fc93559f2dc11bbf46",
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "newsLetter": true,
+                "formId": "94b90b1b-b29a-4ad7-9b3b-87331601d030",
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Join the new art world."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Hear about the latest news, tools, and events for creatives using Solana.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Thanks for joining this email list!"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbb4809acb32d4c198f11c9d6f4f42833",
+  "lastUpdated": 1718291364410,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_0297dcb8fbc046f894768679b0a4d2c1",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1707320815038,
+  "@originId": "0297dcb8fbc046f894768679b0a4d2c1",
+  "testRatio": 1,
+  "createdDate": 1707257298128,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/case-study-xp?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2CeditLayouts%2CeditLayers&builder.user.role.name=Developer&builder.user.role.id=developer&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=0297dcb8fbc046f894768679b0a4d2c1&builder.overrides.0297dcb8fbc046f894768679b0a4d2c1=0297dcb8fbc046f894768679b0a4d2c1&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 3,
+      "Feature Highlight": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: XP’s Solana-Based Ticket Marketplace Could Upend the Entertainment Industry",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

@@ -1,0 +1,149 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1653418800000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\n\nIf you followed Part 1 of the Scaffold Series\n[https://solana.com/news/solana-scaffold-part-1-wallet-adapter], or ever\nwondered why we recommend using the Wallet Adapter Library\n[https://github.com/solana-labs/wallet-adapter], this article is for you.\n\nLet's assume the user already has a wallet app/extension installed such as \nPhantom [https://phantom.app/] installed.\n\nLet's say we want to do that connection a la mano, this is how to code would\nlook like:\n\nconst connectWallet = async () => {\n ",
+    "publishedDate": "Wed May 25 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "title": "Why You Should Use Wallet Adapter",
+    "seo": {
+      "internalName": "Why You Should Use Wallet Adapter",
+      "noFollow": false,
+      "seoDescription": "\n\nIf you followed Part 1 of the Scaffold Series\n[https://solana.com/news/solana-scaffold-part-1-wallet-adapter], or ever\nwondered why we recommend using the Wallet Adapter Library\n[https://github.com/solana-labs/wallet-adapter], this article is for you.\n\nLet's assume the user already has a wallet app/extension installed such as \nPhantom [https://phantom.app/] installed.\n\nLet's say we want to do that connection a la mano, this is how to code would\nlook like:\n\nconst connectWallet = async () => {\n ",
+      "seoTitle": "Why You Should Use Wallet Adapter",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Why You Should Use Wallet Adapter",
+      "ogUrl": "https://www.solana.com/blog/solana-why-you-should-use-wallet-adapter",
+      "ogDescription": "\n\nIf you followed Part 1 of the Scaffold Series\n[https://solana.com/news/solana-scaffold-part-1-wallet-adapter], or ever\nwondered why we recommend using the Wallet Adapter Library\n[https://github.com/solana-labs/wallet-adapter], this article is for you.\n\nLet's assume the user already has a wallet app/extension installed such as \nPhantom [https://phantom.app/] installed.\n\nLet's say we want to do that connection a la mano, this is how to code would\nlook like:\n\nconst connectWallet = async () => {\n ",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Why You Should Use Wallet Adapter",
+      "twitterDescription": "\n\nIf you followed Part 1 of the Scaffold Series\n[https://solana.com/news/solana-scaffold-part-1-wallet-adapter], or ever\nwondered why we recommend using the Wallet Adapter Library\n[https://github.com/solana-labs/wallet-adapter], this article is for you.\n\nLet's assume the user already has a wallet app/extension installed such as \nPhantom [https://phantom.app/] installed.\n\nLet's say we want to do that connection a la mano, this is how to code would\nlook like:\n\nconst connectWallet = async () => {\n ",
+      "twitterImage": null
+    },
+    "slug": "solana-why-you-should-use-wallet-adapter",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-d4cb35a89dfd4658a40ecd25c38706ae",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-322457061b6245b9b75ec7d9f3ef4a13",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>If you followed&nbsp;<a href=\"https://solana.com/news/solana-scaffold-part-1-wallet-adapter?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Part 1 of the Scaffold Series</a>, or ever wondered why we recommend using the&nbsp;<a href=\"https://github.com/solana-labs/wallet-adapter?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Wallet Adapter Library</a>, this article is for you.</p><p>Let's assume the user already has a wallet app/extension installed such as&nbsp;<a href=\"https://phantom.app/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Phantom</a>&nbsp;installed.</p><p><strong>Let's say we want to do that connection a la mano, this is how to code would look like:</strong></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bddf058bc1804152a76aec77d6972c2a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>solana: assuming it is phantom wallet, a&nbsp;solana&nbsp;object will be injected into the window.</p><p>solana.connect(): this allows our dapp to access the user's wallet.</p><p>publicKey: once we have the publicKey we can start doing some web3 stuff.</p><p>Quite straightforward isn't it? Well, this works for a toy DApp but let's think a bit about real use cases because we are pros, aren't we?</p><ul><li>First, what will happen if the user has not installed Phantom? Can you show a UI to ask the user to install a wallet extension first?</li><li>Secondly, can you implement a disconnect link, maybe&nbsp;solana.disconnect()?</li><li>Then we also need to keep track of the connection state.</li></ul><p>Although it seems not difficult, what if I told you that no wallets are built the same,&nbsp;connect()&nbsp;and&nbsp;disconnect()&nbsp;might work for phantom, but what about the other Solana wallets (including the ones that do not exist yet)?</p><p><strong>Wallet Adapter - The Pitch</strong></p><ul><li>Out of the box, Wallet Adapter will give you the UI I have shown you in the beginning! It's aaaaalmost a drag and drop component.</li></ul><p>Why almost? Because you still need to provide the list of wallets you want to support and there are tons! -&gt;&nbsp;<a href=\"https://github.com/solana-labs/wallet-adapter?ref=solana.ghost.io#wallets\" rel=\"noopener noreferrer\" target=\"_blank\">https://github.com/solana-labs/wallet-adapter#wallets</a></p><p>Of course, it covers all the use cases for you, connection, disconnection, autoconnection etc.</p><p>If you don't like the UI, you can always come up with your own UI while taking advantage of the supported wallets -&gt; By using the core&nbsp;<a href=\"https://github.com/solana-labs/wallet-adapter?ref=solana.ghost.io#core\" rel=\"noopener noreferrer\" target=\"_blank\">https://github.com/solana-labs/wallet-adapter#core</a></p><p>Allergic to React? No Problemo! There are community implementations for Vue, Angular and Svelte. -&gt;&nbsp;<a href=\"https://github.com/solana-labs/wallet-adapter?ref=solana.ghost.io#community\" rel=\"noopener noreferrer\" target=\"_blank\">https://github.com/solana-labs/wallet-adapter#community</a></p><ul><li>If you are ready to implement it into your own project or just want to do a quick test -&gt; checkout the starter examples&nbsp;<a href=\"https://github.com/solana-labs/wallet-adapter?ref=solana.ghost.io#starter-projects\" rel=\"noopener noreferrer\" target=\"_blank\">https://github.com/solana-labs/wallet-adapter#starter-projects</a>.</li></ul><p><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff008c7ced8664bb083887592e99cf716",
+  "lastUpdated": 1694189917867,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_baaaf1b6844a432c848afc7a261ecfb4",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687551936292,
+  "@originId": "baaaf1b6844a432c848afc7a261ecfb4",
+  "testRatio": 1,
+  "createdDate": 1687362502310,
+  "createdBy": "mQ0HB8HwSAf1GsLGtfD8k7z17Qt1",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=baaaf1b6844a432c848afc7a261ecfb4&builder.overrides.baaaf1b6844a432c848afc7a261ecfb4=baaaf1b6844a432c848afc7a261ecfb4&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Why You Should Use Wallet Adapter",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

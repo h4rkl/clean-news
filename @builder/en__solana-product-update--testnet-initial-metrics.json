@@ -1,0 +1,353 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1537254000000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "On the road to 710k TPS.\n",
+    "publishedDate": "Tue Sep 18 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Solana Product Update: Testnet Initial Metrics",
+      "noFollow": false,
+      "seoDescription": "On the road to 710k TPS.\n",
+      "seoTitle": "Solana Product Update: Testnet Initial Metrics",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Solana Product Update: Testnet Initial Metrics",
+      "ogUrl": "https://www.solana.com/blog/solana-product-update--testnet-initial-metrics",
+      "ogDescription": "On the road to 710k TPS.\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "Solana Product Update: Testnet Initial Metrics",
+    "twitterMeta": {
+      "twitterTitle": "Solana Product Update: Testnet Initial Metrics",
+      "twitterDescription": "On the road to 710k TPS.\n",
+      "twitterImage": null
+    },
+    "slug": "solana-product-update--testnet-initial-metrics",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_d1f06a4ccd2e45aabcc3911ba7880789"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-5a9c3ec13178435b9c22be673c2f6553",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-12bfbf7c84ab4a47b8805d972bf638fd",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>On the road to 710k&nbsp;TPS</strong></h3><p><a href=\"https://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana</a>&nbsp;is a high performance blockchain that uses a concept called&nbsp;<a href=\"https://medium.com/solana-labs/proof-of-history-explained-by-a-water-clock-e682183417b8?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Proof of History</a>&nbsp;to achieve a cryptographically secure and trustless time source. In July, we pushed out our&nbsp;<a href=\"https://github.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">multinode testnet</a>&nbsp;and since then, we’ve been working tirelessly to prove our theory about building a scalable blockchain that could allow for 710k TPS. Here’s a look at some of the initial metrics we’ve achieved this summer.</p><p>Our performance dashboard is demonstrating that we have succeeded in scaling past 100k TPS in steady state with subsecond finality and peaks over 300k TPS. There are still tons of opportunities for optimization to reach our theoretical 710k TPS maximum.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b162ca1817184eefbcbc1e8db232c3a6",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135f55d535324c138b481dfd594b3071?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.46,
+                "lockAspectRatio": false,
+                "height": 368,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135f55d535324c138b481dfd594b3071?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135f55d535324c138b481dfd594b3071?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135f55d535324c138b481dfd594b3071?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135f55d535324c138b481dfd594b3071?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135f55d535324c138b481dfd594b3071?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135f55d535324c138b481dfd594b3071?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135f55d535324c138b481dfd594b3071?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135f55d535324c138b481dfd594b3071?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135f55d535324c138b481dfd594b3071?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "altText": ""
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-edb4a6de5f1c4b7b8125320697e82fca",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Performance Deployment at Current Maximum Stable&nbsp;Speed</p><p>This deployment is on Google cloud, with clients and nodes running on the same 1gbps network. Our actual point to point limit is around&nbsp;<strong>800 mbps.</strong></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e7ad6223618246728fb7deead2254b9a",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b8bf14630ab44b98b8a3a47991d61a1?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.798,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 638,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b8bf14630ab44b98b8a3a47991d61a1?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b8bf14630ab44b98b8a3a47991d61a1?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b8bf14630ab44b98b8a3a47991d61a1?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b8bf14630ab44b98b8a3a47991d61a1?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b8bf14630ab44b98b8a3a47991d61a1?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b8bf14630ab44b98b8a3a47991d61a1?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b8bf14630ab44b98b8a3a47991d61a1?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b8bf14630ab44b98b8a3a47991d61a1?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b8bf14630ab44b98b8a3a47991d61a1?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-11f2006687d7493698216a64555c2d1e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Point to Point limits on Google&nbsp;Cloud</p><p>The amount of data we are transferring is actually&nbsp;105,928 transactions per second; * 226 bytes per transaction * with 50 nodes =&nbsp;<strong>9.575 gigabits</strong>&nbsp;of aggregate network bandwidth. There is no way we could have transferred that much data from a single node to all 50 nodes over a 800mbps connection. This deployment clearly demonstrates how our awesome&nbsp;<a href=\"https://medium.com/solana-labs/solanas-network-architecture-8e913e1d5a40?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">network architecture</a>&nbsp;successfully achieves&nbsp;<strong>10x</strong>&nbsp;bandwidth multiplication without an impact to finality.</p><p>Our public&nbsp;<a href=\"https://metrics.solana.com:3000/d/testnet/testnet-hud?orgId=2&amp;from=now-15m&amp;to=now&amp;refresh=5s&amp;var-testnet=testnet&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">testnet</a>&nbsp;is up and running. The performance deployment is continuously being hammered by our internal benchmark. The public deployment is available for anyone to connect to and check how many transactions your internet connection will allow you to upload at once. To play around with it, you will need to download the source and build and execute the benchmark client. You will need to have the rust toolchain installed, which you can fund on&nbsp;<a href=\"http://rustup.rs/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">rustup.rs</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ff1402b5ff234f27a6e646d6bfbdcf78",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<code\n  >$ git clone git@github.com:solana-labs/solana.git $ cd solana $ git checkout\n  v0.7.2 # make sure this is the latest release on\n  https://github.com/solana-labs/solana/releases $ ./multinode-demo/client.sh\n  testnet.solana.com 1</code\n>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a21c7fb2ad0648dfbe0c636ec148164a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">After some compilation, the benchmark will start transferring as many transactions as your computer and ISP will allow.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-02932ebbf0694c67ab5fd1448863c757",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F819e3b0f1d0243c496d951937ad68a95?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.749,
+                "lockAspectRatio": false,
+                "height": 599,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F819e3b0f1d0243c496d951937ad68a95?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F819e3b0f1d0243c496d951937ad68a95?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F819e3b0f1d0243c496d951937ad68a95?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F819e3b0f1d0243c496d951937ad68a95?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F819e3b0f1d0243c496d951937ad68a95?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F819e3b0f1d0243c496d951937ad68a95?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F819e3b0f1d0243c496d951937ad68a95?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F819e3b0f1d0243c496d951937ad68a95?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F819e3b0f1d0243c496d951937ad68a95?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cf0dfa33c5c647d59129c94e04626b6e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>TPS bench from a home connection on a&nbsp;laptop</p><p>And you will see them popup on the&nbsp;<a href=\"https://metrics.solana.com:3000/d/testnet/testnet-hud?orgId=2&amp;from=now-15m&amp;to=now&amp;refresh=5s&amp;var-testnet=testnet&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">dashboard</a>. At the moment, our alpha testnet is completely not BFT, and there are tons of fun ways to break it. We are working on all the fun, challenging BFT consensus problems right now, and if you find one of the ways to break it,&nbsp;<strong>let us know or submit a PR to our&nbsp;</strong><a href=\"https://github.com/solana-labs/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Github</strong></a><strong>&nbsp;and we will send you a t-shirt</strong>. No really, we may have ordered way too many t-shirts. Help us get rid of swag AND make our product and the future of blockchain tech even better. And feel free to get in touch below if you have any questions.</p><p>Check us out on&nbsp;<a href=\"https://github.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Github</a>.</p><p>Read our&nbsp;<a href=\"https://solana.com/solana-whitepaper.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">whitepaper</a>&nbsp;and join our&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F44e4f735f144421080139808ef2cccfd",
+  "lastUpdated": 1694189894547,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3f954707a2184f6f96c6d8229c56224c",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687431331960,
+  "@originId": "3f954707a2184f6f96c6d8229c56224c",
+  "testRatio": 1,
+  "createdDate": 1687362748001,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=3f954707a2184f6f96c6d8229c56224c&builder.overrides.3f954707a2184f6f96c6d8229c56224c=3f954707a2184f6f96c6d8229c56224c&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Product Update: Testnet Initial Metrics",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

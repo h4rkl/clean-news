@@ -1,0 +1,227 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1677178800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F913b463be3224aa68c90f1ae608883d6",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Grizzlython, the Electric Capital Developer Report, and more updates.",
+    "publishedDate": "Fri Feb 24 2023 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Monthly Community Update | February 2023",
+      "ogUrl": "",
+      "ogDescription": "Grizzlython, the Electric Capital Developer Report, and more updates.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Monthly Community Update | February 2023",
+      "noFollow": false,
+      "seoDescription": "Grizzlython, the Electric Capital Developer Report, and more updates.",
+      "seoTitle": "Monthly Community Update | February 2023",
+      "noIndex": false
+    },
+    "title": "Monthly Community Update | February 2023",
+    "twitterMeta": {
+      "twitterTitle": "Monthly Community Update | February 2023",
+      "twitterDescription": "Grizzlython, the Electric Capital Developer Report, and more updates."
+    },
+    "slug": "monthly-community-update-february-2023",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-ae80303840b549d2b86d640f46164fb4",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-61dc04866bf04973a271fa353d1a9fd9",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Get this update first.&nbsp;<a href=\"http://eepurl.com/gOcpoL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up for the Solana Community Update newsletter!</a></p><h2><strong>Builders keep flocking to Solana — with more coming during Solana Grizzlython</strong></h2><p>It’s a new year — but the builders on Solana keep building. At least that’s what the January 2022 edition of the&nbsp;<a href=\"https://solana.com/2023outlook?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Electric Capital Developer Report says.</a></p><p>The report, which looked at developer activity across the web3 industry, found&nbsp;<a href=\"https://mobile.twitter.com/solana/status/1615398642717687842?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">more than 2,000 developers building on Solana in 2022</a>&nbsp;— second in developer activity only to the Ethereum ecosystem, and up 83% from the year before. The entire Solana ecosystem has seen a 16x growth in the number of full-time developers since 2018.</p><p>Electric Capital notes that developer activity on Solana tends to spike around hackathons and other events, as new teams sprint to launch their projects and take advantage of the prize pot. That’s why now is the perfect time to start building and fight the bear.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4da7b8eff83f4ca99aaeb2e318055a28",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gjVwjISLPZo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5b62f408bfc34e6c843a3d369f59aefa",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>On Feb. 2, the Solana Foundation kicked off&nbsp;<strong>Grizzlython</strong>, the latest Solana hackathon with $5 million in prizes and seed funding up for grabs. Projects go from ideas to fully-fledged companies during a six week sprint — with special prizes and a demo day for the winners.</p><p>In addition to a competition-wide Grand Champion with a $50,000 USDC award, Grizzlython will award prizes across seven tracks core to the growing Solana ecosystem — Mobile, DeFi, Payments, Web3 Consumer, Tools + Infrastructure, Gaming, and DAOs + Network States. Projects must be submitted by March 14.</p><p>The devs are on Solana. Are you ready to join them?</p><p><a href=\"https://solana.com/grizzlython?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Register for Grizzlython here!</a></p><h2><strong>Top Ecosystem News</strong></h2><h3><strong>Solana Mobile soft launches in Melbourne</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5b5321ad62254ed5b5877d8604f3796c",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F50cea8cd2f2d478c9394fa9dbfe88c67?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.75,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 510,
+                "width": 680,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F50cea8cd2f2d478c9394fa9dbfe88c67?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F50cea8cd2f2d478c9394fa9dbfe88c67?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F50cea8cd2f2d478c9394fa9dbfe88c67?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F50cea8cd2f2d478c9394fa9dbfe88c67?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F50cea8cd2f2d478c9394fa9dbfe88c67?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F50cea8cd2f2d478c9394fa9dbfe88c67?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F50cea8cd2f2d478c9394fa9dbfe88c67?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F50cea8cd2f2d478c9394fa9dbfe88c67?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F50cea8cd2f2d478c9394fa9dbfe88c67?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f102a2cec1af4851b2cdd4731944cc4a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Are you there, anon? It's Solana Mobile — and Saga is starting to make its way out into the world.</p><p>At the Solana Mobile event in Melbourne on Feb. 22, Solana Mobile engineering lead Steven Laver showed off how you can turn a selfie into an NFT in seconds with&nbsp;<a href=\"https://twitter.com/solanamobile/status/1628488700790464512?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Minty Fresh.</a></p><p>Have you ordered yours? Saga is due to start shipping soon.</p><p><a href=\"https://solanamobile.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Preorder Saga here.</a></p><h3><strong>Hivemapper sees rise in daily contributions in the last three months, Messari reports</strong></h3><p>It's time to hit the road.&nbsp;<a href=\"https://twitter.com/MessariCrypto/status/1626237156808335361?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">A new report</a>&nbsp;from Messari shows that Hivemapper has seen a surge in contributor activity. In the last three months, more than 300,000 unique kilometers have been added to the network. Even since the start of January, Hivemapper has seen a 4.5x increase in average daily unique kilometers.</p><p>The report comes out just as Hivemapper celebrated over 1.5m transactions and 6,000 contributors joining their Discord.</p><p><a href=\"https://messari.io/report/mapping-the-growth-of-hivemapper-s-network?utm_source=twitter_messaricrypto&amp;utm_medium=organic_social&amp;utm_campaign=hivemapper_growth\" rel=\"noopener noreferrer\" target=\"_blank\">Read the report.</a></p><h3><strong>Helium proposes migrating to Solana on March 27</strong></h3><p>It's a great time for DePin projects! The Helium Foundation, whose community&nbsp;<a href=\"https://www.coindesk.com/tech/2022/09/22/helium-ditches-own-blockchain-in-favor-of-solana-after-community-vote/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">previously voted</a>&nbsp;to leave their own blockchain to join Solana, has officially proposed that the migration&nbsp;<a href=\"https://blog.helium.com/the-next-era-of-the-helium-network-begins-on-march-27th-6d08f2b048e0?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">occur</a>&nbsp;on March 27th.</p><p>The upgrade, which will be overseen by a volunteer committee that will finalize the date, will make the Helium Network natively compatible with other platforms within the Solana ecosystem.&nbsp;<a href=\"https://blog.helium.com/the-next-era-of-the-helium-network-begins-on-march-27th-6d08f2b048e0?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here.</a></p><h2><strong>Community Headlines</strong></h2><p>Here's what's new this month:</p><ul><li>Catalina Whales, a Solana NFT project,&nbsp;<a href=\"https://twitter.com/catalinawhales/status/1623357771981721600?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announced a record deal</a>&nbsp;for a virtual band with Def Jam Records.</li><li><a href=\"https://twitter.com/aeyakovenko/status/1623755609735852032?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Typed bytecode</a>&nbsp;is coming to Solana.</li><li><a href=\"https://twitter.com/Parcl/status/1625877701231022087?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Parcl,</a>&nbsp;a real estate derivatives platform, launches on Solana.</li><li>Kamino Finance launched&nbsp;<a href=\"https://twitter.com/Kamino_Finance/status/1626709767468072960?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a Solana DeFi Health Report.</a></li><li><a href=\"https://twitter.com/BuildOnBase/status/1628759585182953472?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Base,</a>&nbsp;Coinbase's L2, includes bridge support for Solana.</li><li>CandyPay announces&nbsp;<a href=\"https://twitter.com/candypayfun/status/1621227243006734337?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">one-click checkouts.</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F977cf1044b594b5288f264ee0a1a59ef",
+  "lastUpdated": 1696412654718,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_0cbe85fca37e4577ac86eed20098bdc8",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687590972641,
+  "@originId": "0cbe85fca37e4577ac86eed20098bdc8",
+  "testRatio": 1,
+  "createdDate": 1687362410337,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=0cbe85fca37e4577ac86eed20098bdc8&builder.overrides.0cbe85fca37e4577ac86eed20098bdc8=0cbe85fca37e4577ac86eed20098bdc8&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly Community Update | February 2023",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

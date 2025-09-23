@@ -1,0 +1,745 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/case-study-culturehacker-where-theres-smoke",
+  "data": {
+    "datePublished": 1705060800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa58452dba41746908cb1cb178e793ad2",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "'Where There's Smoke' mixes storytelling, the internet of things, and Solana NFTs to create an immersive art experience.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa58452dba41746908cb1cb178e793ad2",
+      "seoDescription": "'Where There's Smoke' mixes storytelling, the internet of things, and Solana NFTs to create an interactive art experience.",
+      "seoTitle": "Case Study: Culturehacker's 'Where There's Smoke'"
+    },
+    "title": "Case Study: 'Where There's Smoke' Pioneers Onchain Storytelling",
+    "slug": "case-study-culturehacker-where-theres-smoke",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_d7664ab5344b428d8d628809aa7f60c1"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-9ea7c3c34e7a45358a5eb01f7007fe50",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-98256c84a6b8412b96fd049984cd137d",
+            "meta": {
+              "previousId": "builder-5df3c7c89c504e12aa0909f7c8137c4d"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><strong>Highlights</strong></p><ul><li>Artist <a href=\"https://arts.columbia.edu/profiles/lance-weiler\" rel=\"noopener noreferrer\" target=\"_blank\">Lance Weiler</a> (aka “<a href=\"https://twitter.com/culturehacker\" rel=\"noopener noreferrer\" target=\"_blank\">culturehacker</a>”) produced an installation on Solana called \"Where There's Smoke,\" which is an immersive art installation that mixes storytelling, the internet of things (IoT), and NFTs.</li><li>“Where There’s Smoke” involves headphones, flashlights and personalized experiences that guide the viewer through a journey that mimics sorting a loved one’s belongings when they die.</li><li>The flashlights track participants’ movement to create generative digital art renderings of their experience, so that the installation becomes an on-chain dataset which evolves with the growing number of attendees.</li><li>Weiler is currently developing a \"memory ledger\" in collaboration with the Solana Foundation to preserve participants' contributions in future iterations.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                "paddingTop": "20px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingBottom": "20px",
+                "opacity": "1",
+                "borderRadius": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d2b379ced1bf4f1e8d11cf29cae5e9e4",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Lance Weiler is an artist, scholar and associate professor of Professional Practice at Columbia University, where he heads up the <a href=\"https://www.digitalstorytellinglab.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Columbia Digital Storytelling Lab</a>. His art practice has always included experiments with cutting-edge technology, but his interest in blockchain began with NFTs during the winter of 2020.&nbsp;</p><p>Weiler initially minted NFTs on the Ethereum blockchain, but in 2021 he began working on the Solana blockchain, commencing his journey on Holaplex before expanding to <a href=\"https://exchange.art/\" rel=\"noopener noreferrer\" target=\"_blank\">Exchange Art</a>.&nbsp;</p><p>Since then, Weiler, who uses the pseudonym “culturehacker” to accompany his blockchain-based works, has been building works on Solana to explore the merger of multimedia technologies with innovative onchain storytelling to enhance human connection.&nbsp;</p><p>Weiler’s ongoing project, “Where There’s Smoke,” is an interactive blockchain-based installation featuring his father’s photographs and personal glitch art that, as he describes, can only work on Solana. The latest exhibition, which wrapped up in October 2023 at <a href=\"https://artyard.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Art Yard</a>, a contemporary art center in Frenchtown, NJ, exemplified what’s possible when artists combine high-throughput blockchain tech with a powerful creative vision.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a955200f9b814f638e3fc49a2aae5575",
+            "component": {
+              "name": "Youtube",
+              "options": {
+                "url": "https://vimeo.com/867814515"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1b604c6402414cde9a482f99713ddee2",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>“What I'm working to do in conjunction with the Solana Foundation is figure out how to leverage the affordances and constraints of the blockchain in a way where it becomes a vehicle not only for storytelling, but ultimately for human connection,” Weiler said in an October 2023 interview.&nbsp;</p><p>With an artistic impulse that’s long revolved around establishing direct relationships between artists and audiences, Weiler immediately recognized blockchain technology — and Solana's scalability in particular — as a missing foundational layer that could eliminate intermediaries and provide a frictionless way to create a record of participants’ shared experiences.</p><p>Weiler points to the 1998 book by B. Joseph Pine II, “<a href=\"https://www.amazon.com/Experience-Economy-Updated-Joseph-Pine/dp/1422161978\" rel=\"noopener noreferrer\" target=\"_blank\">The Experience Economy</a>,” which argues that the brands with the most cultural impact not only provide goods and services, but emotional experiences that unite audiences at scale.&nbsp;</p><p>“Just look at Taylor Swift's recent concert and Beyonce’s tours,” Weiler said. Combined, the tours were credited for reviving stagnant economies with record-breaking ticket and merchandise sales. In both cases, word-of-mouth marketing gained compounding momentum through social media and inexpensive yet meaningful souvenirs, like friendship bracelets and other swag.&nbsp;</p><p>“People were craving a shared emotional experience,” Weiler said. And you don’t have to be a popstar to create and document a cultural moment’s lasting impact.&nbsp;</p><h2>How ‘Where There’s Smoke’ uses the Solana blockchain to create memorable experiences&nbsp;</h2><p>To artists, effective technology is like movie magic, creating an experience behind the curtain that allows audience members to suspend their doubt and remain emotionally present. The blockchain chosen for “Where There’s Smoke,” in that case, couldn’t present attendees with a myriad of perplexing signature prompts and minting fees, lest the magic dissipates.</p><p>In “Where There’s Smoke,” guests move through the exhibition with flashlights and headphones to mimic the sensation of being a firefighter. Data capture and live NFT mints occur in the background, but in organic, additive ways.</p><p>Read along for the journey:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-55878bf931f449c284faddb2467c77fc",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2c742f6a8719436482f5b224e4993502?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 540,
+                "width": 960,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2c742f6a8719436482f5b224e4993502?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2c742f6a8719436482f5b224e4993502?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2c742f6a8719436482f5b224e4993502?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2c742f6a8719436482f5b224e4993502?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2c742f6a8719436482f5b224e4993502?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2c742f6a8719436482f5b224e4993502?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2c742f6a8719436482f5b224e4993502?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2c742f6a8719436482f5b224e4993502?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2c742f6a8719436482f5b224e4993502?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2c742f6a8719436482f5b224e4993502?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5ea05a5dd71a4e60b5cf1d4de708b77a",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Throughout the exhibition, blown-up prints of Weiler’s father's photographs are displayed on the walls, giving the appearance of flickering projections. Guests navigate through the dimly lit space using their flashlights while listening to audio stories. These stories include real voicemail messages between Weiler’s family members, conversations about illness, vulnerability and universal themes involving familial relationships.</p><p>\"You're moving through darkness using this flashlight to guide your way, and as you move, you're getting these fragments of stories, from heavy to light, but ultimately kind of universal — things that people have potentially experienced in relationships and families,” Weiler described. </p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c6e8cd0954f9415da11e3dbf41937d7f",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F95519b655ac34f3dbbdb043a4b34e7dc?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 540,
+                "width": 960,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F95519b655ac34f3dbbdb043a4b34e7dc?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F95519b655ac34f3dbbdb043a4b34e7dc?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F95519b655ac34f3dbbdb043a4b34e7dc?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F95519b655ac34f3dbbdb043a4b34e7dc?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F95519b655ac34f3dbbdb043a4b34e7dc?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F95519b655ac34f3dbbdb043a4b34e7dc?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F95519b655ac34f3dbbdb043a4b34e7dc?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F95519b655ac34f3dbbdb043a4b34e7dc?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F95519b655ac34f3dbbdb043a4b34e7dc?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F95519b655ac34f3dbbdb043a4b34e7dc?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-83cd2f5fe8964678a3537f43e15e1d12",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  Through the flashlight devices, participants’ movements are tracked in\n  real-time. The flashlights feed the data to an\n  <a\n    href=\"https://youtu.be/HU0PjypyIxY?t=39\"\n    rel=\"noopener noreferrer\"\n    target=\"_blank\"\n    >AxiDraw arm</a\n  >, which creates real-time generative artwork to be minted as NFTs using\n  Solana.</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-eed001516dbe4a0cb61f290ee5cd43a4",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3e714f03d69492e8dafe793de75e0e8?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "height": 540,
+                "width": 960,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3e714f03d69492e8dafe793de75e0e8?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3e714f03d69492e8dafe793de75e0e8?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3e714f03d69492e8dafe793de75e0e8?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3e714f03d69492e8dafe793de75e0e8?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3e714f03d69492e8dafe793de75e0e8?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3e714f03d69492e8dafe793de75e0e8?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3e714f03d69492e8dafe793de75e0e8?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3e714f03d69492e8dafe793de75e0e8?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3e714f03d69492e8dafe793de75e0e8?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3e714f03d69492e8dafe793de75e0e8?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-587877846dfc4ea88cdfc5dd9fd0bcb1",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The dataset drawn by the encased AxiDraw includes the location of each participant, the stories played, time spent at each station and the overall density of guests.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6081a251c59541728c11b394aca165ac",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-b954045023934c11a5af702308ae8d85",
+                        "component": {
+                          "name": "Image",
+                          "options": {
+                            "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1663816121114e96a5a35408d55be35b?width=606",
+                            "backgroundSize": "cover",
+                            "backgroundPosition": "center",
+                            "lazy": false,
+                            "fitContent": true,
+                            "aspectRatio": 0.563,
+                            "lockAspectRatio": false,
+                            "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 47vw, 43vw",
+                            "height": 540,
+                            "width": 960,
+                            "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1663816121114e96a5a35408d55be35b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1663816121114e96a5a35408d55be35b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1663816121114e96a5a35408d55be35b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1663816121114e96a5a35408d55be35b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1663816121114e96a5a35408d55be35b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1663816121114e96a5a35408d55be35b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1663816121114e96a5a35408d55be35b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1663816121114e96a5a35408d55be35b?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1663816121114e96a5a35408d55be35b?width=460 460w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1663816121114e96a5a35408d55be35b?width=593 593w"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "width": "100%",
+                            "minHeight": "20px",
+                            "minWidth": "20px",
+                            "overflow": "hidden"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-e03f6ace5a894227afd2360aa554bf78",
+                        "meta": {
+                          "previousId": "builder-f38cd0db9e014c96b62e3c287cdd0e97"
+                        },
+                        "component": {
+                          "name": "Image",
+                          "options": {
+                            "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c5021edfd574dc58428311bcdcbe1ca?width=606",
+                            "backgroundSize": "cover",
+                            "backgroundPosition": "center",
+                            "lazy": false,
+                            "fitContent": true,
+                            "aspectRatio": 0.563,
+                            "lockAspectRatio": false,
+                            "height": 540,
+                            "width": 960,
+                            "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c5021edfd574dc58428311bcdcbe1ca?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c5021edfd574dc58428311bcdcbe1ca?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c5021edfd574dc58428311bcdcbe1ca?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c5021edfd574dc58428311bcdcbe1ca?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c5021edfd574dc58428311bcdcbe1ca?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c5021edfd574dc58428311bcdcbe1ca?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c5021edfd574dc58428311bcdcbe1ca?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c5021edfd574dc58428311bcdcbe1ca?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c5021edfd574dc58428311bcdcbe1ca?width=460 460w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c5021edfd574dc58428311bcdcbe1ca?width=593 593w",
+                            "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 47vw, 43vw"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "width": "100%",
+                            "minHeight": "20px",
+                            "minWidth": "20px",
+                            "overflow": "hidden"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e894c6d3cdd840cc96715ce5f62aa37f",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Weiler says creating a generative NFT drop at scale is only possible when the blockchain is fast and has the ability to process high throughput at low costs. Solana met his requirements in this regard. He also says it is important to him that the blockchain he uses is energy efficient, and the <a href=\"https://solanaclimate.com/\" rel=\"noopener noreferrer\" target=\"_blank\">real-time emissions tracking</a> and <a href=\"https://solana.com/environment\" rel=\"noopener noreferrer\" target=\"_blank\">comparatively low environmental impact</a> of the network also appealed to him.</p><p>Next, the main exhibition space features tables adorned with collage-based works. These tables held a combination of physical artifacts, including documents like marriage licenses, deeds, and medical records, along with fragments of stories.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-586dec2791694df584cce310080c604e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a18259f7ef8422a8359ce387daed025?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 540,
+                "width": 960,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a18259f7ef8422a8359ce387daed025?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a18259f7ef8422a8359ce387daed025?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a18259f7ef8422a8359ce387daed025?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a18259f7ef8422a8359ce387daed025?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a18259f7ef8422a8359ce387daed025?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a18259f7ef8422a8359ce387daed025?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a18259f7ef8422a8359ce387daed025?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a18259f7ef8422a8359ce387daed025?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a18259f7ef8422a8359ce387daed025?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a18259f7ef8422a8359ce387daed025?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8cff7ef24a8e477f823fab6fa2ae2699",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The objects evoke different emotional responses and perspectives on universal themes that every participant can seemingly relate to.</p><p>“I don't know if you've ever had to go through a loved one's things after they've passed away, but what ends up happening is you go through piles and you're not really sure what they are and what they mean,” Weiler said. “You're left with a lot of questions.”</p><p>Afterward, participants are prompted to write some reflections on a card, answering the prompt, “What are you letting go of?”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a159b8ff92954ce5b4d57751eb65428b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcbde7cf14f84708aec5d024db39469c?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 540,
+                "width": 960,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcbde7cf14f84708aec5d024db39469c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcbde7cf14f84708aec5d024db39469c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcbde7cf14f84708aec5d024db39469c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcbde7cf14f84708aec5d024db39469c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcbde7cf14f84708aec5d024db39469c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcbde7cf14f84708aec5d024db39469c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcbde7cf14f84708aec5d024db39469c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcbde7cf14f84708aec5d024db39469c?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcbde7cf14f84708aec5d024db39469c?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcbde7cf14f84708aec5d024db39469c?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5df0ea3454a141a8af2e1cc2d1f923d1",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The cards are then displayed on the walls to create what Weiler calls a \"memory ledger.” Here, he emphasizes the potential of blockchain to enhance this concept and turn it into a digital emotional ledger where audiences can see traces of themselves in an event’s real-time data, promoting a deeper connection between art and its audience. He’s already begun to iterate on how to more seamlessly and instantaneously include live mints throughout “Where There’s Smoke” to document the live experience onchain. In a <a href=\"https://tomorrowtheater.org/movies/lance-weiler-where-theres-smoke/\" rel=\"noopener noreferrer\" target=\"_blank\">later show</a> at Portland Art Museum’s Center for an Untold Tomorrow, Weiler used a foot pedal to enable him and the audience to live mint during the show, made in collaboration with the Solana Foundation and curation platform <a href=\"https://collector.sh/\" rel=\"noopener noreferrer\" target=\"_blank\">Collector</a>.</p><p>“Since I’m making art in real-time and using both hands,\" Weiller said, \"the foot pedal enables me to mint as I see pieces emerge.”</p><p>The future is limitless, says Weiler, who plans to integrate the full “Where There’s Smoke” experience on blockchain, starting with registration and ticketing. He imagines that soon, each ticket will be a dynamic NFT that changes based on the participant’s activity inside the exhibition.&nbsp;</p><p>“Our goal is to make this a seamless experience where those who register, obtain a ticket and attend ‘Where There’s Smoke’ will have an opportunity to mint a memory within the exhibition,” Weiler said. “We’ve also discussed an option that would send a link to the NFT to those who don’t have wallets. This hopefully provides a blockchain onramp that is emotionally connected to the experience and storytelling,” Weiler explained, adding that this aspect of the installation is still in development with a goal to launch in mid-2024.</p><p>As an artist, Weiler says Solana enables him to let expression define the installation’s constraints, rather than contorting his work’s meaning to suit technical parameters.&nbsp;</p><p>“Solana’s efficiency and speed, along with its robust developer community and focus on innovation is what make it compelling for me,” Weiler said. “I appreciate having the opportunity to leverage compression technology and work alongside a vibrant and passionate group of artists and collectors.”</p><p>Finally, Weiler envisions that the physical memory ledger will one day become a web-based destination where participants can return and access searchable memories from the exhibit. These memories will be mintable at home, and minted NFTs will be added to the next physical exhibition. That way, the public’s response to “Where There’s Smoke” is continually adding to and evolving the work.&nbsp;</p><p>If everything works out according to plan, “Where There’s Smoke” will function just as the human collective memory works, synthesizing fragments of imagery and sensation and forming meaning throughout the passage of time.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9aaa85ed2aba4c79a9c47d21dd028f7c",
+            "component": {
+              "name": "CommunityGallery",
+              "options": {
+                "square": false,
+                "cards": [
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feb95ae0c4e354a9bac98d60adaf845b9"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0b4ce45c990d4f46945aaee0954006b7"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "large",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feafceae9beda4838a846854f203218dc"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb92e4cd2452d47caaac9841dd9ae528d"
+                    }
+                  },
+                  {
+                    "cardType": "image",
+                    "size": "small",
+                    "image": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff4cea06afd10419f83251ea5eb865c44"
+                    }
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-04cad745157e4b0591190a471b08edab",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>The legacy of onchain storytelling</h2><p>\"Where There's Smoke\" stands as a remarkable case study exemplifying the innovative use of blockchain technology into the realm of interactive art. The artist's unwavering commitment to leveraging blockchain for a more immersive and emotionally resonant encounter underscores the potential of decentralized technology for the future of art and storytelling.</p><p>In Weiler’s visions for the future, the Solana blockchain will be the foundation for a growing, interactive memory ledger to house the emotional remnants left by art spectators. In this way, the artist envisions blockchain technology as more than just a financial tool in the art world. Rather, it has the potential to foster shared emotional encounters and supercharge the experience economy.&nbsp;</p><p>Plus, Weiler plans to continue collaborating with artists and creators within the Solana ecosystem. In the summer of 2022, Weiler and the artist <a href=\"https://twitter.com/lowbrownative\" rel=\"noopener noreferrer\" target=\"_blank\">Lowbrow</a> co-founded <a href=\"https://damzine.xyz/\" rel=\"noopener noreferrer\" target=\"_blank\">DAM</a>, a pioneering decentralized art zine focused on creation, community engagement, discovery and the art of collecting. The innovative project releases new issues once a month and has successfully collaborated with over 1,700 artists. Collectively, DAM artists have minted more than 2,000 unique pieces across 20 issues of the zine, as of the time of publication.&nbsp;</p><p>Weiler plans to drop a collaboration on <a href=\"https://codecanvas.art/\" rel=\"noopener noreferrer\" target=\"_blank\">Code Canvas</a> with generative artist <a href=\"https://twitter.com/itslordof\" rel=\"noopener noreferrer\" target=\"_blank\">Lordof</a>. This drop will coincide with a live show at New York City’s Lincoln Center.</p><p>What keeps the magic of this traveling exhibition alive? According to Weiler, it’s the synergistic interactions between people and the technology itself — which is why he has no problem iterating and building new components to the exhibition. Each new venue is like a “different adaptation of the way in which the story is told,” he says. And each new iteration “leaves room for people to reflect on their own life, their own loss and their own memory.\"</p><p>\"The more that the technology can be invisible in the process, the more that I think it becomes enchanted or magical,” Weiler says. “In that way, it kind of, almost, gets out of the way.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f0b679a2c1cb403788fdde062a0e1893",
+            "meta": {
+              "previousId": "builder-edc70af5c55945fc93559f2dc11bbf46",
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "newsLetter": true,
+                "formId": "94b90b1b-b29a-4ad7-9b3b-87331601d030",
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Join the new art world."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Hear about the latest news, tools, and events for creatives using Solana.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Thanks for joining this email list!"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-f7db6f33a9f049f7a48cbcdae85e904c",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1c034c8b09894192bd891a5e2ce44771",
+  "lastUpdated": 1718291536040,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_415e1bc8b34341959242b22695313952",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1705086428872,
+  "@originId": "415e1bc8b34341959242b22695313952",
+  "testRatio": 1,
+  "createdDate": 1704306983694,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/case-study-culturehacker-where-theres-smoke?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2CeditLayouts%2CeditLayers&builder.user.role.name=Developer&builder.user.role.id=developer&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=415e1bc8b34341959242b22695313952&builder.overrides.415e1bc8b34341959242b22695313952=415e1bc8b34341959242b22695313952&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 10,
+      "Youtube": 1,
+      "CommunityGallery": 1,
+      "Section Molecule": 2,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: Culturehacker's 'Where There's Smoke'",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

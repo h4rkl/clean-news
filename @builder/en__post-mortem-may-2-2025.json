@@ -1,0 +1,107 @@
+{
+  "folders": [],
+  "query": [],
+  "createdBy": "rfkJKsR9FxTVJ7ts7qFHGvOaibA3",
+  "createdDate": 1746220309701,
+  "data": {
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e",
+      "model": "author"
+    },
+    "datePublished": 1746219600000,
+    "intro": "",
+    "seo": {
+      "metaType": "article",
+      "metaUrl": "",
+      "seoTitle": "Post Mortem: ZK ElGamal Proof Program Bug"
+    },
+    "slug": "post-mortem-may-2-2025",
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Post Mortem: ZK ElGamal Proof Program Bug"
+    },
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-dbdf84cce9ac43d09b9f3e7ce17089d2",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-960cd939572a4c8292c1f11eec6fedfe",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h5>Timeline</h5><p>On 2025-04-16, a potential vulnerability was reported to the Anza <a href=\"https://github.com/anza-xyz/agave/security/policy\" rel=\"noopener noreferrer\" target=\"_blank\">Github Security Advisory</a>&nbsp;by security researcher <a href=\"https://x.com/lonelysloth_sec\">LonelySloth</a>. The report contained a proof of concept for the vulnerability.&nbsp;There is no known exploit of the vulnerability.&nbsp;Engineers from Anza, Firedancer, and Jito began evaluating the report and confirmed that it allowed for the construction of arbitrary proofs that the ZK ElGamal Proof program would accept as valid. Engineers created a patch to address the reported issue.&nbsp;Additionally, engineers engaged security firms Asymmetric Research, Neodyme, and OtterSec to review the patch and provide support during the incident.</p><p><br></p><p>On 2025-04-17 at approximately 18:00 UTC, the Solana Foundation and Jito teams began to contact validator operators directly to distribute the patch.&nbsp;At approximately 23:00 UTC on the 17th, it was determined that a second patch was needed to address a similar issue in another area of the code base. The second patch was also reviewed by security firms and subsequently distributed to validator operators.&nbsp;At approximately 20:00 UTC on 2025-04-18, it was determined that more than a super majority of stake had adopted the patch. The patch was announced publicly in Discord <a href=\"https://discord.com/channels/428295358100013066/669406841830244375/1362895749506924727\" rel=\"noopener noreferrer\" target=\"_blank\">here</a> at 21:01 UTC.&nbsp;The cluster has now adopted the patch, and no funds are at risk.</p><p><br></p><h5>Preliminaries</h5><p>A Token-2022 confidential transfer is executed via two programs: the Token-2022 program and the ZK ElGamal Proof program. The Token-2022 program is a popular on-chain program that handles the main application logic for token mints, and accounts. The ZK ElGamal Proof program is a native program that verifies the correctness of complex zero-knowledge proofs certifying the validity of encrypted balances in accounts and transactions.</p><p>Typically, a zero-knowledge proof system is implemented by converting a two-party interactive zero-knowledge proof protocol into a non-interactive proof system using the \"Fiat-Shamir Transformation\". The Fiat-Shamir Transformation specifies how a prover can generate public randomness using a cryptographic hash function. When verifying proofs generated via the Fiat-Shamir Transformation, the verification logic must hash all algebraic components comprising the proof.</p><p><br></p><h5>The bug</h5><p>In the on-chain ZK ElGamal Proof program, some algebraic components were not included in a&nbsp;hash used to generate a transcript for the Fiat-Shamir Transformation. A sophisticated attacker could use these unhashed components to develop a forged proof of an unauthorized action that passes verification. This vulnerability only affects Token-22 confidential tokens and allows an attacker to perform unauthorized actions such as minting unlimited tokens or withdrawing tokens from any account.</p><p><br></p><h5><strong>The patch</strong></h5><p>The ZK ElGamal Proof program has now been patched.&nbsp;Patched versions include:</p><ul><li>Agave: &gt;=<a href=\"https://github.com/anza-xyz/agave/releases/tag/v2.1.21\" rel=\"noopener noreferrer\" target=\"_blank\">v2.1.21</a>,&nbsp;&gt;=<a href=\"https://github.com/anza-xyz/agave/releases/tag/v2.2.11\" rel=\"noopener noreferrer\" target=\"_blank\">v2.2.11</a></li><li>Jito-Solana: &gt;=<a href=\"https://github.com/jito-foundation/jito-solana/releases/tag/v2.1.21-jito\" rel=\"noopener noreferrer\" target=\"_blank\">v2.1.21-jito</a>, &gt;=<a href=\"https://github.com/jito-foundation/jito-solana/releases/tag/v2.2.11-jito\" rel=\"noopener noreferrer\" target=\"_blank\">v2.2.11-jito</a></li><li>Firedancer: &gt;=<a href=\"https://github.com/firedancer-io/firedancer/releases/tag/v0.411.20121\" rel=\"noopener noreferrer\" target=\"_blank\">v0.411.20121</a></li></ul><p>The patch was added in <a href=\"https://github.com/anza-xyz/agave/commit/8a085eebcb901b6846d1f82f4636667742146545\" rel=\"noopener noreferrer\" target=\"_blank\">this commit</a>. The patch commit has been reviewed by Asymmetric Research, Neodyme, and OtterSec. Additionally, the ZK ElGamal Proof program had previously been audited.&nbsp;A full report is available <a href=\"https://github.com/anza-xyz/security-audits/blob/master/spl/OtterSecZkTokenSdkAudit-2023-11-04.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>. Since the bug was confined to the ZK ElGamal Proof program, no updates were required for the Token-2022 program.&nbsp;All funds are safe, and there is no known exploit of the potential vulnerability.</p><p><br></p><h5><strong>tl;dr</strong></h5><p>A potential vulnerability was responsibly reported by security researcher <a href=\"https://x.com/lonelysloth_sec\">LonelySloth</a>.&nbsp; The vulnerability could allow an attacker to forge an invalid proof and have it accepted by the ZK ElGamal Proof program. The ZK ElGamal Proof program has been patched and the patch has been adopted by Solana validator operators.&nbsp;There is no known exploit of the issue.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1746220309701,
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_12b2eb838ab54b6399493fdd85e61a1d",
+  "lastUpdated": 1746641450765,
+  "lastUpdatedBy": "rfkJKsR9FxTVJ7ts7qFHGvOaibA3",
+  "meta": {
+    "breakpoints": {
+      "medium": 991,
+      "small": 640,
+      "xsmall": 320
+    },
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false,
+    "kind": "component",
+    "lastPreviewUrl": "https://staging.solana.com/news/post-mortem-may-2-2025?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditLayouts%2CeditLayers%2CeditContentPriority&builder.user.role.name=Editor&builder.user.role.id=editor&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_12b2eb838ab54b6399493fdd85e61a1d&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_12b2eb838ab54b6399493fdd85e61a1d=983ae1dad0ba4ca4ac6dd4ac310edee1_12b2eb838ab54b6399493fdd85e61a1d&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default"
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "name": "Post Mortem: ZK ElGamal Proof Program Bug",
+  "previewUrl": "https://staging.solana.com/news/post-mortem-may-2-2025",
+  "published": "published",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc20c5a6d2db145fe86ea551b1324d63b",
+  "testRatio": 1,
+  "variations": {},
+  "@originId": "12b2eb838ab54b6399493fdd85e61a1d",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@liveSyncEnabled": true,
+  "rev": "l9w1e2t4y1"
+}

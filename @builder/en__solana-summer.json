@@ -1,0 +1,1897 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1629702000000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "The $21B Blockchain and the Arrow of Time\n\nThis post originally appeared on August 23rd on Packy McCormick's\n[https://twitter.com/packyM] Not Boring\n[https://www.notboring.co/p/solana-summer], and was reprinted with permission. \n\nHi friends 👋,\n\nHappy Monday!\n\nWe’re breaking some Not Boring rules here today, and I want to explain why.\n\nThus far, I’ve only done Sponsored Deep Dives on Thursdays, never Monday. As a\nreminder, you can read how I choose what companies to write Sponsored Deep Dives\non",
+    "publishedDate": "Mon Aug 23 2021 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "Solana Summer",
+    "seo": {
+      "internalName": "Solana Summer",
+      "noFollow": false,
+      "seoDescription": "The $21B Blockchain and the Arrow of Time\n\nThis post originally appeared on August 23rd on Packy McCormick's\n[https://twitter.com/packyM] Not Boring\n[https://www.notboring.co/p/solana-summer], and was reprinted with permission. \n\nHi friends 👋,\n\nHappy Monday!\n\nWe’re breaking some Not Boring rules here today, and I want to explain why.\n\nThus far, I’ve only done Sponsored Deep Dives on Thursdays, never Monday. As a\nreminder, you can read how I choose what companies to write Sponsored Deep Dives\non",
+      "seoTitle": "Solana Summer",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Solana Summer",
+      "ogUrl": "https://www.solana.com/blog/solana-summer",
+      "ogDescription": "The $21B Blockchain and the Arrow of Time\n\nThis post originally appeared on August 23rd on Packy McCormick's\n[https://twitter.com/packyM] Not Boring\n[https://www.notboring.co/p/solana-summer], and was reprinted with permission. \n\nHi friends 👋,\n\nHappy Monday!\n\nWe’re breaking some Not Boring rules here today, and I want to explain why.\n\nThus far, I’ve only done Sponsored Deep Dives on Thursdays, never Monday. As a\nreminder, you can read how I choose what companies to write Sponsored Deep Dives\non",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Solana Summer",
+      "twitterDescription": "The $21B Blockchain and the Arrow of Time\n\nThis post originally appeared on August 23rd on Packy McCormick's\n[https://twitter.com/packyM] Not Boring\n[https://www.notboring.co/p/solana-summer], and was reprinted with permission. \n\nHi friends 👋,\n\nHappy Monday!\n\nWe’re breaking some Not Boring rules here today, and I want to explain why.\n\nThus far, I’ve only done Sponsored Deep Dives on Thursdays, never Monday. As a\nreminder, you can read how I choose what companies to write Sponsored Deep Dives\non",
+      "twitterImage": null
+    },
+    "slug": "solana-summer",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-a12076cb9c844dc3ba3488a3efa3821f",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-48a0f8202da64e29a0d87c98821939f4",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The $21B Blockchain and the Arrow of Time</p><p>This post originally appeared on August 23rd on&nbsp;<a href=\"https://twitter.com/packyM?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Packy McCormick's</a>&nbsp;<a href=\"https://www.notboring.co/p/solana-summer?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Not Boring</a>, and was reprinted with permission.</p><p>Hi friends 👋,</p><p>Happy Monday!</p><p>We’re breaking some Not Boring rules here today, and I want to explain why.</p><p>Thus far, I’ve only done Sponsored Deep Dives on Thursdays, never Monday. As a reminder, you can read how I choose what companies to write Sponsored Deep Dives on&nbsp;<a href=\"https://docs.google.com/document/d/1K24dAK5k7LHuYMsJMyd2acDSqw8bEdJm_pciVrmVNXA/edit?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p>A couple of months ago, I started talking to&nbsp;<a href=\"https://twitter.com/bennybitcoins?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ben Sparango</a>&nbsp;and&nbsp;<a href=\"https://twitter.com/Austin_Federa?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Austin Federa</a>&nbsp;on the Solana Labs team about doing a sponsored deep dive. In the smallest of small worlds, Ben and I grew up in the same neighborhood and are family friends, and last year, he joined the Solana Labs team as Strategy Lead. I started looking into Solana earlier this year and have been really impressed. I included sections on Solana in&nbsp;<a href=\"https://www.notboring.co/p/who-disrupts-the-disrupters?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Who Disrupts the Disrupters?</a>&nbsp;and&nbsp;<a href=\"https://www.notboring.co/p/own-the-internet?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Own the Internet</a>.</p><p>We picked a date for this deep dive — last Thursday — and I asked Austin for his dream outcome from the piece. His answer: “We want people to have an accurate understanding of where Solana excels and where it isn't quite as strong.” No pumping, no shilling, just a fair, balanced, and honest assessment of Solana.</p><p>Then, a little over a week ago, Solana broke out and entered the mainstream. Its price nearly doubled. It’s attracting interest from mainstream users. If there hadn’t been a deep dive scheduled, I’d probably be writing about Solana anyway (please don’t tell the Solana team!). So I decided to move the deep dive to today, a Monday.</p><p>I’m not going to make this a habit, but I felt that Solana is so relevant, has so many interesting things going on, and will play such an important role in crypto’s future, that it was more than worth making an exception this one time.</p><p>I’m writing this piece just like I would write any Monday piece. There’s no tracking link and I’m not asking you to buy anything. I just want to let you know about Solana, and the role it’s going to play in expanding crypto’s addressable universe, before everyone else catches up.</p><p><strong>Disclaimer:&nbsp;</strong>THIS IS NOT INVESTMENT ADVICE! SOL is up a ton over the past few weeks, I have no idea what will happen short- or long-term. I own a small amount. This is for educational and entertainment purposes only. Do your own diligence, you degenerates.</p><p>Let’s get to it.</p><h1><strong>Solana Summer</strong></h1>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-80f1be83aec946f2b3ab69a3ec49decf",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd51c7853ed21421394f2ac39f7eb62d0?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.5,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 600,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd51c7853ed21421394f2ac39f7eb62d0?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd51c7853ed21421394f2ac39f7eb62d0?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd51c7853ed21421394f2ac39f7eb62d0?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd51c7853ed21421394f2ac39f7eb62d0?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd51c7853ed21421394f2ac39f7eb62d0?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd51c7853ed21421394f2ac39f7eb62d0?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd51c7853ed21421394f2ac39f7eb62d0?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd51c7853ed21421394f2ac39f7eb62d0?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd51c7853ed21421394f2ac39f7eb62d0?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-94aee2985490439e94f41e1747879fd1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>I have a confession. Last Saturday night, Puja was out of town. The baby was asleep. And I did something on the internet I’m not proud of.</p><p>At little before 8pm est, I got on my computer, fired up Discord, and hopped in a server with some of the biggest degenerates the world wide web has to offer. We were all there to get in on the latest big NFT mint on the ground floor: Degenerate Ape Academy.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4295e0a8668a4a5bb9aef436ed45248a",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4812029a379747e7a772ed28fe63a9f1?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.32,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 356,
+                "width": 1112,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4812029a379747e7a772ed28fe63a9f1?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4812029a379747e7a772ed28fe63a9f1?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4812029a379747e7a772ed28fe63a9f1?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4812029a379747e7a772ed28fe63a9f1?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4812029a379747e7a772ed28fe63a9f1?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4812029a379747e7a772ed28fe63a9f1?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4812029a379747e7a772ed28fe63a9f1?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4812029a379747e7a772ed28fe63a9f1?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4812029a379747e7a772ed28fe63a9f1?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-19a0fed02c164b8dafc2ba5e7f3d98a0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>There’s a new NFT drop every hour these days. Degen Apes are handsome, obviously, and a little more 3D than the Punks or Apes you’re familiar with, but that’s not what made this drop special. What made this drop special was that it was one of the first big NFT drops on Solana.</p><p>Solana is a Layer 1 protocol, or blockchain, like Bitcoin, Ethereum, or a number of others. I’ve written about Solana in Not Boring before. In&nbsp;<a href=\"https://www.notboring.co/p/own-the-internet?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Own the Internet</a>,&nbsp;I wrote that Solana is one of the non-Ethereum blockchains I’m most bullish on.</p><p>Technically, what makes Solana interesting is that its radically different system architecture leads to dramatically higher speeds and lower costs than other blockchains. Whereas Bitcoin can handle about 7 transactions per second (TPS), and Ethereum can handle 30 TPS (until Eth 2.0 dramatically increases it),&nbsp;<strong>Solana can currently handle 65,000 TPS</strong>.</p><p>Whereas it costs ~$3 today to do a transaction on the Bitcoin blockchain, and ~$8-40 on Ethereum,&nbsp;<strong>it costs $0.0001 to do a transaction on Solana</strong>.</p><p>That’s absurd performance. Solana’s<a href=\"https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;goal</a>&nbsp;is “for a decentralized network of nodes to match the performance of a single node.” If that sounds overly technical, the proof is in the experience. I’ve spent a bunch of time playing around with Solana - purchasing SOL on FTX.US, downloading a&nbsp;<a href=\"https://phantom.app/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Phantom</a>&nbsp;wallet, staking and unstaking, buying RAY on Raydium, and staking&nbsp;that, and I have to say… it’s&nbsp;really&nbsp;fast and&nbsp;really&nbsp;cheap. You don’t need to think twice about doing anything because it moves so quickly and costs so little. That’s the point.&nbsp;<strong>It feels like using the internet.</strong></p><p>How it does it is Solana’s magic. We’ll get into the nitty gritty, but for now, what you need to know is that Solana uses a Proof of Stake consensus mechanism plus&nbsp;<strong>Proof of History,&nbsp;</strong>a decentralized source of time that Solana Labs CEO and founder&nbsp;<a href=\"https://twitter.com/aeyakovenko?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Anatoly Yakovenko</a>&nbsp;told me is “the implementation of the arrow of time in math.” Sounds mind-bending, and it is, but what it means is that&nbsp;<strong>transactions on Solana are verifiably ordered without all nodes needing to agree simultaneously.</strong>&nbsp;That’s what makes it so fast.</p><p>It also means that Solana can be&nbsp;<strong>single-shard</strong>. While Eth2 is expected to reach 100k TPS, it, and other new blockchains, will do so by&nbsp;<strong>sharding</strong>, creating sidechains that tie back into the main Ethereum blockchain. Solana does everything on one single chain, in a single state.</p><p>Solana might have the best tech of any blockchain on the market, but the best tech is wasted without a strong community of developers and users. The Solana community is strong and passionate. You can spot them by the Pit Viper shades in their pfps and ◎’s where o’s should be. But it needed something to take it crypto mainstream.</p><p>Which brings us back to those Degenerate Apes.</p><p>Last Saturday, I waited over two hours with a bunch of furious wannabe-Ape-owners as the Degenerate Apes team figured out how to handle all of the demand. One of the tools they used couldn’t handle the load. At 9:52pm, it finally went live.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2ae8333ce2a547e58949ee340424d809",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4173a974d71c45ebb924bd848acb1bad?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.267,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 354,
+                "width": 1328,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4173a974d71c45ebb924bd848acb1bad?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4173a974d71c45ebb924bd848acb1bad?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4173a974d71c45ebb924bd848acb1bad?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4173a974d71c45ebb924bd848acb1bad?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4173a974d71c45ebb924bd848acb1bad?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4173a974d71c45ebb924bd848acb1bad?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4173a974d71c45ebb924bd848acb1bad?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4173a974d71c45ebb924bd848acb1bad?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4173a974d71c45ebb924bd848acb1bad?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-928e73716dad4748b9d58ed98f048bba",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">When the mint finally launched, I was locked out, stuck looking at this screen no matter how many ways I tried to get around it.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-81f7cfc9e4d74619ac773947ee5b87e2",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F295b8d3fcae645f6868aa7269082f06f?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.986,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 418,
+                "width": 424,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F295b8d3fcae645f6868aa7269082f06f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F295b8d3fcae645f6868aa7269082f06f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F295b8d3fcae645f6868aa7269082f06f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F295b8d3fcae645f6868aa7269082f06f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F295b8d3fcae645f6868aa7269082f06f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F295b8d3fcae645f6868aa7269082f06f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F295b8d3fcae645f6868aa7269082f06f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F295b8d3fcae645f6868aa7269082f06f?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F295b8d3fcae645f6868aa7269082f06f?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1ed007f32e074f64acd3a4a8b323e5c5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>All 10,000 Apes sold out in eight minutes. I didn’t get one. As I sat there, mad at myself for wasting the night locked out of an auction for cartoons of Degenerate Apes eating pizza and stuff, I started to type out a section for this piece about why I thought it didn’t make sense for an NFT project to launch on Solana. Ethereum could own culture, Solana could own high-frequency trading.</p><p>But, as we all know by now, I’m an idiot.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8bff3e03c2d64a5db8697963ed088cf8",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee12aafd915b46119d2e2ac41140d8d4?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.593,
+                "lockAspectRatio": false,
+                "height": 593,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee12aafd915b46119d2e2ac41140d8d4?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee12aafd915b46119d2e2ac41140d8d4?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee12aafd915b46119d2e2ac41140d8d4?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee12aafd915b46119d2e2ac41140d8d4?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee12aafd915b46119d2e2ac41140d8d4?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee12aafd915b46119d2e2ac41140d8d4?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee12aafd915b46119d2e2ac41140d8d4?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee12aafd915b46119d2e2ac41140d8d4?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee12aafd915b46119d2e2ac41140d8d4?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-969b687a024041aeb53f211ec6091d96",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Pretty much immediately as the launch wrapped up, as I typed those words, the price of Solana’s native token, SOL, started to RIP. At 10pm EST, it was at $45.24.&nbsp;<strong>It hit $79 this weekend, and currently sits at $73.50, good for a market cap of $21.2 billion and a fully diluted market cap of $37.1 billion.</strong></p><p>There are direct reasons that the Apes drove up the price. People needed to buy SOL to buy Apes, and at ◎ 6 per Ape, the launch locked up 60,000 SOL. Once people bought SOL and experienced the speed and low transaction costs for themselves, they got more bullish.</p><p>But the larger reason is that crypto is driven by&nbsp;<a href=\"https://www.notboring.co/p/story-time?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">narratives</a>. It’s a global game of intersubjective chicken. To bootstrap a new blockchain or app, you need to convince people that other people will also use that blockchain or app. The best blockchain technology in the world is useless without people building on top of it. The fact that all these people saw all of these&nbsp;other&nbsp;people doing stuff on Solana was a point in the chain’s favor.</p><p>And it’s all about people. For all of the talk about technology and decentralization and trustlessness, the success of any crypto project relies, to a surprisingly high degree, on people.</p><ul><li>The right people in a project’s corner lend it crucial credibility.</li><li>The name of the game is to convince as many people as possible to build on your protocol.</li><li>Then, it’s about those developers attracting and properly incentivizing users.</li></ul><p>Fortunately for Solana, it’s stacked with the right people, like Anatoly, SBF, and a16z.</p><p>Crypto is a game of self-fulfilling belief. And the involvement of the right names helps create belief. If the technology can back it up, there might be something special afoot.</p><p>Now, to be clear, this isn’t a post about why Solana is the&nbsp;<strong>best</strong>&nbsp;blockchain, the ETH-killer, the one chain to rule them all. I love Ethereum, ETH my biggest crypto holding, and most of the time that I (and others) spend interacting with crypto via NFTs, DeFi, and DAOs, is spent on Ethereum. Ethereum is where the most smart people in crypto spend most of their time.</p><p>But I’m also a Maximalist Minimalist. When I wrote&nbsp;Own the Internet&nbsp;to lay out the bull case for Ethereum, I said the same:</p><p>There are a lot of Something Maxis, people who believe their thing is the one and only solution, but I subscribe to the idea that each successful L1 or L2 will focus on what it does best and interoperate with others who do something else best. I’m a Maximalist Minimalist.</p><p>Tribalism is strong in crypto, and it makes sense. If any magical internet money turned me into a multi-millionaire or billionaire in a decade, I’d defend that thing to the death, and recruit others to the cause so that my magical internet money is worth even more.</p><p>Tribalism is fun, it’s like sports, but that’s not what makes all of this so fascinating to study. The good stuff comes from figuring out how it all fits together -- how certain chains complement each other while others compete, why people build on one chain versus another, where people decide to spend their precious time and internet money. Today, people are spending more of their time and internet money in the Solana ecosystem.</p><p>It’s platform wars, with interoperable platforms, playing out in real-time, and it’s still so early. There will be multiple massive winners, and I think that Solana will be one of the biggest.</p><p>When I originally planned this piece, it was to make you aware of a lesser-known blockchain that was on the cusp of breaking out. But in crypto, you blink, and everything’s changed. Solana is now a real contender, and it deserves its own very deep dive to explain why and what’s next. So today, we’ll cover:</p><ul><li><strong>The Core Questions</strong></li><li><strong>Solana’s Story</strong></li><li><strong>How Solana Works</strong></li><li><strong>Solana’s Orbit</strong></li><li><strong>The Ecosystem</strong></li><li><strong>Case Studies: Star Atlas, Saber, Audius</strong></li><li><strong>How Value Accrues to Solana</strong></li><li><strong>Bull Case for Solana</strong></li><li><strong>Bear Case for Solana</strong></li><li><strong>Solana Summer</strong></li></ul><p>Ultimately, Solana’s success or failure comes down to two questions…</p><h2><strong>The Core Questions</strong></h2><p>Blockchains and crypto are relatively new. They can seem foreign and a little scary. Part of what I’ve been trying to do in Not Boring this year is to show that ultimately, crypto projects are subject to the same dynamics that any business is.</p><p>So as we explore all of this complex technology and learn new things, let’s simplify it by keeping two questions in mind:</p><ol><li><strong>Can Solana convince developers to build on Solana?</strong></li><li><strong>Can those developers attract users to their product?</strong></li></ol><p>I wrote those two questions&nbsp;before&nbsp;Solana dropped this rebrand on Friday evening:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9b7f653c4c5944148599ae34624c5646",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F025d3c131cc44ef7863630835f40d713?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.527,
+                "lockAspectRatio": false,
+                "height": 527,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F025d3c131cc44ef7863630835f40d713?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F025d3c131cc44ef7863630835f40d713?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F025d3c131cc44ef7863630835f40d713?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F025d3c131cc44ef7863630835f40d713?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F025d3c131cc44ef7863630835f40d713?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F025d3c131cc44ef7863630835f40d713?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F025d3c131cc44ef7863630835f40d713?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F025d3c131cc44ef7863630835f40d713?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F025d3c131cc44ef7863630835f40d713?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-946497b7b3cd43b692dea7c38f35fdaa",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Powerful for developers. Fast for everyone. Attract developers who attract users. That’s it.</p><p>Short-term, there’s speculation and noise and blockchain tribalism. There are arguments over the trade-offs between decentralization, scalability, and speed. But in the long-term, it all comes down to attracting developers who attract customers. Anatoly has repeatedly said that with the tech up and running, the next phase is “<strong>onboarding the next billion users</strong>.”</p><p>While Coinbase has 56 million users, Anatoly uses people who “control their own keys,” by using something like a Metamask or Phantom wallet, as a proxy for real crypto adoption. Without controlling your keys, you can’t really participate in crypto. By that count, there are only a few million users.</p><p>It’s so early, for crypto and for Solana itself. Even the idea for Solana is only four years old.</p><h3><strong>Solana Story</strong></h3><p>“I was manic for a week.”</p><p>On a recent Special Episode of&nbsp;<a href=\"https://www.acquired.fm/episodes/solana-with-ceo-anatoly-yakovenko?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Acquired</a>&nbsp;(which you need to listen to if you want to go deeper here), Anatoly told&nbsp;<a href=\"https://twitter.com/gilbert?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ben</a>&nbsp;and&nbsp;<a href=\"https://twitter.com/djrosent?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">David</a>&nbsp;about the moment he realized that it might be possible to construct an&nbsp;<strong>arrow of time</strong>.</p><p>Anatoly is a hardcore engineer by background, having spent 13 years at Qualcomm where he was most recently a Senior Staff Engineer Manager.</p><p>At Qualcomm, Anatoly worked on wireless technology close to the metal, like working on Code-Division Multiple Access (CDMA) chipsets, which allow several transmitters to send information simultaneously over a single communications channel.</p><p>He left Qualcomm in 2016 to work at&nbsp;<a href=\"https://d2iq.com/products/dcos?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Mesosphere</a>, which built optimized IT infrastructure for enterprises, and joined Dropbox in 2017 to again work on making distributed systems faster and more efficient.</p><p>So when crypto started taking off in 2017, minting millionaires and creating network congestion, Anatoly was perfectly prepared. In October, he had the realization that made him manic: blockchains have the same issues as communications networks, and they might have the same solutions. As he explained on Acquired:</p><p>I had&nbsp;<strong>two coffees and a beer, and I was up until 4:00 AM</strong>. I had this&nbsp;<strong>eureka moment</strong>&nbsp;that puzzle similar to proof of work using the&nbsp;<strong>same SHA-256 preimage-resistant hash function</strong>, instead of running it in this massively parallel, use as much electricity as you can to find this answer as quickly as you can, you actually make that thing&nbsp;<strong>slow, recursive, and force it to be running in a single core on a single thread</strong>&nbsp;on the computer, you can force it to&nbsp;<strong>prove that it's taking a certain amount of time</strong>, that there's a force delay before you do an action.&nbsp;<strong>I knew that I had this arrow of time.</strong></p><p>That arrow of time was both theoretically fascinating and practically important. It represented a way to keep time between computers that don’t trust each other. Solana’s&nbsp;<a href=\"https://docs.solana.com/history?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">website explains</a>: “a reliable clock makes network synchronization very simple. When synchronization is simple the resulting network can be blazing fast, bound only by network bandwidth.”</p><p>Just five months into his time at Dropbox, Anatoly quit to build his blockchain. By November 2017, he’d written and published the&nbsp;<a href=\"https://solana.com/solana-whitepaper.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Whitepaper</a>, “Solana: A new architecture for a high-performance blockchain.” Then he set out to raise money.</p><p>It wasn’t obvious back then that this would work. One VC I spoke with showed me a calendar invite for a December 2017 coffee meeting with Anatoly to discuss the project. After the coffee, he passed. There was a lot of competition to be the next big blockchain. This VC told me, “You had Dfinity, Polkadot, Tezos, and Cosmos, all of which had lots of hype and lots of funding.”</p><p>Some crypto funds saw the vision and committed, but by the time wires were due, the crypto markets started to crumble. All of Solana’s would-be backers pulled out.</p><p>Luckily, as is clear from speaking with him and listening to a dozen hours of interviews, Anatoly isn’t motivated by money. He just wants to build cool shit at the outer limits of what’s technically feasible. While other blockchains launched before Solana promised the moon, Anatoly and team just built.</p><p>That started with the team.&nbsp;<a href=\"https://twitter.com/rajgokal?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Raj Gokal</a>, Solana Labs’ COO, joined in December 2017 from the health tech world. In early 2018, Anatoly brought on two former Qualcomm colleagues,&nbsp;<a href=\"https://twitter.com/garious14?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Greg Fitzgerald</a>&nbsp;and&nbsp;<a href=\"https://www.linkedin.com/in/stephenakridge/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Stephen Akridge</a>, to start turning the paper into a product. Anatoly had started in the C programming language, but Greg convinced him to move it over to Rust. In February, Greg began prototyping an open-source version, and by the end of the month, made his first release. Stephen pointed out that they could increase throughput by handling signature verification on GPUs. The co-founders incorporated as “Loom,” but quickly switched names to avoid confusion with an Ethereum-based project called Loom Network.</p><p>In March, they named the company Solana after Solana Beach, where Anatoly, Greg, and Stephen surfed together when they worked for Qualcomm in San Diego.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-11854bfa31e947bab917bcbdca2cc1d8",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe2e86c29009543dfa6dd9118890a1555?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.666,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 594,
+                "width": 892,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe2e86c29009543dfa6dd9118890a1555?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe2e86c29009543dfa6dd9118890a1555?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe2e86c29009543dfa6dd9118890a1555?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe2e86c29009543dfa6dd9118890a1555?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe2e86c29009543dfa6dd9118890a1555?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe2e86c29009543dfa6dd9118890a1555?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe2e86c29009543dfa6dd9118890a1555?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe2e86c29009543dfa6dd9118890a1555?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe2e86c29009543dfa6dd9118890a1555?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c4e3485306254a6a97d537cc64c5c095",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>A 2019&nbsp;New York Times&nbsp;<a href=\"https://www.nytimes.com/2019/11/05/realestate/solana-beach-calif-an-aspirational-suburb-but-can-you-afford-it.html?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">story on Solana Beach</a>&nbsp;called it an “aspirational suburb,” asking, “but can you afford it?” Similarly, and I acknowledge I’m stretching here, the Solana founders had huge blockchain aspirations, but no money in the bank. Could they afford it?</p><p>In April 2018, Solana found its first backers: Abstract Ventures’&nbsp;<a href=\"https://twitter.com/ramtinnaimi?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ramtin Naimi</a>,&nbsp;<a href=\"https://twitter.com/mccannatron?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Chris McCann</a>, and 500 Startups’&nbsp;<a href=\"https://twitter.com/edithyeung?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Edith Yeung</a>&nbsp;(Chris and Edith have now teamed up to form&nbsp;<a href=\"https://race.capital/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Race Capital</a>) went in on the company’s Seed Sale.</p><p>When I asked McCann why he invested, he said that he knew Anatoly from his time at Greylock, when Anatoly was an active member of the Greylock infrastructure engineering community, and that he is “ridiculously impressive”:</p><p>Back in 2018, people were complaining about CryptoKitties clogging up the network and Anatoly said, ‘I think I could design a fix for this. It’s pretty easy.’ A lot of people were building L1s that were forks of Ethereum. Anatoly invented entirely new tech to solve it.</p><p>The VC I spoke to who passed said, “Maybe my biggest miss in venture so far. The one I regret the most. Sure, there are worse ones, but this hurt.”</p><p>So what changed? Where did Solana succeed where other chains with head-starts failed?</p><p>First, the difference between Solana and all of those other chains was, of course,&nbsp;<strong>speed and throughput.</strong>&nbsp;Not just in the blockchain itself, but in the cadence at which the team built and shipped.&nbsp;<a href=\"https://twitter.com/njesshttps://twitter.com/njess?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Noah Jessop</a>&nbsp;put it succinctly: “I think they just nailed&nbsp;<strong>focus</strong>. Make the platform faster than anyone else can.” There’s very little high-minded BS with Solana. They set out to build the fastest-possible network, hired a bunch of grizzled engineers, and just built. They shipped better product, faster.</p><p>With that foundation in place and some money in the bank, according to Race’s McCann, Solana’s growth has come in a series of waves and turning points, all driven by people and backed up by the tech.</p><p>Before we get to the people, we need to understand how the tech works.</p><h2><strong>How Solana Works</strong></h2><p>The first slide in Solana’s seed round deck read: “<strong>Solana is blockchain at NASDAQ speed.</strong>”</p><p>Remember earlier when I quoted Anatoly saying that Solana’s goal is “for a decentralized network of nodes to match the performance of a single node”? This is what it means.</p><p>A centralized exchange like&nbsp;<strong>NASDAQ is a single node</strong>&nbsp;through which all of its participants’ data is routed. Someone trading on the NASDAQ pays to do so, and gets a machine set up at the NASDAQ that’s connected by ethernet cables exactly the same length as all other participants’, so that they can receive price information and submit orders at exactly the same speed as everyone else. As Anatoly said on Acquired, “Your information gets to the markets at the same speed as everyone else. That's censorship resistance.”</p><p>As long as everyone trusts that NASDAQ is giving accurate information as fast as possible, and is willing to pay to participate, that system works extremely well.</p><p>The challenge is achieving that same censorship-resistance with a&nbsp;<strong>decentralized network of nodes</strong>&nbsp;that all need to agree with each other on the state of the network without trusting one centralized entity. When I spoke to Anatoly in May, he explained that Solana is building a “censorship-resistant, single-sharded machine, distributed around the world, that guarantees that anyone can access orders and see information as fast as possible.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4f24c82a33da49a78799c133bdf7a8bf",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6b205c24d2641dd87a5d57a631a3ddf?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.506,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 506,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6b205c24d2641dd87a5d57a631a3ddf?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6b205c24d2641dd87a5d57a631a3ddf?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6b205c24d2641dd87a5d57a631a3ddf?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6b205c24d2641dd87a5d57a631a3ddf?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6b205c24d2641dd87a5d57a631a3ddf?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6b205c24d2641dd87a5d57a631a3ddf?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6b205c24d2641dd87a5d57a631a3ddf?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6b205c24d2641dd87a5d57a631a3ddf?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6b205c24d2641dd87a5d57a631a3ddf?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4245b23b71274b089954b928a5f7603c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The main benefit of decentralization in this case is that by removing the intermediary and allowing people to operate peer-to-peer, more value accrues to both sides of the transaction. There are fewer entities in between taking a cut. The main drawback with blockchains thus far is that they’ve been too slow, low-throughput, and expensive.</p><p>The benefit of the single node is that it only has to agree with itself. Blockchains need to achieve consensus among a bunch of participants in an open and immutable way. They use consensus mechanisms like Proof of Work (PoW) and Proof of Stake (PoS) to do that.</p><p>Consensus mechanisms come with trade-offs, captured in the&nbsp;<a href=\"https://vitalik.ca/general/2021/04/07/sharding.html?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Scalability Trilemma or Blockchain Trilemma</a>:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4f89b784d3984fcd95dac64d2b004a08",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e2f53ffb2b54688850a0b8f51fc43ab?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.824,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 678,
+                "width": 823,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e2f53ffb2b54688850a0b8f51fc43ab?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e2f53ffb2b54688850a0b8f51fc43ab?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e2f53ffb2b54688850a0b8f51fc43ab?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e2f53ffb2b54688850a0b8f51fc43ab?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e2f53ffb2b54688850a0b8f51fc43ab?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e2f53ffb2b54688850a0b8f51fc43ab?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e2f53ffb2b54688850a0b8f51fc43ab?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e2f53ffb2b54688850a0b8f51fc43ab?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e2f53ffb2b54688850a0b8f51fc43ab?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1432acd1f3c140d49d0087af69ce6d7f",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Ethereum co-founder Vitalik Buterin wrote, “The scalability trilemma says that there are three properties that a blockchain try to have (scalability, security, and decentralization), and that,&nbsp;<strong>if you stick to ‘simple’ techniques, you can only get two of those three</strong>.”</p><p>OG blockchains Bitcoin and Ethereum (until Eth2) both use&nbsp;<strong>Proof of Work (PoW)</strong>consensus mechanisms to validate transactions. In Proof of Work, “miners” anywhere in the world use increasing amounts of thermodynamic energy to solve increasingly difficult math problems to validate new blocks of transactions. Miners are rewarded with tokens for their work, some of which they keep, and some of which they sell to pay for equipment and energy.&nbsp;<strong>Proof of Work is decentralized and secure, but not scalable.</strong></p><p>Bitcoin and Ethereum can handle far fewer than 100 TPS with transaction fees in $2-50 per transaction range. That works for sending Bitcoin to another address or buying and selling NFTs, which, even with all of the recent activity, doesn’t happen dozens of times per second. Plus, $50 in fees doesn’t matter for a $1 million purchase of a rock jpeg. NASDAQ, though, handles 500,000 transactions per second, and it’s one of many exchanges. To decentralize the world’s financial markets, you need a solution with higher throughput and lower costs.</p><p>Most new blockchains use a&nbsp;<strong>Proof of Stake (PoS)</strong>&nbsp;consensus mechanism. Ethereum is also moving to POS with Eth2. In Proof of Stake, instead of miners validating blocks by spending energy, “validators” run a program on a specialized computer to secure the network by processing incoming transactions and voting on and adding new blocks to the blockchain. Every validator in the network can cast votes for which blocks they believe should be added to the blockchain, which confirms all of the transactions in the block. Each validator’s votes are weighted by the number of tokens they’ve staked, or essentially put up as collateral to ensure that they’re not acting dishonestly. If they validate correctly, they earn rewards in the form of more tokens; if they behave dishonestly, and try to push through inaccurate blocks, they lose their stake. There’s&nbsp;<strong>game theory</strong>&nbsp;at play here:&nbsp;<strong>the amount of tokens each validator has at stake is greater than what they should be able to steal by misbehaving.</strong></p><p>Solana uses PoS, specifically “Bonded Proof-of-Stake” (BPoS),&nbsp;meaning that anyone who holds SOL can delegate their votes to any validator that they choose and share in the rewards (or penalties) for validating transactions. According to Vitalik,&nbsp;<strong>most high-throughput DPoS blockchains (similar to but slightly different than BPoS) are secure and scalable, but not decentralized</strong>.</p><p>The reason for that is that in a traditional PoS system, each of the validators need to coordinate with each other to understand when transactions are validated, and which block to use next. If anyone can submit blocks at any time, validators need to wait to see which block went through before appending the next block in the chain. With thousands of nodes, it would take an impractically long amount of time to get consensus, so they end up resorting to using a smaller number of validators. For example, the Binance Smart Chain, with throughput of ~160 TPS, uses a Proof-of-Stake Authority algorithm which requires only the 21 validators with the most staked to reach a consensus to add a new block to the chain. Binance controls 10 of the validators itself. It’s more scalable, but less decentralized.</p><p>Eth2 plans to solve the trilemma by introducing&nbsp;<strong>sharding</strong>. As I wrote in&nbsp;Own the Internet:</p><p>On the scalability side, sharding aims to increase throughput, or transactions per second, by 100x by creating 64 shard chains which validate transactions in parallel. Each shard will only need to validate a fraction of the total chain, instead of every miner needing to validate the entire chain today.</p><p>That will allow Ethereum to parallelize transactions by running 64 shards simultaneously, and settling those shards’ on the main chain in batches.</p><p>Solana takes a different approach, one which allows it to keep all activity on a&nbsp;<strong>single shard</strong>.</p><p>Anatoly’s key innovation was&nbsp;<strong>Proof of History</strong>. On most blockchains, miners or validators need to communicate with each other to figure out how to order blocks. On Solana, all of the blocks act like radio towers, verifiable with a clock. According to a 2019&nbsp;<a href=\"https://medium.com/solana-labs/how-solanas-proof-of-history-is-a-huge-advancement-for-block-time-178899c89723?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">blog post</a>&nbsp;by Anatoly:</p><p>Utilizing Proof of History creates a historical record that p<strong>roves that an event has occurred at a specific moment in time</strong>. Whereas other blockchains require validators to talk to one another in order to agree that time has passed, each Solana validator maintains its own clock by encoding the passage of time in a simple SHA-256, sequential-hashing verifiable delay function (VDF).</p><p>This video is a helpful explainer:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "tagName": "a",
+            "id": "builder-41094a2c3c4f488885901a6da8903b3c",
+            "properties": {
+              "href": "https://www.youtube.com/watch?time_continue=2&v=rywOYfGu4EA&embeds_referring_euri=https%3A%2F%2Fsolana.com%2F&source_ve_path=MjM4NTE&feature=emb_title",
+              "target": "_blank"
+            },
+            "linkUrl": "https://www.youtube.com/watch?time_continue=2&v=rywOYfGu4EA&embeds_referring_euri=https%3A%2F%2Fsolana.com%2F&source_ve_path=MjM4NTE&feature=emb_title",
+            "component": {
+              "name": "VideosSection",
+              "options": {}
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "cursor": "pointer",
+                "pointerEvents": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3417735cd5994982b10ca8ea934bb0ff",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Instead of waiting for other validators, then, Solana validators can use the information encoded in the ledger itself to determine whether a transaction is valid or invalid. Because PoH enables predictability -- there won’t be delays waiting for other validators -- validators can take turns in a pre-scheduled “<a href=\"https://docs.solana.com/cluster/leader-rotation?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">leader rotation</a>.” Only the leader can produce a ledger entry at a given time, based on an algorithmically-generated random order, weighted by each validator’s stake. For example, if I have 10% of all stake, I know I’ll be the leader 10% of the time, but I won’t know&nbsp;which&nbsp;10% of the time.</p><p>You can watch the leader rotation live on&nbsp;<a href=\"https://solanabeach.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Beach</a>. It’s mesmerizing.</p><p>Proof of History is one of the “<a href=\"https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">8 innovations that make Solana the first web-scale blockchain</a>,” all eight of which are:</p><ul><li><a href=\"https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274?source=post_page---------------------------\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Proof of History (POH)</strong></a>— a clock before consensus;</li><li><a href=\"https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79?source=post_page---------------------------\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Tower BFT&nbsp;</strong></a>— a PoH-optimized version of PBFT;</li><li><a href=\"https://medium.com/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db?source=post_page---------------------------\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Turbine</strong></a>&nbsp;— a block propagation protocol;</li><li><a href=\"https://medium.com/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad?source=post_page---------------------------\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Gulf Stream</strong></a>— Mempool-less transaction forwarding protocol;</li><li><a href=\"https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sealevel&nbsp;</strong></a>— Parallel smart contracts run-time;</li><li><strong>Pipelining</strong>&nbsp;— a Transaction Processing Unit for validation optimization</li><li><a href=\"https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1?source=post_page---------------------------\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Cloudbreak</strong></a>— Horizontally-Scaled Accounts Database; and</li><li><a href=\"https://medium.com/solana-labs/announcing-the-solar-bridge-c90718a49fa2?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Archivers</strong></a>&nbsp;— Distributed ledger storage</li></ul><p>If you want to go very deep, you can click those links and go all the way down the technical rabbit hole. For our purposes, what’s important to know is that those eight innovations combine to solve the scalability trilemma, making Solana scalable, secure, and reasonably decentralized.</p><p>It’s important to flesh out the decentralization point a bit more, because one of the main knocks against Solana and other PoS blockchains is that they’re less decentralized than PoW blockchains.</p><p>The generally-accepted way to measure decentralization is what Balaji Srinivasan coined the “<a href=\"https://news.earn.com/quantifying-decentralization-e39db233c28e?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Nakamoto Coefficient</strong></a>.” Since you need to control 51% of a PoW blockchain to take it over, “<strong>we define the Nakamoto coefficient as the minimum number of entities in a given subsystem required to get to 51% of the total capacity.</strong>” This,&nbsp;<a href=\"https://nz.finance.yahoo.com/news/blockchain-developers-focused-wrong-problem-140000596.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAABoiHpZaaqFZEfq8lTzHw8cJ6-F7MBYKiDu0PeD5LEGA1DykWI-G2cTY543cm4cFduRUnpSVwl0hZUQJYAmkSfrsOGG2utYDJM44OnF159t-Dyr__a-aBoN-Z8mERwFHTTI8ZXRUrHkrqe92lwwn_Z7gvYMTD_3ukVhqAamjre6N&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">according to Anatoly and Raj</a>, is really a measure of censorship resistance. Balaji was writing about PoW blockchains; for PoS blockchains, you&nbsp;<a href=\"https://docs.google.com/document/d/1dF0ZSBvukegjLI99XQ0a-Cz0EnHorPUEXFDYu40Or7w/edit?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">only need</a>&nbsp;33% to halt the network (and 67% to produce arbitrary transactions of any kind).</p><p>While Bitcoin and Ethereum are theoretically more decentralized, because anyone can run a miner on cheap hardware, and Solana requires more advanced hardware to maximize the network’s capabilities,&nbsp;<strong>Solana has a higher Nakamoto coefficient than Ethereum or Bitcoin</strong>, and it’s increasing. The reason is that while there are a larger number of Bitcoin and Ethereum miners than Solana validators, those miners operate in “pools” that behave as one, and often run software managed by the pool. As blocks get harder to mine, miners are more likely to pool resources. Bitcoin’s current Nakamoto Coefficient is&nbsp;<a href=\"https://coinmetrics.io/measuring-bitcoins-decentralization/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">somewhere around 4</a>.&nbsp;<a href=\"https://etherchain.org/miner?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ethereum’s is 3 or 4</a>.&nbsp;<strong>Solana’s is 19</strong>, up from 8 in December, which you can track live on&nbsp;<a href=\"https://solanabeach.io/validators?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Beach</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1676e55b19924f8d8f93aa1f796d3b4c",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7aa10e49ac734cc58ed88c9581dbe90b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.27,
+                "lockAspectRatio": false,
+                "height": 270,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7aa10e49ac734cc58ed88c9581dbe90b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7aa10e49ac734cc58ed88c9581dbe90b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7aa10e49ac734cc58ed88c9581dbe90b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7aa10e49ac734cc58ed88c9581dbe90b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7aa10e49ac734cc58ed88c9581dbe90b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7aa10e49ac734cc58ed88c9581dbe90b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7aa10e49ac734cc58ed88c9581dbe90b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7aa10e49ac734cc58ed88c9581dbe90b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7aa10e49ac734cc58ed88c9581dbe90b?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c56e27e49d1f42e59f4f472003c87ba5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>While the team’s goal is to continue to increase the Nakamoto Coefficient, and thereby censorship resistance, Solana seems to be decentralized&nbsp;enough, particularly given that most users care far less about decentralization than crypto insiders do.</p><p>The next billion users will want a good user experience, faster speeds, lower costs, and more value in their pockets, and on those counts, Solana shines.</p><p>What all of this tech adds up to is a decentralized system that can handle over&nbsp;<strong>60k transactions per second</strong>&nbsp;(with a theoretical limit of above 700k as technology and bandwidth improve) at a&nbsp;<strong>fraction of a penny per transaction</strong>.</p><p>With the infrastructure in place, Solana needs to attract people to use it. And people follow people.</p><h3><strong>Solana’s Orbit:&nbsp;People Power</strong></h3><p>Technology that enables high throughput and low costs is a crucial first step, but crypto is about adoption. When I asked Bill Swo, a crypto veteran and investor at Launch Code Capital, for his thoughts on Solana, he told me, “Solana is a primary candidate to become the dominant chain because of what it’s building and the&nbsp;<strong>names behind it</strong>.” We’ve covered what it’s building; the names behind it are just as important of an ingredient. Solana needed powerful believers to reach escape velocity.</p><p>In Solana’s early days, as Anatoly, the core team, and an army of validators and volunteers were building, testing, and optimizing the tech, Anatoly was also pounding the pavement to find partners to build on Solana. He had a huge vision from the start: to rebuild the New York Stock Exchange or Nasdaq completely on-chain. “Not just transactions or order book matching,” McCann explained, “but the whole thing. Data, execution, literally everything.”</p><p>McCann put him in touch with exchanges. They didn’t buy it. Decentralized Exchanges (DEXes, think Uniswap), were low-throughput and difficult to use. They worked if you wanted to trade crypto assets against each other, because there was no alternative, but couldn’t even come close to handling traditional finance’s needs. Nasdaq processes something like 500k transactions per second, including bids and asks that are placed but not executed, most of which come from machines, not humans. DEXes couldn’t sniff that throughput at the time.</p><p>In July 2020, though, Solana hit its first major turning point:&nbsp;<strong>crypto trading platform FTX&nbsp;</strong><a href=\"https://medium.com/solana-labs/ftx-chooses-solana-for-serum-a-high-speed-non-custodial-decentralized-derivatives-exchange-c346a27c1f2b?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>announced</strong></a><strong>&nbsp;that it was going to build its DEX,&nbsp;</strong><a href=\"https://projectserum.com/?ref=solana.ghost.io#/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Serum</strong></a><strong>, on top of Solana.</strong></p><p>The specific DEX was less important than who was behind it. There are many DEXes, but there’s only one&nbsp;<a href=\"https://twitter.com/SBF_FTX?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sam Bankman-Fried</strong></a>. SBF is somewhat of a deity in crypto.&nbsp;<a href=\"https://twitter.com/mariogabriele?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Mario Gabriele</a>’s recent FTX Trilogy in The Generalist (Parts&nbsp;<a href=\"https://www.readthegeneralist.com/briefing/ftx-1?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">1</a>,&nbsp;<a href=\"https://www.readthegeneralist.com/briefing/ftx-2?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">2</a>, and&nbsp;<a href=\"https://www.readthegeneralist.com/briefing/ftx-3?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">3</a>) is worth the price of an annual subscription on its own, and covers SBF’s magnificent ascent. In Serum’s decision, Solana picked up not just a new project, but essentially landed Crypto LeBron as a spokesperson in the process.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-329462e13d7a48b78842e230fc0e0de7",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd1b5b924dcd4074a82464a5262e5dfe?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.777,
+                "lockAspectRatio": false,
+                "height": 777,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd1b5b924dcd4074a82464a5262e5dfe?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd1b5b924dcd4074a82464a5262e5dfe?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd1b5b924dcd4074a82464a5262e5dfe?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd1b5b924dcd4074a82464a5262e5dfe?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd1b5b924dcd4074a82464a5262e5dfe?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd1b5b924dcd4074a82464a5262e5dfe?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd1b5b924dcd4074a82464a5262e5dfe?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd1b5b924dcd4074a82464a5262e5dfe?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd1b5b924dcd4074a82464a5262e5dfe?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9836cdabd64c44b1b05e608551e6f8e4",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>SBF is a trader by background, having spent the early part of his career at quant giant Jane Street. The teams that he built at both Alameda Research, his quant trading firm, and&nbsp;<a href=\"https://ftx.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">FTX</a>, his centralized crypto exchange, were full of finance people -- quants, engineers, high-frequency traders. They cared less about the centralization/decentralization debate, and more about “can you do confirmations at scale?”</p><p>On Acquired, Anatoly described the first encounter, back in 2019, before Solana was live on Mainnet:</p><p>We briefly talked to FTX nine months before we launched and we were like, hey, you guys are cool. You're building cool products, you have an up-and-coming exchange. What if we did options or something interesting on Solana? They're like, ‘Is it live? We don't have enough time for this, we’ve got to ship stuff tomorrow.’</p><p>Once Solana was live, though, Anatoly went back to SBF. He brought a demo:&nbsp;<a href=\"https://break.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Break</a>, “Where you smash your keys and you see transactions fire off, then you see them all clear on the screen. You see them all confirmed and these are smart contract transactions, you can go look at the code.”</p><p>I sent 0.2 SOL to a Break account (you need SOL because these are real transactions) and tried it for myself. It’s wild.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4b4e8190c53d428db80fde1d0b6f506f",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/o/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb74b2a0bf1b64ea0bc791625d1e95c64%2Fcompressed?apiKey=ce0c7323a97a4d91bd0baa7490ec9139&token=b74b2a0bf1b64ea0bc791625d1e95c64&alt=media&optimized=true",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "height": 208,
+                "width": 400
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a81a3ae891654b89981b81230d9f1908",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">The black squares represent transactions I put through by smashing my space bar. When they turn green, they’re confirmed. In 15 seconds, I sent 80 real transactions through Solana.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a838173f85c04f23a7e984825e62f100",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1dd8c03145d43b198f6545fefd1150c?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.538,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 538,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1dd8c03145d43b198f6545fefd1150c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1dd8c03145d43b198f6545fefd1150c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1dd8c03145d43b198f6545fefd1150c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1dd8c03145d43b198f6545fefd1150c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1dd8c03145d43b198f6545fefd1150c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1dd8c03145d43b198f6545fefd1150c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1dd8c03145d43b198f6545fefd1150c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1dd8c03145d43b198f6545fefd1150c?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd1dd8c03145d43b198f6545fefd1150c?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-171cb4d7f06246e8b0a56cb05cde7430",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>By the time I got to the results page, all 80 transactions had been processed in an average of 4.02 seconds. The page points out that I only used 0.011% of Solana’s capacity, whereas the same load would have eaten up a third of Ethereum’s capacity and 15% more than all of Bitcoin’s capacity.</p><p>SBF was impressed. He showed it to his engineering team, and they were, too. Like few others in the world, the FTX team appreciated that, as Anatoly put it, “<strong>If you can actually have a system that was fast enough to do full-style central limit order books, there's a chance that decentralized finance could potentially get 50% of the world's finance, maybe 25%.</strong>” They realized that Solana had the potential to pull that off, and decided to build Serum on it.</p><p>SBF’s decision was akin to a coronation, announcing to the world: “Solana is the most performant blockchain.” The day before the announcement, July 26, 2020, SOL was trading at 1.77. By August 30th, it hit a peak of $4.78, a 170% increase in a month.</p><p>More importantly, SBF’s blessing and involvement helped attract other developers. In November 2020, Solana hosted its first hackathon, with over 1,000 developer registrations and 60 projects built.</p><p>When I spoke to&nbsp;<a href=\"https://twitter.com/DylanMacalinao?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Dylan</a>&nbsp;and&nbsp;<a href=\"https://twitter.com/simplyianm?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ian</a>&nbsp;Macalinao, co-founders of&nbsp;<a href=\"https://saber.so/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Saber</a>, the fastest-growing DeFi project on Solana, about why they chose Solana, they said that first looked at Solana around the time of the first hackathon because their other co-founder, “was&nbsp;<strong>following SBF for a while</strong>&nbsp;and was using FTX at the time. From there, we saw that Solana was a good chain for trading systems because the type of people using it at the time were traders.”</p><p>No other blockchain worked for what they were trying to build, but at the time, Solana’ was, “Going through growing pains. The documentation was poor and some boiler plate code still needed to be written,” so they decided to hold off on building out Saber.</p><p>Again, the SBF Universe came through. Early this year,&nbsp;<a href=\"https://twitter.com/armaniferrante?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Armani Ferrante</a>, a developer at Alameda Research, released&nbsp;<a href=\"https://github.com/project-serum/anchor?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Anchor</a>, an open-source “framework for Solana's&nbsp;<a href=\"https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sealevel</a>&nbsp;runtime providing several convenient developer tools.” According to Dylan and Ian, Anchor “reduced the code you need to write on Solana by 90%.” Solana uses the Rust programming language, but Anchor makes building apps for Solana more like programming in Solidity, the most popular language used on Ethereum.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-354a708bafd9419bae5edc3ebec295ad",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe93c42f5b3b74d8d97bc73ac22310e05?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.514,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 732,
+                "width": 1424,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe93c42f5b3b74d8d97bc73ac22310e05?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe93c42f5b3b74d8d97bc73ac22310e05?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe93c42f5b3b74d8d97bc73ac22310e05?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe93c42f5b3b74d8d97bc73ac22310e05?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe93c42f5b3b74d8d97bc73ac22310e05?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe93c42f5b3b74d8d97bc73ac22310e05?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe93c42f5b3b74d8d97bc73ac22310e05?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe93c42f5b3b74d8d97bc73ac22310e05?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe93c42f5b3b74d8d97bc73ac22310e05?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-24ded97b29e147588f4aa2a0f5be67c9",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana received over 13,000 registrations and 350 product submissions, increases of 425% and 350%, respectively, in just three months. Speakers and judges for the event included a who’s-who from across the crypto ecosystem, signifying increasing industry acceptance of Solana as a real contender.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9081405e883945fe844e4c6c3d843e15",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4e4709b2ef97421fbd99a1d20bb06e1b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.323,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 323,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4e4709b2ef97421fbd99a1d20bb06e1b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4e4709b2ef97421fbd99a1d20bb06e1b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4e4709b2ef97421fbd99a1d20bb06e1b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4e4709b2ef97421fbd99a1d20bb06e1b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4e4709b2ef97421fbd99a1d20bb06e1b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4e4709b2ef97421fbd99a1d20bb06e1b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4e4709b2ef97421fbd99a1d20bb06e1b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4e4709b2ef97421fbd99a1d20bb06e1b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4e4709b2ef97421fbd99a1d20bb06e1b?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8919736376b14eda9e4cb06f38f92e18",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>If SBF helped Solana build early momentum, a16z helped solidify its legitimacy. In June, two days after Solana Season ended, the company&nbsp;<a href=\"https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a>&nbsp;that a16z and Polychain capital were leading a $314.159M token sale. Launch Code Capital’s Swo told me that even among a VC-skeptical crypto community, “a16z has credibility for being early and helping to build the system,” and said that their involvement makes him more confident in Solana’s staying power.</p><p>It seems counterintuitive to raise money from a VC when you already have a publicly traded token and a market cap over $10 billion, but raising money from a16z, Polychain, Alameda, and other well-respected names in the space was essentially marketing, in the same way that traditional startups raise from top VCs partially to help attract talent, partners, and customers.</p><p>“It’s as much about the people as it is the technology,” Swo said, “Tokens are just a way to scale network effects.” Once the network effects start spinning, a blockchain takes on a life of its own, with big names and superior tech attracting investors and developers who attract users and more developers, and so on.</p><p>SBF and a16z provided crucial votes of confidence and served as catalysts that have helped Solana break out from a crowded pack, but the blockchain’s long-term success will come back to those two questions:</p><ol><li>Can they attract developers?</li><li>Can those developers attract users?</li></ol><p>It’s looking good. The momentum is building.</p><h3><strong>The Solana Ecosystem</strong></h3><p>The first conversation I ever had about Solana was back in April with&nbsp;<a href=\"https://twitter.com/bennybitcoins?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ben Sparango</a>, my childhood neighbor who’s now Solana Labs’ Strategy Lead. When I asked him what strategy meant at Solana, he said his whole job was about building up an ecosystem of developers building on top of Solana and making sure they had the tools and resources they needed to succeed.</p><p>I’m proud. Ben is doing a good job. The Saber co-founders told me that one of the things that makes Solana unique is that they’re the best at helping new companies grow, offering services like:</p><ul><li><strong>Smart Contract Audits</strong>. Solana Labs trains and assists third-party auditors to audit projects and make sure that they’re safe. Projects on most other blockchains need to pay third-party audits themselves.</li><li><a href=\"https://spl.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana Program Library</strong></a>. Solana maintains something like an open source library that companies can run with by building front-ends and businesses around them. They include stake pools, governance protocols, token programs, a name service (like Ethereum’s ENS), and a token swap program (which Saber built on top of).</li><li><strong>Solana Capital.</strong>&nbsp;Solana invests in projects built on the protocol, and the Solana Labs team makes introductions to other investors and people who might be helpful.</li></ul><p>Anatoly, Raj, and the Solana Labs team are more directly involved in pushing the ecosystem forward than teams behind other blockchains (we don’t even know who Satoshi is), which feels a little less decentralized. But it’s hard to argue with the results.</p><p>This is what the Solana Ecosystem looked like in March, according to&nbsp;<a href=\"https://twitter.com/solanians_?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solanians</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-39d18479551d40e597496916691e8baf",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff731d367336643369ba4c5ae86f97646?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 563,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff731d367336643369ba4c5ae86f97646?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff731d367336643369ba4c5ae86f97646?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff731d367336643369ba4c5ae86f97646?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff731d367336643369ba4c5ae86f97646?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff731d367336643369ba4c5ae86f97646?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff731d367336643369ba4c5ae86f97646?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff731d367336643369ba4c5ae86f97646?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff731d367336643369ba4c5ae86f97646?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff731d367336643369ba4c5ae86f97646?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5e82a9ac1d6e41fc81f0e8c54fc0906d",
+            "meta": {
+              "previousId": "builder-f217b8d9b3cb4c08a22a5466c639f2ac"
+            },
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>At the time, there were 78 projects listed with three “coming soon.”</p><p>This is what the Solana Ecosystem looked like just four months later, in July:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a8c18060dfed4fc38adef5d7d1a43367",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F916fd28928d7497f95d9496207570149?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 563,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F916fd28928d7497f95d9496207570149?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F916fd28928d7497f95d9496207570149?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F916fd28928d7497f95d9496207570149?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F916fd28928d7497f95d9496207570149?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F916fd28928d7497f95d9496207570149?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F916fd28928d7497f95d9496207570149?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F916fd28928d7497f95d9496207570149?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F916fd28928d7497f95d9496207570149?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F916fd28928d7497f95d9496207570149?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-23dfa33e05474061b2997f29dd93c105",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solanians highlights 181 projects, up 130% from March. The&nbsp;<a href=\"https://solana.com/ecosystem?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana website</a>&nbsp;lists even more -- 302 projects spanning 19 categories.</p><p>This continues to evolve. The chart doesn’t even include Degenerate Ape Academy, which launched in August. As I was writing this section, someone forwarded me a pitch for a company building on Solana. McCann told me that he’s flooded with emails from developers across categories interested in building on Solana.&nbsp;It feels as if it’s compounding, or as McCann put it, “We’ve finally reached a little escape velocity.”</p><p>The most surprising change to me since I started tracking Solana has been the breadth of use cases. While Solana’s best known for decentralized finance (DeFi), there’s been a huge surge in other categories, most notably Applications and Gaming/NFTs. I think I’ve been undershooting its potential.</p><p>To understand what’s being built, let’s dive into three of the more promising projects.</p><p><strong>Case Study:&nbsp;</strong><a href=\"https://saber.so/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Saber</strong></a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4f35d03ff90d46e9a51f3bfc6a8d17d9",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F09aa84895db847cd8c09e0a13b31caf9?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.532,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 532,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F09aa84895db847cd8c09e0a13b31caf9?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F09aa84895db847cd8c09e0a13b31caf9?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F09aa84895db847cd8c09e0a13b31caf9?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F09aa84895db847cd8c09e0a13b31caf9?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F09aa84895db847cd8c09e0a13b31caf9?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F09aa84895db847cd8c09e0a13b31caf9?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F09aa84895db847cd8c09e0a13b31caf9?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F09aa84895db847cd8c09e0a13b31caf9?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F09aa84895db847cd8c09e0a13b31caf9?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-be6cf0a09fd04affb2c8a59f47c2a98c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>fter seeing the rapid maturity of the Solana ecosystem, the Macalinaos decided to build Saber on Solana in April. Saber is a cross-chain exchange, meaning that it facilitates the transfer of assets between Solana and other blockchains. By pairing assets with similar values, like stablecoins or wrapped BTC from different blockchains, Saber:</p><ul><li>Minimizes slippage for traders (how much price movement you’ll accept in your trade)</li><li>Eliminates impermanent loss for liquidity providers (which comes from the value of the asset that you lock up changing while it’s locked up)</li></ul><p>Since Saber built on Solana’s existing&nbsp;<a href=\"https://spl.solana.com/token-swap?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Token Swap Program</a>, they launched on mainnet in under three months, on June 1st:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-076fb8f0ae404b27bd1638fd4b1d6d19",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">Already, Saber has $621M in Total Value Locked (TVL), the most commonly used measure of activity in DeFi. That ranks third among all Solana projects, including Solana itself.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0977a96ea32044c8a30e59ea67398703",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0c2c77ff7b5403f97e6eb182381f310?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.448,
+                "lockAspectRatio": false,
+                "height": 371,
+                "width": 828,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0c2c77ff7b5403f97e6eb182381f310?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0c2c77ff7b5403f97e6eb182381f310?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0c2c77ff7b5403f97e6eb182381f310?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0c2c77ff7b5403f97e6eb182381f310?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0c2c77ff7b5403f97e6eb182381f310?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0c2c77ff7b5403f97e6eb182381f310?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0c2c77ff7b5403f97e6eb182381f310?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0c2c77ff7b5403f97e6eb182381f310?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff0c2c77ff7b5403f97e6eb182381f310?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-015405d5f9a84db99ba452458510a1ae",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Saber is already #40 by TVL among all DeFi protocols on all blockchains, according to&nbsp;<a href=\"https://defillama.com/protocols?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DeFiLlama</a>. The vast majority of the leading DeFi projects are on Ethereum, which has $115B in total TVL compared to Solana’s $2.46B (not including Solana stakes).</p><p>Expect to see Saber climb up the leaderboard. As Solana has gotten hot over the past couple of weeks, Saber has been on a tear, growing 3x from $200M TVL to $600M in just a week:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3aa0d7dafb1d42b0b60ba24b6ab5ff62",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In fact, Solana’s growth is so positive for Saber that the team is actively helping new projects launch on Solana. “In theory,” Dylan and Ian said, “You could buy any asset that exists in the world, trade it on Solana, and collateralize it with the Saber LP token.” The more activity on Solana grows, the more valuable Saber becomes. Aligned incentives are a beautiful thing.</p><p><strong>Case Study:&nbsp;</strong><a href=\"https://staratlas.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Star Atlas</strong></a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fc38f25139ad4283b4ede8f06160c498",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa51128b5e5e5479a8bf6f1445e4adb3b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.544,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 544,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa51128b5e5e5479a8bf6f1445e4adb3b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa51128b5e5e5479a8bf6f1445e4adb3b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa51128b5e5e5479a8bf6f1445e4adb3b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa51128b5e5e5479a8bf6f1445e4adb3b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa51128b5e5e5479a8bf6f1445e4adb3b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa51128b5e5e5479a8bf6f1445e4adb3b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa51128b5e5e5479a8bf6f1445e4adb3b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa51128b5e5e5479a8bf6f1445e4adb3b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa51128b5e5e5479a8bf6f1445e4adb3b?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2e0dc016e55246768df286f9adf44199",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>A few weeks ago, I wrote about&nbsp;<a href=\"https://www.notboring.co/p/infinity-revenue-infinity-possibilities?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Axie Infinity</a>, a play-to-earn game that’s doing $10M in revenue per day. Axie is built on its own Ronin sidechain, which connects with Ethereum. Play-to-earn games have massive potential because they allow people to own and transfer the fruits of their in-game labor, and their in-game assets, and potentially earn a living playing a game.</p><p>Solana has its own hotly-anticipated play-to-earn game:&nbsp;<strong>Star Atlas</strong>. In a&nbsp;<a href=\"https://www.youtube.com/watch?v=SxPAJkb0pNg&amp;t=3s&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">podcast conversation</a>, Star Atlas founder and CEO Michael Wagner told Anatoly that Star Atlas will be a space-themed massively-multiplayer online metaverse that’s one of the first AAA gaming experiences on the blockchain. He hopes to attract a mainstream audience, all of whom will need to hold Solana-based ATLAS and/or POLIS tokens to play.</p><p>In addition to just the game, Star Atlas is creating financial incentives for players. “Every asset in the game should be an NFT,” Wagner told Anatoly. “Everything from ships to crew to components to virtual lands to the structures on those lands.” That would mean that players can use tokens in-game, and also exchange their assets on open exchanges for other cryptocurrencies or fiat currencies.</p><p>Next Friday, Star Atlas is kicking off public token sales on FTX, Raydium, and Appllo-X.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-557a2059fa1d46fd83ca64c917d80772",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2661e6d596c84f05b600ae7ac0dce93b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.81,
+                "lockAspectRatio": false,
+                "height": 495,
+                "width": 611,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2661e6d596c84f05b600ae7ac0dce93b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2661e6d596c84f05b600ae7ac0dce93b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2661e6d596c84f05b600ae7ac0dce93b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2661e6d596c84f05b600ae7ac0dce93b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2661e6d596c84f05b600ae7ac0dce93b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2661e6d596c84f05b600ae7ac0dce93b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2661e6d596c84f05b600ae7ac0dce93b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2661e6d596c84f05b600ae7ac0dce93b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2661e6d596c84f05b600ae7ac0dce93b?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e792d6dc303f48a081102a50d3207451",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Two tokens will go on sale:</p><ul><li><strong>ATLAS</strong>: In-game transactional currency necessary for operating expenses, purchasing consumables, and repairing, refueling, or upgrading ships. ATLAS is what most people will earn for playing.</li><li><strong>POLIS</strong>: Governance tokens used in the Star Atlas DAO and within the game. In-game, POLIS will be used for strategic and political domination purposes, like politically controlling certain regions of space and setting taxes, fees, and rules. Outside the game, POLIS will behave like a DAO governance token, with holders able to determine things like long-term inflation and what areas of space should be developed next.</li></ul><p>Short-term, Star Atlas’ token launch will call attention to the variety and quality of projects being built on Solana and may drive up demand for tokens to stake in order to buy ATLAS and POLIS. Long-term, Star Atlas wants to create its own Metaverse, with a persistent environment and functioning in-game economy. An economy needs fast, cheap transactions to run smoothly.</p><p>Join the&nbsp;<a href=\"https://discord.gg/gdvyCQRF?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Star Atlas Discord here</a>&nbsp;to dive in and follow along.</p><p><strong>Case Study:&nbsp;</strong><a href=\"https://audius.co/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Audius</strong></a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b7ec289c12c449649379e8dd3a0ac56f",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb9d28a4b84004e4aa27a25987d32d77b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.571,
+                "lockAspectRatio": false,
+                "height": 687,
+                "width": 1203,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb9d28a4b84004e4aa27a25987d32d77b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb9d28a4b84004e4aa27a25987d32d77b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb9d28a4b84004e4aa27a25987d32d77b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb9d28a4b84004e4aa27a25987d32d77b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb9d28a4b84004e4aa27a25987d32d77b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb9d28a4b84004e4aa27a25987d32d77b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb9d28a4b84004e4aa27a25987d32d77b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb9d28a4b84004e4aa27a25987d32d77b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb9d28a4b84004e4aa27a25987d32d77b?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2a1c225f7d514cd8a2eb5834fc6a7cdb",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>x</p><p><strong>🔊</strong>&nbsp;Currently Listening to:&nbsp;<a href=\"https://audius.co/TeamBandL/netsky-brownies-lemonade-in-la-live-set?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Netsky - Brownies &amp; Lemonade in LA (live set)</a></p><p>Audius is like web3 Soundcloud, with new tracks, remixes, and live sets uploaded directly by artists. It’s gained a particular foothold in EDM, with many of the world’s top electronic artists using the platform. I’ve written about Audius before, most recently in&nbsp;Own the Internet:</p><p><a href=\"https://audius.co/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Audius</a>, the web3 music streaming platform,&nbsp;<strong>builds on both Ethereum and Solana</strong>. It issues and manages the $AUDIO token on Ethereum, but it runs upvotes and likes, things that need high speed and low-cost to work as well as a Web2 counterpart, on Solana, powered by the same engine used by some of the most sophisticated finance professionals in the world.</p><p>Since that piece, Audius has been on a tear. In July, it passed&nbsp;<a href=\"https://www.coindesk.com/decentralized-music-streaming-service-audius-now-has-5m-users?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">5M monthly active users (MAUs)</a>, up from 3 million in March. Just this past week, Audius announced a&nbsp;<a href=\"https://www.cnbc.com/2021/08/17/audius-lands-tiktok-partnership-and-its-token-audio-market-cap-surged.html?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">partnership with TikTok</a>&nbsp;that will allow its artists to upload their songs for use in TikTok videos and drive traffic back to Audius.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a7a5061161dc490194ff912283698b63",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e6e766fcafc4610bc4292ed56a257ec?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.636,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 534,
+                "width": 839,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e6e766fcafc4610bc4292ed56a257ec?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e6e766fcafc4610bc4292ed56a257ec?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e6e766fcafc4610bc4292ed56a257ec?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e6e766fcafc4610bc4292ed56a257ec?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e6e766fcafc4610bc4292ed56a257ec?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e6e766fcafc4610bc4292ed56a257ec?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e6e766fcafc4610bc4292ed56a257ec?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e6e766fcafc4610bc4292ed56a257ec?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1e6e766fcafc4610bc4292ed56a257ec?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d24398fd7b814608946ba04315d0795c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>That sent the price of the $AUDIO token soaring, from $1.61 to a peak of $3.80. Its market cap currently sits above $1B.</p><p>All of this activity -- from projects like Audius and Saber, to increased volume on DEXes Serum and Raydium, to zeitgeist-capturers like Degenerate Ape Academy and Star Atlas, have caused an increase in activity on Solana, and Solana is ready for it.</p><p>Since launching its mainnet in March 2020, there have been&nbsp;<strong>24.9 billion transactions on Solana</strong>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9e623ce97ba74a4d90f9249451e24dea",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3923903c829d41c9979e0b2bc9b0d082?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.212,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 237,
+                "width": 1117,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3923903c829d41c9979e0b2bc9b0d082?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3923903c829d41c9979e0b2bc9b0d082?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3923903c829d41c9979e0b2bc9b0d082?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3923903c829d41c9979e0b2bc9b0d082?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3923903c829d41c9979e0b2bc9b0d082?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3923903c829d41c9979e0b2bc9b0d082?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3923903c829d41c9979e0b2bc9b0d082?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3923903c829d41c9979e0b2bc9b0d082?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3923903c829d41c9979e0b2bc9b0d082?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b14e65b75a66428ba4b367be172f6ef5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>For comparison, there have been 1.255 billion transactions in Ethereum’s entire history since 2015, and 664.6 million transactions in Bitcoin’s entire history since 2009. At current rates, Solana is doing about&nbsp;all of the transactions ever done on Ethereum each week.</p><p>(Note: Solana includes consensus messages in this number, so even though those are transactions that require fees to be paid, many would argue that the real number of transactions is less than half of the headline number).</p><p>That Solana has handled so many multiples of Bitcoin and Ethereum’s transaction volume in its much shorter life is a testament to the fact that the tech works. And the fact that it’s putting up those numbers while handling just around 2,000 TPS shows that there’s a ton of capacity left to handle growth. But as mentioned, Solana takes miniscule transaction fees. How does value accrue to Solana?</p><h3><strong>How Value Accrues to Solana</strong></h3><p>How do you value a blockchain token?</p><p>BTC, which acts as a store of value, is valued based on a mix of:</p><ul><li><strong>Intersubjective belief</strong>: other people think this thing is worth this much</li><li><strong>Supply and demand</strong>: there will only ever be 21 million BTC, so with more demand, price goes up</li><li><strong>Mining cost floor</strong>: it costs a certain and increasing amount to mine BTC, so the price needs to stay above that floor to incentivize miners to validate blocks</li><li><strong>Gold Price:&nbsp;</strong>some people compare BTC to gold, and use gold’s market cap as a proxy for where BTC can go if it replaces gold as the store of value.</li></ul><p>ETH is more interesting because ETH is triple-point money. It serves as:</p><ul><li><strong>Store of Value:&nbsp;</strong>ETH is locked up as collateral for DeFi transactions. For example, you can put up ETH to secure a loan or to provide liquidity to a DEX.</li><li><strong>Consumable Asset:</strong>&nbsp;With EIP 1559, gas fees act like gasoline in a car. Any time something happens on Ethereum, gas needs to be burned, decreasing the overall supply.</li><li><strong>Capital Asset:</strong>&nbsp;Ether acts as a capital asset in a few ways. Owning ETH represents a share of the Ethereum network, like owning equity in a company. Once staked, ETH gives its owner the right to do work for the network by becoming a Validator and a right to collect fees generated by the network.</li></ul><p>The bull case for ETH is that there is more activity happening on the Ethereum blockchain, that with the successful implementation of EIP-1559, ETH is being burned in every transaction, and that if the Eth2 merge is successful, value will accrue to people who hold and stake ETH. More demand, less supply, higher price.</p><p>SOL behaves similarly to ETH, with a few key differences. It’s also triple-point money:</p><ul><li><strong>Store of Value:&nbsp;</strong>SOL is locked up as collateral for DeFi transactions. For example, you can put up SOL to secure a loan or to provide liquidity to a DEX.</li><li><strong>Consumable Asset:</strong>&nbsp;Transaction fees, while very low, still make users consume SOL. Every time someone does something on Solana, a little bit of SOL is burned.</li><li><strong>Capital Asset:</strong>&nbsp;SOL acts as a capital asset in a few ways. Owning SOL represents a share of the Solana network, like owning equity in a company. Once staked, SOL gives its owner the right to do work for the network by becoming a Validator (or to delegate their stake to a validator and share in rewards) and a right to collect fees generated by the network.</li></ul><p>Unlike ETH, the value of which is largely derived from gas fees, thinking about how SOL accrues value is a little more complicated. There are two main ways that SOL becomes more valuable:&nbsp;<strong>staking</strong>&nbsp;and&nbsp;<strong>MEV</strong>.</p><p><strong>Staking</strong></p><p>The staking point is simultaneously simple and 3D-chess-complex.</p><p>For an average user, staking is simple. If you own SOL, you can stake them right through a wallet like&nbsp;<a href=\"https://phantom.app/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Phantom</a>&nbsp;to one of the validators. Validators earn money for securing the network, both through small transaction fees and, more importantly, through inflation. The protocol mints tokens (up to a 504.2M SOL cap) as rewards to validators. The more stake they have, the more often they “lead,” and the more they earn. To attract more stake, validators offer yield to stakers -- for example, I staked SOL to Chorus One in exchange for 8% yield.</p><p>How staking makes SOL more valuable is where this gets 3D-chess-complex. Ben Sparango explained it to me, and I’ll do my best to explain it to you.</p><p>There’s an idea that with PoS networks, the&nbsp;<strong>value built on top of the chain needs to be less than the value staked in the network</strong>, or else it would be worthwhile for validators to attack the network to capture the value built on top. The more value there is at stake, theoretically, the more secure the network is, because validators are more incentivized to act benevolently.</p><p>Everyone in the network, then, is incentivized to make sure the value staked is higher than the value of the apps built on Solana. If you’re building your business on Solana, the only thing that ensures that your business stays safe is that the price of SOL is high. These businesses can essentially pay for security by buying and staking more SOL. If the project has a DAO with a treasury, like Audius does or like Saber and Star Atlas plan to, the DAO might say, “It looks like the value of the DAO will exceed the value of our staked tokens, so we should commit 10% of our treasury to buying and staking more tokens.”</p><p>As more valuable projects are built on top of Solana, the value of staked SOL will need to rise accordingly. While this is theoretically true, there’s a spectrum. Most validators would not behave maliciously if given the opportunity. What’s important, though, is that this idea is&nbsp;true enough&nbsp;that it provides a&nbsp;<a href=\"https://nav.al/schelling-point?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Schelling Point</a>&nbsp;(crypto people love Schelling Points) for everyone in the SOL ecosystem.</p><p>It’s simple: attract more developers who attract more users, and everyone kind of just agrees that staked value will need to increase accordingly.</p><p><strong>MEV</strong></p><p>The other way that SOL holders and market participants might accrue value is MEV.</p><p><a href=\"https://blog.chain.link/what-is-miner-extractable-value-mev/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Miner-Extractable Value</a>&nbsp;(MEV) refers to miners’ ability to create value for themselves by setting the order of transactions within a block. The way that a typical blockchain works is that users submit transactions, which go into a global “mempool” from which miners choose transactions to include in the next block and which miners can order however they choose within the block, often based on gas prices. Gas on Ethereum is split into base fee + tip, with people who need their transactions verified first paying higher tips to move up in the block.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dab0aafe51f841498b5123fdb96c687e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F43be8a03f6474d388edebf1f60a679b3?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.552,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 552,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F43be8a03f6474d388edebf1f60a679b3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F43be8a03f6474d388edebf1f60a679b3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F43be8a03f6474d388edebf1f60a679b3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F43be8a03f6474d388edebf1f60a679b3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F43be8a03f6474d388edebf1f60a679b3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F43be8a03f6474d388edebf1f60a679b3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F43be8a03f6474d388edebf1f60a679b3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F43be8a03f6474d388edebf1f60a679b3?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F43be8a03f6474d388edebf1f60a679b3?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-77817a47f2bd49b0919fafb10b99d33e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Miners can order blocks in such a way as to let themselves front-run trades or otherwise extract value, and third-party bots can also capture MEV by playing with their transaction fees. The end result for users may be higher transaction costs or greater slippage (the price goes up if a bot front-runs your trade).</p><p>If you’ve been paying attention up until now, you’ll realize that there’s&nbsp;<strong>less risk of MEV on Solana because of Proof of History</strong>. Every transaction comes with its own timestamp, so validators can’t arbitrarily reorder them as easily.</p><p>But that doesn’t mean that MEV won’t happen on Solana, just that users might be compensated for it. Anatoly described what might happen to me like this:</p><p>MEV means that validators have some information that they’ve computed that if they take your order, they can make a profit. If the info you’re submitting is useful enough to someone, they’ll actually pay you to take your order. It’s&nbsp;<strong>Payment for Order Flow (PFOF) at a micro level, but in a fair and open market</strong>. It makes the high-frequency trading (HFT) spread a commodity.</p><p>In other words, instead of having super-fast, expensive computers controlled by HFT firms capture small amounts of value by getting ahead of trades, which happens in the market today and costs regular traders small amounts of money, the people who submit the trades might instead be compensated for their information by parties who can take advantage of it.</p><p>Because Solana is Proof of Stake, and because MEV goes to validators,&nbsp;<strong>SOL accrues value as a function of MEV</strong>. It’s the web3 playbook: cut out the middleman, let more value accrue to each side.</p><p>MEV and staking are two of the more Solana-specific ways that value will accrue to SOL holders, but at the end of the day, the real, sustainable value will be generated by the same things as any other product: supply and demand.</p><p>As new projects are built on Solana, more people need to buy more SOL to use them. Since an increasing amount of SOL tokens will be staked and locked in DeFi protocols, there is less supply of SOL tokens for that increasing demand. More demand for fewer tokens means a higher price. That’s the basis for the Solana bull case.</p><h3><strong>The Bull Case for Solana</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ac5219ac5d4a4c358a68cb7238aa591e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6523e6877c7e44fb93aa989521f5d6f3?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.345,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 345,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6523e6877c7e44fb93aa989521f5d6f3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6523e6877c7e44fb93aa989521f5d6f3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6523e6877c7e44fb93aa989521f5d6f3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6523e6877c7e44fb93aa989521f5d6f3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6523e6877c7e44fb93aa989521f5d6f3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6523e6877c7e44fb93aa989521f5d6f3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6523e6877c7e44fb93aa989521f5d6f3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6523e6877c7e44fb93aa989521f5d6f3?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6523e6877c7e44fb93aa989521f5d6f3?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-66c3cfddaf0447d9ae5c9ffb1c4ec68e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>The bull case for Solana is that it will make web3 bigger, faster than previously anticipated</strong>, as more developers build on Solana and attract more users to the network. Faster, cheaper, smoother transactions will bring the next billion users to crypto, and many will come through Solana. They’ll need to buy SOL and SOL-based tokens to participate.</p><p>Before researching this piece, I thought the bull case was that Solana would own an increasing amount of the execution layer for a massively growing DeFi pie. That is a huge opportunity in its own right. The financial services sector comprises 20-25% of the world economy, and crypto is still very early in stealing away share.</p><p>Until Solana, there wasn’t a blockchain that could handle even close to the transaction volumes required by the traditional financial markets. Bill Swo believes that, “Something like Solana opens the potential for the connection to real-life assets, real-life products, and real value generation.” He believes that in the next 4-year cycle, we’ll revisit putting everything on the blockchain, but this time with much better technology like Solana that makes it feasible. “Low TPS was a limiting factor for institutional adoption,” he said, “but 50k TPS or higher is appealing to institutions who can benefit from&nbsp;<strong>decentralization at the speed of a centralized provider.</strong>”</p><p>Indeed, winning share from traditional finance is one of Anatoly’s goals. He told me, “We should be competitive with the NYSE. I have no clue if it’s half of global finance, or 5%, but it’s now possible at a global scale and it’s worthwhile to do it.” What would that look like?</p><p>On the one side, there are web3 applications with lots of users. On the other there are risk computers synthesizing info, computing risk, price, and position. Between the two sides, there’s no one in the middle, it’s all out in the open, more robust, fairer, cheaper.</p><p>Serving as the execution layer for even 5% of the global financial markets is an unimaginably large opportunity for Solana, and for the developers who build applications on top of it to make that future a reality.</p><p>But over the months since I started following Solana and the weeks since I started researching this piece, an even bigger opportunity has emerged. Solana is going to be able to eat a wider array of web3 activity across categories than I initially believed, and in doing so, expand web3’s reach even more quickly than I initially expected.</p><p>There’s something magical about transactions confirming instantly, at almost no cost, whether that be a trade, an NFT purchase, or even a “Repost” on Audius. New decentralized economies, and, dare I say it, the *Metaverse* will need fast, cheap transactions. Imagine buying lunch, and waiting for a minute for your credit card transaction to clear, and then paying $15 in fees. We’re not going to accept that experience in the Metaverse.</p><p>By letting decentralized apps run at centralized speed with minimal fees, Solana is making it even harder for developers across verticals to consider building anything&nbsp;butdecentralized products. Serum, Saber, Audius, Star Atlas, and the hundreds of other projects will be case studies that attract even more developers, not necessarily from Ethereum, but from traditional startups. The more trade-offs Solana eliminates, the easier it will be for developers to choose Solana.</p><p>If that happens, SOL will benefit from enormous demand from projects and users who need to buy and stake SOL, and from the need for the value of staked SOL to exceed the value built on top of the network.</p><p>While there’s a mega-bull case in which Eth2 is delayed long enough to frustrate Ethereum developers enough that they all jump ship to Solana, you don’t need to believe that to be true to be bullish on Solana. Personally, I believe that we’ll end up in a world with high cross-chain interoperability. We may see more projects, like Audius, that build on both Solana and Ethereum, using Solana for more frequently-executed transactions and Ethereum as the settlement layer. In a cross-chain world, in which people can build on Solana and settle on Ethereum, both chains win from increased activity overall.</p><p>In either case, it feels as if, particularly over the past two weeks, Solana has reached a tipping point. It’s gained enough momentum, first from its technology, then from the involvement of people like SBF and a16z, and recently from increased developer activity, that it will remain a key player in the space for years to come. If upcoming projects like Star Atlas deliver on their promise, and highlight the diversity of Solana’s strength, the sun is the limit.</p><h3><strong>The Bear Case for Solana</strong></h3><p>Or… everything will fall apart. Solana is picking up a head of steam, and if it uses that momentum to build ever-stronger network effects, it will be unstoppable. But if we enter a crypto bear market, that momentum could be stopped dead in its tracks, and the stake it’s built up could disappear.</p><p>In a bull market, people are willing to experiment with new and even broken things. The Degenerate Ape launch was fun even when it broke because people knew they’d make money on the other side.</p><p>In a bear market, they might retreat to the things that work best, and to the more mature ecosystem. Ethereum is slower and more expensive, for now, sure, but it has a much more mature ecosystem, a more approachable coding language (Solidity), and infrastructure and dev tools that just work better. And it has such strong network effects that it will survive even the harshest downturn.</p><p>A bear market may also spook traditional financial institutions, the ones most in need of Solana’s particular set of skills.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-490a91ed2643460596a9ddd79b8e91d0",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feeeaf139b0fb42698281b723af2b5a84?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.664,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 340,
+                "width": 512,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feeeaf139b0fb42698281b723af2b5a84?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feeeaf139b0fb42698281b723af2b5a84?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feeeaf139b0fb42698281b723af2b5a84?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feeeaf139b0fb42698281b723af2b5a84?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feeeaf139b0fb42698281b723af2b5a84?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feeeaf139b0fb42698281b723af2b5a84?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feeeaf139b0fb42698281b723af2b5a84?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feeeaf139b0fb42698281b723af2b5a84?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feeeaf139b0fb42698281b723af2b5a84?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-882f9b07aa9c4046ab04b606239136ac",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>If crypto markets fall apart, and liquidity dries up, financial institutions may seize the opportunity to remind people of the benefits of centralized, controlled institutions. To the extent that they do incorporate “blockchain technology,” it may look like some consultant fever dream, like JPMBlock.</p><p>The artists and creators may hang on, but most of them are on Ethereum anyway. The Crypto Winter rebuild might take place on the more familiar Ethereum, giving it a less chaotic transition to Eth2. By the time crypto bounces back, Eth2 may prove fast, cheap, and scalable enough, with the benefits of familiarity, that development on other chains dies down.</p><p>Even without a new Crypto Winter, Solana is playing from behind, with a smaller group of users, than Ethereum and Bitcoin in an industry that rewards network effects above all else. If it fails to pick up sufficient steam before the Eth2 merge, and if Eth2 makes transactions as fast and cheap as promised, builders may choose to do everything -- execution and settlement, NFTs, gaming, DeFi, and DAOs -- on Ethereum, where there are more users, more builders, and more money.</p><p>Solana’s success in head-to-head battles relies on a few assumptions:</p><ul><li>The execution layer is more valuable than the settlement layer.</li><li>It can “borrow” PoW security from ETH or BTC</li><li>Sharding breaks DeFi</li></ul><p>But what if those assumptions don’t prove to be true?</p><ul><li>While value flows to the execution layer in TradFi -- AmEx, VISA, and NASDAQ are more valuable than their respective settlement companies -- that may not be the case in blockchain, where there may be value to executing and settling in the same place. With VISA, I don’t need to think about settlement, I just swipe my card and it works. If I have to sell my Ethereum-based assets and move USDC to Solana to execute there, maybe it’s just not worth the hassle.</li><li>Maybe execution layer plays like Solana and Polygon can’t just borrow security from PoW blockchains at scale, and people are happy to pay higher transaction fees for more security.</li><li>Although sharding theoretically makes DeFi composability more difficult -- each shard might have a different price for an asset -- software may be able to solve that challenge, just as Anatoly solved a seemingly impossible parallelization challenge with PoH.</li></ul><p>If sharding is the answer, Solana will face competition on its core strengths — speed, throughput, and cost — not just from Ethereum, but from a wave of L1s and layer 2 solutions like Polygon. Maybe the solution is something entirely different, like a&nbsp;<a href=\"https://www.notboring.co/p/zero-knowledge?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">zk-based</a>&nbsp;protocol.</p><p>On top of that, Solana is slightly more susceptible to state activity, because validators take significantly more bandwidth to run than a PoW system.</p><p>Lastly, and importantly, the Solana ecosystem has a longer way to go to make the developer experience as good as it is on Ethereum. There need to be more open source front-end libraries; one look at many Solana projects’ apps would suggest that it’s not as easy to build great user experiences on Solana. Plus, more and better infrastructure needs to be built. Most big Solana launches, like Degenerate Ape Academy and Saber, experienced issues.</p><p>If the key question is, “Can you attract developers?” then&nbsp;<strong>the biggest existential risk to Solana is not being able to attract enough developers to take advantage of its powerful blockchain</strong>. One developer I spoke to said that most of his smartest friends are still developing on Ethereum. Given the composable and exponential nature of crypto, every new tool, DAO structure, and protocol built on top of Ethereum means more reasons for the next developers to build on Ethereum. Each new project adds to an open source smart contract library, and lengthens Ethereum’s lead.</p><p>In the bear case, whether due to market conditions, Eth2, or its own shortcomings, Solana can’t attract enough developers, who in turn can’t attract enough users, to live up to its promise, and Ethereum runs away with the whole damn thing.</p><h3><strong>Solana Summer</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ca3e69551cd34a1d8e77e25dc156c283",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facaf719a05ea43188fdba04810b2ab4b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 1,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 800,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facaf719a05ea43188fdba04810b2ab4b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facaf719a05ea43188fdba04810b2ab4b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facaf719a05ea43188fdba04810b2ab4b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facaf719a05ea43188fdba04810b2ab4b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facaf719a05ea43188fdba04810b2ab4b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facaf719a05ea43188fdba04810b2ab4b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facaf719a05ea43188fdba04810b2ab4b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facaf719a05ea43188fdba04810b2ab4b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facaf719a05ea43188fdba04810b2ab4b?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-150230d08ab645068b3062f4aa46cc78",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>As I mentioned up top, I am a Maximalist Minimalist. I don’t think that Ethereum will run away with all of web3, and I don’t think that Solana will kill Ethereum. I think the two will work together to bring more activity, and value, onto the decentralized web.</p><p>In June,&nbsp;<a href=\"https://cointelegraph.com/news/neon-labs-deploys-cross-chain-ethereum-virtual-machine-on-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neon Labs deployed</a>&nbsp;a step towards that cross-chain future, a compatibility bridge between Ethereum and Solana. Neon will let anyone run Ethereum smart contracts on Solana, meaning it’s easier for developers to build programs that work on both blockchains. In the announcement article,&nbsp;<a href=\"https://neonlabs.org/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neon Labs</a>’ Marina Gureyeva said:</p><p>Ethereum is a thriving blockchain ecosystem that has a lot to offer to dApp developers and users in terms of tools and infrastructure. At the same time, Solana is attractive to many due to its technical characteristics and is perceived as an emerging market.</p><p>That’s my kind of language! Both chains are good at certain things, and the easier it is for developers to reach more users with better experiences, the faster web3 will grow.</p><p>I’m increasingly convinced that Solana will be a huge driver of that growth.</p><p>When I first talked to Austin Federa at Solana Labs about writing this piece, there was already a reeling cry that was popular among Solana fans on Twitter:&nbsp;<strong>Solana Summer</strong>. #solanasummer even has its own hashtag with a Solana logo that pops up (try it when you tweet out this piece). Everyone had Pit Vipers on in their profile pictures. There was clearly a passionate community, but at the time, it felt like the tribal call of a small, passionate group of people trying to make a name for themselves. It was almost cute.</p><p>Just a few weeks later, Solana Summer seems like an eerily prescient prediction. Solana has emerged from a sea of PoS ETH-killers as the most legitimate contender to place itself in the blockchain pantheon alongside Bitcoin and Ethereum. It’s focused. It works. The team just ships. And developers are taking notice.</p><p>As we speak, Solana is in the middle of its latest community-driven hackathon:&nbsp;<a href=\"https://buildingoutloud.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Building Out Loud</a>. This one is focused entirely on India.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8f36e27916f242478114d8fdde1279b9",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5f6483979b24934aef289ba83733520?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.554,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 554,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5f6483979b24934aef289ba83733520?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5f6483979b24934aef289ba83733520?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5f6483979b24934aef289ba83733520?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5f6483979b24934aef289ba83733520?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5f6483979b24934aef289ba83733520?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5f6483979b24934aef289ba83733520?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5f6483979b24934aef289ba83733520?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5f6483979b24934aef289ba83733520?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5f6483979b24934aef289ba83733520?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c65a848cdd71489b9aa47f13ca11c006",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>For a product that’s all about bringing the next billion people into open global markets, seeing over 3,000 developer applications from the world’s second most populous country speaks to the enormous potential that lies ahead.</p><p>Solana itself just announced its next hackathon:&nbsp;<a href=\"https://solana.com/ignition?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ignition</a>.</p><p>Crypto is all about momentum. Tokens are almost like Veblen Goods -- the more expensive it is, the more people want to buy it. The more developers building on a blockchain, the more developers will want to build on that chain. The more great apps they build, the more users will come.</p><p>And right now, Solana has momentum. I don’t know how that will reflect itself in the price, but I do know that more and more smart people I know in crypto are getting excited about it, and that new, interesting projects are being announced every day. And I do know that once people use it, and feel the magic of high speeds and low costs, they’re going to add it to their rotation.</p><p>Personally, I will be adding to my Solana position and looking at startups in the Solana ecosystem. The fact that SOL is worth &lt;10% of ETH, &lt;5% of BTC, and, inexplicably, &lt;30% of Cardano seems like an attractive risk / reward.</p><p>As always, my recommendation is not to buy the asset (I’m not a licensed financial professional!), but to get involved in the ecosystem.&nbsp;<a href=\"https://discord.gg/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Join the Discord</a>. Check out the&nbsp;<a href=\"https://staratlas.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Star Atlas</a>&nbsp;launch. Try to&nbsp;<a href=\"https://break.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Break Solana</a>. Find any one of the 302 projects in the&nbsp;<a href=\"https://solana.com/ecosystem?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Ecosystem</a>&nbsp;that looks interesting and go deep. It’s early, and in crypto, there’s alpha in getting involved early.</p><p>There are only a couple weeks left in Solana Summer, but don’t worry. Solana is gonna make it. sigmi.</p><p>Thanks for reading and see you on Monday!</p><p>Packy</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb0436c4286a454caaeef8899def35ac",
+  "lastUpdated": 1694189890117,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d6d9a1e22bc44d2a066bd3fd7a7ae96",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687608945175,
+  "@originId": "2d6d9a1e22bc44d2a066bd3fd7a7ae96",
+  "testRatio": 1,
+  "createdDate": 1687362624179,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=2d6d9a1e22bc44d2a066bd3fd7a7ae96&builder.overrides.2d6d9a1e22bc44d2a066bd3fd7a7ae96=2d6d9a1e22bc44d2a066bd3fd7a7ae96&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "VideosSection": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": true
+  },
+  "name": "Solana Summer",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

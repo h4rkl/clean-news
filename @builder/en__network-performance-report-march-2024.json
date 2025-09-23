@@ -1,0 +1,135 @@
+{
+  "createdBy": "TccMYcQtnFaazdlcnoYGtEcNnmg1",
+  "createdDate": 1754369734654,
+  "data": {
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e",
+      "model": "author"
+    },
+    "datePublished": 1709917200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee8c582228e5499395cb3b3705ac900b",
+    "intro": "A March 2024 review of the Solana's network performance and upgrades being made to strengthen the network.",
+    "seo": {
+      "metaType": "article",
+      "seoDescription": "A March 2024 review of the Solana's network performance and upgrades being made to strengthen the network.",
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee8c582228e5499395cb3b3705ac900b",
+      "seoTitle": "Solana Network Performance Report: March 2024"
+    },
+    "slug": "network-performance-report-march-2024",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb",
+          "model": "entity-blog-tags"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_81221898c1d244d390655dfe58171db3",
+          "model": "entity-blog-tags"
+        }
+      }
+    ],
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Network Performance Report: March 2024"
+    },
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-1ca36baf825c4756bb96df063f0e1922",
+        "component": {
+          "name": "Core:Section",
+          "options": {
+            "maxWidth": 1200,
+            "lazyLoad": false
+          },
+          "isRSC": null
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1e33926f570e49d2aa6e5bff27b72254",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ]
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>The Solana Foundation regularly releases updates and metrics on the state of the network as part of its commitment to transparency. This is the March 2024 Network Performance Report. Past reports include&nbsp;<a href=\"https://solana.com/news/network-performance-report-july-2023\" rel=\"noopener noreferrer\" target=\"_blank\">the previous Network Performance Report in July 2023</a>,&nbsp;<a href=\"https://solana.com/news/validator-health-report-october-2023\" rel=\"noopener noreferrer\" target=\"_blank\">the Validator Health Report</a>, and&nbsp;<a href=\"https://solana.com/news/solana-energy-use-report-december-2023\" rel=\"noopener noreferrer\" target=\"_blank\">Energy Use Report</a>. The Foundation welcomes input from the Solana community on this report. Fill out<a href=\"https://solanafoundation.typeform.com/to/N9N3WX9V\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;this form&nbsp;</a>with questions, feedback, and metrics that you’d like to see tracked.&nbsp;</p><h2><strong>Overview</strong></h2><p>The Solana network’s performance has continued to improve through the past six months (Sept. 1, 2023 - Feb. 29, 2024), as measured by uptime, the ratio of non-voting-to-voting transactions, time to produce a block, and average and max transactions per second. However, the network suffered an outage on Feb. 6, 2024. Solana ecosystem&nbsp;<a href=\"https://solana.com/news/02-06-24-solana-mainnet-beta-outage-report\" rel=\"noopener noreferrer\" target=\"_blank\">engineers immediately began triaging the situation and were able to push a fix&nbsp;</a>that led to the network restarting in a little less than five hours, indicating a well-prepared and engaged validator community that enables the network to bounce back more quickly in times of emergency.&nbsp;</p><p>There are several new features and developments to highlight on the Solana network&nbsp;<a href=\"https://solana.com/news/network-performance-report-july-2023\" rel=\"noopener noreferrer\" target=\"_blank\">since the last network performance report in July 2023</a>, including several announcements from&nbsp;<a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint 2023</a>, an annual conference for the Solana community:</p><ul><li><strong><u>Network upgrades to better handle high traffic and demand, including the rollout of QUIC TPU, stake-weighted QoS, and localized fee markets.</u>&nbsp;</strong>Since these network upgrades, the network has performed well in periods of high stress.</li><li><strong><u>1.17 update for validators.</u></strong>&nbsp;<a href=\"https://solana.com/news/solana-validators-v1-17-update\" rel=\"noopener noreferrer\" target=\"_blank\">v1.17 of the Solana Labs validator client</a>&nbsp;includes a number of new features and performance updates that will be activated over time. This includes a ZK proof program that will facilitate performance updates that are expected to reduce transaction latency, reduce resource usage by block-producing validators, and lower startup times for validator restarts.&nbsp;&nbsp;</li><li><strong><u>Firedancer, a new validator client from Jump Crypto, is live on testnet.</u>&nbsp;</strong><a href=\"https://twitter.com/solana/status/1719310929593057720\" rel=\"noopener noreferrer\" target=\"_blank\">This new validator client</a>&nbsp;is built from the ground up in C++ and has shown significant performance improvements.</li><li><strong><u>Token extensions represent the next generation of the SPL token standard.</u></strong>&nbsp;<a href=\"https://solana.com/solutions/token-extensions\" rel=\"noopener noreferrer\" target=\"_blank\">Token extensions</a>&nbsp;represent a comprehensive suite of turnkey solutions tailored to meet the needs of enterprises moving on chain.</li><li><strong><u>Over 60% of stake now runs through the Jito validator client.</u>&nbsp;</strong><a href=\"https://jito.retool.com/embedded/public/3557dd68-f772-4f4f-8a7b-f479941dba02\" rel=\"noopener noreferrer\" target=\"_blank\">Jito</a>&nbsp;is a validator software client that launched on mainnet just over a year ago.&nbsp;</li></ul><p>The network continues to be run by a robust group of independent validators around the world. The Solana network is one of the world’s most decentralized proof-of-stake blockchains, and one of the most developed on, with&nbsp;<a href=\"https://solana.com/news/2023-state-of-solana-developer-ecosystem\" rel=\"noopener noreferrer\" target=\"_blank\">2500-3000 developers consistently choosing to build on Solana</a>. Read on for a few statistics the Solana Foundation tracks to measure the decentralization and vitality of the Solana network (updated as of Feb. 26, 2024 unless noted otherwise).</p><h2><strong>Details of network performance</strong></h2><p>In order for a billion people to use and take advantage of the benefits of the Solana network, users need to feel confident in the network’s overall reliability, including the ability to consistently access the network and safety of funds and information.&nbsp;</p><p>The Foundation is committed to tracking network performance over time through quantitative and qualitative measures. For this report, we highlight four metrics for the sake of simplicity and to allow users to easily track these metrics and how they progress over time. We’ve included these metrics, as well a few others,&nbsp;<a href=\"https://dune.com/solana_team/solana-network-health-report\" rel=\"noopener noreferrer\" target=\"_blank\">on a Dune dashboard</a>&nbsp;that makes it easy to dig a layer deeper into the data or run your own analyses.&nbsp;</p><h3><strong>Uptime</strong></h3><p>A constantly reliable network is foundational to the trust and continued growth of the network.&nbsp;</p><p>One of the most important measures of reliability is network uptime, or the percentage of time that the network is successfully running and available to use. 100% uptime within a specific period of time means that there were no errors or incidents that caused the network to be unavailable during that period.&nbsp;</p><p><strong>The Solana network has had 99.94% uptime in the 12 month period previous to the publishing of this report (March 1, 2023 - Feb. 29, 2024).&nbsp;</strong></p><p>Below, we snapshot the network’s monthly uptime, measured as the percentage of uptime in a given month over the past 6 months.&nbsp;</p><p>Average monthly uptime:</p><p>September 2023 - 100%</p><p>October 2023 - 100%</p><p>November 2023 - 100%</p><p>December 2023 - 100%</p><p>January 2024 - 100%</p><p>February 2024 - 99.31%</p><p>The network experienced a 4 hour 46 minute outage on Feb. 6, 2024. The outage was caused by a bug in the LoadedPrograms function that led to an infinite loop and halted consensus. This bug had previously been identified and was scheduled to be deployed during the v1.18 release cycle, and instead was deployed immediately upon cluster restart. Importantly, during a network outage, all funds are safe.&nbsp;<a href=\"https://solana.com/news/02-06-24-solana-mainnet-beta-outage-report\" rel=\"noopener noreferrer\" target=\"_blank\">Anza published</a>&nbsp;a root cause analysis report of the outage on Feb. 9, 2024.&nbsp;</p><p>100% uptime is a consistent goal for the network – this sort of reliability and consistency builds trust for users and potential users that the network will be consistently available for use over time, and if there is downtime, that access will be quickly restored. To that end, it’s important to note that on Solana, time between outages continues to grow. Messari’s Jan. 11, 2024 State of Solana report noted that the period between Feb. 25, 2023 and Dec. 31, 2023 was the network’s longest-ever period without a network interruption, at 309 days.&nbsp;<a href=\"https://solana.com/news/network-performance-report-march-2024#footnotes\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super; font-size: smaller;\">[1]</sup></a></p>"
+                }
+              },
+              "isRSC": null
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "paddingTop": "20px",
+            "paddingBottom": "20px",
+            "marginTop": "0px",
+            "minHeight": "100px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1756778700610,
+  "folders": [],
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_626a3c8858a04b50b908476fb9ba4323",
+  "lastUpdated": 1756779176719,
+  "lastUpdatedBy": "TccMYcQtnFaazdlcnoYGtEcNnmg1",
+  "meta": {
+    "componentsUsed": {
+      "Copy": 1
+    },
+    "hasLinks": false,
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/network-performance-report-march-2024?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers%2CeditContentPriority%2CeditFolders%2CcreateProjects&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=626a3c8858a04b50b908476fb9ba4323&builder.overrides.626a3c8858a04b50b908476fb9ba4323=626a3c8858a04b50b908476fb9ba4323&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default"
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "name": "Solana Network Performance Report: March 2024",
+  "previewUrl": "https://solana.com/news/network-performance-report-march-2024",
+  "published": "published",
+  "query": [],
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F48fe5290f0ae46a79022758cf6e4818f",
+  "testRatio": 1,
+  "variations": {},
+  "@originId": "626a3c8858a04b50b908476fb9ba4323",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@liveSyncEnabled": true,
+  "rev": "l9w1e2t4y1"
+}

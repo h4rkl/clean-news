@@ -1,0 +1,245 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1609401600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb6aea9235e194bb3a7fa9e89f3358f1c",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "2020 was a difficult and challenging year for many. Despite the global challenges, Solana and the entire Solana ecosystem managed to…\n",
+    "publishedDate": "Thu Dec 31 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "openGraph": {
+      "ogTitle": "Year In Review 2020",
+      "ogUrl": "",
+      "ogDescription": "\n2020 was a difficult and challenging year for many. Despite the global challenges, Solana and the entire Solana ecosystem managed to…\n",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Year In Review 2020",
+      "noFollow": false,
+      "seoDescription": "2020 was a difficult and challenging year for many. Despite the global challenges, Solana and the entire Solana ecosystem managed to…\n",
+      "seoTitle": "Year In Review 2020",
+      "noIndex": false
+    },
+    "title": "Year In Review 2020",
+    "twitterMeta": {
+      "twitterTitle": "Year In Review 2020",
+      "twitterDescription": "\n2020 was a difficult and challenging year for many. Despite the global challenges, Solana and the entire Solana ecosystem managed to…\n"
+    },
+    "slug": "year-in-review-2020",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c3ca70b09498423e9b07c34bbc68aaca"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc162926a1c34884938092e2be078099"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a08bdcb4a0ca4f81b00df16c8ca465ee"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-b3947d216b494e4688947ab204aa5210",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-761d45a28e674e2b83cb3511faa549dc",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F64842b59d13142fc8e17254b84747594?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F64842b59d13142fc8e17254b84747594?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F64842b59d13142fc8e17254b84747594?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F64842b59d13142fc8e17254b84747594?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F64842b59d13142fc8e17254b84747594?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F64842b59d13142fc8e17254b84747594?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F64842b59d13142fc8e17254b84747594?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F64842b59d13142fc8e17254b84747594?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F64842b59d13142fc8e17254b84747594?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F64842b59d13142fc8e17254b84747594?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F64842b59d13142fc8e17254b84747594?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e5994fc897284ed48285b91e89e47ece",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Intro</strong></h2><p>2020 was a difficult and challenging year for many. Despite the global challenges, the entire Solana ecosystem flourished and grew exponentially. Overcoming many exigent tasks, Solana saw its most accomplished year to date. From launching Mainnet Beta, to growing a dedicated global community of over 650k, to onboarding over 350 validators, to partnering with leading projects such as Audius, Circle, Chainlink, Serum, Terra, Akash, and many others, and much more. Solana would not be what it is without the dedicated builders, community members, open-source contributors, and validators. On behalf of the Solana Foundation, thank you for joining us on this exciting journey to scale crypto globally.</p><p>If you’re just learning about Solana, here are a few resources to get you started. Make sure to join our&nbsp;<a href=\"http://solana.com/discord?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a>&nbsp;for direct contact with an engineer, review our detailed&nbsp;<a href=\"http://docs.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">documentation</a>&nbsp;for a deep dive into Solana, and make sure to follow us on&nbsp;<a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;for daily updates.</p><h2><strong>Ecosystem Overview</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-84e22d55b8874ea28defbfab50762e47",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a1c200faf5c4876be8f89a99de95e6e?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.624,
+                "lockAspectRatio": false,
+                "height": 749,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a1c200faf5c4876be8f89a99de95e6e?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a1c200faf5c4876be8f89a99de95e6e?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a1c200faf5c4876be8f89a99de95e6e?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a1c200faf5c4876be8f89a99de95e6e?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a1c200faf5c4876be8f89a99de95e6e?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a1c200faf5c4876be8f89a99de95e6e?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a1c200faf5c4876be8f89a99de95e6e?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a1c200faf5c4876be8f89a99de95e6e?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a1c200faf5c4876be8f89a99de95e6e?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9a1c200faf5c4876be8f89a99de95e6e?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-154d1c31eeb64963a9866d8e945480a6",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://solana.com/ecosystem?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana has grown substantially</a>&nbsp;over the course of 2020, with projects such as Serum, Chainlink, Terra, Audius, USDC, and USDT all joining the Solana ecosystem. Here are some high-level stats since Mainnet Beta launch earlier in the year:</p><ul><li>Over 100 project integrations spanning DeFi, Blockchain Gaming, and Web3 verticals</li><li>350+&nbsp;<a href=\"https://solanabeach.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">active validators</a>&nbsp;distributed across the globe</li><li>8.3 billion transactions on-chain and counting</li><li>Over 54 million blocks have been created</li><li>4.9 million unique SOL wallets</li><li>600,000+ global advocates and community members</li><li>The Solana Foundation hosted its first hackathon in Q4 and over 1,000 devs participated in the event</li></ul><h2><strong>Key Integrations</strong></h2><p>Strong partnerships and integrations are critical for the long-term success of any L1 network. The Solana ecosystem prioritized building out a full suite of features in 2020 that enabled over 100 projects to launch on Mainnet Beta. Some notable partnerships include Chainlink, Circle, Audius, Akash, Arweave, Tether, and Terra.</p><p>For anyone interested in building on Solana, you can view our&nbsp;<a href=\"https://solana.com/ecosystem?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">ecosystem page&nbsp;</a>with direct links to our grants program,&nbsp;<a href=\"http://docs.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">documentation</a>, and a form to submit your existing project for representation on the website. For a more general overview, visit our&nbsp;<a href=\"https://solana.com/developers?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">developer</a>&nbsp;page which proves information around the core innovations that make up Solana, FAQs, and more.</p><p>Some of the most active projects on Solana include&nbsp;<a href=\"https://twitter.com/ProjectSerum?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Project Serum</a>,&nbsp;<a href=\"https://swap.projectserum.com/?ref=solana.ghost.io#/?pair=SOL-USDC\" rel=\"noopener noreferrer\" target=\"_blank\">Serum Swap AMM</a>,&nbsp;<a href=\"http://bonfida.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bonfida</a>,&nbsp;<a href=\"https://sol-talk.com/sol-survivor?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SOL Survivor</a>,&nbsp;<a href=\"https://www.oxygen.org/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Oxygen</a>, and&nbsp;<a href=\"https://solanaroll.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solanaroll</a>.</p><h2><strong>Developer Update</strong></h2><p>Three years ago, Solana didn’t exist. The Solana protocol founders had an idea for a trustless clock and itched for an excuse to build something in Rust — something big. And so, Proof of History was brought to life:&nbsp;<a href=\"https://github.com/solana-labs/solana/commit/d23fda19364223b654f5968a2d304878a0f10a80?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">d23fda1</a>. It was tiny. It seemed almost insignificant at the time. But leaders at Qualcomm, Intel, and Apple understood, in distributed systems a reliable clock radically simplifies everything.</p><p>The Solana Protocol assembled, and day after day, week after week, month after month, rebuilt blockchain from the ground up to ensure it could scale to billions of users and devices around the world. Several key innovations were deployed, including Proof of History which synchronizes nodes every 400ms, where others took minutes. Sealevel parallelizes transaction processing where others processed just one at a time. Turbine keeps the cluster permissionless where others chose to centralize. Cloudbreak scales to millions of accounts where others chose to charge more for memory that was thought to be scarce.</p><p>This year — the crucible of the Solana network and open source project — brought with it significant advancements and milestones in the engineering realm. The start of 2020 marked the official soft launch of the Solana network, and before the end of Q1 in March, the Mainnet Beta network was officially initialized with the help of the worldwide validator community. Since then, the network has processed over 8 billion transactions, and now has over 300 validators upholding the network across the globe.</p><p>Solana&nbsp;<a href=\"https://github.com/solana-labs/solana/releases/tag/v1.1.0?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">version 1.1</a>&nbsp;introduced myriad bug fixes, documentation improvements, and command-line upgrades.</p><p><a href=\"https://github.com/solana-labs/solana/releases/tag/v1.2.0?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Version 1.2</a>&nbsp;added support for cross-program invocations that allow on-chain programs to issue synchronous processed instructions to other programs, as well as optimistic confirmation.</p><p>We officially launched our token standard, the Solana Program Library, in&nbsp;<a href=\"https://github.com/solana-labs/solana/releases/tag/v1.3.0?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">version 1.3</a>.</p><p>In&nbsp;<a href=\"https://github.com/solana-labs/solana/releases/tag/v1.4.0?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">version 1.4</a>, gossip and account operation improvements were welcomed to the cluster, alongside the persistence of `solana-validator`’s voting record.</p><p>In November, the&nbsp;<a href=\"https://github.com/solana-labs/solana-program-library/releases/tag/feature-proposal-v1.0.0?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SPL Feature Proposal Program</a>&nbsp;was released, which provides a workflow for the activation of Solana network features through community vote based on validator stake weight. Testing for this upcoming feature is underway on the testnet and devnet clusters.</p><p>And in December, the Feature Proposal Program activated pico-inflation on mainnet (0.01%). Full inflation is scheduled to arrive in early 2021!</p><p>These are just a few critical updates from across the Solana developer ecosystem. We launched new documentation, continued to improve examples/tutorials, and built out comprehensive dev tooling for use in a variety of applications. We have a long way to go to fulfill our mission, but 2020 was certainly a year to celebrate. Here’s to the progress we made this year and cheers to where we’ll head in the next one.</p><h2><strong>Community Update</strong></h2><p>The ambition and strength of the Solana community were on full display in 2020. Despite not being able to gather in person the bonds and motivation continued to grow through online meetups, virtual events, and extensive region-specific AMAs and online gatherings. If you are looking for daily updates, the Solana&nbsp;<a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;is a great place to start, followed by joining the Solana English&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;group. From the main Telegram group, you can find links to over 10 language-specific groups to meet other Solana enthusiasts in your local area.</p><p>Collectively, the community is grown to over 600,000 people this year spanning across every continent. As the blockchain space continues to grow, localization is another focus for Solana, ensuring activities and materials are available in every language for any user who wants to learn more about the protocol and test out the apps. If you are interested in getting more involved, you can apply for the&nbsp;<a href=\"http://solana.com/collective?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Collective</a>.</p><h2><strong>Closing Notes</strong></h2><p>What a crazy year we all had. As we reflect back on the progress Solana has made over the course of 2020, we are optimistic for a prosperous 2021 with continued growth throughout the Solana ecosystem. We expect to see hundreds of new applications launched, improved decentralization of the network, an acceleration of community governance initiatives, and much more.</p><p>As this mailing list continues to grow, it’s essential that Solana is only bringing the highest quality emails to your inbox. If you have any comments or questions, please respond to this email with your thoughts.</p><p>We also provide more frequent updates via Blockfolio Signal — only holders of $SOL can receive these special updates.</p><p>Make sure to follow us on our various social channels below to receive daily updates on what’s going on in the Solana ecosystem.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockfolio</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcc0c091f7894402c96b3cb55e0ae6238",
+  "lastUpdated": 1696416439991,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c29753d9495040a289f4c5c0cd376379",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687593948246,
+  "@originId": "c29753d9495040a289f4c5c0cd376379",
+  "testRatio": 1,
+  "createdDate": 1687362652502,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=c29753d9495040a289f4c5c0cd376379&builder.overrides.c29753d9495040a289f4c5c0cd376379=c29753d9495040a289f4c5c0cd376379&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Year In Review 2020",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

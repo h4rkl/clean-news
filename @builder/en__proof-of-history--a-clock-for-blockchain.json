@@ -1,0 +1,998 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "image": "",
+    "inputs": [],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "cssCode": "/*\n* Custom CSS styles\n*\n* Global by default, but use `&` to scope to just this content, e.g.\n*\n*   & .foo {\n*     color: 'red'\n*   }\n*/\n",
+    "title": "Proof of History: A Clock for Blockchain",
+    "twitterMeta": {
+      "twitterTitle": "Proof of History: A Clock for Blockchain",
+      "twitterDescription": "\nA high-level explanation of Solana’s core innovation\n",
+      "twitterImage": null
+    },
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_21b32d99b3784eccb3e484eab0b0a3ba"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f7eb7b2117214a3d93bfe643270da5f2"
+        }
+      }
+    ],
+    "datePublished": 1524034800000,
+    "intro": "\nA high-level explanation of Solana’s core innovation\n",
+    "publishedDate": "Wed Apr 18 2018 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Proof of History: A Clock for Blockchain",
+      "ogUrl": "https://www.solana.com/blog/proof-of-history--a-clock-for-blockchain",
+      "ogDescription": "\nA high-level explanation of Solana’s core innovation\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Proof of History: A Clock for Blockchain",
+      "noFollow": false,
+      "seoDescription": "\nA high-level explanation of Solana’s core innovation\n",
+      "seoTitle": "Proof of History: A Clock for Blockchain",
+      "noIndex": false
+    },
+    "slug": "proof-of-history--a-clock-for-blockchain",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-611abcea0bc0470383deb88e44d29360",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2591c5ace8a44ea49229229b17a4e23a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>A high-level explanation of&nbsp;</strong><a href=\"https://solana.com/?utm_source=medium&amp;utm_campaign=proof_of_history\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana</strong></a><strong>’s core innovation</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e630d31cffef4deaa2f6e990a2c63a66",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fefa102f3c54c4e3fad6d72422ce86b8c?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fefa102f3c54c4e3fad6d72422ce86b8c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fefa102f3c54c4e3fad6d72422ce86b8c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fefa102f3c54c4e3fad6d72422ce86b8c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fefa102f3c54c4e3fad6d72422ce86b8c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fefa102f3c54c4e3fad6d72422ce86b8c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fefa102f3c54c4e3fad6d72422ce86b8c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fefa102f3c54c4e3fad6d72422ce86b8c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fefa102f3c54c4e3fad6d72422ce86b8c?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fefa102f3c54c4e3fad6d72422ce86b8c?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "400px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-453fc75a797241f699faa5f2e12c3b56",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana is the most performant permissionless blockchain in the world. On current iterations of the Solana Testnet, a network of 200 physically distinct nodes supports a sustained throughput of more than 50,000 transactions per second when running with GPUs. Achieving as such requires the implementation of several optimizations and new technologies, and the result is a breakthrough in network capacity that signals a new phase in blockchain development.</p><h3><strong>There are 8 key innovations that make the Solana network possible:</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b3040b482ef74039935af40ec12a2d43",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd886672951d4b8f840ea8213ce45673?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.067,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 80,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd886672951d4b8f840ea8213ce45673?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd886672951d4b8f840ea8213ce45673?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd886672951d4b8f840ea8213ce45673?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd886672951d4b8f840ea8213ce45673?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd886672951d4b8f840ea8213ce45673?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd886672951d4b8f840ea8213ce45673?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd886672951d4b8f840ea8213ce45673?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd886672951d4b8f840ea8213ce45673?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd886672951d4b8f840ea8213ce45673?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fa26c4bf71874d03b932e5c9aec22d3d",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff1857301a6144f748bb449b72c83c715?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.067,
+                "lockAspectRatio": false,
+                "height": 80,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff1857301a6144f748bb449b72c83c715?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff1857301a6144f748bb449b72c83c715?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff1857301a6144f748bb449b72c83c715?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff1857301a6144f748bb449b72c83c715?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff1857301a6144f748bb449b72c83c715?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff1857301a6144f748bb449b72c83c715?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff1857301a6144f748bb449b72c83c715?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff1857301a6144f748bb449b72c83c715?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff1857301a6144f748bb449b72c83c715?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-7734978a7e6b487da7a009a3319bddf0",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>One of the most difficult problems in distributed systems is agreement on time. In fact, some&nbsp;<a href=\"https://grisha.org/blog/2018/01/23/explaining-proof-of-work/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">argue</a>&nbsp;that Bitcoin’s Proof of Work algorithm’s most&nbsp;essential&nbsp;feature is functioning as a decentralized clock for the system. At&nbsp;<a href=\"https://solana.com/?utm_source=medium&amp;utm_campaign=proof_of_history\" rel=\"noopener noreferrer\" target=\"_blank\">Solana</a>, we believe&nbsp;<strong>Proof of History</strong>&nbsp;provides this solution and we’ve built a blockchain based on it.</p><p>Decentralized networks have solved this problem with trusted, centralized timing solutions. For example,&nbsp;<a href=\"https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Google’s Spanner&nbsp;</a>uses synchronized atomic clocks between its data centers. Google’s engineers synchronize these clocks to a very high precision and constantly maintain them.</p><p>This problem is even harder in adversarial systems like blockchain. Nodes in the network can’t trust an external source of time or any timestamp that appears in a message.&nbsp;<a href=\"https://www.hederahashgraph.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Hashgraph</a>&nbsp;for example, solves this problem with a “median” timestamp. Each message that is seen by the network is signed and timestamped by a supermajority of the network. The median timestamp for the message is what Hashgraph calls “fair” ordering. Each message has to travel to the supermajority of the nodes in the system, then after the message collects enough signatures, the entire set needs to be propagated to the entire network. As you can imagine, this is really&nbsp;slow.</p><p>What if you could simply trust the timestamp that is encoded into the message? An enormous wealth of distributed systems optimizations would suddenly be at your disposal. E.g.</p><p>“Synchronized clocks are interesting because they can be used to improve the performance of distributed algorithms. They make it possible to replace communication with local computation.”—<a href=\"http://www.dainf.cefetpr.br/~tacla/SDII/PracticalUseOfClocks.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;Liskov, B. Practical uses of synchronized clocks in distributed systems</a></p><p>In our case this means a high throughput, high performance blockchain</p><h2><strong>Proof of&nbsp;History</strong></h2>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e7bd4627259440ffbb3ef9efdc4d7a44",
+                "component": {
+                  "name": "Custom Code",
+                  "options": {
+                    "code": "<iframe src=\"https://www.youtube.com/embed/rywOYfGu4EA?feature=oembed\" width=\"700\" height=\"393\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+                    "scriptsClientOnly": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-9ce0457dca324404ba49399b918e4090",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p><span style=\"font-size: 20px;\">What if instead of trusting the timestamp you could prove that the message occured sometime before and after an event? When you take a photograph with the cover of New York Times, you are creating a proof that your photograph was taken after that newspaper was published, or you have some way to influence what New York Times publishes. With Proof of History, you can create a historical record that proves that an event has occurred at a specific moment in time.</span></p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-55fd53dfca7343ce9fa11ef13987e987",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa5aa80e2c4464e509118436b7db25b01?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 1.192,
+                    "lockAspectRatio": false,
+                    "height": 429,
+                    "width": 360,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa5aa80e2c4464e509118436b7db25b01?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa5aa80e2c4464e509118436b7db25b01?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa5aa80e2c4464e509118436b7db25b01?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa5aa80e2c4464e509118436b7db25b01?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa5aa80e2c4464e509118436b7db25b01?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa5aa80e2c4464e509118436b7db25b01?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa5aa80e2c4464e509118436b7db25b01?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa5aa80e2c4464e509118436b7db25b01?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa5aa80e2c4464e509118436b7db25b01?width=542 542w",
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+                  }
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-3b98a0934b4e4f879c1259d908eae364",
+                    "component": {
+                      "name": "Text",
+                      "options": {
+                        "text": "Enter some text..."
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "marginTop": "20px",
+                        "lineHeight": "normal",
+                        "height": "auto"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "400px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-b30b02064cb1431abff78c46baf14989",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Proof of History Timestamps</p><p>The Proof of History is a high frequency&nbsp;<a href=\"https://www.youtube.com/watch?v=qUoagL7OZ1k&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Verifiable Delay Function</a>. A Verifiable Delay Function requires a specific number of sequential steps to evaluate, yet produces a unique output that can be efficiently and publicly verified.</p><p>Our specific implementation uses a sequential pre-image resistant hash that runs over itself continuously with the previous output used as the next input. Periodically the count and the current output are recorded.</p><p>For a SHA256 hash function, this process is impossible to parallelize without a brute force attack using 2¹²⁸ cores.</p><p>We can then be certain that real time has passed between each counter as it was generated, and that the recorded order each counter is the same as it was in real time.</p><h3><strong>Upper bound on&nbsp;Time</strong></h3>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-71117dd5bd21484c92b8fa52ba2c10ce",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fed0c0cb6a95f4e00a4999a436301ad84?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.468,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                    "height": 374,
+                    "width": 800,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fed0c0cb6a95f4e00a4999a436301ad84?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fed0c0cb6a95f4e00a4999a436301ad84?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fed0c0cb6a95f4e00a4999a436301ad84?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fed0c0cb6a95f4e00a4999a436301ad84?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fed0c0cb6a95f4e00a4999a436301ad84?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fed0c0cb6a95f4e00a4999a436301ad84?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fed0c0cb6a95f4e00a4999a436301ad84?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fed0c0cb6a95f4e00a4999a436301ad84?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fed0c0cb6a95f4e00a4999a436301ad84?width=542 542w"
+                  }
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-9209731349d749fb9a085b8d91579589",
+                    "component": {
+                      "name": "Text",
+                      "options": {
+                        "text": "Enter some text..."
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "marginTop": "20px",
+                        "lineHeight": "normal",
+                        "height": "auto"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "400px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c4ccf60c6b3f487aa56cc48ed11b8c19",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Recording messages into a Proof of History&nbsp;sequence</p><p>Data can be inserted into the sequence by appending the hash of the data to the previous generated state. The&nbsp;<strong>state</strong>,&nbsp;<strong>input data</strong>, and&nbsp;<strong>count</strong>&nbsp;are all published. Appending the input causes all future output to change unpredictably. It is still impossible to parallelize, and as long as hash function is pre-image and collision resistant, it is impossible to create an input that would generate a desired hash in the future, or create an alternative history with the same hashes. We can prove that time passed between any two append operations. We can prove that the data was created sometime before it was appended. Just like we know that the events published in the New York Times occurred before the newspaper was written.</p><h3><strong>Lower bound on&nbsp;Time</strong></h3>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-cc140a5cafe345858907ca9db42658fe",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd705f42b37164d2c9d46ce32b0108fc2?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.561,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                    "height": 449,
+                    "width": 800,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd705f42b37164d2c9d46ce32b0108fc2?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd705f42b37164d2c9d46ce32b0108fc2?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd705f42b37164d2c9d46ce32b0108fc2?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd705f42b37164d2c9d46ce32b0108fc2?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd705f42b37164d2c9d46ce32b0108fc2?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd705f42b37164d2c9d46ce32b0108fc2?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd705f42b37164d2c9d46ce32b0108fc2?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd705f42b37164d2c9d46ce32b0108fc2?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd705f42b37164d2c9d46ce32b0108fc2?width=542 542w"
+                  }
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-f29eeca8c8614fdfafd0c9a3ff25508d",
+                    "component": {
+                      "name": "Text",
+                      "options": {
+                        "text": "Enter some text..."
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "marginTop": "20px",
+                        "lineHeight": "normal",
+                        "height": "auto"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "400px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-723900ec44574ba6a5be0409c0b7a9d4",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Lower bound on time with Proof of&nbsp;History</p><p>Inputs into Proof of History can have references back to Proof of History itself. The back reference could be inserted as part of a signed message with the users signature, so it cannot be modified without the users private key. This is just like taking a photograph with the New York Times newspaper in the background. Because this message contains&nbsp;<strong>0xdeadc0de</strong>&nbsp;hash we know it was generated after count&nbsp;<strong>510144806912</strong>&nbsp;was created.</p><p>But since the message is also inserted back into Proof of History stream, it is as if you took a photo with the New York Times in the background, and the next day the New York Times published that photo. We know that the content of that photo existed before and after a specific day.</p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-93f3cf29377e49b89b434310261fbc12",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F797873bb6d894da8a880720aababeb70?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.067,
+                    "lockAspectRatio": false,
+                    "height": 80,
+                    "width": 1200,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F797873bb6d894da8a880720aababeb70?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F797873bb6d894da8a880720aababeb70?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F797873bb6d894da8a880720aababeb70?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F797873bb6d894da8a880720aababeb70?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F797873bb6d894da8a880720aababeb70?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F797873bb6d894da8a880720aababeb70?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F797873bb6d894da8a880720aababeb70?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F797873bb6d894da8a880720aababeb70?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F797873bb6d894da8a880720aababeb70?width=542 542w",
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-82846b6e06d04a04a139236f2fb15506",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<h3><strong>Verification</strong></h3><p>While the recorded sequence can only be generated on a single CPU core, the output can be verified in parallel.</p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-87fe188aa08348a5a32ff412d79388fd",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67c1b1b13dd34675a30752fad70c7759?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.323,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                    "height": 258,
+                    "width": 800,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67c1b1b13dd34675a30752fad70c7759?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67c1b1b13dd34675a30752fad70c7759?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67c1b1b13dd34675a30752fad70c7759?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67c1b1b13dd34675a30752fad70c7759?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67c1b1b13dd34675a30752fad70c7759?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67c1b1b13dd34675a30752fad70c7759?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67c1b1b13dd34675a30752fad70c7759?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67c1b1b13dd34675a30752fad70c7759?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67c1b1b13dd34675a30752fad70c7759?width=542 542w"
+                  }
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-17e2a1c910124c6db1d115b9d077398c",
+                    "component": {
+                      "name": "Text",
+                      "options": {
+                        "text": "Enter some text..."
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "marginTop": "20px",
+                        "lineHeight": "normal",
+                        "height": "auto"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "400px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-a9f70fd1299f426faf6820110b950a68",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Parallel Verification</p><p>Each recorded slice can be verified from start to finish on separate cores in 1/(number of cores) time it took to generate. So a modern day GPU with 4000 cores can verify a second in 0.25 milliseconds.</p><h2><strong>ASICS</strong></h2><p>Isn’t every CPU different, and some much faster then others? How do you actually trust that “time” as it’s generated by our SHA256 loop is accurate?</p><p>This topic deserves its own article, but long story short is that we don’t much care if some CPUs are faster then others, and if an ASIC can be faster then the CPUs available to the network. The most important thing is that there is a finite bound on how much faster an ASIC can get.</p><p>We are using SHA256, and thanks to Bitcoin there has been significant research in making this cryptographic hash function fast. This function is impossible to speed up by using a larger die area, like a Look Up Table, or unrolling it without impact to clock speed. Both Intel and AMD are releasing consumer chips that can do a full round of SHA256 in 1.75 cycles.</p><p>Because of this, we have pretty good certainty that a custom ASIC will not be 100x faster, let alone 1000x, and most likey will be within 30% of what is available to the network. We can construct protocols that exploit this bound and only allow an attacker a very limited, easily detected and shortlived oportunity for a denial of service attack. More on that in the next article!</p><h2><strong>Code</strong></h2><p><a href=\"https://github.com/solana-labs/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>solana-labs/solana</strong></a></p><p><a href=\"https://github.com/solana-labs/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">solana — High Performance Blockchaingithub.com</a></p><p>If you like rust and cuda, and want to build the worlds fastest blockchain please reach out to us&nbsp;<a href=\"http://hello@solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">hello@solana.com</a></p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-7e3f212d87f742bb988c07cb5eed6b0a",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ee41cb5122448cb909c6173890fbc1c?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.067,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                    "height": 80,
+                    "width": 1200,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ee41cb5122448cb909c6173890fbc1c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ee41cb5122448cb909c6173890fbc1c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ee41cb5122448cb909c6173890fbc1c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ee41cb5122448cb909c6173890fbc1c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ee41cb5122448cb909c6173890fbc1c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ee41cb5122448cb909c6173890fbc1c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ee41cb5122448cb909c6173890fbc1c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ee41cb5122448cb909c6173890fbc1c?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4ee41cb5122448cb909c6173890fbc1c?width=542 542w"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e4b28df070634f408d3a4d07a0b91d39",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Solana’s implementation of Proof of History, alongside innovations like Tower BFT, Proof of Replication, and Gulf Stream combine to create the most performant blockchain in the world. Solana’s testnet is live today. You can see it at&nbsp;<a href=\"https://testnet.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://testnet.solana.com</a>. For cost purposes, we are only running a handful of nodes. However, we have spun it up on many instances to over 200 physically distinct nodes (not on shared hardware) across 23 data centers on AWS, GCE, and Azure for benchmarking.</p><p>The runtime is functioning today, and developers can deploy code on the testnow now. Developers can build smart contracts in C today, and we are aggressively working on the Rust toolchain. Rust will be the flagship language for Solana smart contract development. The&nbsp;<a href=\"https://github.com/solana-labs/solana-web3.js?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Rust toolchain is publicly available</a>&nbsp;as part of the Solana Javascript SDK, and we are further iterating on the Software Development Kit.</p><p>Solana will soon launch a public beta incentivizing validators to run nodes via&nbsp;<a href=\"https://solana.ghost.io/solana-labs/solana-announces-tour-de-sol-an-incentivized-testnet-event-b26372a58a51\" rel=\"noopener noreferrer\" target=\"_blank\">Tour de SOL</a> — analogous to Cosmos’s Game of Stakes — that challenges the public at large to test the limits of the Solana network while earning tokens for doing so.</p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-59368d4750f44effb6dfafd85be2a22f",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F667673997b3449b19eccf84555597b4b?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.067,
+                    "lockAspectRatio": false,
+                    "height": 80,
+                    "width": 1200,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F667673997b3449b19eccf84555597b4b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F667673997b3449b19eccf84555597b4b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F667673997b3449b19eccf84555597b4b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F667673997b3449b19eccf84555597b4b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F667673997b3449b19eccf84555597b4b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F667673997b3449b19eccf84555597b4b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F667673997b3449b19eccf84555597b4b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F667673997b3449b19eccf84555597b4b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F667673997b3449b19eccf84555597b4b?width=542 542w",
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-cfa7fd0a8fe94e10b983ff9b3fc30326",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ca233229d1e4f6eab9f0a2fcbde26c1?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.067,
+                    "lockAspectRatio": false,
+                    "height": 80,
+                    "width": 1200,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ca233229d1e4f6eab9f0a2fcbde26c1?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ca233229d1e4f6eab9f0a2fcbde26c1?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ca233229d1e4f6eab9f0a2fcbde26c1?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ca233229d1e4f6eab9f0a2fcbde26c1?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ca233229d1e4f6eab9f0a2fcbde26c1?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ca233229d1e4f6eab9f0a2fcbde26c1?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ca233229d1e4f6eab9f0a2fcbde26c1?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ca233229d1e4f6eab9f0a2fcbde26c1?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ca233229d1e4f6eab9f0a2fcbde26c1?width=542 542w",
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e6c6ab633a53457584defa96d100f92b",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbe8e5a8e15514ab2836e36494a6a8573?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.067,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                    "height": 80,
+                    "width": 1200,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbe8e5a8e15514ab2836e36494a6a8573?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbe8e5a8e15514ab2836e36494a6a8573?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbe8e5a8e15514ab2836e36494a6a8573?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbe8e5a8e15514ab2836e36494a6a8573?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbe8e5a8e15514ab2836e36494a6a8573?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbe8e5a8e15514ab2836e36494a6a8573?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbe8e5a8e15514ab2836e36494a6a8573?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbe8e5a8e15514ab2836e36494a6a8573?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbe8e5a8e15514ab2836e36494a6a8573?width=542 542w"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-cea3d84bf1dc4745878114b57593718a",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d672392b426400c9660b906f4b42a6d?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.21,
+                    "lockAspectRatio": false,
+                    "height": 84,
+                    "width": 400,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d672392b426400c9660b906f4b42a6d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d672392b426400c9660b906f4b42a6d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d672392b426400c9660b906f4b42a6d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d672392b426400c9660b906f4b42a6d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d672392b426400c9660b906f4b42a6d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d672392b426400c9660b906f4b42a6d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d672392b426400c9660b906f4b42a6d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d672392b426400c9660b906f4b42a6d?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7d672392b426400c9660b906f4b42a6d?width=542 542w",
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c462185e87da43b095a66bfbd926762d",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F51dde4cd1b98463ca7d2213da8bd02d4?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.21,
+                    "lockAspectRatio": false,
+                    "height": 84,
+                    "width": 400,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F51dde4cd1b98463ca7d2213da8bd02d4?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F51dde4cd1b98463ca7d2213da8bd02d4?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F51dde4cd1b98463ca7d2213da8bd02d4?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F51dde4cd1b98463ca7d2213da8bd02d4?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F51dde4cd1b98463ca7d2213da8bd02d4?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F51dde4cd1b98463ca7d2213da8bd02d4?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F51dde4cd1b98463ca7d2213da8bd02d4?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F51dde4cd1b98463ca7d2213da8bd02d4?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F51dde4cd1b98463ca7d2213da8bd02d4?width=542 542w",
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-520bceb954cc4171830411be57dd0ad2",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3acd8a3dbe5b4a2483868d96a7b1f971?width=680",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.21,
+                    "lockAspectRatio": false,
+                    "height": 84,
+                    "width": 400,
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3acd8a3dbe5b4a2483868d96a7b1f971?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3acd8a3dbe5b4a2483868d96a7b1f971?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3acd8a3dbe5b4a2483868d96a7b1f971?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3acd8a3dbe5b4a2483868d96a7b1f971?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3acd8a3dbe5b4a2483868d96a7b1f971?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3acd8a3dbe5b4a2483868d96a7b1f971?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3acd8a3dbe5b4a2483868d96a7b1f971?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3acd8a3dbe5b4a2483868d96a7b1f971?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3acd8a3dbe5b4a2483868d96a7b1f971?width=542 542w",
+                    "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "400px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0a4401941ebe476aab3e24acaeb20a14",
+  "lastUpdated": 1694189922625,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc418ef1dd5441d286087383d30bd51f",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687377461974,
+  "@originId": "cc418ef1dd5441d286087383d30bd51f",
+  "testRatio": 1,
+  "createdDate": 1687362750702,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=cc418ef1dd5441d286087383d30bd51f&builder.overrides.cc418ef1dd5441d286087383d30bd51f=cc418ef1dd5441d286087383d30bd51f&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Proof of History: A Clock for Blockchain",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

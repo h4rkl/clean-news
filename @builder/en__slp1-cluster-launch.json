@@ -1,0 +1,189 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1580371200000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nWe’re excited to announce the successful launch of our “Soft Launch” cluster. An incentivized cluster for development and partner…\n",
+    "publishedDate": "Thu Jan 30 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "openGraph": {
+      "ogTitle": "SLP1 Cluster Launch",
+      "ogUrl": "https://www.solana.com/blog/slp1-cluster-launch",
+      "ogDescription": "\nWe’re excited to announce the successful launch of our “Soft Launch” cluster. An incentivized cluster for development and partner…\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "SLP1 Cluster Launch",
+    "seo": {
+      "internalName": "SLP1 Cluster Launch",
+      "noFollow": false,
+      "seoDescription": "\nWe’re excited to announce the successful launch of our “Soft Launch” cluster. An incentivized cluster for development and partner…\n",
+      "seoTitle": "SLP1 Cluster Launch",
+      "noIndex": false
+    },
+    "twitterMeta": {
+      "twitterTitle": "SLP1 Cluster Launch",
+      "twitterDescription": "\nWe’re excited to announce the successful launch of our “Soft Launch” cluster. An incentivized cluster for development and partner…\n",
+      "twitterImage": null
+    },
+    "slug": "slp1-cluster-launch",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_ee69af2e6edf4e7bbfcf5a40deea17cf"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e02b457584cf46ed86a51ffc737c451e"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_0efeeff01d314e61bdef318830eb1084"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6e486fb681614dda8835548c251fe8e7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-b8958a28354e42bbb6257c746cdf8134",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f5b7da3fa1b24c88a852f0e4ee13cf00",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf97250516a74178b58ef276f80282ef?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf97250516a74178b58ef276f80282ef?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf97250516a74178b58ef276f80282ef?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf97250516a74178b58ef276f80282ef?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf97250516a74178b58ef276f80282ef?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf97250516a74178b58ef276f80282ef?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf97250516a74178b58ef276f80282ef?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf97250516a74178b58ef276f80282ef?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf97250516a74178b58ef276f80282ef?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faf97250516a74178b58ef276f80282ef?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-102f51176f4540028e2c867f74cc59d5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>We’re excited to announce the&nbsp;<a href=\"https://stakingfacilities.com/solana-validators?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">successful launch</a>&nbsp;of our “Soft Launch”&nbsp;<a href=\"https://docs.solana.com/book/terminology?ref=solana.ghost.io#cluster\" rel=\"noopener noreferrer\" target=\"_blank\">cluster</a>. An incentivized cluster for development and partner integration. This cluster will run in parallel and separate to Tour de SOL (TdS). While TdS was and still is a critical part of stress testing our cluster, there are many elements involved in launching a functioning cluster which falls outside of that immediate scope. To that end, we wanted to simulate the genesis launch process. The launch of the “<a href=\"https://stakingfacilities.com/solana-validators?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Soft Launch Phase 1</a>” (SLP1) cluster occurred in December 2019 together with a small set of Validators. Following on from the success of that, a week ago we launched the “Soft Launch Phase 1.1” (SLP1.1)cluster with a broader set of Validators.</p><p>What will be unique about this cluster, is that it is designed to be a persistent cluster upon which we’ll gradually add features and upgrade over time. While the blockchain industry has typically defined cluster launches as a distinct 0 to 1 phase from testnet to mainnet we’ve decided to take a slightly different approach as the SLP cluster will eventually evolve into the main Solana cluster, but mainnet is not defined by any one moment. While this may seem a little confusing and unnecessarily complex at first, from a development, security and integration perspective this is extremely beneficial for several reasons:</p><ol><li>It provides an opportunity for us to not only stress-test the cluster under high-load but short bursts events like Tour de SOL, but also provides an avenue for us to monitor the cluster for issues over longer periods of time as some issues take time to manifest.</li><li>It provides an opportunity not only for us internally to familiarise and test out the features associated with a real Genesis launch, but also for our community to do the same. This isn’t limited to simply on-boarding Validators onto the cluster, but working together to either restart the cluster or upgrade the cluster</li><li>Importantly, it also allows our early partners to begin integrating into the cluster, a 3rd party cluster run by a set of external Validators where they can properly simulate how the application will perform under live conditions, to better understand the impact it has on their end-users experience</li></ol><p>At this stage the SLP cluster does not have inflation or rewards enabled yet, instead, Validators are compensated via performance contracts based on their uptime, reviewed on a monthly basis.</p><p>The process for our SLP1.1 cluster launch last week was orchestrated through 2 separate video calls with registrants for the event. Together with the validators, we ran through the process for the coming online, manually delegating SOLs into their accounts and staking them. Thanks to the team at Staking Facilities, who built an explorer for the cluster, we were able to watch the cluster come alive in real-time. Now a week into the cluster launch we have 58+ Validators on the cluster, averaging a whopping 500ms block times.</p><p>In the next few weeks, our immediate focus will be to upgrade from SLP1.1 to what we’re calling the Global Cluster (GC), specifically focusing on security, slashing and general polish.</p><p>We expect there to be hurdles during the early stages of SLP1.1, such as the cluster falling over — which in fact happened just a few days ago, but has now been patched and the cluster restarted, marking our first successful cluster upgrade with a 3rd party cluster! However, we’re really excited to have taken this first step towards Solana’s cluster launch.</p><p>As always, we’re extremely grateful for the amount of support and interest we’re seeing from the community and we look forward to undertaking this next chapter together.</p><p><strong>Additional resources:</strong></p><p>Cluster:&nbsp;<a href=\"https://stakingfacilities.com/solana-validators?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://stakingfacilities.com/solana-validators</a></p><p>Forum:&nbsp;<a href=\"https://forums.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://forums.solana.com/</a></p><p>Discord:&nbsp;<a href=\"http://solana.com/discord?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">http://solana.com/discord</a></p><p><strong>Follow us on our socials:</strong></p><p>Twitter:&nbsp;<a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://twitter.com/solana</a></p><p>Telegram:&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://t.me/solanaio</a></p><p>Youtube:&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.youtube.com/c/solanalabs</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6e20a0d6f8de45c7aedc3b33a37fb1bd",
+  "lastUpdated": 1694189898343,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5e5924078720474aa4f45ff332ff004b",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687504365436,
+  "@originId": "5e5924078720474aa4f45ff332ff004b",
+  "testRatio": 1,
+  "createdDate": 1687362737020,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=5e5924078720474aa4f45ff332ff004b&builder.overrides.5e5924078720474aa4f45ff332ff004b=5e5924078720474aa4f45ff332ff004b&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "SLP1 Cluster Launch",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

@@ -1,0 +1,171 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1642579200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71b257c079434592b6725b73d83c6f8e",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Bringing Solana into the real world, one city at a time.",
+    "publishedDate": "Wed Jan 19 2022 13:00:00 GMT+0500 (Pakistan Standard Time)",
+    "title": "Introducing the Solana Hacker House Inaugural World Tour",
+    "openGraph": {
+      "ogTitle": "Introducing the Solana Hacker House Inaugural World Tour",
+      "ogUrl": "https://www.solana.com/blog/solana-hacker-house-world-tour",
+      "ogDescription": "Bringing Solana into the real world, one city at a time.",
+      "ogImage": "https://solana.ghost.io/content/images/2022/01/hacker-house-blog-post.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Introducing the Solana Hacker House Inaugural World Tour",
+      "noFollow": false,
+      "seoDescription": "Bringing Solana into the real world, one city at a time.",
+      "seoTitle": "Introducing the Solana Hacker House Inaugural World Tour",
+      "noIndex": false
+    },
+    "twitterMeta": {
+      "twitterTitle": "Introducing the Solana Hacker House Inaugural World Tour",
+      "twitterImage": "https://solana.ghost.io/content/images/2022/01/hacker-house-blog-post.png",
+      "twitterDescription": "Bringing Solana into the real world, one city at a time."
+    },
+    "slug": "solana-hacker-house-world-tour",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-a4c9611342d84f96a142ddd44ca93a31",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-12c53f88e6fc4053b23d93ddccb32691",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana builders are hitting the road — and you’re invited.</p><p>Come join some of the brightest minds at Solana Labs and the developers in your own community for the official Solana Hacker House World Tour, a series of six week-long hacker houses around the globe.</p><p>Each Hacker House will give builders a place to work, find collaborators, and learn from some of the greats in the Solana ecosystem. You’ll have all the essentials: good WiFi, food, power, and (of course) swag.</p><p>If you’re interested in joining a Solana Hacker House, you must be a developer and register ahead of time. Each house has limited capacity, so submit your application early!</p><p>The world tour includes:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-763730291fa04e49b63d316ae5e743f7",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"width: 90%\">\n<tbody>\n<tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Los Angeles, California, USA</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>1-5 February 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/la-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n    <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Seattle, Washington, USA</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>9-13 February 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/seattle-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n    <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Singapore</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>15-20 February 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/singapore-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n        <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Dubai, UAE</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>15-20 February 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/dubai-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n    <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Moscow, Russia</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>22-27 February 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/moscow-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n      <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Hong Kong</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>28 February-6 March 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/hk-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n    <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Prague, Czechia</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>1-6 March 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/prague-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n    </tbody>\n</table>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-08e92ae8495443f3a4a550f84866aebd",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>If this World Tour isn’t hitting your city, stay tuned — more events are coming soon.</p><p>LFG. See you there!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fad203fb5628a4ef693acc807641c2ac7",
+  "lastUpdated": 1694189903457,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_7b32835712b64977b5b8d8c2e0aef0eb",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687622398204,
+  "@originId": "7b32835712b64977b5b8d8c2e0aef0eb",
+  "testRatio": 1,
+  "createdDate": 1687362552083,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=7b32835712b64977b5b8d8c2e0aef0eb&builder.overrides.7b32835712b64977b5b8d8c2e0aef0eb=7b32835712b64977b5b8d8c2e0aef0eb&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Introducing the Solana Hacker House Inaugural World Tour",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

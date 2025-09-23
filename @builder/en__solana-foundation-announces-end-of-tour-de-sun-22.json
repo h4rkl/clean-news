@@ -1,0 +1,234 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-foundation-announces-end-of-tour-de-sun-22",
+  "data": {
+    "datePublished": 1710792000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1874ed15459645e7b8f3afb21a38041f",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Read on about updates to validator programs.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1874ed15459645e7b8f3afb21a38041f",
+      "seoDescription": "Read on about updates to validator programs.",
+      "seoTitle": "Solana Foundation Announces End of Tour de Sun 22 Program"
+    },
+    "title": "Solana Foundation Announces End of Tour de Sun 22 Program",
+    "slug": "solana-foundation-announces-end-of-tour-de-sun-22",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-9996481b3e5a47799bd362d11a0bddb2",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-49be65b752ac41c0a560baefb340a60b",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The Solana Foundation is committed to supporting the security and evolution of the Solana network and the community of validator operators which power it.&nbsp;As the network and validator community continue to mature, the Foundation is also re-assessing its incentives and programs to help enable the next chapter of responsible growth. With recent changes to the Solana Foundation Delegation Program, the Foundation has determined that it is time to revisit — and rethink — testnet incentives.</p><p><strong>Therefore, the Solana Foundation is announcing the conclusion of the Tour de Sun 22 program, effective March 31, 2024, in favor of a more</strong><a href=\"https://solana.org/delegation-program\" rel=\"noopener noreferrer\" target=\"_blank\"> limited testnet incentive program</a> <strong>that is part of the Solana Foundation Delegation Program.</strong></p><p>Active participants in Tour de Sun 22 will remain eligible for the current incentive structure through the end of March, the final incentive payment for the program will be issued by April 8, 2024, and the program is now closed to new applicants. Outstanding support requests associated with incentives from previous months will be addressed by the end of the day on Friday, March 22, 2024.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3ef85ac719334ee9b07634a832294940",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Why is the Foundation making this change?</h2><p>Tour de Sun 22 was created to provide an incentivized testing ground for new validator operators to contribute to testnet.&nbsp;Participation in testnet has been (and continues to be) a requirement for any operators who wish to be considered for receiving a stake delegation from the Foundation on their mainnet beta validator.&nbsp;Tour de Sun 22 and the Foundation’s Delegation Program on mainnet beta were designed to exist in tandem, issues like excessive queue times have led us to revisit the usefulness of the current programs in today’s environment.</p><p>The Solana Foundation Delegation Program for mainnet validators has also recently been re-worked to provide better incentive alignments with the validator community and the decentralized network. The new <a href=\"https://solana.org/delegation-criteria\" rel=\"noopener noreferrer\" target=\"_blank\">Delegation Program criteria</a> provides time-limited support for a new validator’s voting costs, and provides a delegation from the Foundation based on the amount of external stake a node attracts. This encourages operators to seek external stake from third parties or stake pools, rather than rely heavily on the Foundation as their primary source of stake, which is not a healthy long-term behavior for the network.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-83cf36f2f9904bc181524b7d35303216",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Will there be any more testnet incentives?</h2><p>Yes.&nbsp; Any future testnet incentives for eligible participants will be issued as part of the Foundation’s Delegation Program, rather than as a standalone program.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e72ef7c97f2d4a048c04748230272228",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>What is the new testnet incentive as part of the Delegation Program?</h2><p>Any validator who signs up for the Delegation Program (or is already signed up) and is not yet eligible for receiving a delegation on their mainnet node may be eligible to receive up to $250 USD in value of 12-month locked SOL per month for up to a maximum of six months for operating a testnet node that meets <a href=\"https://solana.org/delegation-criteria#testnet-baseline-criteria\" rel=\"noopener noreferrer\" target=\"_blank\">the program’s performance criteria</a>.</p><p>This testnet incentive will be paid to eligible operators once the operator is eligible for receiving a mainnet delegation from the Foundation and <a href=\"https://solana.org/delegation-criteria#mainnet-residual-criteria\" rel=\"noopener noreferrer\" target=\"_blank\">runs a well performing node on mainnet</a> for ten epochs.&nbsp;Ongoing testnet participation is still required to continue to receive a stake delegation from the Foundation on mainnet, even after the six month testnet incentive expires.</p><p>This aligns positive long term testnet performance and operator behavior with those who are willing to contribute the time and effort to run a performant mainnet node, while still providing an onboarding path for new operators who want to learn on testnet for a few months before spinning up their production node on mainnet beta.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fbeb297834f64bb4ac0dc73d6d0e76c9",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>When will the new testnet incentive begin?</h2><p>Testnet incentive tracking as part of the Foundation’s Delegation program will begin on April 1, 2024.</p><p><strong>For current Tour de Sun 22 participants:</strong></p><p>If you are participating in Tour de Sun 22 and have signed up for the Delegation Program, but not are yet eligible for stake on your mainnet node from the Foundation, as long as your testnet node continues to have good performance, you will be eligible for the testnet incentive from April 1 until Sept. 1, 2024 (six months of eligibility).</p><p><strong>For validators receiving stake from the Delegation Program on mainnet:</strong></p><p>Node operators who are currently eligible or receiving some stake from the Foundation on mainnet, are not eligible for any testnet incentives after the final Tour de Sun 22 payment.&nbsp; Testnet operation and performance is still required to remain eligible for a delegation from the Foundation on mainnet.</p><p><strong>For new or future validators:</strong></p><p>Validators who sign up for the Delegation Program after April 1, 2024 will be eligible for testnet incentive for the six months from the date they sign up.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7050baa964244dc09acdb59cd8f197cd",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>I have other questions. Where can I learn more?</h2><p>Members of the Solana Foundation team will be hosting several AMA sessions in the coming days on the Solana Tech Discord, #tds22-and-server-program, to address any questions or concerns from our community.</p><ul><li>March 18, 2024, 20:00 UTC / 13:00 PST</li><li>March 19, 2024, 6:00 UTC / March 18, 2024 23:00 PST</li><li>March 19, 2024, 15:00 UTC / 8:00 PST</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b32a0f3edcfe47249b0f7ba82cb07d94",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  <em\n    >SOLANA FOUNDATION RESERVES THE RIGHT TO: (1) MODIFY OR TERMINATE ANY OR ALL\n    OF THE INCENTIVE PROGRAMS (THE “INCENTIVE PROGRAMS”) DISCUSSED HEREIN AT ANY\n    TIME; AND (2) TERMINATE ANY PARTICIPANT’S RIGHT TO PARTICIPATE IN ANY OF THE\n    INCENTIVE PROGRAMS AT ANY TIME FOR ANY REASON OR NO REASON AT ALL.</em\n  >\n</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faa8aeea0115441ec98029ad2a45e10c4",
+  "lastUpdated": 1710793031040,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_629220400d0e46a3850ffd75d283f219",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1710791943903,
+  "@originId": "629220400d0e46a3850ffd75d283f219",
+  "testRatio": 1,
+  "createdDate": 1710790313158,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-foundation-announces-end-of-tour-de-sun-22?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=629220400d0e46a3850ffd75d283f219&builder.overrides.629220400d0e46a3850ffd75d283f219=629220400d0e46a3850ffd75d283f219&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 7,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Foundation Announces End of Tour de Sun 22 Program",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

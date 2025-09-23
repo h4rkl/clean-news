@@ -1,0 +1,520 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/case-study-hivemapper",
+  "data": {
+    "datePublished": 1690203600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21501e07e05142c487522701c3d2d337",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Hivemapper takes advantage of Solana’s scalability to create a community-powered, incentive-driven map.",
+    "publishedDate": "Mon Jul 24 2023 08:00:00 GMT-0500 (Central Daylight Time)",
+    "title": "Case Study: Hivemapper decentralizes mapping with better real-time data and community incentives",
+    "slug": "case-study-hivemapper",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-58477f1b60a345fda61f745cc0e7401c",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-14b527b2541b4a8a8d2dcb628805119b",
+            "meta": {
+              "previousId": "builder-831b92e97c5040a68f1e29e19bd70111"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-5dd34da2b58640bca6fe38d4580a99c3",
+                "meta": {
+                  "previousId": "builder-5df3c7c89c504e12aa0909f7c8137c4d"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": "<p><strong>Highlights:﻿</strong></p><ul><li>Hivemapper uses the Solana blockchain to create a community-powered, incentive-driven online map.</li><li>Hivemapper takes advantage of state compression technology on Solana to bring fees down significantly and maintain the rewards cycle.</li><li>Decentralized physical infrastructure networks, powered by the blockchain, are finding a home on Solana.</li></ul>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                    "paddingTop": "20px",
+                    "paddingLeft": "20px",
+                    "paddingRight": "20px",
+                    "paddingBottom": "20px",
+                    "opacity": "1",
+                    "borderRadius": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-52579b4e773647e6982c3b656d841cbe",
+                "component": {
+                  "name": "Youtube",
+                  "options": {
+                    "url": "https://youtu.be/PzNXP0w4xqU?feature=shared"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "20px",
+                "paddingBottom": "20px",
+                "minHeight": "100px",
+                "backgroundColor": "rgba(2, 2, 2, 1)",
+                "borderRadius": "25px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-130af5d6d10042b9a9a4b81a88f49a60",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Ariel Seidman first fell in love with maps in 2004, when he started work as a Director of Product Management for Yahoo! Maps. “Maps are that rare combination of art and utility,” he wrote in a recent blog post. “They are both incredibly beautiful and useful. Billions of people rely on maps every day of their lives.”</p><p>“Through the ups and downs, my mission has always been the same: Build the world’s best map,” he wrote. With Hivemapper, he’s using web3 to make it happen. “We’re a team of builders who are focused on utility and actually building something for the real world and for real people. Our mission is to build the world’s freshest decentralized map with transparent and aligned incentives at a fraction of the cost.”</p><p>Seidman first founded Hivemapper in 2015 with an eye toward using drones to build better maps, then pivoted to using dash cams instead. In November 2022, the company launched the Hivemapper Network: a user-driven global mapping network built on the Solana blockchain. Hivemapper’s users capture street-level imagery with the help of the company’s tailor-made dash cams, receiving HONEY tokens to incentivize data collection as they drive (and soon <a href=\"https://hivemapper.com/blog/Hivemapper's-Got-Talent/\" rel=\"noopener noreferrer\" target=\"_blank\">as they bike</a>). Hivemapper turns that crowdsourced data into a world map — one that’s constantly expanding and updating thanks to the flow of fresh data. Users can also earn tokens for providing quality assurance checks on routes mapped by others. In April, Hivemapper launched a simple game <a href=\"https://hivemapper.com/blog/hivemapper-map-ai-trainer-games-the-future-of-map-making/\" rel=\"noopener noreferrer\" target=\"_blank\">designed to help train map AI</a> to better recognize objects within images, providing another avenue for users to earn tokens. The network has already charted more than 2.4 million miles of unique roads.&nbsp;</p><p>“In the past, companies like Google have spent up to half a million dollars on dedicated mapping vehicles,” says Hivemapper’s Head of Operations Gabe Nelson. “It’s really expensive, and it’s also very centralized. The places that have good maps are determined by where those companies are willing to invest their resources. Meanwhile, people and businesses are relying on that data to make decisions, even when it’s really out of date.”&nbsp;&nbsp;</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-60ac7a7f52514e3cb778485a3761a8e8",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Hello! Use the editor to add your copy!"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-30fdde2d90884ed08beda8b3d34e66ea",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-5ecac99b6502499d9037ae1e947cc59e",
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<p>Hivemapper has tens of thousands — and soon, they hope, millions — of users who simply take images of the world as they drive around. And the recently announced <a href=\"https://solana.com/news/state-compression-compressed-nfts-solana\" rel=\"noopener noreferrer\" target=\"_blank\">state compression capabilities</a> on Solana are crucial for managing users at that scale, Nelson says.</p><p>“The inspiration of Hivemapper was to apply the principles of web3 and decentralization to the way that maps are collected,” Nelson says. “There are billions of people who travel throughout the world every day on cars, trucks, bikes, and motorcycles. And all of those people have the potential to collect data on the exact, current condition of all those roads. If a community wants a better map, they can go out and build it.\"</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "auto",
+                            "marginBottom": "auto"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-e5b5a16e26004faa997eb9b1bfbd0546",
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<p>\n  “The inspiration of Hivemapper was to apply the principles of web3 and\n  decentralization to the way that maps are collected,” Nelson says. “There are\n  billions of people who travel throughout the world every day on cars, trucks,\n  bikes, and motorcycles. And all of those people have the potential to collect\n  data on the exact, current condition of all those roads. If a community wants\n  a better map, they can go out and build it.\"\n</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ],
+                    "width": 33.333333
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-547ef08128a54e5aa2cf2298038958cf",
+                        "meta": {
+                          "previousId": "builder-36d010a424d844b98a74db6cec13865d"
+                        },
+                        "component": {
+                          "name": "Embed",
+                          "options": {
+                            "url": "https://twitter.com/aseidman/status/1645875578762072070?s=20",
+                            "content": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" align=\"center\"><p lang=\"en\" dir=\"ltr\">On the left is Google and the right is <a href=\"https://twitter.com/Hivemapper?ref_src=twsrc%5Etfw\">@Hivemapper</a> .<br><br>~10 yrs apart in Romania. <a href=\"https://t.co/VofBM91hZg\">pic.twitter.com/VofBM91hZg</a></p>&mdash; ariel seidman (@aseidman) <a href=\"https://twitter.com/aseidman/status/1645875578762072070?ref_src=twsrc%5Etfw\">April 11, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "auto",
+                            "paddingRight": "0px",
+                            "paddingBottom": "0px",
+                            "marginBottom": "auto"
+                          }
+                        }
+                      }
+                    ],
+                    "width": 66.666666
+                  }
+                ],
+                "space": 20,
+                "stackColumnsAt": "tablet",
+                "reverseColumnsWhenStacked": false
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "-1px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f5b2364582aa4b9985a1242371d0e81a",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The Hivemapper marketplace rewards contributors for collecting data and doing QA to confirm images collected by others. It then offers its data to consumers as an alternative to Google Maps API. Millions of companies rely on Google Maps API to power their location data, and the service’s prices have increased substantially in recent years. Hivemapper’s first target clients are large entities that can integrate multiple sources of road data — logistics and mapping companies who can use Hivemapper’s growing database to improve the coverage and freshness of their existing data. Once the network gets close to 100 percent coverage, Nelson says, they’ll be able to compete directly with existing map products — first for apps that use Google Maps API, and then for individuals. (While a Waze-esque consumer product is certainly a long-term goal, Nelson says, Hivemapper’s current focus is business to business.)&nbsp;</p><p>“There’s a lot of frustration with the with the high cost and the low freshness of the incumbent solutions in the market, and we see a real opportunity to use the power of decentralization to come into the market with something that really hits on the Achilles heel of those incumbent solutions, something that has lower collection costs and has higher freshness,” Nelson says.&nbsp;</p><h3>Using Solana to build community-powered infrastructure</h3><p>Hivemapper is part of a larger Decentralized Physical Infrastructure Networks (DePIN) movement, which aims to replace the many monopolies and centralized institutions that have become fixtures of industrialized society with more communal solutions.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b37ff12148284bee9808b7e82d28104a",
+            "meta": {
+              "previousId": "builder-f859f1c59198461cbce144e035c08256"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-0db95fea9acc446dbd31bc206da20e91",
+                "meta": {
+                  "previousId": "builder-068a8edf78314306939b3191437fda15"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12c2971dfd1c4a5faf76dced77d55a3b?width=1176",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.643,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 89vw, (max-width: 998px) 92vw, 84vw",
+                    "height": 1285,
+                    "width": 2000,
+                    "altText": "The Hivemapper S Dashcam",
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12c2971dfd1c4a5faf76dced77d55a3b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12c2971dfd1c4a5faf76dced77d55a3b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12c2971dfd1c4a5faf76dced77d55a3b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12c2971dfd1c4a5faf76dced77d55a3b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12c2971dfd1c4a5faf76dced77d55a3b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12c2971dfd1c4a5faf76dced77d55a3b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12c2971dfd1c4a5faf76dced77d55a3b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12c2971dfd1c4a5faf76dced77d55a3b?width=1176 1176w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12c2971dfd1c4a5faf76dced77d55a3b?width=566 566w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F12c2971dfd1c4a5faf76dced77d55a3b?width=910 910w"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-4450560792e345bd8861aa68bb06c785",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p><em>The Hivemapper Dashcam S. Courtesy: Hivemapper</em></p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "fontSize": "16px",
+                    "color": "rgba(155, 155, 155, 1)"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "20px",
+                "paddingBottom": "20px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5eb5a0326f3a455eb2e3708d734fda3b",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>“Decentralized infrastructure is basically a broad category of projects that are attempting to build real physical infrastructure networks, and are using token incentives in the blockchain to help get that going,” explains Kuleen Nikmar, an ecosystem development lead at the Solana Foundation. “If you’re trying to do something like build a new map, and you’re starting from zero, that’s going to take a huge amount of money and time and effort across the globe. A project like Hivemapper can say hey, set up some hardware and help us do this, and we’ll reward you. It’s proven to be pretty effective, and it’s a really compelling way to get over that cold start problem.”</p><p>One of the best known DePIN projects is <a href=\"https://solana.com/news/case-study-helium\" rel=\"noopener noreferrer\" target=\"_blank\">Helium</a>, which uses a decentralized global network of Hotspots to connect Internet of Things (IoT) devices. But other startups are working on decentralizing everything from the cloud to the power grid. In addition to being easier to get off the ground, Nikmar explains, DePIN projects have the potential to&nbsp;reward everyday people for helping to build the infrastructure they rely upon.</p><p>“If you think about maps as a concept, we’re literally talking about the world we all live in,” Nikmar says. “It seems really fitting to me that we should all contribute to our understanding of the world we live in collectively—and that if I contribute, then I should also get rewarded.”</p><p>In the four months since launching the network, Hivemapper has done more than 11 million transactions to reward users for map improvement and to burn tokens spent by companies that use the map data. Because QA testers can&nbsp;sign up from anywhere without participating in the dash cam data collection, the company has seen exponential growth&nbsp;in the scale of transactions. To do this, Hivemapper takes advantage of state compression, which <a href=\"https://solana.com/news/how-to-use-compressed-nfts-on-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">uses Merkle trees</a> to \"compress\" the verification of a data tree into a hash or fingerprint of its current state.&nbsp;</p><p>“The ability to compress those transactions with Merkle trees has been a huge enabler for us in terms of the cost and speed of maintaining that reward cycle,” Nelson says. Companies wishing to use Hivemapper’s maps will have to burn HONEY tokens, he explains, which will drive up their value and further incentivize dash cam users and QA testers to improve the map’s freshness.&nbsp;</p><p>“If we together can build an incredibly powerful map product for those end users, then those tokens are in high demand,” Nelson says. “It’s super early days. We've made amazing progress with more than three million miles of mapping, but we've got something like 40 million to go. We’ve got a long road ahead of us, but we’re focused on doing maps better than anyone has done them before.\"</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e2cf2cc9285f4b34874b10e296b1df00",
+            "meta": {
+              "previousId": "builder-edc70af5c55945fc93559f2dc11bbf46",
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "newsLetter": true,
+                "formId": "fdd4a0db-f4af-4b29-90f9-98b0556d4c89",
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Keep up to date."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Hear about the latest news in the Solana ecosystem. Sign up for the Solana Community Update.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Please submit a valid email address."
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "We've encountered an error. Please try again later."
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Thanks for joining this email list!"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0d4515fce7b4b0a800a3adad308ae7c",
+  "lastUpdated": 1718291882323,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_ec9264680c6748cf8aa01b7135af1b02",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1690219257544,
+  "@originId": "ec9264680c6748cf8aa01b7135af1b02",
+  "testRatio": 1,
+  "createdDate": 1689971487951,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/case-study-hivemapper?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2CeditLayouts%2CeditLayers&builder.user.role.name=Developer&builder.user.role.id=developer&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=ec9264680c6748cf8aa01b7135af1b02&builder.overrides.ec9264680c6748cf8aa01b7135af1b02=ec9264680c6748cf8aa01b7135af1b02&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 7,
+      "Youtube": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: Hivemapper",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

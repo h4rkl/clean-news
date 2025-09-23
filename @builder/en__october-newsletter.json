@@ -1,0 +1,382 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1604304000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa150c399f2bd42398140b5fd601b7dbc",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\n👽 Wormhole Bridge released connecting Ethereum with Solana\n🎧 Audius Brings Decentralized Music to Solana\n💲 USDC-SPL is live with $25M…\n",
+    "publishedDate": "Mon Nov 02 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "seo": {
+      "internalName": "October Newsletter",
+      "noFollow": false,
+      "seoDescription": "\n👽 Wormhole Bridge released connecting Ethereum with Solana\n🎧 Audius Brings Decentralized Music to Solana\n💲 USDC-SPL is live with $25M…\n",
+      "seoTitle": "October Newsletter",
+      "noIndex": false
+    },
+    "title": "October Newsletter",
+    "openGraph": {
+      "ogTitle": "October Newsletter",
+      "ogUrl": "https://www.solana.com/blog/october-newsletter",
+      "ogDescription": "\n👽 Wormhole Bridge released connecting Ethereum with Solana\n🎧 Audius Brings Decentralized Music to Solana\n💲 USDC-SPL is live with $25M…\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/October-Newsletter/1-BQA1tJ6rN6afHMcM5g9SgQ-3.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "October Newsletter",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/October-Newsletter/1-BQA1tJ6rN6afHMcM5g9SgQ-3.png",
+      "twitterDescription": "\n👽 Wormhole Bridge released connecting Ethereum with Solana\n🎧 Audius Brings Decentralized Music to Solana\n💲 USDC-SPL is live with $25M…\n"
+    },
+    "slug": "october-newsletter",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-9ce60ba83fee49eebfb0ccbcdc06143f",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-409b292ed4784243ab209755ab6cbdbf",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F535a7d3401e445dc85ce535ff2841223?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F535a7d3401e445dc85ce535ff2841223?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F535a7d3401e445dc85ce535ff2841223?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F535a7d3401e445dc85ce535ff2841223?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F535a7d3401e445dc85ce535ff2841223?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F535a7d3401e445dc85ce535ff2841223?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F535a7d3401e445dc85ce535ff2841223?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F535a7d3401e445dc85ce535ff2841223?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F535a7d3401e445dc85ce535ff2841223?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F535a7d3401e445dc85ce535ff2841223?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9bdd45bf275d4c848a5bd0e4d9646a26",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>👽 Wormhole Bridge released connecting Ethereum with Solana</p><p>🎧 Audius Brings Decentralized Music to Solana</p><p>💲 USDC-SPL is live with $25M already in circulation on Solana</p><p>🛠 Wormhole Hackathon Commences with 1,000+ builders participating</p><p>🖼 NFT Marketplace Launched on Serum</p><p>🎙 Wormhole Events with Compound, Aave, Curve, Balancer, and more</p><h2><strong>Wormhole — Solana/Ethereum Bridge</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1e183d4ac2f24ea584c02e787fe17fa8",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/o/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1887ca8b66df448f9434c48ce1531943%2Fcompressed?apiKey=ce0c7323a97a4d91bd0baa7490ec9139&token=1887ca8b66df448f9434c48ce1531943&alt=media&optimized=true",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.56,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 224,
+                "width": 400
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-94ba07fe7b8e4db992013100e86f0298",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In partnership with Certus One,&nbsp;<a href=\"https://medium.com/solana-labs/wormhole-solana-ethereum-bridge-d5502e944acb?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana announced Wormhole</a>, the first of many bi-directional cross-chain bridges on Solana. Wormhole connects Ethereum to enable ERC-20 tokens to be converted into SPL Tokens, the token standard of the Solana blockchain. Wormhole grants existing projects, platforms, and communities the ability to seamlessly move tokenized assets across blockchains to benefit from Solana’s high speed and low cost.<a href=\"https://medium.com/solana-labs/wormhole-solana-ethereum-bridge-d5502e944acb?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Learn More</strong></a></p><h2><strong>Audius Joins The Solana Ecosystem</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fd74d0405bec421f92fbb67c9bee2b2d",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7f53644082943db818e53010f23b5a0?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.5,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 400,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7f53644082943db818e53010f23b5a0?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7f53644082943db818e53010f23b5a0?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7f53644082943db818e53010f23b5a0?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7f53644082943db818e53010f23b5a0?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7f53644082943db818e53010f23b5a0?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7f53644082943db818e53010f23b5a0?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7f53644082943db818e53010f23b5a0?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7f53644082943db818e53010f23b5a0?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7f53644082943db818e53010f23b5a0?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b846e1422d0c4d5d93b907a29d325b41",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Audius is the latest project to announce their&nbsp;<a href=\"https://medium.com/audius/audius-selects-solana-to-scale-community-owned-music-streaming-8a868db644eb?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">move to Solana</a>. Audius is one of the most popular apps in the crypto space, and the Solana Foundation is excited to&nbsp;<a href=\"https://medium.com/solana-labs/audius-chooses-solana-to-scale-long-term-b945925709ea?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">welcome them to the ecosystem</a>&nbsp;and support their mission in providing a music streaming platform that puts the power back into the hands of content creators.</p><p>As Audius has grown, now with over 1 million monthly listeners, so has the gas fees and load times for users. To continue growing, the Audius team specced and built proofs of concept with over 20 layer 1 and layer 2 scaling solutions. After much research and testing, Audius selected Solana to scale to a mainstream, global audience.<a href=\"https://medium.com/audius/audius-selects-solana-to-scale-community-owned-music-streaming-8a868db644eb?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Read More</strong></a></p><h2><strong>USDC is now Live on&nbsp;Solana</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cd17169d016e41c489a4b2c1e1d4f969",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdebaf61c72b344a1b40de972b0b25312?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.5,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 400,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdebaf61c72b344a1b40de972b0b25312?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdebaf61c72b344a1b40de972b0b25312?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdebaf61c72b344a1b40de972b0b25312?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdebaf61c72b344a1b40de972b0b25312?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdebaf61c72b344a1b40de972b0b25312?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdebaf61c72b344a1b40de972b0b25312?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdebaf61c72b344a1b40de972b0b25312?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdebaf61c72b344a1b40de972b0b25312?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdebaf61c72b344a1b40de972b0b25312?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cd93f235a28844b495eb5b7830cc571b",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>USDC is&nbsp;<a href=\"https://www.circle.com/blog/circle-solana-partner-to-bring-usdc-to-solana-blockchain?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">officially integrated natively</a>&nbsp;on Solana! The Solana tokenized version of USDC is known as USDC-SPL.&nbsp;<a href=\"https://explorer.solana.com/address/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/largest?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">$25M USDC-SPL</a>&nbsp;has already been issued in just the first week, and there are already several Solana ecosystem projects that have incorporated USDC-SPL, including Serum and across several wallets like Coin98 and Sollet.</p><p>With a DeFi ecosystem emerging on Solana, USDC-SPL offers users and projects a transparent and stable form of collateral.<a href=\"https://www.circle.com/blog/circle-solana-partner-to-bring-usdc-to-solana-blockchain?mc_cid=62a87c9214&amp;mc_eid=%5BUNIQID%5D&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Read The Announcement</strong></a></p><h2><strong>Wormhole Hackathon</strong></h2><p>In celebration of the Wormhole announcement, the Solana Foundation invited developers worldwide to participate in the&nbsp;<a href=\"https://solana.com/hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Wormhole Hackathon</a>&nbsp;that started on October 28th! It will be exciting to see what teams build on Solana over the next 2 weeks.</p><p>Over 1,000 individual builders from around the world are now creating Solana-based projects that will be judged by industry leaders from Compound, Gauntlet, Curve, FTX, Audius, Aave, and more. There is also a stacked schedule of presentations and open office hours. See the&nbsp;<a href=\"https://solana.com/hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">full schedule here</a>&nbsp;and stay tuned on our social channels for event updates.<a href=\"https://solana.com/hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Visit Wormhole Hackathon Page</strong></a></p><h2><strong>NFT Marketplace Launched On&nbsp;Solana</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-454c4070ed7c465799f8fea0573bc25d",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/o/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3334be005da84e3bb96183ff2894956f%2Fcompressed?apiKey=ce0c7323a97a4d91bd0baa7490ec9139&token=3334be005da84e3bb96183ff2894956f&alt=media&optimized=true",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 1.17,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 400,
+                "width": 342
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a3150b9730b14eb9955db2170e9331d6",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>On October 22nd, the team at Bonfida launched Solible, the first NFT marketplace built on Project Serum and Solana. Soluble is an easy-to-use NFT marketplace that takes advantage of the cheap fees and fast latency Solana is known for. New NFT’s are being added daily, and more development is expected in the near future.</p><p>The Bitcoin Association of Hong Kong recently listed the first&nbsp;<a href=\"https://solible.com/?ref=solana.ghost.io#/bitcoin-tram\" rel=\"noopener noreferrer\" target=\"_blank\">redeemable NFT</a>, Bitcoin Tram. The purchase of Bitcoin Tram gets you a physical Bitcoin Tram model mailed to the mailing address of your choice.&nbsp;<a href=\"https://solible.com/?ref=solana.ghost.io#/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Check Out Solible</strong></a></p><h2><strong>Wormhole Events</strong></h2><p>During the registration period and into the initial days of hacking, Solana hosted over a dozen events to bring together industry leaders to discuss the hottest topics in crypto. Each event focused on a different subject to inspire a range of hackathon project ideas to be built during the hackathon.</p><p>Some of the stand-out events include a<a href=\"https://www.youtube.com/watch?v=2gSdJS7ud7Y&amp;ab_channel=Solana&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;DeFi Recap</a>, a discussion on the recent decentralized finance boom, a fireside chat with&nbsp;<a href=\"https://www.youtube.com/watch?v=e1zI3d1BlK4&amp;t=19s&amp;ab_channel=Solana&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Stani Kulochev</a>&nbsp;(Founder of Aave), and a fireside chat with&nbsp;<a href=\"https://www.youtube.com/watch?v=_5U-o7zQ5K0&amp;t=7s&amp;ab_channel=Solana&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Robert Leshner</a>, the Founder of Compound.</p><p>If you missed any of the events, you can find the recordings on the Solana YouTube channel.<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Watch The Events</strong></a></p><h2><strong>Engineering Update</strong></h2><p>The engineering team had another productive month as development work continued on the v1.3 branch and marched forward with the v1.4 release.</p><p>✨ The Highlights</p><ul><li><strong>Say Hello, v1.4:</strong>&nbsp;Development work commenced on the upcoming 1.4 software update this month. Current priorities include developing the solana-program-test framework, continuing to improve gossip mechanisms, and speeding up the solana deploy subsequence while improving error handling. A network upgrade to 1.4 is expected in the near future; relevant information will be posted on all social channels.</li><li>Transaction Logging Improvement: Version 1.3.18 improves transaction program logs, including logging pubkeys as base58 strings, exposing error constants, and surfacing logs in the Solana CLI.</li><li><strong>Successful Upgrade to v1.3:</strong>&nbsp;The Validator network successfully upgraded the Mainnet Beta cluster to the 1.3 software line in early October. More information related to the upgrade can&nbsp;<a href=\"https://forums.solana.com/t/solana-v1-3-release-proposal/917?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">be found on this Forum post</a>.</li><li><strong>Base58 Support:&nbsp;</strong>As of v1.3.16, base58 encoded transaction data for sendTransaction and simulateTransaction RPC endpoints are DEPRECATED. Please update all applications to use base64!</li></ul><p>Take a look at our&nbsp;<a href=\"https://github.com/solana-labs/solana/labels/good%20first%20issue?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">introductory issues in GitHub</a>,&nbsp;<a href=\"https://github.com/solana-labs/solana/pulls?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">peruse our current pull requests</a>, and&nbsp;<a href=\"https://solana.com/discord?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">get in touch with the engineering team on Discord</a>.</p><h2><strong>Ecosystem Update</strong></h2><p>The Solana Foundation is by no means endorsing these products, use at your own risk. Access is not available to U.S. persons and persons must consider applicable laws in their jurisdiction.</p><p>Cool things going on in the Solana Ecosystem:</p><ul><li>Serum hits 100M total volume</li><li>USDC-SPL launched</li><li>Frontier mint’s NFT on Solana</li><li>Chainlink starts building Oracle for Serum</li><li>Audius hosts launch party with RAC and Deadmau5</li><li>Waves integrates Solana into Gravity Protocol</li></ul><p>October was another exhilarating month for the Solana community. Audius joined the Solana ecosystem, over $25M USDC-SPL is now in circulation, and the Wormhole hackathon has attracted over 1,000 participants from around the world.</p><p>As this mailing list continues to grow, it’s essential that Solana is only bringing the highest quality emails to your inbox. If you have any comments or questions, please respond to this email with your thoughts.</p><p>Make sure to follow us on our various social channels below to receive daily updates on what’s going on in the Solana ecosystem. We also provide frequent updates via Blockfolio Signal, so add $SOL to your Portfolio if you’re interested in receiving direct updates.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockfolio</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9adca56550de49cc95156f5284696e73",
+  "lastUpdated": 1694189909772,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_98e4678af266422a935ee41ed580b54a",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687590108685,
+  "@originId": "98e4678af266422a935ee41ed580b54a",
+  "testRatio": 1,
+  "createdDate": 1687362664283,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=98e4678af266422a935ee41ed580b54a&builder.overrides.98e4678af266422a935ee41ed580b54a=98e4678af266422a935ee41ed580b54a&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "October Newsletter",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

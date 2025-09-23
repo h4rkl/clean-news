@@ -1,0 +1,240 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/breakpoint-2024-tickets-on-sale",
+  "data": {
+    "datePublished": 1712059200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F67a581d70ad44bfeb27847855a892d25",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "The decentralized, community-first event will feature prominent keynotes, inspirational workshops, and the chance to meet builders in person.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F824455f352974f1c9720677ba6419bc5",
+      "seoDescription": "The decentralized, community-first event will feature prominent keynotes, inspirational workshops, and the chance to meet builders in person.",
+      "seoTitle": "Tickets Are Now on Sale for Breakpoint 2024, Singapore"
+    },
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Tickets Are Now on Sale for Breakpoint 2024, Singapore"
+    },
+    "slug": "breakpoint-2024-tickets-on-sale",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-c7457180b679449c91797e742110752c",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c108293d2d374db9b831a9cdbb341ec6",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The Solana ecosystem is moving forward — fast.</p><p><strong>The Solana Foundation is pleased to announce that tickets to Breakpoint 2024 are now on sale, running 20-21 Sept. 2024 in Singapore.</strong></p><p>The <a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">annual gathering of the worldwide Solana community</a> brings developers, artists, business leaders, and users together for an event that brings the distributed Solana ecosystem to life. Breakpoint 2024, the fourth annual event and the first in Asia, will occur at Suntec Singapore in the city’s central business district.</p><p>Breakpoint 2024 will once again be a collection of some of the greatest minds in blockchain. This year’s event will include two days jam-packed with workshops, panels, keynotes, and conversations that will ignite change and move the entire web3 industry forward.&nbsp;</p><p>Read on for more.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e67aaecbf72a480dafd86041703cd1cd",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Propel yourself with exciting speakers and community events</h2><p>Breakpoint has established itself as a leading blockchain industry event, with past Breakpoints including speakers across both web3 and traditional industries. At Breakpoint 2024, expect innovators at the forefront of web3, including speakers from Helium, Drift, Teleport.xyz, Electric Capital, Tensor, OKX, IO.net, Boba Guys, Helio, Honeyland, and much more. Stay tuned for more speakers!</p><p>Beyond the luminaries speaking onstage, Breakpoint 2024 is designed to make space for the entire Solana ecosystem to connect. The event will be full of smaller-scale meeting spaces, networking spots, and workshops. The two-day format also makes room for a number of Solana ecosystem events in Singapore, continuing the tradition of making Breakpoint a more decentralized event. Look for conferences and events from the community, which will be announced soon.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a1a0ab2d00c24664bfd8ad039d570998",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Accessible to all</h2><p>Breakpoint is intended to be an event accessible to as many people interested in web3 technology as possible, no matter where they are in their journey. <a href=\"https://solana.com/breakpoint/tickets\" rel=\"noopener noreferrer\" target=\"_blank\">General admission tickets</a><strong> for Breakpoint 2024 are $500 USD, and include access to all the talks, learning, and networking that happen on site.</strong></p><p>In addition, the Solana Foundation is offering subsidized tickets for <a href=\"https://solanafoundation.typeform.com/developerticket\" rel=\"noopener noreferrer\" target=\"_blank\">developers</a>, <a href=\"https://solanafoundation.typeform.com/artist-ticket\" rel=\"noopener noreferrer\" target=\"_blank\">artists</a>, and <a href=\"https://solanafoundation.typeform.com/student-ticket\" rel=\"noopener noreferrer\" target=\"_blank\">students</a>. These programs offer tickets at a low rate, allowing even newer members of the community to join.</p><p>All ticket holders get access to all public areas of the conference, including stages, a community-powered basecamp, networking and learning areas, and more.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fe8d57de6c8e490d8910244336fd6145",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Move forward</h2><p>Breakpoint 2024 is coming soon, and tickets are already selling fast. See you in Singapore!</p><p>Interested in sponsoring Breakpoint 2024? <a href=\"https://solanafoundation.typeform.com/2024sponsorship\" rel=\"noopener noreferrer\" target=\"_blank\">Reach out here.</a></p><p>Want to share your knowledge with a workshop or working session? <a href=\"https://solanafoundation.typeform.com/developerstage\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here.</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8cf9c71ffa184820acc79ca023d0dc47",
+            "meta": {
+              "previousId": "builder-0a952624aa4b4f4a97ca3fb6bbdbd02d",
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "newsLetter": true,
+                "formId": "72c9e5c3-fe0d-4e63-ab21-1ec098d99f38",
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Keep in touch about Breakpoint 2024!"
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Hear the latest news about Breakpoint 2024, taking place 20-21 September in Singapore.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd88b68fbace64b2194c5efdeefb29572",
+  "lastUpdated": 1725702318547,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_8f7c9a19fa8348c8b7a109bdf86ac98d",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1712059219067,
+  "@originId": "8f7c9a19fa8348c8b7a109bdf86ac98d",
+  "testRatio": 1,
+  "createdDate": 1711979582601,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/breakpoint-2024-tickets-on-sale?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=8f7c9a19fa8348c8b7a109bdf86ac98d&builder.overrides.8f7c9a19fa8348c8b7a109bdf86ac98d=8f7c9a19fa8348c8b7a109bdf86ac98d&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 4,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Tickets Are Now on Sale for Breakpoint 2024, Singapore",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

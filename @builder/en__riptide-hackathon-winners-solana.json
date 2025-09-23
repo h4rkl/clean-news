@@ -1,0 +1,155 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/riptide-hackathon-winners-solana",
+  "data": {
+    "datePublished": 1649923200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdbcbb93d464041cd9be8dfcfd8a062cc",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Bringing the next wave of high-impact projects to the Solana ecosystem.",
+    "publishedDate": "Thu Apr 14 2022 13:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Meet the winners of the Riptide hackathon",
+      "ogUrl": "",
+      "ogDescription": "Bringing the next wave of high-impact projects to the Solana ecosystem.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Meet the winners of the Riptide hackathon",
+      "noFollow": false,
+      "seoDescription": "Bringing the next wave of high-impact projects to the Solana ecosystem.",
+      "seoTitle": "Meet the winners of the Riptide hackathon",
+      "noIndex": false
+    },
+    "title": "Meet the winners of the Riptide hackathon",
+    "twitterMeta": {
+      "twitterTitle": "Meet the winners of the Riptide hackathon",
+      "twitterDescription": "Bringing the next wave of high-impact projects to the Solana ecosystem."
+    },
+    "slug": "riptide-hackathon-winners-solana",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bec3d03a15a94e16b13707bd0f0163b2"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-a10a7dbd86b2413baba79100ea33ca2a",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7a21f5343387478d946ec56686bcc5a2",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Solana Ventures</strong>&nbsp;is pleased to announce the results of Riptide, a global hackathon focused on bringing the next wave of high-impact projects into the Solana ecosystem. Riptide is the fifth Solana hackathon, and the first to take place as Solana Hacker Houses gathered builders from around the globe. The hackathon&nbsp;brought together crypto pioneers and developers from around the world to build projects on the Solana blockchain spanning Payments, DeFi, Gaming, DAOs, and everything in-between.</p><p>Open to teams globally, Riptide saw nearly 7000 participants submit 550 final projects to the judges. Google, Visa, Jump Crypto, Samsung NEXT, MonkeDAO, and Mango joined Solana Ventures as category sponsors for the global hackathon, offering participants a global prize pool of up to $5 million in prizes and seed funding.&nbsp;</p><p>“I’m thrilled to see the projects that have started building on Solana during Riptide,” said Anatoly Yakovenko, co-founder of Solana Labs. “From payments to governance, games to finance to web3, the builders in the Solana ecosystem are paving the way for mass adoption of blockchain technology.”</p><p><strong>Browse through all the project submissions&nbsp;</strong><a href=\"https://solana.com/riptide/voting/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>in the Riptide public directory</strong></a><strong>.</strong></p><p>Without further ado, here are your winners:</p><h2><strong>Grand Champion</strong></h2><p><a href=\"https://solana.com/riptide/voting/cronos?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Cronos</strong></a>, an on-chain task scheduler that allows users to schedule instructions, received the Grand Champion prize of $65,000 in USDC, along with passes to attend&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint</a>, the annual Solana conference in Lisbon Nov. 4-7, 2022, where they will present their project.</p><p>See their presentation:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2750cc3667b1439fa965e08019fc98d0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Payments Track</strong></h2><p>For the&nbsp;<strong>Payments</strong>&nbsp;track, first place went to&nbsp;<a href=\"https://solana.com/riptide/voting/mtn-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>mtnPay</strong></a>, a suite of payment solutions that include an iOS point-of-sale app, securing a prize of $50,000 in USDC.</p><p>Additional prizes went to:</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/riptide/voting/tip-link?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tiplink</a>, a single-link payment solution.</li><li>Third:&nbsp;<a href=\"https://solana.com/riptide/voting/commerce-dao?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Commerce DAO</a>, a fully integrated web3 commerce payment stack.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/riptide/voting/nifty-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">NiftyPay</a>, a tool that allows creators to add NFT-linked access to real life events.</li><li>Fifth:&nbsp;<a href=\"https://solana.com/riptide/voting/elfo-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Elfo Protocol</a>, a subscription payments protocol.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/riptide/voting/dock-it?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DockIt</a></li><li><a href=\"https://solana.com/riptide/voting/dona?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Dona</a></li><li><a href=\"https://solana.com/riptide/voting/elusiv?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Elusiv</a></li><li><a href=\"https://solana.com/riptide/voting/hukka?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Hukka</a></li><li><a href=\"https://solana.com/riptide/voting/phoria?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Phoria</a></li><li><a href=\"https://solana.com/riptide/voting/radiant-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Radiant Pay</a></li><li><a href=\"https://solana.com/riptide/voting/yami-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">YamiPay</a></li></ul><h2><strong>DeFi Track</strong></h2><p>For the&nbsp;<strong>DeFi</strong>&nbsp;track, first place went to&nbsp;<a href=\"https://solana.com/riptide/voting/otter-cash?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Otter Cash</strong></a>, a privacy layer for Solana, securing a prize of $50,000 in USDC.</p><p>Additional prizes went to:</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/riptide/voting/advent?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Advent</a>, a fixed-rate borrow/lend protocol with concentrated liquidity.</li><li>Third:&nbsp;<a href=\"https://solana.com/riptide/voting/million-finance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Million Finance</a>, self-balancing, non-custodial index funds that also generate yield.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/riptide/voting/opti-fi?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">OptiFi</a>, a derivatives DEX with a portfolio-based margining approach and partial liquidations engine.</li><li>Fifth:&nbsp;<a href=\"https://solana.com/riptide/voting/zk-swap?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">zkSwap</a>, a zero-knowledge AMM.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/riptide/voting/accrue-finance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Accrue Finance</a></li><li><a href=\"https://solana.com/riptide/voting/akura?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Akura</a></li><li><a href=\"https://solana.com/riptide/voting/bucket?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bucket</a></li><li><a href=\"https://solana.com/riptide/voting/coherence-finance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Coherence</a></li><li><a href=\"https://solana.com/riptide/voting/cell-fi-democratize-liquidity-provision-on-clob?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cellfi</a></li><li><a href=\"https://solana.com/riptide/voting/dcaf-drip?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Dcaf Drip</a></li><li><a href=\"https://solana.com/riptide/voting/drip-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Drip Protocol</a></li><li><a href=\"https://solana.com/riptide/voting/ottr-finance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ottr.Finance</a></li><li><a href=\"https://solana.com/riptide/voting/neptune?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neptune</a></li><li><a href=\"https://solana.com/riptide/voting/nirvana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Nirvana</a></li></ul><h2><strong>Web3 Track</strong></h2><p>For the&nbsp;<strong>Web3</strong>&nbsp;&nbsp;track, first place went to&nbsp;<a href=\"https://solana.com/riptide/voting/wordcel?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Wordcel</strong></a>, a decentralized publishing stack that enables creators to publish, distribute and monetize their work on-chain, securing a prize of $50,000 in USDC.</p><p>Additional prizes went to:</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/riptide/voting/crossmint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Crossmint</a>, an SDK to allow NFT creators to accept credit card payments.</li><li>Third:&nbsp;<a href=\"https://solana.com/riptide/voting/tensor-nft-pricing-protocol-on-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tensor</a>, which provides robust pricing data on NFTs.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/riptide/voting/reality-coin?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RealityCoin</a>, a protocol encouraging people to create real-world maps for the metaverse.&nbsp;</li><li>Fifth:&nbsp;<a href=\"https://solana.com/riptide/voting/de-git?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DeGit</a>, a decentralized Git repository.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/riptide/voting/cambrian?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cambrian</a></li><li><a href=\"https://solana.com/riptide/voting/cardinal?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cardinal</a></li><li><a href=\"https://solana.com/riptide/voting/frodo-bots?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">FrodoBots</a></li><li><a href=\"https://solana.com/riptide/voting/solana-fm-explorer?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SolanaFM Explorer</a></li><li><a href=\"https://solana.com/riptide/voting/subber?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Subber</a></li><li><a href=\"https://solana.com/riptide/voting/trdelnik?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Trdelník</a></li><li><a href=\"https://solana.com/riptide/voting/windex-fastest-solana-nft-indexer?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Windex</a></li></ul><h2><strong>Gaming Track</strong></h2><p>For the&nbsp;<strong>Gaming</strong>&nbsp;track, first place went to&nbsp;<a href=\"https://solana.com/riptide/voting/strangemood?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Strangemood</strong></a>, a decentralized gaming platform and marketplace that allows users to build their own storefronts, securing a prize of $50,000 in USDC.</p><p>Additional prizes went to:</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/riptide/voting/rogue-star?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Rogue Star</a>, a futuristic, space shooter-inspired MMORPG.</li><li>Third:&nbsp;<a href=\"https://solana.com/riptide/voting/sol-race?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SolRace</a>, a drive-to-earn racing game.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/riptide/voting/ladder-caster?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">LadderCaster</a>, a DAO-based NFT strategy game.</li><li>Fifth:&nbsp;<a href=\"https://solana.com/riptide/voting/badbeat-poker?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Badbeat Poker</a>, an NFT-powered poker community.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/riptide/voting/bondsai?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bondsai</a></li><li><a href=\"https://solana.com/riptide/voting/city-of-legends?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">City of Legends</a></li><li><a href=\"https://solana.com/riptide/voting/encha-nft-enchant-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">EnchaNFT Protocol</a></li><li><a href=\"https://solana.com/riptide/voting/race-poker?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Race Poker</a></li><li><a href=\"https://solana.com/riptide/voting/solantasy?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solantasy</a></li></ul><h2><strong>DAOs Track</strong></h2><p>For the&nbsp;<strong>DAOs&nbsp;</strong>track, first place went to&nbsp;<a href=\"https://solana.com/riptide/voting/strata-launchpad?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Strata Launchpad</strong></a>, a protocol that allows users to easily launch their own tokens, which secured a prize of $50,000 in USDC.</p><p>Additional prizes went to:</p><ul><li>Second:&nbsp;<a href=\"https://solana.com/riptide/voting/slide?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Slide</a>, an expense management tool for DAOs.</li><li>Third:&nbsp;<a href=\"https://solana.com/riptide/voting/gilder?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gilder</a>, which allows users to interact with DAOs via a mobile app.</li><li>Fourth:&nbsp;<a href=\"https://solana.com/riptide/voting/tokr-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tokr</a>, an open-source protocol for financing real-world assets.</li><li>Fifth:&nbsp;<a href=\"https://solana.com/riptide/voting/decentralized-social?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">ded.social</a>, a decentralized social media platform.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/riptide/voting/notifi?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Notifi</a></li><li><a href=\"https://solana.com/riptide/voting/round-table?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RoundTable</a></li></ul><h2><strong>Community Prizes</strong></h2><p>The&nbsp;<strong>Community Choice award</strong>&nbsp;went to&nbsp;<a href=\"https://solana.com/riptide/voting/read-on?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ReadON</strong></a>, a project which uses a GameFi structure to incentivize a reading lifestyle, receiving a $10k USDC prize for the project.</p><p>Several members of the Solana ecosystem also sponsored&nbsp;<strong>Company Prizes</strong>&nbsp;for excellent integrations. Unless otherwise noted, the winners — which are selected by the providers of the prize — will receive $30,000 in USDC:</p><ul><li><strong>Allbridge Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/check-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Check Protocol</a></li><li><strong>Chainlink Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/coherence-finance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Coherence Finance</a></li><li><strong>Drift Prize:&nbsp;</strong><a href=\"https://solana.com/riptide/voting/abas?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Abas</a></li><li><strong>Faraway Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/solantasy?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solantasy</a></li><li><strong>Friktion Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/zetta-trade?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">ZettaTrade</a></li><li><strong>Jet Protocol Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/cronos?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cronos</a></li><li><strong>Jupiter Aggregator Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/coherence-finance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Coherence Finance</a>&nbsp;[$15k], mtnPay [$15k]</li><li><strong>Mango Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/cell-fi-democratize-liquidity-provision-on-clob?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cellfi</a>&nbsp;[$50k],&nbsp;<a href=\"https://solana.com/riptide/voting/abas?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Abas</a>&nbsp;[$30k],&nbsp;<a href=\"https://solana.com/riptide/voting/mangolorians?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Mangolorians</a>&nbsp;[$25k],&nbsp;<a href=\"https://solana.com/riptide/voting/trade-mango?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Trade: Mango</a>&nbsp;[$15k],&nbsp;<a href=\"https://solana.com/riptide/voting/de-commas?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DeCommas</a>&nbsp;[$10k]</li><li><strong>Marinade Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/trdelnik?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Trdelník</a></li><li><strong>Orca Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/pixelnaut-pet-shop?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Pixelnaut Pet Shop</a></li><li><strong>Portals Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/forge-bots-gem-collector-a-portals-experience?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Forgebots</a>&nbsp;[$15k],&nbsp;<a href=\"https://solana.com/riptide/voting/cardinal?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cardinal</a>&nbsp;[$15k]</li><li><strong>Pyth Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/neptune?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neptune</a></li><li><strong>Serum Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/de-commas?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DeCommas</a></li><li><strong>Slope Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/reality-coin?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RealityCoin</a></li><li><strong>Solend Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/struct-capital?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Struct Capital</a></li><li><strong>Stardust Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/drag-verse?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Dragverse</a></li><li><strong>Wormhole Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/delta-fi?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DeltaFi</a></li><li><strong>Zeta Markets Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/cell-fi-democratize-liquidity-provision-on-clob?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cellfi</a></li><li><strong>01 Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/zod?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Zod</a></li><li><strong>Grape Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/zod?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gilder</a></li><li><strong>Switchboard Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/neptune?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neptune</a>&nbsp;[First Prize, $15k],&nbsp;<a href=\"https://solana.com/riptide/voting/shachess?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Shachess</a>&nbsp;[Second Prize, $10k],&nbsp;<a href=\"https://solana.com/riptide/voting/tensor-nft-pricing-protocol-on-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tensor</a>&nbsp;[Third Prize, $5k]</li><li><strong>Tulip Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/calcifer?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Calcifer</a></li><li><strong>Web3Auth Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/ladder-caster?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">LadderCaster</a>&nbsp;[First Best Integration, $10k],&nbsp;<a href=\"https://solana.com/riptide/voting/reality-coin?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RealityCoin</a>&nbsp;[Second Best Integration, $7k],&nbsp;<a href=\"https://solana.com/riptide/voting/frodo-bots?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">FrodoBots</a>&nbsp;[Third Best Integration, $4k],&nbsp;<a href=\"https://solana.com/riptide/voting/sign-in-with-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sign in with Solana</a>&nbsp;[Use Case Prize, $3k],&nbsp;<a href=\"https://solana.com/riptide/voting/sol-afrique?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SolAfrique</a>&nbsp;[Use Case Prize, $3k],&nbsp;<a href=\"https://solana.com/riptide/voting/kaff?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Kaff</a>&nbsp;[Use Case Prize, $3k]</li><li><strong>Burnt Finance Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/drag-verse?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Dragverse</a></li><li><strong>Project Hubble Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/crema-finance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Crema</a>&nbsp;[$15k],&nbsp;<a href=\"http://neptune/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neptune</a>&nbsp;[$15k]</li><li><strong>Aldrin Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/tip-link?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tiplink</a></li><li><strong>Bering Waters Prize:</strong>&nbsp;<a href=\"https://solana.com/riptide/voting/invariant?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Invariant</a></li></ul><p>Thank you to all who submitted a project, judged, or gave a talk. Riptide was a rousing success and it could not have been done without your support.</p><p><a href=\"https://solana.com/riptide/voting?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Check out all the submissions.</a>&nbsp;Congratulations, everyone!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffedea62db3d04c18ae1e2b1e9845777d",
+  "lastUpdated": 1704915714863,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_b3d4135423c94575b8ddbbd71d984e33",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687543892762,
+  "@originId": "b3d4135423c94575b8ddbbd71d984e33",
+  "testRatio": 1,
+  "createdDate": 1687362522685,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/riptide-hackathon-winners-solana?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=b3d4135423c94575b8ddbbd71d984e33&builder.overrides.b3d4135423c94575b8ddbbd71d984e33=b3d4135423c94575b8ddbbd71d984e33&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Meet the winners of the Riptide hackathon",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

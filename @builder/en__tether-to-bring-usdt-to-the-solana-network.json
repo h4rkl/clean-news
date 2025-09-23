@@ -1,0 +1,196 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1599548400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1350b7871c84366ab6ed5621d675b1e",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nToday, the Solana Foundation is excited to announce a new technical integration with Tether to bring the USDt stablecoin to the Solana…\n",
+    "publishedDate": "Tue Sep 08 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "Tether to bring USDt to the Solana Network",
+    "seo": {
+      "internalName": "Tether to bring USDt to the Solana Network",
+      "noFollow": false,
+      "seoDescription": "\nToday, the Solana Foundation is excited to announce a new technical integration with Tether to bring the USDt stablecoin to the Solana…\n",
+      "seoTitle": "Tether to bring USDt to the Solana Network",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Tether to bring USDt to the Solana Network",
+      "ogUrl": "https://www.solana.com/blog/tether-to-bring-usdt-to-the-solana-network",
+      "ogDescription": "\nToday, the Solana Foundation is excited to announce a new technical integration with Tether to bring the USDt stablecoin to the Solana…\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Tether-to-bring-USDt-to-the-Solana-Network/1-dE4Fe6_uX-yIoEGu5Ux3Mw-1.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Tether to bring USDt to the Solana Network",
+      "twitterDescription": "\nToday, the Solana Foundation is excited to announce a new technical integration with Tether to bring the USDt stablecoin to the Solana…\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Tether-to-bring-USDt-to-the-Solana-Network/1-dE4Fe6_uX-yIoEGu5Ux3Mw-1.png"
+    },
+    "slug": "tether-to-bring-usdt-to-the-solana-network",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2f4954ba92142bab59ce368e5629510"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f39cb184d93d452aa9e28e15642a160a"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_178a6f19b2cd4d628e4402e266a4feaa"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-aad54548572c4c4e876aa59aea31f6c6",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-995f5f91555a4ff0bfed4cb08a5b81d6",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F19e6cf5a4cad4c429f8695ea4580efb1?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F19e6cf5a4cad4c429f8695ea4580efb1?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F19e6cf5a4cad4c429f8695ea4580efb1?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F19e6cf5a4cad4c429f8695ea4580efb1?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F19e6cf5a4cad4c429f8695ea4580efb1?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F19e6cf5a4cad4c429f8695ea4580efb1?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F19e6cf5a4cad4c429f8695ea4580efb1?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F19e6cf5a4cad4c429f8695ea4580efb1?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F19e6cf5a4cad4c429f8695ea4580efb1?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F19e6cf5a4cad4c429f8695ea4580efb1?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "22px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-15578a21c1ae481eb42ba48688ada5d1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Today, the&nbsp;<a href=\"https://www.solana.foundation/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Foundation</a>&nbsp;is excited to announce a new technical integration with&nbsp;<a href=\"https://tether.to/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tether</a>&nbsp;to bring the USDt stablecoin to the Solana network. The initiative was first announced on Tether’s website earlier today.</p><p>USDt is the largest stablecoin by&nbsp;<a href=\"https://www.coingecko.com/en/stablecoins?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">market capitalization</a>&nbsp;and is one of the most widely used stablecoins in the DeFi sector. The top three most popular DeFi projects have USDt deposits totaling more than&nbsp;<a href=\"https://www.theblockcrypto.com/post/77274/tether-launches-on-solana-blockchain?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">$863 million</a>&nbsp;alone. Tether and USDt are critical pieces of infrastructure for any successful blockchain project and have been one of the most important elements for cross-platform settlement. This strategic initiative is a significant step for Solana and will be instrumental in advancing the network.</p><p>After the technical integration is complete, USDt holders will be able to exchange tethers at speeds greater than 50,000 transactions per second — often for less than $0.00001 per transaction — using the Solana network. Both are step-function improvements to the status quo. Speed and costs are two of the largest barriers holding back DeFi today. This new initiative will open up entirely new design space and use cases for stablecoins within the DeFi ecosystem.</p><p>“Our integration with Solana serves a growing ecosystem of projects that are now getting developed and launched on Solana, Serum being a notable example,” said Paolo Ardoino, CTO of Tether.</p><p>The Solana Foundation is committed to advancing the Solana ecosystem by working with the most critical stakeholders, technologies, and organizations in crypto. In the coming weeks and months, the foundation will be making more initiative and integration announcements designed to support the ecosystem.</p><h3><strong>Read the full&nbsp;</strong><a href=\"https://tether.to/tether-usdt-to-launch-on-solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>announcement here</strong></a><strong>.</strong></h3><p><strong>About Tether</strong></p><p>Created in October 2014, Tether was the first stablecoin in existence and remained the sole stablecoin in the market until March 2018. Tether is disrupting the legacy financial system by offering a more modern approach to money. By introducing fiat currency-digital cash to the bitcoin and Ethereum blockchains, Tether makes a significant contribution to a more connected ecosystem by adding digital currency benefits, such as instant global transactions, to traditional currency and traditional currency benefits, such as price stability, to digital currency. With a commitment to full transparency and compliance, Tether is the most secure, fastest, and lowest cost way to transact with money.</p><p>We look forward to growing and continuing our collaboration with Tether.</p><p>As always, make sure to follow Solana on our social channels for daily updates.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F84b7ddf120f148559da965e2e553f445",
+  "lastUpdated": 1694189908489,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_922cbbc227724c66b01f2161c2b3bbe8",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687546130128,
+  "@originId": "922cbbc227724c66b01f2161c2b3bbe8",
+  "testRatio": 1,
+  "createdDate": 1687362680312,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=922cbbc227724c66b01f2161c2b3bbe8&builder.overrides.922cbbc227724c66b01f2161c2b3bbe8=922cbbc227724c66b01f2161c2b3bbe8&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Tether to bring USDt to the Solana Network",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

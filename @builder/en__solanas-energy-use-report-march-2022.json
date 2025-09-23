@@ -1,0 +1,246 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1648191600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F81c9124b2c624678bf1b16fe5d718a5d",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Average emissions per validator shrank, while Solana’s overall carbon footprint grew because of network growth.",
+    "publishedDate": "Fri Mar 25 2022 12:00:00 GMT+0500 (Pakistan Standard Time)",
+    "title": "Solana’s Energy Use Report: March 2022",
+    "seo": {
+      "internalName": "Solana’s Energy Use Report: March 2022",
+      "noFollow": false,
+      "seoDescription": "Average emissions per validator shrank, while Solana’s overall carbon footprint grew because of network growth.",
+      "seoTitle": "Solana’s Energy Use Report: March 2022",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Solana’s Energy Use Report: March 2022",
+      "ogUrl": "https://www.solana.com/blog/solanas-energy-use-report-march-2022",
+      "ogDescription": "Average emissions per validator shrank, while Solana’s overall carbon footprint grew because of network growth.",
+      "ogImage": "https://solana.ghost.io/content/images/2022/03/solana-energy-use-report-march-2022.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Solana’s Energy Use Report: March 2022",
+      "twitterDescription": "Average emissions per validator shrank, while Solana’s overall carbon footprint grew because of network growth.",
+      "twitterImage": "https://solana.ghost.io/content/images/2022/03/solana-energy-use-report-march-2022.png"
+    },
+    "slug": "solanas-energy-use-report-march-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5eb418bdd493453f837c77bd06fbeaaa"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-609d1d6e174e4761925e0ed1dac431f4",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fcac3c9aac0e434eaa423111b6748107",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Solana network, a high-performance, low-impact blockchain, is designed to scale effectively for global adoption. In a March 2022 review of the Solana network’s energy impact, the Solana Foundation reports that average per-validator emissions shrank, while the overall network and its total emissions grew by 1.5 percent.</p><p><a href=\"https://docs.google.com/document/d/e/2PACX-1vTEhc3TgbsBItovadXChRrcZ5VgxUtruvDC5wnEX5zxxqcFyg96q1YLRa9VdcrLuW44cM0jsbGvSSGb/pub?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Read the full report summary</strong></a></p><p><a href=\"https://docs.google.com/spreadsheets/d/1-HJiNLUDhn3PZVfRxVZkdPE-xzWAPr-f/edit?ref=solana.ghost.io#gid=1635777124\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Explore the data (.xlsx file)</strong></a></p><p>Last year, the Solana Foundation endeavored to learn, “How big is Solana’s energy footprint, actually?” In May 2021, it reached out to&nbsp;<a href=\"https://www.linkedin.com/in/rjmurphy/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Robert Murphy</a>, an independent expert in energy and crypto and asked him to pin down the environmental impact of transactions on the network.&nbsp;Transactions are the fundamental building blocks of Solana: Buying an NFT, executing a trade, and other activities you can perform using Solana are all transactions.</p><p>The first report on the Solana network’s energy impact was released in&nbsp;<a href=\"https://solana.com/news/solana-energy-usage-report-november-2021?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">November 2021</a>, which revealed how Solana’s energy usage compared to regular, everyday activities, as well as other blockchain networks. In this latest report, Murphy’s analysis highlighted three key takeaways:</p><p><strong>Rising total emissions.&nbsp;</strong>As of the March 2022 report, the Solana network grew to 1,762 validators, up from 1,479 in December 2021. The estimated total emissions of the network grew to 2,976 tonne CO2 per year as a result, up from 2,524 in December 2021. The validator network will continue to expand over time in support of overall network strength and decentralization goals, but the resulting emissions will be mitigated through Solana’s evolving climate program.</p><p><strong>Increasingly clean power.&nbsp;</strong>According to the most recent report, the Solana network used cleaner power on average, with carbon intensity falling to 198 g CO2 per kWh, from 201g CO2 per kWh in December 2021. What happened? New validators on the Solana network tend to draw from cleaner energy sources, and this trend is expected to continue when data center-specific decarbonization programs (e.g., on-site renewables, renewable energy credit purchases, etc.) are accounted for.</p><p><strong>Energy use per transaction, in Joules</strong></p><p><strong>Carbon intensity of electricity consumed</strong></p><p><strong>Total number of validators</strong></p><p><strong>Nakomoto coefficient</strong></p><p><strong><em>Solana, March 2022</em></strong></p><p><em>2,707 J</em></p><p><em>198 g CO2 per kWh</em></p><p><em>1,762</em></p><p><em>20</em></p><p><strong><em>Solana, December 2021</em></strong>&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fnA\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">A</sup></a></p><p><em>1,989 J</em></p><p><em>201 g CO2 per kWh</em></p><p><em>1,470</em></p><p><em>19</em></p><p><strong>Ethereum, March 2022</strong>&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fnB\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">B</sup></a></p><p>777,600,000 J</p><p>[Data not available]</p><p>6,232</p><p>3</p><p><strong>Bitcoin, March 2022</strong>&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fnC\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">C</sup></a></p><p>7,412,400,000 J</p><p>557.76 g CO2 per kWh&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fnD\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">D</sup></a></p><p>15,166</p><p>7,349</p><p><br></p><p>Footnotes (Click to expand)</p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>Extreme network efficiency.</strong>&nbsp;An average Solana transaction uses 2,707 Joules — or less energy than three Google searches. Although the average Solana transaction energy usage has gone up, it still remains well under the energy impact of proof-of-work blockchains such as Ethereum (equal to 287,305 Solana transactions ) and Bitcoin (equal to 2,738,710 Solana transactions).</p><p><strong>Activity</strong></p><p><strong>Energy Used, in Joules (J)</strong></p><p>A single Google Search<sup style=\"vertical-align: super; font-size: smaller;\">&nbsp;</sup><a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn1\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">1</sup></a></p><p>1,080 J</p><p><em>A single Solana transaction</em></p><p><em>2,707 J</em></p><p><em>Minting one Solana NFT</em></p><p><em>10,828 J</em></p><p>Keeping an LED light bulb on for one hour&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn2\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">2</sup></a></p><p>36,000 J</p><p>Using a fully-charged iPhone 13 on battery&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn3\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">3</sup></a></p><p>44,676 J</p><p>Working for an hour with a computer and monitor&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn4\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">4</sup></a></p><p>46,800 J</p><p>One eth2 transaction&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn5\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">5</sup></a></p><p>126,000 J</p><p>Watching an hour of television on a 40 inch+ LCD TV&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn4\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">4</sup></a></p><p>540,000 J</p><p>Playing one hour of a PlayStation 5 game&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn6\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">6</sup></a></p><p>708,840 J</p><p>Running a refrigerator for one hour&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn4\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">4</sup></a></p><p>810,000 J</p><p>One hour of central air conditioning&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn4\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">4</sup></a></p><p>12,600,000 J</p><p>Using one gallon of gasoline&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn7\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">7</sup></a></p><p>121,320,000 J</p><p>One Ethereum transaction&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn8\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">8</sup></a></p><p>692,820,000 J</p><p>One Bitcoin transaction&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-march-2022#fn9\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">9</sup></a></p><p>6,995,592,000 J</p><p><br></p><p>Footnotes (Click to expand)</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>In addition to monitoring the energy impact of the network, the Solana network has achieved carbon neutrality in 2021 through the Solana Foundation’s investment in&nbsp;<a href=\"https://solana.com/news/solana-foundation-carbon-neutral-2021?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">refrigerant destruction</a>&nbsp;— considered one of the highest impact ways to reduce carbon emissions — which it plans to continue through at least 2022. The Solana Foundation pledges a variety of tools to keep the network carbon neutral in the years to come to ensure that Solana remains the world’s most scalable, low-impact blockchain.</p><p>The Solana Foundation will continue to release periodic reports on the Solana network’s energy usage and take steps to minimize the ecosystem's environmental impact.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5cc53a4144e942fa8c31320994a2435d",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"width: 90%\">\n<tbody>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> </p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><strong>Energy use per transaction, in Joules</strong></p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><strong>Carbon intensity of electricity consumed</strong></p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><strong>Total number of validators</strong></p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><strong>Nakomoto coefficient</strong></p></td>\n</tr>\n\n<tr>\n    <td style=\"width: 20%; background-color:#9945FF; vertical-align: middle; padding:10px;\"><p style=\"color:#000000\"><i><strong>Solana, March 2022</strong></i></p></td>\n    <td style=\"width: 20%; background-color:#9945FF; vertical-align: middle; padding:10px;\"><p style=\"color:#000000\"><i>2,707 J</i></p></td>\n    <td style=\"width: 20%; background-color:#9945FF; vertical-align: middle; padding:10px;\"><p style=\"color:#000000\"><i>198 g CO2 per kWh</i></p></td>\n    <td style=\"width: 20%; background-color:#9945FF; vertical-align: middle; padding:10px;\"><p style=\"color:#000000\"><i>1,762</i></p></td>\n    <td style=\"width: 20%; background-color:#9945FF; vertical-align: middle; padding:10px;\"><p style=\"color:#000000\"><i>20</i></p></td>\n</tr>\n<tr>\n    <td style=\"width: 20%; background-color:#B374FF; vertical-align: middle; padding:10px;\"><p style=\"color:#000000\"><i><strong>Solana, December 2021</strong></i> <sup><a href=\"#fnA\" id=\"refA\">A</a></sup></p></td>\n    <td style=\"width: 20%; background-color:#B374FF; vertical-align: middle; padding:10px;\"><p style=\"color:#000000\"><i>1,989 J</i></p></td>\n    <td style=\"width: 20%; background-color:#B374FF; vertical-align: middle; padding:10px;\"><p style=\"color:#000000\"><i>201 g CO2 per kWh</i></p></td>\n    <td style=\"width: 20%; background-color:#B374FF; vertical-align: middle; padding:10px;\"><p style=\"color:#000000\"><i>1,470</i></p></td>\n    <td style=\"width: 20%; background-color:#B374FF; vertical-align: middle; padding:10px;\"><p style=\"color:#000000\"><i>19</i></p></td>\n</tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> <strong>Ethereum, March 2022</strong> <sup><a href=\"#fnB\" id=\"refA\">B</a></sup></p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>777,600,000 J</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p style=\"color:#DBDBDB\">[Data not available]</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>6,232</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>3</p></td>\n</tr>\n<tr>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p> <strong>Bitcoin, March 2022</strong> <sup><a href=\"#fnC\" id=\"refC\">C</a></sup></p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>7,412,400,000 J</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>557.76 g CO2 per kWh <sup><a href=\"#fnD\" id=\"refD\">D</a></sup></p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>15,166</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p>7,349</p></td>\n</tr>\n</tbody>\n</table>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e75bdd53366841c4aeb54502927557e2",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Footnotes (Click to expand)</p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>Extreme network efficiency.</strong>&nbsp;An average Solana transaction uses 2,707 Joules — or less energy than three Google searches. Although the average Solana transaction energy usage has gone up, it still remains well under the energy impact of proof-of-work blockchains such as Ethereum (equal to 287,305 Solana transactions ) and Bitcoin (equal to 2,738,710 Solana transactions).</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1c4471d22b4d4c78b17a572b3b0810a8",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"width: 90%\">\n  <tbody>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p><strong>Activity</strong></p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p><strong>Energy Used, in Joules (J)</strong></p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          A single Google Search<sup> <a href=\"#fn1\" id=\"ref1\">1</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>1,080 J</p>\n      </td>\n    </tr>\n    <tr>\n      <td\n        style=\"width: 70%; background-color:#9945FF; vertical-align: middle; padding:10px;\"\n      >\n        <p style=\"color:#000000\"><i>A single Solana transaction</i></p>\n      </td>\n      <td\n        style=\"width: 70%; background-color:#9945FF; vertical-align: middle; padding:10px;\"\n      >\n        <p style=\"color:#000000\"><i>2,707 J</i></p>\n      </td>\n    </tr>\n    <tr>\n      <td\n        style=\"width: 70%; background-color:#B374FF; vertical-align: middle; padding:10px;\"\n      >\n        <p style=\"color:#000000\"><i>Minting one Solana NFT </i></p>\n      </td>\n      <td\n        style=\"width: 70%; background-color:#B374FF; vertical-align: middle; padding:10px;\"\n      >\n        <p style=\"color:#000000\"><i>10,828 J</i></p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          Keeping an LED light bulb on for one hour\n          <sup><a href=\"#fn2\" id=\"ref2\">2</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>36,000 J</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          Using a fully-charged iPhone 13 on battery\n          <sup><a href=\"#fn3\" id=\"ref3\">3</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>44,676 J</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          Working for an hour with a computer and monitor\n          <sup><a href=\"#fn4\" id=\"ref4\">4</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>46,800 J</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          One eth2 transaction <sup><a href=\"#fn5\" id=\"ref5\">5</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>126,000 J</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          Watching an hour of television on a 40 inch+ LCD TV\n          <sup><a href=\"#fn4\" id=\"ref4\">4</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>540,000 J</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          Playing one hour of a PlayStation 5 game\n          <sup><a href=\"#fn6\" id=\"ref6\">6</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>708,840 J</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          Running a refrigerator for one hour\n          <sup><a href=\"#fn4\" id=\"ref4\">4</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>810,000 J</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          One hour of central air conditioning\n          <sup><a href=\"#fn4\" id=\"ref4\">4</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>12,600,000 J</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          Using one gallon of gasoline <sup><a href=\"#fn7\" id=\"ref7\">7</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>121,320,000 J</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          One Ethereum transaction <sup><a href=\"#fn8\" id=\"ref8\">8</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>692,820,000 J</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 70%; vertical-align: middle; padding:10px;\">\n        <p>\n          One Bitcoin transaction <sup><a href=\"#fn9\" id=\"ref9\">9</a></sup>\n        </p>\n        <p></p>\n        <p></p>\n      </td>\n      <td style=\"width: 30%; vertical-align: middle; padding:10px;\">\n        <p>6,995,592,000 J</p>\n      </td>\n    </tr>\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b9be3b83e9ae4706bbaf1b751bdeb6fd",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Footnotes (Click to expand)</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>In addition to monitoring the energy impact of the network, the Solana network has achieved carbon neutrality in 2021 through the Solana Foundation’s investment in&nbsp;<a href=\"https://solana.com/news/solana-foundation-carbon-neutral-2021?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">refrigerant destruction</a>&nbsp;— considered one of the highest impact ways to reduce carbon emissions — which it plans to continue through at least 2022. The Solana Foundation pledges a variety of tools to keep the network carbon neutral in the years to come to ensure that Solana remains the world’s most scalable, low-impact blockchain.</p><p>The Solana Foundation will continue to release periodic reports on the Solana network’s energy usage and take steps to minimize the ecosystem's environmental impact.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-254821d081e046e69b54f3840bd335c3",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba679b243c8f4c3da3e09e769ed6e42b",
+  "lastUpdated": 1694189898100,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5467c0797cea4d09b31f88cd67148695",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687624799167,
+  "@originId": "5467c0797cea4d09b31f88cd67148695",
+  "testRatio": 1,
+  "createdDate": 1687362532016,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=5467c0797cea4d09b31f88cd67148695&builder.overrides.5467c0797cea4d09b31f88cd67148695=5467c0797cea4d09b31f88cd67148695&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana’s Energy Use Report: March 2022",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "2oemt8k4o9i"
+}

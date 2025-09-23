@@ -1,0 +1,171 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1678950000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc406a98758e34b2d93b8e1da445a193b",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Shoe brand ASICS used Solana Pay to created a decentralized loyalty program.",
+    "publishedDate": "Thu Mar 16 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Case Study: ASICS builds loyalty program with Solana Pay",
+      "noFollow": false,
+      "seoDescription": "Shoe brand ASICS used Solana Pay to created a decentralized loyalty program.",
+      "seoTitle": "Case Study: ASICS builds loyalty program with Solana Pay",
+      "noIndex": false
+    },
+    "title": "Case Study: ASICS builds loyalty program with Solana Pay",
+    "openGraph": {
+      "ogTitle": "Case Study: ASICS builds loyalty program with Solana Pay",
+      "ogUrl": "https://www.solana.com/blog/case-study-asics-solana-pay",
+      "ogDescription": "Shoe brand ASICS used Solana Pay to created a decentralized loyalty program.",
+      "ogImage": "https://solana.ghost.io/content/images/2023/03/solana-news-case-study-asics.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Case Study: ASICS builds loyalty program with Solana Pay",
+      "twitterImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffec22b49ae3a477ba103a9bb933c9731",
+      "twitterDescription": "Shoe brand ASICS used Solana Pay to created a decentralized loyalty program."
+    },
+    "slug": "case-study-asics-solana-pay",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-1dbe8b9c4d1949e18b76415e53b41dd3",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-609184f065a946669481c1e59d96baf6",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>ASICS is a renowned athletic shoe brand that was founded in Japan after World War II with the mission of uplifting youth and promoting an active lifestyle. Since 1949, the company has been finding more ways to inspire young people by pushing the limits of design and technology. In keeping with tradition, ASICS launched the world's first large-scale brand loyalty program built on the Solana blockchain in November 2022. The campaign’s massive success shows that when it comes to creating web3 loyalty programs, the only limit is imagination.</p><p>“If a brand wants to launch a loyalty program that can scale at day one, can be at the same size of their current loyalty program, and can deliver better utility and better ownership of the assets associated with said program, to me the answer is Solana Pay, and Solana more generally, all day,” said Joe Pace, ASICS' Director of Web3 and Digital Goods.</p><p>Pace led ASICS’ first foray into web3 in 2021 with the&nbsp;<a href=\"https://nft.asics.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sunrise Red NFT Collection.</a>&nbsp;The NFTs served as a sort of digital display case, with each piece of artwork celebrating one of the brand’s most legendary past designs. “It gave us a massive learning opportunity,” he said. Pace was glad to get ASICS “ahead of the digital innovation curve” with the release, but wanted the company’s next web3 project to offer users — and the brand — a unique value proposition.</p><p>As luck would have it, the Solana Foundation’s Head of Business Development Josh Fried had been mulling over exactly such a project. Yes, exactly: When Fried wrote a&nbsp;<a href=\"https://solana.com/news/solana-pay-announcement?ref=solana-news\" rel=\"noopener noreferrer\" target=\"_blank\">blog post</a>&nbsp;theorizing that folks could use&nbsp;<a href=\"https://solana.com/developers/payments?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay</a>&nbsp;to create a new kind of loyalty program with just a few lines of code, he happened to use an imaginary running shoe company as an example. He imagined that customers would buy a physical shoe, and receive an on-chain NFT that connects the virtual pair to the real-life one.</p><p>Pace immediately realized the impact such a model could have for ASICS. “I was like, this is easy, it’s practical, and it actually has implications for our broader business goals,” he said. “It was a breath of fresh air. I can actually go to the leaders of the business and say, ‘This isn't the Sunrise Red Collection. This is something that could truly innovate on our core business.’”</p><p>A few emails later, a plan emerged: Selling physical ASICS running shoes with Solana Pay, and using the blockchain to pair each unit with an NFT loyalty badge.</p><p>“The loyalty badge isn’t owned by ASICS, it’s owned by you,” Fried said. “You can sell it, trade it, collect it. That really wasn’t possible before.”</p><p>Pace was thrilled with the open source nature of the Solana platform, which meant his team could practically drag-and-drop aspects of the loyalty program they dreamed up from existing projects and users who were ready to collaborate. “So much of the tech that makes it possible—you don’t have to build it,” Pace said. “The marketplace exists. You don’t need to hire full stack teams to manage every part of it. The majority of it is outsourced, which I think is so empowering. The limit is what you’re able to come up with and dream up.”</p><p>Pace also noted that Solana’s&nbsp;<a href=\"https://solana.com/environment?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">extremely low environmental impact</a>&nbsp;made using the chain “a no brainer.”</p><p>“We at ASICS care a lot about the environment and our impact on it,” Pace said. “Choosing any other blockchain would have been a step in the wrong direction.”</p><p>ASICS launched two open edition running shoe designs—<a href=\"https://ui.asics.com/?_ga=2.115499526.1429168683.1678291608-1046160820.1678291608&amp;_gac=1.89691241.1678291608.Cj0KCQiAgaGgBhC8ARIsAAAyLfFppKTWfOmOGO6GqHk9AnMo-APMDtvqunwFOPvDMeMuANHs-2R7cH0aAgrUEALw_wcB&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the UI Collection</a>—on November 4. Sneakers came in a “light mode” or “dark mode” color scheme, accented by Solana-signature purple and teal. Each pair came with a single loyalty badge. When pre-orders closed five days later, they’d sold around 3,000 units, which Pace says is right in line with other ASICS special-edition drops.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-80d20580c2b14166b7d20a6bbf5f849b",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://twitter.com/TheDrum/status/1588738302097895424",
+                "content": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" align=\"center\"><p lang=\"en\" dir=\"ltr\">Asics steps further into web3 with Solana partnership <a href=\"https://t.co/CVKj51y8zh\">https://t.co/CVKj51y8zh</a> <a href=\"https://twitter.com/hashtag/Marketing?src=hash&amp;ref_src=twsrc%5Etfw\">#Marketing</a> <a href=\"https://twitter.com/hashtag/Advertising?src=hash&amp;ref_src=twsrc%5Etfw\">#Advertising</a> <a href=\"https://t.co/NzSvXSBnnG\">pic.twitter.com/NzSvXSBnnG</a></p>&mdash; The Drum (@TheDrum) <a href=\"https://twitter.com/TheDrum/status/1588738302097895424?ref_src=twsrc%5Etfw\">November 5, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a8407537604644958d011c45290d9858",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>As their first loyalty benefit, buyers were entered to win digital twins of their UI Collection trainers to use to join&nbsp;<a href=\"https://www.stepn.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">STEPN</a>, the popular NFT-gated, move-to-earn mobile game. With just 1,001 NFTs to go around, holding multiple loyalty badges essentially gave buyers extra raffle tickets. ASICS is also planning future incentives and opportunities for its new web3 audience. “You’re essentially getting a ticket to whatever comes next,” Pace said, though they’re keeping the details a secret for now.&nbsp;</p><p>Fried is excited to see other Solana users dream up and launch loyalty programs in web3, where composability makes collaboration between brands easier than ever before.</p><p>“In the old world, if you wanted to partner with another brand on something that involved accessing each other's communities, you’d have to either combine reward programs somehow or unpack your software stacks or other back end systems. It's a very complicated process,” Fried said. “With web3, everything is composable. ASICS can easily give their community of loyal badge holders access to a new benefit without having to do all that messy integration.”</p><p>ASICS bundled the shoes and badges for $200 USDC, but $600,000 in revenue over five days wasn’t the only win.</p><p>“What’s even more exciting for us is that we were able to sell into 62 countries,” Pace said, noting that the launch marked ASICS’ first-ever global preorder and global shoe distribution — made possible by using a fiat-backed stable digital currency on Solana’s universal blockchain. ASICS was thrilled to see a particularly strong showing in Japan, where the company is headquartered, which validated the idea that web3 could appeal to their core customer base.</p><p>The story of the campaign made waves in the&nbsp;<a href=\"https://hypebeast.com/2022/11/asics-solana-ui-collection-black-white-web3-commerce?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">media</a>, reaching more than a billion impressions.</p><p>Pace notes that the Solana ecosystem is perfect for creating loyalty programs that marry the best high-tech offerings of web3 with simplicity and ease of use for brands and customers alike.</p><p>“Your general audience, for most brands, is not going to be a hardcore web3 enthusiast,” he said. “If you want people to do things at scale, then it needs to be easy, it needs to be cheap, and it needs to be fast. So when we’re thinking about which blockchain to work with, the answer is obvious.”</p><p>The information contained in this case study, either pertaining to the Solana Foundation (“Foundation”) or otherwise (together, the “Information”), is for general informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities, options, futures, or other derivatives related to securities in any jurisdiction, nor should not be relied upon as advice to buy, sell or hold any of the foregoing. The Information is not and does not contain tax, legal or investment advice or opinion. Foundation and its agents, advisors, council members, officers and employees (the “Foundation Parties”) make no representation or warranties, expressed or implied, as to the accuracy of the Information and Foundation expressly disclaims any and all liability that may be based on such Information or any errors or omissions therein. This email and the Information is intended only for the persons to whom it is transmitted. The Foundation Parties shall have no liability whatsoever, under contract, tort, trust or otherwise, to any person arising from or related to the Information or any use of the Information by you or any of your representatives.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fae160c1a05564d99b14c0556626e7cfc",
+  "lastUpdated": 1694189914489,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_ad137314bbe0457ab14c41e0aaef9bd9",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687591541812,
+  "@originId": "ad137314bbe0457ab14c41e0aaef9bd9",
+  "testRatio": 1,
+  "createdDate": 1687362405795,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=ad137314bbe0457ab14c41e0aaef9bd9&builder.overrides.ad137314bbe0457ab14c41e0aaef9bd9=ad137314bbe0457ab14c41e0aaef9bd9&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: ASICS builds loyalty program with Solana Pay",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

@@ -1,0 +1,398 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-breakpoint-2021-news-roundup",
+  "data": {
+    "datePublished": 1637175600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2ff38c88fbbb4978a94bc187391d07fa",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Breakpoint was three days of workshops, talks, and big news. Here’s the TL;DR.",
+    "publishedDate": "Thu Nov 18 2021 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "The future of social, search, and the metaverse: What happened at Solana Breakpoint 2021",
+      "ogUrl": "https://www.solana.com/blog/solana-breakpoint-2021-news-roundup",
+      "ogDescription": "Breakpoint was three days of workshops, talks, and big news. Here’s the TL;DR.",
+      "ogImage": "https://solana.ghost.io/content/images/2021/11/1K2A7893.jpg",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana Breakpoint 2021: The future of social, search, & the metaverse",
+      "noFollow": false,
+      "seoDescription": "Breakpoint was three days of workshops, talks, and big news. Here’s the TL;DR.",
+      "seoTitle": "Solana Breakpoint 2021: The future of social, search, & the metaverse",
+      "noIndex": false
+    },
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "The future of social, search, and the metaverse: What happened at Solana Breakpoint 2021"
+    },
+    "twitterMeta": {
+      "twitterTitle": "What happened at Solana Breakpoint 2021",
+      "twitterDescription": "Breakpoint was three days of workshops, talks, and big news. Here’s the TL;DR.",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/11/1K2A7893.jpg"
+    },
+    "slug": "solana-breakpoint-2021-news-roundup",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9091a1aea4b04885a63b65fb647eed45"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-f22f3e7078c543cba860c7a16d3976c1",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-71f47c43af864b82b878836ca8243dc0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/rajgokal/status/1460628552475299841?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1460628552475299841%7Ctwgr%5E4e3fed4d8f9342e2979d1acf935fefe33a886ad6%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fsolana-breakpoint-2021-news-roundup</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0c1025ea40e947b7b51c10f4e65098e8",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana Breakpoint 2021, the first ever conference for the Solana ecosystem in beautiful Lisbon, Portugal, had three days of some of the most interesting conversations in the crypto industry.</p><p>Did you miss out? Video of every session&nbsp;<a href=\"https://www.youtube.com/playlist?list=PLilwLeBwGuK7yLsxKM1RZlxuNpaEuBEXk&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">is available online</a>, but here’s the TL;DR:</p><h2><strong>Alexis Ohanian invests in web3 social</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-437ab3036b0e4c91af01f8d8f328886f",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/aCIW3Zv0-DU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a0618b1bd97e48d5a0d91118795e7cf5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Alexis Ohanian — the founder of Reddit — joined Solana Labs cofounder Raj Gokal to announce some major news: He, SevenSevenSix, and Solana Ventures are launching a $50 million — no, $100 million! — fund to help build web3 social media.</p><p>\"We lured you in with the fifty, surprised you with the hundo!\" Ohanian said.</p><p>The news came during a talk in which Ohanian looked back at the early days of Reddit and community-focused social media — and Gokal explained his own recent brush with the foibles of a centralized social network. Listen to the full talk&nbsp;<a href=\"https://podcast.solana.com/episodes/alexis-ohanian-founder-seven-seven-six-ep-52?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">on the Solana Podcast</a>.</p><h2><strong>Brave Browser integrates Solana</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4beaa27f2cb64d0ea31a64dc1d52efa1",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/QcXcqIYflv8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4a071a1bbcdb42b18a731993078a6d19",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Brendan Eich, the creator of javascript and cofounder of the privacy-focused Brave Browser, announced at Breakpoint in Lisbon that Brave would be integrating Solana and making it the default for DApp support. This would bring the fastest, lowest-cost blockchain to a web browser trying to disrupt the exploitative practices of traditional web2 companies.</p><p>The news was especially poignant for Eich. Solana developers write in Rust, the language Eich was executive sponsor of Rust while working at the Mozilla Foundation. “It brings a tear to my eye,” Eich said. “My little baby’s all groweds up.”</p><h2><strong>RNDR is building the metaverse, on Solana</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0c80d01a586245e9868f84c5e23b6f7a",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/r7D2CA8qPHY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e0557755e4864e65a36d208d62501a7d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The metaverse is almost here. Founder Jules Urbach announced on stage at Breakpoint that the Render Network would be integrating both Solana and Metaplex. RNDR Token, which node operators receive in exchange for their rendering power, is also migrating to Solana.</p><p>RNDR has been using blockchain to render animations and graphics for television and film studios like HBO, Netflix, and Disney. Now, with a Solana integration, Urbach says that they'll be able to use their same rendering power on your phone or tablet to bring you a photorealistic metaverse.</p><h2><strong>Neon Labs brings a EVM compatibility to Solana</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8a97c5fdd23c42b9ac5c1dc0af3b8704",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/NeonLabsOrg/status/1458148189551353865?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1458148189551353865%7Ctwgr%5Ea3448a593f1249ffa6199d52e0decab35626e00f%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fsolana-breakpoint-2021-news-roundup</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5192f9d27d9d4e8db4e7df824185be41",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Neon Labs announced it had raised a $40 million fundraising round to bring EVM compatibility to Solana. The Neon EVM would allow Ethereum developers who do not know Rust to take advantage of Solana's quick speeds, low cost, and high scalability. That means tools like Aave and MetaMask could soon be available for Solana-based apps.</p><h2><strong>News, news, and more news</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9f08e79f3ab0433d8e2b1270ef87e0c9",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe1ed29e312514075a4aeb844baf08295?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "height": 667,
+                "width": 1000,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f42a9d8261b7446f9ff4d1c97c462eb8",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Credit: Paulo Pedro</p><p>That’s just the tip of the iceberg. The whole Solana ecosystem was in Lisbon for Breakpoint, and many of the projects had big news to announce. Here’s just a sampling of some of the other stories that came out:</p><ul><li><strong>Solana Labs cofounders Anatoly Yakovenko and Raj Gokal&nbsp;</strong><a href=\"https://youtu.be/RZszqxOIn4I?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>gave a State of the Network address</strong></a><strong>.&nbsp;</strong>Their speech touched on just how much the ecosystem has grown in the last year.</li><li><a href=\"https://www.youtube.com/watch?v=atAYmR32eeE&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>The Graph is integrating Solana</strong></a><strong>&nbsp;via Firehose.</strong>&nbsp;Get ready for a better developer experience.</li><li><strong>Phantom announced&nbsp;</strong><a href=\"https://youtu.be/G5kSTOHKm2A?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>a mobile wallet</strong></a><strong>.</strong>&nbsp;The popular wallet, which now has over 1.2 million active users, will be releasing versions for your phone soon.</li><li><strong>Nansen is launching Solana dashboards.&nbsp;</strong>Solana will be Nansen’s first non-EVM platform.</li><li><strong>Wormhole adds&nbsp;</strong><a href=\"https://www.youtube.com/watch?v=YH0FvcHdLX8&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>a Polygon-Solana bridge</strong></a><strong>.</strong>&nbsp;Users can now transfer assets.</li></ul><p>There’s plenty more to learn.&nbsp;<a href=\"https://www.youtube.com/c/Solanalabs/playlists?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Watch every session on Youtube!</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3a17513d078f4a1f868f6b98456996c5",
+  "lastUpdated": 1725702072304,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_7014ff176d9f48fabd46155865d6c85a",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687616340281,
+  "@originId": "7014ff176d9f48fabd46155865d6c85a",
+  "testRatio": 1,
+  "createdDate": 1687362589806,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-breakpoint-2021-news-roundup?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=7014ff176d9f48fabd46155865d6c85a&builder.overrides.7014ff176d9f48fabd46155865d6c85a=7014ff176d9f48fabd46155865d6c85a&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "The future of social, search, and the metaverse: What happened at Solana Breakpoint 2021",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

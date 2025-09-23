@@ -1,0 +1,426 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1667242800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93c262ff70844ce6afc98f1a3f4ee048",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "A review of the Solana network's performance, and upgrades being made to strengthen the network.",
+    "publishedDate": "Tue Nov 01 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Network Performance Report: October 2022",
+      "ogUrl": "",
+      "ogDescription": "A review of the Solana network's performance, and upgrades being made to strengthen the network.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Network Performance Report: October 2022",
+      "noFollow": false,
+      "seoDescription": "A review of the Solana network's performance, and upgrades being made to strengthen the network.",
+      "seoTitle": "Network Performance Report: October 2022",
+      "noIndex": false
+    },
+    "title": "Network Performance Report: October 2022",
+    "twitterMeta": {
+      "twitterTitle": "Network Performance Report: October 2022",
+      "twitterDescription": "A review of the Solana network's performance, and upgrades being made to strengthen the network."
+    },
+    "slug": "network-performance-report-october-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_81221898c1d244d390655dfe58171db3"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-e5b54766290d43ba8450c2318436c0b2",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-af69e7890b5342a1b192de25f51b8854",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana is a public, open-source blockchain that anyone in the world can build on and run.</p><p>The mandate of the Solana Foundation is to support the decentralization, security, resilience, and adoption of the Solana blockchain. The Foundation&nbsp;<a href=\"https://solana.org/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">supports this mission</a>&nbsp;through various programs and initiatives, ranging from creating documentation for validators to issuing grants for projects that further network decentralization.</p><p>As the Solana network matures and broadens its user base, it’s important that the Solana Foundation and greater web3 community understand the state of the network, where it’s going, and key metrics to track in monitoring its progress. The goal has always been to create a low-cost, accessible, and efficient global state machine. Anyone on the network should be able to access the latest information — its “state”— at the same time as everyone else, and the only barrier to entry should be an internet connection.</p><p>This is an ambitious goal, and while the network and community of builders have come a long way, there is still work to do. This report, the first of a regular series, is a deep dive into the network’s performance. It’s an opportunity to reflect on how the network has progressed over the past six months, examine where it’s failed, and identify key metrics that provide a holistic perspective on the network’s current performance.</p><p>This report is part of a broader series of research on the Solana network that includes the&nbsp;<a href=\"https://solana.com/news/validator-health-report-august-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">validator health report</a>&nbsp;and&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-september-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">energy use report.</a>&nbsp;The Solana Foundation welcomes input from the Solana community on this report. Fill out&nbsp;<a href=\"https://solanafoundation.typeform.com/to/N9N3WX9V?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">this form</a>&nbsp;with questions, feedback, and metrics that you’d like to see tracked.</p><h2><strong>Network highlights since March 2022</strong></h2><p><strong><u>Announcement of Firedancer, an alternative open source validator client:</u>&nbsp;</strong>In August, Jump Crypto&nbsp;<a href=\"https://jumpcrypto.com/jump-crypto-sets-out-to-build-new-validator-client-for-the-solana-blockchain-to-increase-the-throughput-and-reliability-of-the-network/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announced their intent to build a new open-source validator implementation for Solana.</a>&nbsp;This would be the second open-source validator client for the Solana blockchain, a major step towards furthering the reliability and throughput of the network.</p><p><strong><u>Testnet reaches 24,000 transactions per second:</u></strong>&nbsp;Testnet reached its highest transaction throughput to date on September 22, 2022,&nbsp;eclipsing 24,000 transactions per second. While testnet load is not an exact copy of Mainnet-beta’s load, it is a leading indicator for Mainnet-beta’s progress. This is a significant step for the performance of the network.</p><p><strong><u>QUIC rollout to Mainnet-beta:</u></strong>&nbsp;Solana’s transaction ingestion protocol is being reimplemented on top of QUIC, a protocol built by Google, designed for fast asynchronous communication. This is an improvement on top of the existing UDP-based protocol, which does not have sessions and flow control built in. QUIC is currently live on testnet and mainnet-beta. However, Mainnet-beta still supports both UDP and QUIC. QUIC is planned to be the default transaction ingest and forwarding protocol on Mainnet-beta in the 1.13.4 release.&nbsp;Once QUIC is adopted, there will be additional options available to optimize data ingestion and discourage abusive behavior. (Learn more in&nbsp;<a href=\"https://drive.google.com/file/d/1eWGRkk8OtfNK_ek-wweOxYzfdtOb7w8m/view?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">this tech talk by Anatoly Yakovenko</a>&nbsp;on QUIC).</p><p><strong><u>Surpassing 2,000 block-producing validators:</u></strong>&nbsp;In August 2022, the network surpassed 2,000 active block-producing validators on mainnet-beta, a notable milestone in the health of the validator network and the evolution of the blockchain. This is one of the largest number of validators for a Proof of Stake network and represents 4x growth in validator count from August 30 2021, when 495 block-producing validators were online. See below for comparison:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8e54b62ad8bf4113a2196f7ea361c012",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"width: 90%\">\n  <tbody>\n    <tr>\n      <td\n        style=\"width: 50%; background-color:#231733; vertical-align: middle; padding:10px;\"\n      >\n        <p><strong>Network</strong></p>\n      </td>\n      <td\n        style=\"width: 50%; background-color:#231733; vertical-align: middle; padding:10px;\"\n      >\n        <p><strong>Block-producing nodes</strong></p>\n      </td>\n    </tr>\n    <tr>\n      <td\n        style=\"width: 50%; background-color:#B374FF; vertical-align: middle; padding:10px;\"\n      >\n        <p style=\"color:#000000\">\n          <strong>Solana</strong> <sup><a href=\"#fn1\" id=\"ref1\">1</a></sup>\n        </p>\n      </td>\n      <td\n        style=\"width: 50%; background-color:#B374FF; vertical-align: middle; padding:10px;\"\n      >\n        <p style=\"color:#000000\"><strong>2,124</strong></p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 50%; vertical-align: middle; padding:10px;\">\n        <p>\n          Ethereum <sup><a href=\"#fn2\" id=\"ref2\">2</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 50%; vertical-align: middle; padding:10px;\">\n        <p>7,139</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 50%; vertical-align: middle; padding:10px;\">\n        <p>\n          Avalanche <sup><a href=\"#fn3\" id=\"ref3\">3</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 50%; vertical-align: middle; padding:10px;\">\n        <p>1,234</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 50%; vertical-align: middle; padding:10px;\">\n        <p>\n          NEAR <sup><a href=\"#fn4\" id=\"ref4\">4</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 50%; vertical-align: middle; padding:10px;\">\n        <p>127</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 50%; vertical-align: middle; padding:10px;\">\n        <p>\n          Polygon <sup><a href=\"#fn5\" id=\"ref5\">5</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 50%; vertical-align: middle; padding:10px;\">\n        <p>79</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 50%; vertical-align: middle; padding:10px;\">\n        <p>\n          Binance Smart Chain <sup><a href=\"#fn6\" id=\"ref6\">6</a></sup>\n        </p>\n      </td>\n      <td style=\"width: 50%; vertical-align: middle; padding:10px;\">\n        <p>51</p>\n      </td>\n    </tr>\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-00a931625cb14f959696f2012e07cade",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Network challenges since March 2022</strong></h2><p>The Solana network experienced three outages since March 2022.&nbsp;<strong>No user funds were lost in any of these incidents.</strong></p><p>Below, we review the outages and what is being done to address them.</p><p><strong><u>September 2022 Outage:</u></strong>&nbsp;On September 30, Mainnet-beta stopped producing blocks for 6 hours and 19 minutes when the network was unable to recover from a fork caused by a bug in the consensus algorithm implementation. This led to a validator producing duplicate blocks for its leader slots.&nbsp;The bug was removed and patched.&nbsp;<a href=\"https://solana.com/news/09-30-22-solana-mainnet-beta-outage-report?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Read the full outage report.</a></p><p><strong><u>June 2022 Outage:</u></strong>&nbsp;On June 1, the Mainnet-beta cluster ceased producing blocks for approximately 4 and a half hours. This was a result of stalled consensus, caused by a bug in the durable nonce transactions feature. Releases v1.9.28/v1.10.23 included an update designed to prevent the network from halting if the same situation were to arise again.&nbsp;<a href=\"https://solana.com/news/06-01-22-solana-mainnet-beta-outage-report-2?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Read the full outage report.</a></p><p><strong><u>April 2022 outage:</u></strong>&nbsp;On April 30, Solana’s mainnet beta cluster suffered a 7 hour outage caused by stalled consensus after an enormous amount of inbound transactions (6 million per second) flooded the network. Evidence suggested that bots programmatically tried to win a new NFT being minted.&nbsp;<a href=\"https://solana.com/news/04-30-22-solana-mainnet-beta-outage-report-mitigation?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Read the full outage report.</a></p><p><a href=\"https://solana.com/news/solana-network-upgrades?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Several proposed network upgrades</a>&nbsp;have been implemented or are being rolled out to address the causes of this outage, specifically the implementation of QUIC, fee markets, and stake-weighted Quality of Service (QoS).</p><h2><strong>Upcoming initiatives</strong></h2><p>Solana core developers have been working on a number of new network upgrades aimed at strengthening the network in the face of massive user growth and adoption.&nbsp;<a href=\"https://solana.com/news/solana-network-upgrades?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow the status of these upgrades.</a></p><p><strong><u>QUIC:</u></strong>&nbsp;QUIC is live on most validators and RPC nodes in Mainnet-beta. However, Mainnet-beta still supports both UDP and QUIC for transaction ingest. QUIC is planned to be the default transaction ingest and forwarding protocol on Mainnet-beta starting with the 1.13.4 validator client release.&nbsp;<a href=\"https://github.com/solana-labs/solana/projects/74?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow its progress on Github.</a></p><p>The Solana network previously used a UDP-based protocol to pass transactions between RPC nodes and the current block leader. UDP lacks flow control and receipt acknowledgments, so it doesn’t provide a meaningful way to discourage or mitigate abusive behavior. To address this, Solana’s transaction ingestion protocol is being implemented on top of QUIC, a protocol that includes sessions and flow control.</p><p><strong><u>Stake-weighted Quality-of-Service (QoS):</u></strong>&nbsp;This was built in parallel with QUIC and enabled before QUIC was adopted on Mainet-beta.&nbsp;<a href=\"https://github.com/solana-labs/solana/pull/25406?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow its progress on Github.</a></p><p>Currently, block producers accept transactions without regard for the transaction’s source. Solana is a Proof of Stake network, and stake-weighted QoS extends the utility of stake-weighting to transaction quality. Under this model, a node with .5% stake will have the right to transmit at least .5% of packets to the leader. Transactions submitted by validators that have stake in the network will always be received by the block producer regardless of the amount of traffic coming in from nodes without stake.</p><p><strong><u>Fee Markets:</u></strong>&nbsp;Fee markets have been partially introduced and are expected to be further implemented after QUIC is fully adopted.&nbsp;<a href=\"https://github.com/solana-labs/solana/projects/73?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow its progress on Github.</a></p><p>The first piece of Fee Market implementation is support for Priority Fees. Previously, the network processed transactions on a first-come-first-served basis, which didn’t leave users with any way to express the urgency of a transaction’s execution. Priority Fees change this by offering users the ability to specify an additional fee at their discretion to be collected upon the execution of a transaction and its inclusion in a block. Priority Fees are calculated based on the amount of computing resources that a transaction is expected to require. For example, a simple token transfer would require a lower total Priority Fee than an NFT mint that expresses the same level of urgency. Priority Fees have been live on Mainnet-bteta since July 2022.</p><p>Future releases will add additional functionality to Fee Markets. These include new RPC methods that will help users and apps determine the minimum additional fee required to be likely included in the next block, higher fees for highly contested accounts, and improvements to block scheduling. These pending improvements are expected to create a more efficient Fee Market for all Solana participants.</p><h2><strong>Overview of network performance</strong></h2><p>In order for a billion people to use and take advantage of the benefits of the Solana network, users need to feel confident that they can use the network any time, it will give them accurate information, it will be fast, and that their funds will be safe.</p><p>Below are a few of the metrics that the Foundation tracks to see how well the network is measuring up to this goal. While a variety of metrics may help illustrate the network’s performance, we highlight four for the sake of simplicity and to allow users to easily track these metrics and how they progress over time. We’ve included these metrics, as well a few others,&nbsp;<a href=\"https://dune.com/dsaber/solana-network-health-report?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">on a Dune dashboard</a>&nbsp;that makes it easy to dig a layer deeper into the data or run your own analyses.</p><h3><strong>Uptime</strong></h3><p>The Solana and broader web3 community have raised important questions about the reliability of the network, given outages in the second half of 2021 and first half of 2022. A constantly reliable network is foundational to the trust and continued growth of the network.</p><p>One of the most important measures of reliability is network uptime.</p><p>Below, we snapshot the network’s monthly uptime, measured as the percentage of uptime in a given month over the past 6 months.</p><p>Average monthly uptime</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-76f3bb623c1c4b40abcce34809c7d760",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"width: 90%\">\n<tbody>\n<tr>\n    <td style=\"width: 14.29%; background-color:#231733; vertical-align: middle; padding:10px;\"><p>04/2022</p></td>\n    <td style=\"width: 14.29%; background-color:#231733; vertical-align: middle; padding:10px;\"><p>05/2022</p></td>\n    <td style=\"width: 14.29%; background-color:#231733; vertical-align: middle; padding:10px;\"><p>06/2022</p></td>\n    <td style=\"width: 14.29%; background-color:#231733; vertical-align: middle; padding:10px;\"><p>07/2022</p></td>\n    <td style=\"width: 14.29%; background-color:#231733; vertical-align: middle; padding:10px;\"><p>08/2022</p></td>\n    <td style=\"width: 14.29%; background-color:#231733; vertical-align: middle; padding:10px;\"><p>09/2022</p></td>\n    <td style=\"width: 14.29%; background-color:#231733; vertical-align: middle; padding:10px;\"><p>10/2022<sup><a href=\"#fn7\" id=\"ref7\">7</a></sup></p></td>\n    </tr>\n<tr>\n    <td style=\"width: 14.29%; vertical-align: middle; padding:10px;\"><p>99.6%</p></td>\n    <td style=\"width: 14.29%; vertical-align: middle; padding:10px;\"><p>99.3%</p></td>\n    <td style=\"width: 14.29%; vertical-align: middle; padding:10px;\"><p>99.4%</p></td>\n    <td style=\"width: 14.29%; vertical-align: middle; padding:10px;\"><p>100%</p></td>\n    <td style=\"width: 14.29%; vertical-align: middle; padding:10px;\"><p>100%</p></td>\n    <td style=\"width: 14.29%; vertical-align: middle; padding:10px;\"><p>99.81%</p></td>\n    <td style=\"width: 14.29%; vertical-align: middle; padding:10px;\"><p>99.12%</p></td>\n    </tr>\n</tbody>\n</table>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-09fa020564814743bfa738cbe18d1e77",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://status.solana.com/uptime?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Source</a></p><h3><strong>Ratio of voting to non-voting transactions</strong></h3><p>Voting transactions are necessary for the functioning of the network; a vote transaction happens when a validator votes to confirm one or more proposed blocks. Non-voting transactions are the ones triggered by user behavior on the blockchain. For example, a non-voting transaction might represent an NFT mint or a user transferring tokens from one wallet to another. A certain number of voting transactions are required for the network to reach consensus, but over time, we would expect to see the ratio of voting to non-voting transactions go down because the overall percentage of voting transactions should drop as the network gets more efficient.</p><p>Below is a look at voting to non-voting transactions over time:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-932e54f25092428184f2b4bf7511f494",
+            "meta": {
+              "previousId": "builder-e91ec48a1777436781dfb71bc1ee7195"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe\n  allowtransparency=\"true\"\n  style=\"background-color: #FFFFFF;\"\n  src=\"https://dune.com/embeds/1383081/2361238/95545c27-bd83-4d0e-9ce4-520a29cacee0\"\n  height=\"300\"\n  width=\"90%\"\n  title=\"Successful Daily Transaction Counts\"\n></iframe>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-52b36eaafdd446f08a3a49a722c35779",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Block time (time to produce a block)</strong></h3><p>Block time measures the speed of a single transaction, since it measures how quickly the network adds more “blocks” to the blockchain. In this chart, we see the average time to produce a block, how consistent this metric is, and how it changes over time.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-96fa46d46ed749beb35c40498a314021",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe\r\n  allowtransparency=\"true\"\r\n  style=\"background-color: #FFFFFF;\"\r\n  src=\"https://dune.com/embeds/1383046/2352016/9ac05248-1824-4f9e-92ba-76104edba4c9\"\r\n  height=\"300\"\r\n  width=\"90%\"\r\n  title=\"Average Time to Produce a Block\"\r\n></iframe>\r\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5590da517cbc475193dde79345bb59fb",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Average and maximum transactions per second</strong></h3><p>Total transactions per second are the most accurate reflection of the current throughput of the network and demonstrate its potential and growth over time. The benchmark throughput is 65,000 transactions per second, based on simple transactions like sending money from one place to another. Actual transactions per second will differ due to the varied mix of complex transactions on the network, and based on demand at any given moment. An NFT purchase, for example, is much more complex than a simple movement of tokens across wallets.</p><p>The chart below is the best snapshot we have of how well the network is performing in real time. It’s segmented into average transactions per second on a given day, along with maximum transactions per second that the network has ever hit at that point in time. Average transactions per second have been increasing since June.</p><p>It’s important to note that actual network transactions per second is not a reflection of network capacity, but of demand for transaction throughput. In almost all cases, Mainnet-beta is operating below capacity.&nbsp;</p><p><em>Average transactions per second</em></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6c7a50a08bf946128076af93499c373b",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe allowtransparency=\"true\" style=\"background-color: #FFFFFF;\" src=\"https://dune.com/embeds/1383030/2352043/83b9840a-aea5-45b0-a1b8-a8bf0921f42d\" height=\"300\" width=\"90%\" title=\"Average Transactions per Second\"></iframe>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7b5aa579a0794133aad8516d3d45ff55",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><em>Max transactions per second</em></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3561c7f8353048b99510e9f58ab88b0d",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe allowtransparency=\"true\" style=\"background-color: #FFFFFF;\" src=\"https://dune.com/embeds/1383050/2352025/adfa294a-841f-435e-8c4f-85048008f85c\" height=\"300\" width=\"90%\" title=\"Max Transactions per Second\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9c5f77b7588c484bbdbb780abf330472",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "\r\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-877ef9e53ef340958553a6fb47003d79",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>As major proposed upgrades are rolled out, the Solana Foundation will update the community on its progress on&nbsp;<a href=\"https://solana.com/news/solana-network-upgrades?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the upgrades page.</a>&nbsp;The Solana Foundation will continue to monitor the performance of the Solana network and use reports like this one to help the community track its development over time.</p><p><br></p><p><br></p><p>Footnotes:</p><p><sup style=\"vertical-align: super; font-size: smaller;\">1. Source:&nbsp;</sup><a href=\"https://solanabeach.io/validators?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">https://solanabeach.io/validators</sup></a><sup style=\"vertical-align: super; font-size: smaller;\">&nbsp;as of 10.28.22&nbsp;</sup><a href=\"https://solana.com/news/network-performance-report-october-2022#ref1\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">↩</sup></a></p><p><sup style=\"vertical-align: super; font-size: smaller;\">2. Source:&nbsp;</sup><a href=\"https://ethernodes.org/sync?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">https://ethernodes.org/sync</sup></a><sup style=\"vertical-align: super; font-size: smaller;\">&nbsp;as of 10.25.22</sup><a href=\"https://solana.com/news/network-performance-report-october-2022#ref2\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">↩</sup></a></p><p><sup style=\"vertical-align: super; font-size: smaller;\">3. Source:&nbsp;</sup><a href=\"https://explorer-xp.avax.network/validators?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">https://explorer-xp.avax.network/validators</sup></a><sup style=\"vertical-align: super; font-size: smaller;\">&nbsp;as of 10.28.22&nbsp;</sup><a href=\"https://solana.com/news/network-performance-report-october-2022#ref3\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">↩</sup></a></p><p><sup style=\"vertical-align: super; font-size: smaller;\">4. Source:&nbsp;</sup><a href=\"https://explorer.near.org/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">https://explorer.near.org/</sup></a><sup style=\"vertical-align: super; font-size: smaller;\">&nbsp;as of 10.28.22&nbsp;</sup><a href=\"https://solana.com/news/network-performance-report-october-2022#ref4\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">↩</sup></a>&nbsp;<sup style=\"vertical-align: super; font-size: smaller;\">5. Source:&nbsp;</sup><a href=\"https://polygonscan.com/stat/miner?range=7&amp;blocktype=blocks&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">https://polygonscan.com/stat/miner?range=7&amp;blocktype=blocks</sup></a><sup style=\"vertical-align: super; font-size: smaller;\">&nbsp;as of 10.28.22</sup><a href=\"https://solana.com/news/network-performance-report-october-2022#ref5\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">↩</sup></a></p><p><sup style=\"vertical-align: super; font-size: smaller;\">6. Source:&nbsp;</sup><a href=\"https://www.bscscan.com/validators?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">https://www.bscscan.com/validators</sup></a><sup style=\"vertical-align: super; font-size: smaller;\">&nbsp;as of 10.28.22&nbsp;</sup><a href=\"https://solana.com/news/network-performance-report-october-2022#ref6\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">↩</sup></a></p><p><sup style=\"vertical-align: super; font-size: smaller;\">7. This reflects uptime as of October 30, 2022. This report will be released before we have data on uptime for the full month of October.&nbsp;</sup><a href=\"https://solana.com/news/network-performance-report-october-2022#ref7\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">↩</sup></a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F929ec59591bc4f61a058c7d6b7e7edde",
+  "lastUpdated": 1696413384971,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a74902f80ee243bf86ce0e3aa94f31b0",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687560509540,
+  "@originId": "a74902f80ee243bf86ce0e3aa94f31b0",
+  "testRatio": 1,
+  "createdDate": 1687362451411,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=a74902f80ee243bf86ce0e3aa94f31b0&builder.overrides.a74902f80ee243bf86ce0e3aa94f31b0=a74902f80ee243bf86ce0e3aa94f31b0&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Network Performance Report: October 2022",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

@@ -1,0 +1,388 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/streamers-talent-and-gamers-are-gearing-up-for-playgg-will-you-join",
+  "data": {
+    "datePublished": 1689310800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd4f45949befb44eeadca8cbdb75b7000",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Get ready to play and battle at PlayGG with G2 Esports talent",
+    "publishedDate": "Fri Jul 14 2023 00:00:00 GMT-0500 (Central Daylight Time)",
+    "seo": {
+      "seoTitle": "Streamers, talent, and gamers are gearing up for PlayGG – will you join?"
+    },
+    "title": "Streamers, talent, and gamers are gearing up for PlayGG – will you join?",
+    "slug": "streamers-talent-and-gamers-are-gearing-up-for-playgg-will-you-join",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9687f359460a46d5bc32a40d446b0cb7"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-c852c94d86174aa7a97d58f4fce32a18",
+        "component": {
+          "name": "Section Molecule",
+          "options": {}
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3f4827d1b583430987a5b6de44faecf5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>We’re now just days away from&nbsp;<a href=\"http://solana.com/playgg?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">PlayGG</a>, a community-first celebration of games and innovation happening July 18 and 19, at the JULEP Venue in San Diego. The Solana Foundation is excited to highlight another seven games that attendees will have the opportunity to experience during the marquee event. This is a free event and all ages are welcome — bring your family, friends, and teammates to experience the world of blockchain gaming.&nbsp;<a href=\"https://lu.ma/playgg?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Register HERE</a></p><p><br></p><p>In our previous post in this series (<a href=\"https://solana.com/news/get-ready-for-a-celebration-of-games-and-innovation-in-san-diego?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>), we highlighted VitalXP, Portals, Chronos, Laddercaster, MegaRoad, Alchemy: Battle for Ankhos, and Project Eluüne. Check out earlier posts (<a href=\"https://solana.com/news/check-out-games-you-can-experience-at-playgg?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>&nbsp;and&nbsp;<a href=\"https://solana.com/news/from-racing-to-strategy-playgg-hosts-a-wide-variety-of-game-types-and-experiences?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>) for other awesome games at PlayGG. In this post, we will take a look at Reign of Titans, Angelic, SkateX, DripDropArena, SuperDuperSecret, Caveworld, and Clash.</p><p>G2 Esports will be at PlayGG with a booth and will be bringing their Women’s Rocket League team G2 Luna: Jaime \"Karma\" Bickford, Carlee \"Kiaa\" Eichhorst, Gio \"Avenger\" Sy, as well as Creator Chelsea \"ChelseaBytes\" Race. Get ready for “Play with the Pros” and potentially win some prizes if you manage to beat the pros!</p><ul><li>Play with the Pros will occur on July 19th from 5-7pm.</li><li>Gear to play Bladerite and No Way Back.</li><li>Some of the prizes include limited edition PlayGG swag, keycaps, and more!</li></ul><p><br></p><p><strong>Angelic</strong></p><p><a href=\"https://store.steampowered.com/app/1440570/Angelic/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Angelic</a>&nbsp;combines turn-based strategy combat with distinctive and colorful heroes often seen in narrative games. Angelic has an equal emphasis on storytelling and party-based RPG elements, all backed by a dark and compelling science-fiction setting in which players are often mesmerized by the complexity of the events happening around them. Players can build cosmetic items, create and trade NFTs and even take part in the governance of a DAO.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-aa583758a55f48a68df5ecfadc308f8a",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/N1mVZNU3nLQ",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/N1mVZNU3nLQ?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bfe346abb6294de6943edc6fc71527f7",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><br></p><p><strong>CaveWorld</strong></p><p><a href=\"https://www.caveworld.com/\" rel=\"noopener noreferrer\" target=\"_blank\">CaveWorld</a> is a mobile-first (and PC ready) turn-based PvP game with RPG elements. The game has been in open alpha testing and will show off a brand new update at PlayGG.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1ffd8e71bc204dfbba5d7630517fca2c",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/GqBwmTAkXlQ",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/GqBwmTAkXlQ?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c1d8ebcdb0cb48fbb1a14164af273517",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><br></p><p><strong>Clash</strong></p><p><a href=\"https://getclash.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Clash</a>&nbsp;is a skill-based gaming platform on Solana with more than 20 well-known games ranging from archery to 8-ball to poker. The platform was launched in the Philippines earlier this year, with plans to launch globally later this year.</p><p>At PlayGG, the team will demo new games alongside in-app on-chain messaging and game matchmaking.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-03b0ae48c11e46cbafc2ca87130f5d85",
+            "meta": {
+              "previousId": "builder-0ab10084dce545e5a648271bb0f8ee25"
+            },
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/9nKl94bCwaI",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/9nKl94bCwaI?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8e0f0cc0eb0841c0a8bb650ea0817b2f",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><br></p><p><strong>Drip Drop Arena</strong></p><p><a href=\"https://www.blocktackle.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Block Tackle’s</a> <a href=\"https://twitter.com/DripDropArena\" rel=\"noopener noreferrer\" target=\"_blank\">Drip Drop Arena</a> is an adrenaline-pumping, free-to-play party royale game that takes style and competition to a whole new level. Gear up sharp-fitted Drippies NFT avatars and dive headfirst into heart-pounding races and compete for glory!</p><p>Drip Drop Arena features include:</p><ul><li>In-Game NFT Utility: Flaunt your Drippies NFT avatars and compete for rare gear and rewards!</li><li>Free-to-Play: No holds barred, all-access party warfare for everyone!</li><li>Cross-Play: Squad up with friends and other players on PC, Mac, Android, and iOS. No platform restrictions, only unstoppable competition!</li></ul><p>Bring the heat and compete for the crown. Brace yourself for a competitive party royale experience that drips with excitement and jaw dropping action! Get ready to enter the ultimate party arena!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-feacd72adf4b46938b21e73c2fa7148e",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/NwjE2ad__S0",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/NwjE2ad__S0?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fc91e6c8a74048c2a8d06d29adeb7f6a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><br></p><p><strong>Reign of Titans</strong></p><p><a href=\"https://twitter.com/ReignOfTitansGG?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reign of Titans</a>, created by AB InBev, is a card-based, play-to-own game centered around an extensive lore in which Titans of Chaos and Order battle in a quest to be the best. Each Titan is a unique NFT that players take with them into battle, equipping them with weapons and scrolls to make them even stronger.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2a02123850c04bb58bface39066216a8",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://player.vimeo.com/video/845094122",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 48.8263%;\"><iframe src=\"https://player.vimeo.com/video/845094122?app_id=122963&byline=0&badge=0&portrait=0&title=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"encrypted-media;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a6bfbcd47d5b47fab19fdc799ae9eae1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><br></p><p><strong>SkateX</strong></p><p>Also from Block Tackle,&nbsp;<a href=\"https://www.skatex.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SkateX</a>&nbsp;is an exhilarating, action packed skateboarding game.</p><p>As a multiplayer social game, it seamlessly blends web2 and web3 to create an immersive and engaging gameplay experience. Grab a crew and skate in party mode, where players can socialize and shred in a variety of environments to complete quests and earn rewards. Or test your skills solo in competitive mode, where players can battle it out to become champion and improve your rank to earn rare items.</p><p>SkateX features include:</p><ul><li>In-Game NFT Utility: Flaunt your SkateX NFT Skateboards and compete for rare gear and rewards</li><li>Battle Arena: Variety of skate based games to compete online with players around the world</li><li>Volumes (SkateX’s take on seasons): Downloadable content connected to battlepasses that will keep the game feeling fresh with exciting new updates and features.</li></ul><p>SkateX will be available soon for mobile, PC, and Mac. With tons of customization options for your character and skating style, get ready to experience the thrill of the ride like never before with SkateX.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dd520bbe7c014cdabb74ef78414fd79e",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/luchX2N5AOA",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/luchX2N5AOA?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a03794481d80488f9cc2b52a37d35265",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><br></p><p><strong>SuperDuperSecret</strong></p><p><a href=\"https://www.superdupersecret.co/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SuperDuperSecret</a>&nbsp;is<strong>&nbsp;</strong>a platform focused on evergreen, multi-player game experiences and creating a community across multiple surfaces. SuperDuperSecret has a playful vibe and fast-paced feel that is a blast to both play and watch.</p><p>The team behind SuperDuperSecret will show off&nbsp;<a href=\"https://www.royalechess.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Royale Chess</a>, a battle-royale chess game in which 10 players face off against each other live. Each player carefully juggles their efforts among nine simultaneous, fast-paced chess matches against the other players.</p><p>PlayGG will be the first time anyone can get a playable slice of the game.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F90c9b42762c3455283aa2db6175471e9",
+  "lastUpdated": 1704915511373,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_b77ffd0de83841d0aabc3fdccf3df24d",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1689544997494,
+  "@originId": "b77ffd0de83841d0aabc3fdccf3df24d",
+  "testRatio": 1,
+  "createdDate": 1689544118567,
+  "createdBy": "Mnnh4caHZWRuAaMvVEyczaYFfA43",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/streamers-talent-and-gamers-are-gearing-up-for-playgg-will-you-join?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=b77ffd0de83841d0aabc3fdccf3df24d&builder.overrides.b77ffd0de83841d0aabc3fdccf3df24d=b77ffd0de83841d0aabc3fdccf3df24d&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Streamers, talent, and gamers are gearing up for PlayGG – will you join?",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

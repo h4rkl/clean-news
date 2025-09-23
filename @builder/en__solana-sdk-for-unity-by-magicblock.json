@@ -1,0 +1,124 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1677524400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F27406b4b84a84be3bdcedb55e2091b4c",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Unity introduces new Asset Store category for decentralized tech.",
+    "publishedDate": "Tue Feb 28 2023 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "The Solana SDK for Unity by Magicblock is available on the Unity Asset Store as a Verified Solution",
+      "ogUrl": "",
+      "ogDescription": "Unity introduces new Asset Store category for decentralized tech.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "The Solana SDK for Unity by Magicblock is available on the Unity Asset Store as a Verified Solution",
+      "noFollow": false,
+      "seoDescription": "Unity introduces new Asset Store category for decentralized tech.",
+      "seoTitle": "The Solana SDK for Unity by Magicblock is available on the Unity Asset Store as a Verified Solution",
+      "noIndex": false
+    },
+    "title": "The Solana SDK for Unity by Magicblock is available on the Unity Asset Store as a Verified Solution",
+    "twitterMeta": {
+      "twitterTitle": "The Solana SDK for Unity by Magicblock is available on the Unity Asset Store as a Verified Solution",
+      "twitterDescription": "Unity introduces new Asset Store category for decentralized tech."
+    },
+    "slug": "solana-sdk-for-unity-by-magicblock",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9687f359460a46d5bc32a40d446b0cb7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-bcbf9ee4e5ed46cf969167d1026a127a",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-40840f53f7994e31901e0a85cc71a5ee",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://unity.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Unity</a>&nbsp;introduced today a new&nbsp;<a href=\"https://assetstore.unity.com/decentralization?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Asset Store category for verified decentralized technologies</a>&nbsp;in gaming, which includes the Solana SDK for Unity by Magicblock.</p><p>Solana is at the center of this new era of decentralized gaming. Dozens of game teams are building on Solana because Solana is fast, it scales, transaction costs are near zero, and Solana enables mobile apps.</p><p>No matter if you’re a current game dev looking to enter web3 for the first time or are already familiar with Solana, this new Asset Store category makes finding the Solana SDK for Unity by Magicblock easy.</p><p>From there, the SDK lets game developers easily integrate Solana-based NFTs, tokens, and on-chain programs within their Unity games, simplifying the process of building web3 games and experiences. The SDK enables wallet connectivity, the easy creation and handling of tokens, and enables easy connections to Solana-based projects.</p><p>The SDK was created by&nbsp;<a href=\"https://www.magicblock.gg/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Magicblock</a>, a web3 studio building on-chain composable games for the mass mobile market. The SDK is already being used by dozens of game studios and Unity’s new decentralized asset store category will help even more game devs to start building on Solana.</p><p>Find more info about the SDK&nbsp;<a href=\"https://solana.unity-sdk.gg/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>&nbsp;and&nbsp;<a href=\"https://github.com/garbles-labs/Solana.Unity-SDK?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5357e4d0421e4a3c9a84003b6f52b215",
+  "lastUpdated": 1696412561160,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f4d3299773c64078921ff929f9cde08e",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687862102475,
+  "@originId": "f4d3299773c64078921ff929f9cde08e",
+  "testRatio": 1,
+  "createdDate": 1687362408185,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=f4d3299773c64078921ff929f9cde08e&builder.overrides.f4d3299773c64078921ff929f9cde08e=f4d3299773c64078921ff929f9cde08e&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "The Solana SDK for Unity by Magicblock is available on the Unity Asset Store as a Verified Solution",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

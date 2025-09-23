@@ -1,0 +1,514 @@
+{
+  "@liveSyncEnabled": false,
+  "folders": [],
+  "previewUrl": "https://builder-staging.solana.com/news/case-study-homebase",
+  "data": {
+    "datePublished": 1712926800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd17e891e8f314aeba6c9452f82100190",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Participants invested an average of $4,000-$5,000, a much smaller check size than the traditional real estate investor.",
+    "title": "Case Study: Homebase is Changing Real Estate Investments with Solana",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd17e891e8f314aeba6c9452f82100190",
+      "seoDescription": "Homebase used Solana to tokenize real estate assets.",
+      "seoTitle": "Case Study: Homebase and Real Estate Investments on Solana"
+    },
+    "slug": "case-study-homebase",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-e60aaf6df9fd4033a7ce95f2cf6c7119",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7014c4d37f144e509e81fd95b729d6ac",
+            "meta": {
+              "previousId": "builder-5df3c7c89c504e12aa0909f7c8137c4d"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><strong>Highlights</strong></p><ul><li><em>Homebase, leveraging the Solana blockchain, successfully tokenized a $235,000 single-family rental property in South Texas in March 2023.</em></li><li><em>The platform raised $246,800 in just two weeks from 38 investors through the sale of NFTs tied to the physical real estate asset.</em></li><li><em>The Homebase model is meant to broaden participation in real estate investments. Of Homebase’s 76 total investors between both homes, roughly 78% are non-institutional. There was a minimum $500 threshold to invest and the average check size was between $4,000 and $5,000.</em></li><li><em>Concerns over fees and technical limitations steered Homebase to building on Solana.&nbsp;</em></li><li><em>Solana’s user-friendly USDC payments through Circle support allowed seamless property tokenization, crucial for investor confidence and accessibility.</em></li><li><em>Homebase is now focusing on bringing its learnings to the commercial real estate market.</em></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                "paddingTop": "20px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingBottom": "20px",
+                "opacity": "1",
+                "borderRadius": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0b759b66b4844a67869d57c32ea54550",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-f64b806e8551424e9206bcb3440d181f",
+                        "meta": {
+                          "previousId": "builder-4526f9bc827e4c1e8085a848dd4d890b"
+                        },
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<p><a href=\"https://www.homebasedao.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Homebase</a>, a pioneering startup in real estate tokenization, made a significant breakthrough when it sold a single-family home in McAllen, Texas to 38 investors — 30 of them non-institutional. Unlike traditional real estate investing, which is focused on commercial or multi-family buildings, Homebase tokenized a single family building.&nbsp;</p><p>The property was valued at $235,000. Homebase raised $246,800 in capital in two weeks, putting aside the extra $11,800 of the total raised for potential maintenance, like any good real estate investor.&nbsp;</p><p>The deal, a collective agreement between strangers (some of whom hadn't previously been excited about crypto before — or had even opened a crypto wallet), speaks volumes about the market's confidence in this model. Yet innovation isn’t the company’s only motivation; it’s also motivated by financial accessibility and inclusion.</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "paddingTop": "20px"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-d2d2521f1f6f4fc5b6371c6a8f8f27b0",
+                        "meta": {
+                          "previousId": "builder-2d0769a3ce28428ba40003e8ba9c2465"
+                        },
+                        "component": {
+                          "name": "Core:Section",
+                          "options": {
+                            "maxWidth": 1200,
+                            "lazyLoad": false
+                          }
+                        },
+                        "children": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-99f4164c53584a0588a15710b05e3d7f",
+                            "meta": {
+                              "previousId": "builder-8ad52c3eec004e2da4b2273fe1f83d7d"
+                            },
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28d08eff5d7c48d898053adffd0b9874?width=566",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": true,
+                                "aspectRatio": 0.75,
+                                "lockAspectRatio": false,
+                                "sizes": "(max-width: 638px) 89vw, (max-width: 998px) 43vw, 40vw",
+                                "height": 1500,
+                                "width": 2000,
+                                "altText": "The first Homebase house.",
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28d08eff5d7c48d898053adffd0b9874?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28d08eff5d7c48d898053adffd0b9874?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28d08eff5d7c48d898053adffd0b9874?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28d08eff5d7c48d898053adffd0b9874?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28d08eff5d7c48d898053adffd0b9874?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28d08eff5d7c48d898053adffd0b9874?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28d08eff5d7c48d898053adffd0b9874?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28d08eff5d7c48d898053adffd0b9874?width=566 566w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28d08eff5d7c48d898053adffd0b9874?width=420 420w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28d08eff5d7c48d898053adffd0b9874?width=553 553w"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden"
+                              },
+                              "medium": {
+                                "display": "flex"
+                              },
+                              "small": {
+                                "display": "flex"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-7dc880061f1f4b2c8e491f5e0d029703",
+                            "meta": {
+                              "previousId": "builder-827b694ec56c4746b42dfb22ec8d0dd0"
+                            },
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p><em>The first house, in McAllen Texas. Courtesy Homebase.</em></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontSize": "16px",
+                                "color": "rgba(155, 155, 155, 1)",
+                                "marginLeft": "auto",
+                                "marginRight": "auto"
+                              },
+                              "small": {
+                                "textAlign": "center"
+                              }
+                            }
+                          }
+                        ],
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "auto",
+                            "paddingLeft": "20px",
+                            "paddingRight": "20px",
+                            "paddingTop": "20px",
+                            "paddingBottom": "20px",
+                            "minHeight": "100px",
+                            "marginBottom": "auto"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7de43fe804954bc2aa111218954e13b1",
+            "meta": {
+              "previousId": "builder-f600303cfdc9436ba4b329daf7c4aabf"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\"Real estate is an important to financial freedom,” says Homebase co-founder and CEO Domingo Valadez. “The gap now between median income and median home price is the highest it's ever been. What can we do to make real-estate investing more attainable for people?\"</p><p>Three months after its first sale, the company pulled off another successful sale of a similarly priced home in the same area. The second time, another 38 investors shared ownership of a $176,100 home, with an average check size of $4,638.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7d30992408984892b324a6b602495ba2",
+            "meta": {
+              "previousId": "builder-4526f9bc827e4c1e8085a848dd4d890b"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>The intricacies of the Homebase process</h2><p>Homebase's journey to this achievement wasn’t a straightforward path. Valadez revealed in an <a href=\"https://blockworks.co/news/real-estate-investors-buy-nft-home\" rel=\"noopener noreferrer\" target=\"_blank\">article in Blockworks</a> that the team spent seven months solely on legal and compliance preparations.</p><p>According to Valadez, the team faced a challenging choice between quick execution and thorough groundwork. While they knew the idea would be a slam-dunk, they wanted to make sure it could also stand up legally. The platform opted for a more cautious route, focusing on developing the right regulatory structure.&nbsp;</p><p>Homebase partnered with the law firm <a href=\"https://www.huntonak.com/en/people/scott-kimpel.html\" rel=\"noopener noreferrer\" target=\"_blank\">Hunton Andrews Kurth</a> to build a previously non-existent token wrapper that would allow for certain oversight measures. Using the <a href=\"https://www.metaplex.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Metaplex protocol</a>, the team created the wrapper to modify non-fungible tokens (NFTs), giving Homebase the ability to step in as a third party and freeze, burn and reissue tokens as needed. The wrapper also enforces KYC requirements and a mechanism to escrow funds upon property purchase, with the release of funds contingent upon reaching the crowdsourced funding goal. Finally, the wrapper also encodes a one-year lockup period that would restrict trading within this initial timeframe, designed for compliance with <a href=\"https://www.investor.gov/introduction-investing/investing-basics/glossary/regulation-d-offerings\" rel=\"noopener noreferrer\" target=\"_blank\">Regulation D</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7ff2729236f6487b99130d8559416ef9",
+            "meta": {
+              "previousId": "builder-4526f9bc827e4c1e8085a848dd4d890b"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Choosing the right blockchain</h2><p>The decision-making process for the blockchain on which to build the Homebase infrastructure was somewhat arduous, says Valadez — particularly because the majority of Homebase’s early investors were not familiar with digital assets.</p><p>“As you can imagine, we came in with a thesis that crypto-native people really wanted something like Homebase, but we learned that actually this is an everyone problem, not just a crypto problem,” Valadez said. In the March 2023 sale, for instance, 15 of the 38 buyers created their first Solana wallet specifically for the purchase of the Homebase NFT.</p><p>A fractionalized homeownership solution (and its user experience) therefore has to be as seamless as logging into any familiar website, such as a bank portal. Challenges like gas fee fluctuations and technical challenges in other blockchain ecosystems led Homebase to seek a different option.</p><p>“Bridging from a Layer 2 blockchain is actually quite complex,” Valadez said. “And there's a period of time in which your money just disappears as it’s transitioning from one blockchain to the other.” Not so great for investor confidence.</p><p>Solana emerged as the ideal choice due to its user-friendly interface supporting USDC, which ensured a hassle-free property tokenization process. The suite of tools available within the Solana ecosystem have also provided easy-enough solutions that the Homebase team could walk its early investors through the process.&nbsp;</p><p>“We do all rental distributions in USDC,” Valadez said, adding that the team has partnered with stablecoin issuer <a href=\"https://www.circle.com/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Circle</a> to do so.&nbsp;</p><p>Then there’s the process of on- and off-ramp. To keep the fiat-to-crypto exchange process all inside the Homebase platform, the team integrated with onboarding solution <a href=\"https://coinflow.cash/\" rel=\"noopener noreferrer\" target=\"_blank\">CoinFlow</a>.&nbsp;</p><p>“We integrated the on-ramps and off-ramps in the same platform,” explained Valadez. “So you as a non-web3 native withdraw your portion of the property’s monthly rent into your bank account when you’re ready.”</p><p>When owners are ready to sell their portion of the property, they can also do that within the Homebase platform.&nbsp; Here, the use of blockchain technology offers significant advantages. With traditional real estate investments among friends, selling involves complex agreements and permissions. In contrast, Homebase employs tokens representing ownership in the property's holding LLC. This means selling doesn't require approval from other LLC members; it's simply facilitated on the platform.&nbsp;</p><p>When an owner does want to buy, Homebase matches sellers with interested buyers, streamlining the process with online documentation via DocuSign, reducing the typical hurdles found in private real estate markets.</p><p>Such ease of use is paramount, says Valadez, who strives to engender confidence in new investors who may not have otherwise considered themselves as players in the real estate game.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ef3b221bcf6f475aaacaea322d38830a",
+            "meta": {
+              "previousId": "builder-8b7c9a49927d4b4cbf7041ed5e51b4d2"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-975dc77e384e435fa4b5378eb186f08e",
+                "meta": {
+                  "previousId": "builder-99c6d2bde6d04521b535c6c0c80610f1"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4026b94605a545ce815ecf749c6ebd03?width=1176",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.562,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 89vw, (max-width: 998px) 92vw, 84vw",
+                    "height": 1124,
+                    "width": 2000,
+                    "altText": "The first Homebase house.",
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4026b94605a545ce815ecf749c6ebd03?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4026b94605a545ce815ecf749c6ebd03?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4026b94605a545ce815ecf749c6ebd03?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4026b94605a545ce815ecf749c6ebd03?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4026b94605a545ce815ecf749c6ebd03?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4026b94605a545ce815ecf749c6ebd03?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4026b94605a545ce815ecf749c6ebd03?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4026b94605a545ce815ecf749c6ebd03?width=1176 1176w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4026b94605a545ce815ecf749c6ebd03?width=566 566w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4026b94605a545ce815ecf749c6ebd03?width=910 910w"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  },
+                  "medium": {
+                    "display": "flex"
+                  },
+                  "small": {
+                    "display": "flex"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-877aea7f5b8541b1bfc64aef3cb0a5ac",
+                "meta": {
+                  "previousId": "builder-a0a3ce2bf9da4fa884f6081ff30747e7"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p><em>The second house, in McAllen Texas. Courtesy Homebase.</em></p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "fontSize": "16px",
+                    "color": "rgba(155, 155, 155, 1)",
+                    "marginLeft": "auto",
+                    "marginRight": "auto"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "auto",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "20px",
+                "paddingBottom": "20px",
+                "minHeight": "100px",
+                "marginBottom": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4526f9bc827e4c1e8085a848dd4d890b",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>‘An amazing experience’</h2><p>Quietly, at the southern tip of the Rio Grande Valley, Homebase’s venture into tokenized real estate is creating a seismic shift in the industry. Its cautious approach is laying a robust compliance foundation, setting them apart in a market entangled with legal complexities and providing some precedent that we can all learn from.</p><p>The decision to build on Solana was clear given Homebase prioritizes user-friendliness, scalability and mainstream adoption. User experience is crucial for attracting investors unfamiliar with digital assets — which are the ones Homebase is best positioned to serve with its product. Solana’s stability, interface, and support for USDC made property tokenization hassle-free and helped the company abstract away the friction from investors’ line of sight.</p><p>“I like building on Solana, even in the toughest of winter or bear markets,” said Valadez. “It gave everyone who stuck around really high conviction in the environment, with the other teams building and in the foundation holistically. To be a part of that has just been an amazing experience.”</p><p>Building on this foundation, Homebase is now applying its expertise to the commercial sector. The team is now offering back office software for real estate syndicators like EmpireDAO to make commercial real estate investment more accessible. Using blockchain technology and Solana's capabilities, Homebase aims to establish liquidity pools that enable easier trading of real estate assets, potentially transforming how commercial real estate is bought and sold.</p><p>Homebase’s aim is clear: making commercial real estate accessible and dynamic while instilling confidence in new investors. It’s not just new tech;&nbsp; it's a gateway to financial inclusivity.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d54e657c62ce48e2a0a148d75961fa3c",
+            "meta": {
+              "previousId": "builder-33a54d140de74676963eb078ad3e8f9b"
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "eyebrow": "",
+                "headline": "Built for what's possible.",
+                "body": "<p>See how teams like Helium, Decaf, and more are taking advantage of the Solana tech stack to build a fast, secure, scalable, and user-friendly future.</p>",
+                "buttons": [
+                  {
+                    "label": "LEARN MORE",
+                    "hierarchy": "secondary",
+                    "size": "xl",
+                    "iconSize": "md",
+                    "url": "/possible"
+                  }
+                ],
+                "image": {
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdc69a6963c4840bbbd40bc8a13de5cd8"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F97c81bdd549043c0bf7d48e3107880c3",
+  "lastUpdated": 1715287110271,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6d91554ecfd44261bb838f8517620933",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1712932591890,
+  "@originId": "6d91554ecfd44261bb838f8517620933",
+  "testRatio": 1,
+  "createdDate": 1712930719292,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "lastPreviewUrl": "https://solana-next-evmtpt9ov-solana-foundation.vercel.app/news/case-study-homebase?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_6d91554ecfd44261bb838f8517620933&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_6d91554ecfd44261bb838f8517620933=983ae1dad0ba4ca4ac6dd4ac310edee1_6d91554ecfd44261bb838f8517620933&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Copy": 6,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: Homebase",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

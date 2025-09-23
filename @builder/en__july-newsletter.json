@@ -1,0 +1,682 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1596438000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feff378a1a6584f0eacd72b01b8a08e1c",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nSummer of S◎L: Serum, Reddit, and a Mind-Blowing Demo\n",
+    "publishedDate": "Mon Aug 03 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "July Newsletter",
+      "ogUrl": "https://www.solana.com/blog/july-newsletter",
+      "ogDescription": "\nSummer of S◎L: Serum, Reddit, and a Mind-Blowing Demo\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/July-Newsletter/1-sa1XXIt_SEm4CRF9FOUb5w-3.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "July Newsletter",
+      "noFollow": false,
+      "seoDescription": "\nSummer of S◎L: Serum, Reddit, and a Mind-Blowing Demo\n",
+      "seoTitle": "July Newsletter",
+      "noIndex": false
+    },
+    "title": "July Newsletter",
+    "twitterMeta": {
+      "twitterTitle": "July Newsletter",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/July-Newsletter/1-sa1XXIt_SEm4CRF9FOUb5w-3.png",
+      "twitterDescription": "\nSummer of S◎L: Serum, Reddit, and a Mind-Blowing Demo\n"
+    },
+    "slug": "july-newsletter",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9374109beef14c4a80e4cfc0a53725e3"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c3121fe9ca9d4e90840697944b153676"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_136740f37cff4f0ca081e7cf1f879cc1"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_90466976bf1d43af86d65b3d36afaacd"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-ea6b13277df94a629fbd413d96200b63",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9fbc6addce274cffb674358a07e540d3",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Summer of S◎L: Serum, Reddit, and a Mind-Blowing Demo</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-712da5646b024d219b4ec6816fb9deb4",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F007c8c8d52364336a579a715ac234a36?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F007c8c8d52364336a579a715ac234a36?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F007c8c8d52364336a579a715ac234a36?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F007c8c8d52364336a579a715ac234a36?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F007c8c8d52364336a579a715ac234a36?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F007c8c8d52364336a579a715ac234a36?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F007c8c8d52364336a579a715ac234a36?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F007c8c8d52364336a579a715ac234a36?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F007c8c8d52364336a579a715ac234a36?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F007c8c8d52364336a579a715ac234a36?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-10073c1978be4e2499c39b92af91897f",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">📊 Serum: FTX’s holy grail DEX with CLOB, powered by Solana</span></p><p><span style=\"font-size: 20px;\">☀️SolFlare: the new community-built web wallet with staking</span></p><p><span style=\"font-size: 20px;\">⚓️ Anchor: DeFi powered by Solana staking rewards</span></p><p><span style=\"font-size: 20px;\">🎮 Break: interactive demo is breaking brains with Solana’s speed</span></p><p><span style=\"font-size: 20px;\">📈 26m blocks, 1.9bn transactions, ~400k S◎Ldiers&nbsp;</span></p><p><span style=\"font-size: 20px;\">🔥 Most upvotes and fastest demo on Reddit’s Scaling Competition</span></p><p><span style=\"font-size: 20px;\">🏦 New listings on FTX, BitMax, Bithumb Global, MXC</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6e8c34090c78438bb3224d45cc5f4144",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4c66af112de41339f744cbdb9ed6eeb?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.307,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 92,
+                "width": 300,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4c66af112de41339f744cbdb9ed6eeb?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4c66af112de41339f744cbdb9ed6eeb?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4c66af112de41339f744cbdb9ed6eeb?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4c66af112de41339f744cbdb9ed6eeb?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4c66af112de41339f744cbdb9ed6eeb?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4c66af112de41339f744cbdb9ed6eeb?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4c66af112de41339f744cbdb9ed6eeb?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4c66af112de41339f744cbdb9ed6eeb?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4c66af112de41339f744cbdb9ed6eeb?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1a9b9a66e2414f3a968ba01c0dd94141",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>“Holy Grail” Decentralized Exchange with Central Limit Order&nbsp;Book</strong></h2><p>The FTX and Alameda Research teams have been on a tear this past year. They recently announced Serum, a new high-speed, non-custodial decentralized exchange (DEX) for spot and derivatives, with an on-chain central limit order book. This is only possible with the speed and security of Solana.</p><p>Over 13 teams with the world’s best experts in DeFi, key management, custody, exchanges, market making, bridges, and trading have come together for “The Manhattan Project” of crypto. Serum will support cross-chain asset swaps, decentralized stablecoins, decentralized oracles, and non-custodial wrapped BTC, BCH, BSV, LTC, ZEC, ETH, and ERC-20s.</p><p>It’s expected to be open for trading in August.</p><ul><li><a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=e0269aff5d&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">The Block: FTX is launching a decentralized crypto exchange built on the Solana blockchain</a></li><li><a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=c7155b43e2&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Crypto Briefing: FTX Bets on Solana, Not Ethereum, for its New Decentralized Exchange</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d8ef665590f54b1fba69cfb28ad4c88d",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6bdc13b511344a196942ced558fc9ec?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.136,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 109,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6bdc13b511344a196942ced558fc9ec?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6bdc13b511344a196942ced558fc9ec?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6bdc13b511344a196942ced558fc9ec?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6bdc13b511344a196942ced558fc9ec?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6bdc13b511344a196942ced558fc9ec?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6bdc13b511344a196942ced558fc9ec?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6bdc13b511344a196942ced558fc9ec?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6bdc13b511344a196942ced558fc9ec?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6bdc13b511344a196942ced558fc9ec?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e9fe0fbcd0a2492a97cfc0e72d0599cf",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>The interactive speed demo that is breaking everyone’s brains</strong></h2><p>Solana built an interactive demo called “Break” to illustrate Solana’s speed in real-time. It’s simple to play, all you need to do is smash keys on your keyboard. Each keystroke sends a real transaction to the Solana mainnet. Every time a block changes color from black to green you know the transaction has been:</p><ul><li>Sent from the client to the server</li><li>Forwarded from the server to the the block producer</li><li>Added to a block and propagated to the network</li><li>Voted on by everyone in the network</li><li>Approved by 2/3+ of votes</li><li>Vote status sent from server to client</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f1a97a39b41d41dcbe546b1136327252",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/o/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F24c825d0538348109fd0266620a79fc5%2Fcompressed?apiKey=ce0c7323a97a4d91bd0baa7490ec9139&token=24c825d0538348109fd0266620a79fc5&alt=media&optimized=true",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.698,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 279,
+                "width": 400
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-85051f08c0cf4545ba15eb4ba5a1a274",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=ac03dd9a73&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 20px;\"><strong>Experience Solana’s Speed For Yourself</strong></a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c0f68c7b60f44939ac493ca81f3746b3",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F88ccab11c6c549f4b5641122142cb119?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.291,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 233,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F88ccab11c6c549f4b5641122142cb119?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F88ccab11c6c549f4b5641122142cb119?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F88ccab11c6c549f4b5641122142cb119?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F88ccab11c6c549f4b5641122142cb119?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F88ccab11c6c549f4b5641122142cb119?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F88ccab11c6c549f4b5641122142cb119?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F88ccab11c6c549f4b5641122142cb119?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F88ccab11c6c549f4b5641122142cb119?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F88ccab11c6c549f4b5641122142cb119?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-db2536f6a6044a05a36bf319594a5aef",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Four new listings on major exchanges in&nbsp;July</strong></h2><p>July was the SOL token’s most prolific month for exchange listings since its initial launch on Binance.&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=30ea5c7975&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">FTX</a>,&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=3b705891fb&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">BitMax</a>,&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=c1e1cb02de&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bithumb Global</a>, and&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=dee33a2faa&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">MXC</a>&nbsp;all decided to list SOL for trading. As part of the most recent listing, FTX is giving away a Cybertruck or its equivalent in SOL! All market pairs can be found on&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=7b94aaf026&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">CoinGecko</a>&nbsp;or&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=08158a3574&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">CoinMarketCap</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8a35651b09e3463fa091998d5c609e1b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7754ef90f7d047aa9e37ec81720a6794?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7754ef90f7d047aa9e37ec81720a6794?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7754ef90f7d047aa9e37ec81720a6794?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7754ef90f7d047aa9e37ec81720a6794?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7754ef90f7d047aa9e37ec81720a6794?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7754ef90f7d047aa9e37ec81720a6794?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7754ef90f7d047aa9e37ec81720a6794?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7754ef90f7d047aa9e37ec81720a6794?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7754ef90f7d047aa9e37ec81720a6794?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7754ef90f7d047aa9e37ec81720a6794?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7b872018d0b646bc9da57f6789a05ea5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Reddit’s 5-Day Scaling Challenge in 5 minutes, 40&nbsp;seconds</strong></h2><p>Solana tackled the Scaling Bake-Off the week of July and completed the entire 5-day challenge in around 5 minutes for less than $5 USD. Some highlights:</p><ul><li>323 comments and 253 upvotes, more than any of the other 17 projects</li><li>Challenge done in 5 minutes, 40 seconds, faster than any other PoC</li><li>Ran on mainnet across 130 geographically-distributed validators</li></ul><p><a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=ab4d28bee1&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">See the submission</a>,&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=979445efdb&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Run the demo for yourself on the mainnet</a>&nbsp;or&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=8617d5df50&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">watch the demo video</a>. Alternatively, just go&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=1ca631d893&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">play Break</a>!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b5b76ba541e541c7b511528fce32a7a8",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f7b06b7506e4cf5813dd7f81fb75b18?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.286,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 229,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f7b06b7506e4cf5813dd7f81fb75b18?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f7b06b7506e4cf5813dd7f81fb75b18?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f7b06b7506e4cf5813dd7f81fb75b18?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f7b06b7506e4cf5813dd7f81fb75b18?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f7b06b7506e4cf5813dd7f81fb75b18?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f7b06b7506e4cf5813dd7f81fb75b18?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f7b06b7506e4cf5813dd7f81fb75b18?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f7b06b7506e4cf5813dd7f81fb75b18?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f7b06b7506e4cf5813dd7f81fb75b18?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dd7df599cfac44be93f0920ac6a8552c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>A new DeFi product using Solana inflationary rewards from the team at&nbsp;Terra</strong></h2><p>Terra is launching a new DeFi product with Solana, Cosmos, and the Web3 Foundation. Anchor is a two-pronged platform for PoS token holders. The system offers savings accounts and a lending platform — the bread and butter that made DeFi on Ethereum a multibillion-dollar enterprise.</p><p>Anchor offers a principal-protected stablecoin savings product that accepts Terra deposits and pays a stable interest rate. Key features of Anchor include principal protection, instant withdrawals, and stable interest rates.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a302b8f750c44d0c9c3f837174bed91b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd1b5f3c254a49c1b1eccf2360cdbc8b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.251,
+                "lockAspectRatio": false,
+                "height": 201,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd1b5f3c254a49c1b1eccf2360cdbc8b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd1b5f3c254a49c1b1eccf2360cdbc8b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd1b5f3c254a49c1b1eccf2360cdbc8b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd1b5f3c254a49c1b1eccf2360cdbc8b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd1b5f3c254a49c1b1eccf2360cdbc8b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd1b5f3c254a49c1b1eccf2360cdbc8b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd1b5f3c254a49c1b1eccf2360cdbc8b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd1b5f3c254a49c1b1eccf2360cdbc8b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdd1b5f3c254a49c1b1eccf2360cdbc8b?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-75607ce3439741e98e913f460796eb88",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>An intuitive web wallet with native staking and delegation, built for S◎Ldiers by&nbsp;S◎Ldiers</strong></h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f488dd83402e46558e007b3acf4dc07f",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7157f78655a944158df03a9a98219199?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.555,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 444,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7157f78655a944158df03a9a98219199?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7157f78655a944158df03a9a98219199?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7157f78655a944158df03a9a98219199?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7157f78655a944158df03a9a98219199?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7157f78655a944158df03a9a98219199?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7157f78655a944158df03a9a98219199?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7157f78655a944158df03a9a98219199?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7157f78655a944158df03a9a98219199?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7157f78655a944158df03a9a98219199?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-07101278b4fd46f3ae2dcbe0c97004f1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>A simple and intuitive interface for managing, moving, and staking your SOL.&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=2c3e258f39&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SolFlare</a>&nbsp;was created by a longstanding Solana validator, Dokia. The wallet is live now and features support for keystore files as well as the Ledger Nano S. SolFlare also is the first Solana wallet interface to support staking without needing to use the command line interface, making stake delegation easier and accessible to casual users.</p><h2><strong>Engineering Updates</strong></h2><p>Solana’s engineering team continued the upward momentum over the past four weeks with more official releases, testnet updates, and infrastructure upgrades.</p><p><strong>New Docs:</strong>&nbsp;After 8 months of using GitBook, we officially completed our transition to Docusaurus at the start of July. Take a peek at the new&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=b8614cfe94&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">edge</a>,&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=731016f7b4&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">beta</a>, and&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=53b0b6c1a5&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">master</a>&nbsp;documentation deployments.</p><p><strong>Network Upgrade Preparations:</strong>&nbsp;Mainnet beta will undergo a network wide upgrade during epoch 61 to promote the network to the 1.2 release line. The upgrade will occur during a 2 day (1 Epoch) window called the Upgrade Epoch, where all user transactions will be disabled.</p><p><strong>RPC Optimizations:</strong>&nbsp;Releases on both the 1.1 and 1.2 release line focused on bug fixes related to network messages, RPC notifications, and other network metrics. Block height is now added to the getEpochInfo endpoint, and other encoding and filtering parameters are now available on other RPC subscriptions.July was a doozy. Not much sleep for Solana’s creators, contributors, and community during the Summer of S◎L. As always, thank you for your support and contributions.</p><p>As always, make sure to follow us on our various social channels to get daily updates on whats going on in the Solana ecosystem.</p><p><a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=50f6623774&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=28e04a1e0a&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=04520e1647&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=be9ba140b7&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=1ff2b34b69&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=759d4593e9&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://solana.us17.list-manage.com/track/click?u=dc5b8a6eb6dc3d737579c03c9&amp;id=b31e8caec8&amp;e=57cdfd2616&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3589396d3e824edf8642a638e1f0ec3e",
+  "lastUpdated": 1694189905956,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_8b6cec79982f4fb2aa3bbb0fc8d2c9ac",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687544408453,
+  "@originId": "8b6cec79982f4fb2aa3bbb0fc8d2c9ac",
+  "testRatio": 1,
+  "createdDate": 1687362683918,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=8b6cec79982f4fb2aa3bbb0fc8d2c9ac&builder.overrides.8b6cec79982f4fb2aa3bbb0fc8d2c9ac=8b6cec79982f4fb2aa3bbb0fc8d2c9ac&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "July Newsletter",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

@@ -1,0 +1,131 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1657479600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6bf8e417082b4bcf9222d5b56aeb7bac",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "It’s time to build with up to $5 million in prizes and seed funding.",
+    "publishedDate": "Mon Jul 11 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Welcome to the Solana Summer Camp Online Hackathon",
+      "ogUrl": "",
+      "ogDescription": "It’s time to build with up to $5 million in prizes and seed funding.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Welcome to the Solana Summer Camp Online Hackathon",
+      "noFollow": false,
+      "seoDescription": "It’s time to build with up to $5 million in prizes and seed funding.",
+      "seoTitle": "Welcome to the Solana Summer Camp Online Hackathon",
+      "noIndex": false
+    },
+    "title": "Welcome to the Solana Summer Camp Online Hackathon",
+    "twitterMeta": {
+      "twitterTitle": "Welcome to the Solana Summer Camp Online Hackathon",
+      "twitterDescription": "It’s time to build with up to $5 million in prizes and seed funding."
+    },
+    "slug": "solana-summer-camp-hackathon-kickoff",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bec3d03a15a94e16b13707bd0f0163b2"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-88248ba6c6d941ed97091311ed8cb80f",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-feaf3dc7bed54c38b3d10d03f99fd578",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana Summer is back.</p><p>The Solana Foundation is excited to announce the Solana Summer Camp Hackathon, an online, global event with up to $5 million in prizes and seed funding. The sixth Solana hackathon will run July 11 - Aug. 16. It’s open to everyone, and anyone with a project idea is encouraged to register.</p><p>Solana Summer Camp has a mobile prize track, as well as tracks in Payments, DeFi, Web3, Gaming, and DAOs. The previous hackathon,&nbsp;<a href=\"https://solana.com/riptide?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Riptide</a>, saw nearly 7,000 participants&nbsp;<a href=\"https://solana.com/news/riptide-hackathon-winners-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">submit 600 projects</a>.</p><p>Builders can expect a series of Twitter Spaces featuring talks and workshops from luminaries in the industry. Participants can also sign up for free month-long, in-person&nbsp;<a href=\"https://solana.com/events?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">co-working spaces</a>&nbsp;hosted by ecosystem projects in cities around the world, including San Francisco, Chicago, Salt Lake City, London, Berlin, Belgrade, Lisbon, Amsterdam, and Singapore.</p><p>Projects will be eligible for:</p><ul><li><strong>The Grand Champion</strong>&nbsp;will receive $65,000 USDC, three passes to an upcoming Solana conference, and the chance to present their projects to the greater Solana community</li><li><strong>The Community Choice Award</strong>, voted on by the Solana community, will be awarded $10,000 USDC and an exclusive NFT</li><li><strong>Prizes in the Mobile, Payments, DeFi, Web3, Gaming, and DAO Tracks</strong>, with five prizes each ranging from $50,000 USDC to $10,000 USDC</li><li><strong>The University Award</strong>, a $30,000 USDC prize presented to the best student team</li><li><strong>The Climate Award</strong>, promoting green and climate-friendly projects, will receive $10,000 USDC</li></ul><p><a href=\"https://solana.com/summercamp?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Register and learn more here.</a></p><p>No purchase necessary to enter or win.&nbsp;Void where prohibited.&nbsp;Participants must be the age of majority in their state/country of residence or older.</p><p>The Solana Summer Camp Hackathon (the “Hackathon”) is a competition where projects will be evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon will create software solely for purposes of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon. All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon.</p><p>The Hackathon ideas and developer resources that the Solana Foundation (“SF”) provides are for educational and inspirational purposes only. SF does not encourage, induce or sanction the deployment of any such applications in violation of applicable laws or regulations. SF does not encourage, induce or sanction the deployment, integration or use of any such applications (including the code comprising the Solana blockchain protocol) in violation of applicable laws or regulations and hereby prohibits any such deployment, integration or use. This includes use of any such applications by the reader (a) in violation of export control or sanctions laws of the United States or any other applicable jurisdiction, (b) if the reader is located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC), (c) if the reader is or is working on behalf of a Specially Designated National (SDN) or a person subject to similar blocking or denied party prohibitions, or (d) in violation of the Commodities and Exchange Act.</p><p>The reader should be aware that U.S. export control and sanctions laws prohibit U.S. persons (and other persons that are subject to such laws) from transacting with persons in certain countries and territories or that are on the SDN list. As a project based primarily on open-source software, it is possible that such sanctioned persons may nevertheless bypass prohibitions, obtain the code comprising the Solana blockchain protocol (or other project code or applications) and deploy, integrate, or otherwise use it. Accordingly, there is a risk to individuals that other persons using the Solana blockchain protocol may be sanctioned persons and that transactions with such persons would be a violation of U.S. export controls and sanctions law. This risk applies to individuals, organizations, and other ecosystem participants that deploy, integrate, or use the Solana blockchain protocol code directly (e.g., as a node operator), and individuals that transact on the Solana blockchain through light clients, third party interfaces, and/or wallet software.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96ad50e5ccc04b2d8749fd0a77b68c4e",
+  "lastUpdated": 1696414027917,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c46a678924bc4396be66c63b4e973392",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687556947662,
+  "@originId": "c46a678924bc4396be66c63b4e973392",
+  "testRatio": 1,
+  "createdDate": 1687362478302,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=c46a678924bc4396be66c63b4e973392&builder.overrides.c46a678924bc4396be66c63b4e973392=c46a678924bc4396be66c63b4e973392&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Welcome to the Solana Summer Camp Online Hackathon",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

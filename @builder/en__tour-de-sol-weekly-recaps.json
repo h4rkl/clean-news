@@ -1,0 +1,270 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1583222400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc8243bcdb44d41b48a2e51139f3f50a5",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nSolana’s incentivized testnet event. An opportunity to flex their validation skills, earn tokens, and secure the Solana network.\n",
+    "publishedDate": "Tue Mar 03 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "title": "Tour de SOL Weekly Recaps",
+    "seo": {
+      "internalName": "Tour de SOL Weekly Recaps",
+      "noFollow": false,
+      "seoDescription": "\nSolana’s incentivized testnet event. An opportunity to flex their validation skills, earn tokens, and secure the Solana network.\n",
+      "seoTitle": "Tour de SOL Weekly Recaps",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Tour de SOL Weekly Recaps",
+      "ogUrl": "https://www.solana.com/blog/tour-de-sol-weekly-recaps",
+      "ogDescription": "\nSolana’s incentivized testnet event. An opportunity to flex their validation skills, earn tokens, and secure the Solana network.\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Tour-de-SOL-Weekly-Recaps/1-yCOpj9ql4gbh4k0ewHc15g-1.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Tour de SOL Weekly Recaps",
+      "twitterDescription": "\nSolana’s incentivized testnet event. An opportunity to flex their validation skills, earn tokens, and secure the Solana network.\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Tour-de-SOL-Weekly-Recaps/1-yCOpj9ql4gbh4k0ewHc15g-1.png"
+    },
+    "slug": "tour-de-sol-weekly-recaps",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bcb4dba618b1420eaef36b7cf622a748"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc162926a1c34884938092e2be078099"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6e486fb681614dda8835548c251fe8e7"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a08bdcb4a0ca4f81b00df16c8ca465ee"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-73decda929b94db48bf849448f73079a",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cfdea7f388a2419f9ee2777c5c2e5785",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This is a live document highlighting weekly updates from TdS. Make sure to check back each week for additional details.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-26a34048d28645869ec07d2e450ff8f4",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc6b356281de44234a96b711db3bff75b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc6b356281de44234a96b711db3bff75b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc6b356281de44234a96b711db3bff75b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc6b356281de44234a96b711db3bff75b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc6b356281de44234a96b711db3bff75b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc6b356281de44234a96b711db3bff75b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc6b356281de44234a96b711db3bff75b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc6b356281de44234a96b711db3bff75b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc6b356281de44234a96b711db3bff75b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc6b356281de44234a96b711db3bff75b?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3c0575c587814d29af11eadcd174d767",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Week 3</strong></h2><p>This has been a major week for us as we’re getting ready to say goodbye to the v0.23.X release line and upgrade to v1.0.X, which is a significant milestone as this release line is intended for soon after our Mainet Beta Launch. With this major milestone we want to give a heartfelt thank you to everyone that has been involved thus far but also all the Dry Runs leading up to this as well that made this all possible.</p><h3><strong>Compensation</strong></h3><p>As a small gesture of recognition,&nbsp;<strong>all&nbsp;</strong>validators that actively participated in Stage 1 will be compensated with additional tokens on top of the base amount, which will be calculated determined by the # of bugs successfully identified during Stage 1. This will be calculated by:</p><p>Critical Bugs</p><p>Total # critical bugs identified x Compensation amount for bug / total validators = additional compensation per Validator</p><p>Non-Critical Bugs</p><p>( total non-critical bugs identified x compensation amount for bug ) / total validators = additional compensation per Validator</p><p>Notes:</p><ul><li>Delinquent and non-responsive Validators that did not meet participation requirements will not be included in the calculation or be compensated</li><li>For Successful attacks executed by a specific party/parties, additional compensation will be provided to the respective parties directly, and are not part of the calculation</li></ul><p><strong>Breaking: Is Keanu Reeves the real One? Both Chorus One and Certus One claim otherwise in their latest attack</strong></p><p>Chorus One and Certus One were back at it again. Combining efforts to successfully execute two separate attacks simultaneously during a cluster restart as we upgraded to the SLP2 network while integrating the latest release v0.23.6 release from TdS.</p><p><strong>Chorus One’s Attack</strong></p><p>As nodes start, they attempt to fetch the genesis config and a snapshot from the node with the highest advertised slot. This helps them find a snapshot that’s as close to the head of the chain as possible, minimizing the catch-up time. But how the nodes advertise their highest slot isn’t trusted, and nodes can lie. Chorus One made their node lie, which caused all the validators to come online to try to fetch the genesis config from them. But the genesis config that the Chorus One node returned was bogus, which caused the nodes to abort. Effectively a DoS attack preventing any node from starting up.</p><p>This DoS attack is particularly effective when booting up a new cluster. However, it’s still impactful even when attempted on a live network, by slowly killing the cluster as nodes attempt to restart.</p><p>The solution is for this will be to blacklist nodes that return a bad genesis config and/or snapshot, and then retry from another node. Which we’ll be working on implementing in the coming week.</p><p><strong>Certus One’s Attack</strong></p><p>At the same time, Certus One was running several nodes that served up an infinite file for a snapshot, which prevents validators from starting since they never stop downloading. This wasn’t a complete DoS as there were other nodes with valid snapshots, however if Validators got unlucky, then they’d have to continuously restart their node until they avoid the infinite file.</p><p><strong>Issues Identified During TdS: Stage 1 So Far</strong></p><p>During the course of Stage 1 we successfully identified a total of 13 new issues within the v0.23.X release:</p><p><strong>Total # of Non-Critical Bugs: 11</strong></p><ul><li><a href=\"https://github.com/solana-labs/solana/issues/8130?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bootstrap leader sending bad snapshots</a> — Closed</li><li><a href=\"https://github.com/solana-labs/solana/issues/8141?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gossip not filtering out duplicate IP’s</a> — Closed</li><li><a href=\"https://github.com/solana-labs/solana/issues/7425?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Validator uptime calculation incorrect </a>— Closed</li><li><a href=\"https://github.com/solana-labs/solana/issues/8292?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Validators picking up outdated snapshots from delinquent Validators</a> — Closed</li><li><a href=\"https://github.com/solana-labs/solana/issues/8407?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Issue with the ‘solana catch-up’ command</a></li><li><a href=\"https://github.com/solana-labs/solana/issues/8116?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Unreasonable writes to disk with RocksDB</a></li><li><a href=\"https://github.com/solana-labs/solana/issues/8406?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Validators falling behind in slots in v0.23.6</a></li><li><a href=\"https://github.com/solana-labs/solana/issues/8131?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">tds.solana.com OOMs shortly after restarting</a></li><li><a href=\"https://github.com/solana-labs/solana/issues/8168?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Snapshots are taking too long to unpack and process</a></li><li><a href=\"https://github.com/solana-labs/solana/issues/8156?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Resistance to multi-hour network outage</a></li><li><a href=\"https://github.com/solana-labs/solana/issues/8189?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Loss of consensus in TdS</a></li></ul><p><strong># of Critical — 2</strong></p><ul><li><a href=\"https://github.com/solana-labs/solana/issues/8175?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DoS attack by Certus One</a> — Fixed</li><li><a href=\"https://github.com/solana-labs/solana/issues/8432?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bogus genesis.tar.bz2 files can DoS cluster boot</a>&nbsp;by Chorus One — Closed</li><li><a href=\"https://github.com/solana-labs/solana/issues/8427?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Zero-stuffing genesis/snapshot compressed archives to fill up the disk</a>&nbsp;by Certus One</li></ul><p>We spent most of that week working through these issues above, and kept the TdS cluster offline for several days until we had a fix for the some of the critical attacks highlighted identified thanks to our Validator community including several high-priority stability issues related to snapshots.</p><p>These fixes were captured in release v0.23.6 and used to bring the Tour de SOL cluster back online during the weekend for a final stress test which went well! Obviously there are still several known issues yet to be rectified (as highlighted above) in this version, but overall we’ve come a long way from when we first started Stage 1.</p><h3><strong>So what’s&nbsp;next?!</strong></h3><p>With the new release stress-tested, we’ve used it to upgrade the SLP1 cluster to SLP2 so that partners integrating into Solana can also reap the benefits of these latest improvements as well.</p><p>As for the TdS network, we intend to transition soon into testing out our Mainnet Beta release v1.0.X, however, we will retain the same ledger after the upgrade (meaning everyone who is currently delegated remains so). The v1.0.x release line (previously known as v0.24.0) is an extremely important release for us, as it’ll be critical for the launch of Solana’s Mainnet Beta upon post-stress-testing. So over the next few weeks, we look forward to coming back together with our existing Validator community and welcoming new participants!</p><p>Note: We also plan on putting together a delegation bot after implementing the v1.0.X release that will automatically add a delegation to new Validators that are current, and remove delegation from delinquent Validators.</p><h2><strong>Week 2</strong></h2><p>Welcome back to everyone who’s been following along on our progress during Tour de SOL. It’s been another event-filled week. We’ve shipped several fixes to issues identified over the past few days, while some issues remain outstanding as we expect them to take longer to fix.</p><h3><strong>PROGRESS ON CRITICAL&nbsp;BUGS</strong></h3><h3><strong>Certus Ones’ DoS&nbsp;Attack</strong></h3><p>For the first several days last week, we kept the network offline as we attempted to quickly fix the bug highlighted by Certus One’s successful DoS attack, however after working on it for several days we concluded that the fix would require some additional time and effort to be resolved. Therefore we decided to bring the network back up first:</p><ul><li>As we had several other fixes for other issues ready to be implemented</li><li>Allow us to continue identifying more bugs</li><li>With an agreement together with the Validator community that the DoS attack would be off-limits until advised otherwise</li></ul><h3><strong>Other High-Priority Stability Issues</strong></h3><p>Outside of the attack mentioned above, we still have several other issues which we’ll be focusing on for the coming weeks:</p><ul><li><a href=\"https://github.com/solana-labs/solana/issues/8168?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Snapshots loading very slowly</a>: Snapshots are taking over 1000 slots to unpack and process across both TdS and SLP due to the large number of account files in them. Thereby slowing down Validators from being able to quickly boot and restart</li><li><a href=\"https://github.com/solana-labs/solana/issues/8292?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Validators can accidentally fetch snapshots from delinquent Validators</a>: When a validator comes up and looks for a snapshot over RPC, it can easily pick a delinquent validator and thus get a very old snapshot.</li><li><a href=\"https://github.com/solana-labs/solana/issues/8189?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Intermittent Consensus Issue 1</a></li></ul><h3><strong>NETWORK UPGRADES</strong></h3><h3><strong>Tofino v0.23.4</strong></h3><p>The cluster was restarted on the 12th of February with version&nbsp;<a href=\"https://github.com/solana-labs/solana/releases/tag/v0.23.4?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">v0.23.4</a>, capturing fixes in the following areas:</p><ul><li>Snapshots</li><li>Repair</li><li>Gossip Network</li></ul><p>We successfully upgraded the cluster with the new version the following day, and our bootstrap Validator node finally managed to distribute its stake to the rest of the cluster such that it represented less than 33% of the active stake.</p><h3><strong>Tofino v0.23.5</strong></h3><p>We followed up with another version on the 14th of February with&nbsp;<a href=\"https://github.com/solana-labs/solana/releases/tag/v0.23.5?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">another update</a>&nbsp;to rectify a long-standing out-of-memory issue that was affecting some Validators</p><h3><strong>Final Comments</strong></h3><p>As of today, the network is still down due to the issue mentioned above where Validators accidentally fetch snapshots from delinquent nodes. Until this is resolved we won’t be restarting the network just yet as it’ll likely cause the network to crash again after a few days.</p><h2><strong>Week 1</strong></h2><p>We’re officially a week into Stage 1 of Tour de SOL (TdS), and what a week it has been. Our goal was to begin to stress test our latest release v0.23.3, and iron out any major issues in this release with the aim to use it to upgrade our Soft Launch Phase 1 (SLP1) cluster to the Global Cluster (GC), the first major release of our cluster. As of now, we’ve had 2 cluster restarts, 1 critical bug identified, and a series of smaller bugs identified which we’re currently working through. Suffice to say it’s been everything we hoped it would be when we first set out to launch this event.</p><h3><strong>ATTACKS/BUGS</strong></h3><p>Congratulations to the team at Certus One, who successfully submitted the first PR for a critical bug! With this attack, they managed to weaponize a memory leak bug in the gossip network to starve the kernel allocator, which would take down any Validator on the cluster (either one at a time, or all at once).</p><p><a href=\"https://github.com/solana-labs/solana/issues/8175?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Link to issue 9</a></p><p>If you refer to the diagram below, this is how the cluster reacts when this attack is performed. The diagram on the left shows an ever-growing gap between the latest block and the last time a block was finalized when a healthy cluster would instead show a flat line. The diagram on the right should look like a linearly increasing function, instead, it’s a flat line indicating that consensus isn’t being achieved.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6f439642e8d3421e9ea284a9bc2d7bc5",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7902395816bd4e628ba0c0c17aca882b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.226,
+                "lockAspectRatio": false,
+                "height": 141,
+                "width": 624,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7902395816bd4e628ba0c0c17aca882b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7902395816bd4e628ba0c0c17aca882b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7902395816bd4e628ba0c0c17aca882b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7902395816bd4e628ba0c0c17aca882b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7902395816bd4e628ba0c0c17aca882b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7902395816bd4e628ba0c0c17aca882b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7902395816bd4e628ba0c0c17aca882b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7902395816bd4e628ba0c0c17aca882b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7902395816bd4e628ba0c0c17aca882b?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5c89ac3a43d94b46b402da48737305a7",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Diagram 1: Aftermath of Attack</p><h3><strong>OTHER ISSUES IDENTIFIED</strong></h3><p>The great news is that despite the following 2 issues, the cluster managed to stay alive, however, it did lead to a reasonable amount of on-boarding friction for Validators:</p><ol><li><strong>Mixed Public Keys across Solana Clusters</strong></li><li>The gossip networks across both TdS and SLP1.1 merged into a larger cluster during the on-boarding period.</li><li>A few weeks ago, some of you may have seen our announcement about the&nbsp;<a href=\"https://medium.com/solana-labs/slp1-cluster-launch-4634848d2343?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">launch of our SLP1 cluster 1</a>, which runs in parallel to TdS. To connect to this, and any of our other clusters, the process is that we typically require Validators to provide us with their public key, a public identifier for their node.</li><li>Therefore as Validators started to connect to the newly setup TdS cluster during the initial 24-hour onboarding period, we collected their public keys in advance so that we could delegate tokens to them, and get them staked.</li><li>Some of the Validators coming online, re-used the same public keys that they were using for the SLP1 cluster. As a result, these Validators — which couldn’t identify that the SLP1 cluster and the TdS clusters were separate — merged the gossip clusters between the two into a larger whole, and eventually turned Validators delinquent.</li><li><strong>Overloaded RPC Entrypoint</strong></li><li>The RPC entrypoint for the&nbsp;<a href=\"http://tds.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">tds.solana.com</a>&nbsp;Validator was added to gossip multiple times, leading to excessive inbound traffic, inefficient management of the additional traffic eventually lead to our the Validator to run out of memory.</li><li>For Validators joining the Tour de SOL cluster, there are two methods of connecting their Validator:</li></ol><ul><li>Using the existing RPC entrypoint provided by Solana</li><li>Setting up their own RPC entrypoint</li></ul><ol><li>The first option is by far the most convenient. However, during the first 48 hours of the cluster coming online, Validators were finding that they were having intermittent success in utilizing the single RPC entrypoint that we had prepared after multiple attempts.</li><li>While we’re still debugging this, we observed two key issues. First was that our RPC entrypoint was being added to the gossip network multiple times (at least 10 times) leading to a significant amount of increased traffic, which was due to a snapshot issue. The second issue which became apparent as a consequence of that was that, the RPC node wasn’t able to properly manage the extra traffic and as a result ran out of memory. It’s possible there are other factors involved, however we’re still investigating as of this time.</li></ol><h3><strong>CLUSTER RESTARTS</strong></h3><ol><li><strong>Failed Migration of Bootstrap Leader Node</strong></li><li>In an attempt to migrate the bootstrap node from Google Cloud into a Co-Location setup, causing it to re-transmit a block and the rest of the cluster forked away, therefore permanently losing consensus.</li><li><strong>Cluster Outage in Data Centre</strong></li><li>Due to a cluster outage in our Data Centre which was hosting our bootstrap node, the cluster stopped making progress, requiring us to restart the cluster.</li></ol>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0af25bc370884c6cba685e3f503b6a0c",
+  "lastUpdated": 1694189906031,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_88ff92119a0e49068500236702d8af5b",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687508371409,
+  "@originId": "88ff92119a0e49068500236702d8af5b",
+  "testRatio": 1,
+  "createdDate": 1687362734400,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=88ff92119a0e49068500236702d8af5b&builder.overrides.88ff92119a0e49068500236702d8af5b=88ff92119a0e49068500236702d8af5b&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Tour de SOL Weekly Recaps",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

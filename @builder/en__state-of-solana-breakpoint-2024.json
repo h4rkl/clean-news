@@ -1,0 +1,1590 @@
+{
+  "folders": [],
+  "query": [],
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "createdDate": 1729022015617,
+  "data": {
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e",
+      "model": "author"
+    },
+    "datePublished": 1728964800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1b320ed6b08640549af12d7d049ec79d",
+    "intro": "Dig into the latest updates from the Solana ecosystem as of Breakpoint 2024.",
+    "seo": {
+      "seoDescription": "Dig into the latest updates from the Solana ecosystem as of Breakpoint 2024.",
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1b320ed6b08640549af12d7d049ec79d",
+      "seoTitle": "The State of Solana at Breakpoint 2024"
+    },
+    "slug": "state-of-solana-breakpoint-2024",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb",
+          "model": "entity-blog-tags"
+        }
+      }
+    ],
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "The State of Solana at Breakpoint 2024"
+    },
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-68840cd1c4664a25b1fc52e2fe1a3cb9",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fa7c2a5f9d854457a908f3879b1fa494",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline"
+              ]
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "PRINT"
+                    },
+                    "hierarchy": "outline",
+                    "url": "https://solana.com/state-of-solana-breakpoint-2024"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Take This Report With You"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Get a printable version of the State of Solana at Breakpoint 2024."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In this report"
+                }
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-27c8f138deb44da38ef0f1b5a8292523",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><em>Download the PDF of this report </em><a href=\"https://solana.com/state-of-solana-breakpoint-2024\" rel=\"noopener noreferrer\" target=\"_blank\"><em>here.</em></a></p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-765c1fa8d767435580f06ec981d3d198",
+                "meta": {
+                  "previousId": "builder-924aa40924d540afb943562eb7bbd59f",
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong>Highlights</strong></p><ul><li><strong><em>Institutional adoption on Solana is accelerating, </em></strong><em>with upcoming launches from Franklin Templeton, Securitize (tokenization partner for BlackRock’s BUIDL), and Société Générale, all announced at Breakpoint. Market participants are optimistic for positive regulatory outlook, which will allow for further growth.</em></li><li><strong><em>Solana developers are building for mobile, </em></strong><em>with new mobile apps from Jupiter, DRiP, and PhotoFinish LIVE, alongside mobile devices like Solana Mobile’s Seeker and Jambo’s JamboPhone 2.</em></li><li><strong><em>The Solana payments ecosystem continues to expand,</em></strong><em> featuring launches of cross-border payments apps like Sling, emerging trends like PayFi, releases of debit cards powered by Solana-based stablecoins, and new stablecoins like Sky’s USDS.</em></li><li><strong><em>Decentralized energy is an emerging DePIN sub-sector that aims to address the energy crisis. </em></strong><em>Developments from Breakpoint include the introduction of decentralized renewable energy network Project Zero and Powerledger’s upcoming migration to Solana.</em></li><li><strong><em>Projects built primarily on Solana announced $173 million in fundraising in Q3’24, the highest since Q2’22. </em></strong><em>Early stage development is also growing, with Colosseum’s second hackathon seeing 36% more registrations than its first.</em></li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                    "paddingTop": "20px",
+                    "paddingLeft": "20px",
+                    "paddingRight": "20px",
+                    "paddingBottom": "20px",
+                    "opacity": "1",
+                    "borderRadius": "20px",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-f50231bb2fe9407585d9616d856e1b0c",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F718e8d0bd22e44b088db788242ef27dd?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1126,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-8f23562b41964a2f864161f2fd3c8b57",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Overall onchain activity on Solana has declined recently, with monthly transaction fees down 66% from March highs, but still up almost 1,900% year-over-year.</p><p>While its monthly transaction fees peaked in March, Solana’s market share of fees grew until July, reaching 25%. Until December 2023, Solana’s market share had never been above 1.5%.</p><p>In the past six months, Solana transaction fees totalled $260 million, third behind Ethereum ($752 million) and TRON ($268 million), and ahead of BNB Chain ($83 million) and Base ($32 million). The total fees figure has been driven by transaction volume, not high individual transaction fees. Over the same period, Solana’s average transaction fee was $0.02, lower than each of Ethereum ($3.58), TRON ($0.22), BNB Chain ($0.13), and Base ($0.05).</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-839c725460a640348f618faf89d0ead9",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F979268c9802c4c0fbf3001ad5190f79f?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1126,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-4779a3cdc98e488c97ac6b2f5bfb67a5",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Although onchain activity on Solana fell in Q3, development activity on the network continued to grow, with both private fundraising and hackathon participation up QoQ.&nbsp;</p><p>In Q3’24, 29 projects built primarily on Solana announced private fundraises totalling $173 million, the highest quarterly figure since Q2’22. Additionally, each month in Q3’24 saw sequential growth, with September’s $103 million marking the strongest month since June ‘22.&nbsp;</p><p>Colosseum’s inaugural hackathon, Renaissance, attracted over 8,300 participants and received 1,071 submissions in H1’24. Its second hackathon, Radar, recently closed with over 13,600 registered participants, a 63% increase.</p><p>At the fourth annual Breakpoint conference hosted by the Solana Foundation, over 70 teams delivered <a href=\"https://www.youtube.com/watch?v=6M8SGByj-yM&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L\" rel=\"noopener noreferrer\" target=\"_blank\">product keynotes</a>. Several trends emerged from them, including new mobile developments, increased institutional adoption, payments ecosystem expansion, and continued DePIN growth.&nbsp;</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-0b77aedb55cd47b08ce4e2d318c14138",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Meeting Users Where They Are</h2><p>Crypto onboarding and user experience have long been a challenge. To reach millions, dApps need to meet users where they are — on their smartphones. At Breakpoint, several teams announced live and upcoming mobile versions.</p><h3>Mobile dApps</h3>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-2d291cbfd9a247ebb2edd0bf31afa602",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdaf828269fb94bfb909825f62c0b94fe?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1125,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-22f7499e93114989a68a7ef0de80214d",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>With <a href=\"https://dune.com/ilemi/jupiter-aggregator-solana\" rel=\"noopener noreferrer\" target=\"_blank\">$269 billion</a> in year-to-date aggregator volume and a growing product suite – including a DCA protocol, perps, a launchpad, and more – Jupiter has become a leading hub in crypto. At Breakpoint, Jupiter’s Siong Ong <a href=\"https://www.youtube.com/watch?v=rwNIM3HIr5I&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=15\" rel=\"noopener noreferrer\" target=\"_blank\">previewed</a> Jupiter Mobile, which will initially offer swapping and onramping features. Swaps on Jupiter Mobile are designed with user experience in mind, offering one-tap swap functionality and features to eliminate pain points like dynamic slippage, auto priority fees, and smart retries. Just like on Jupiter’s web UI, mobile swaps will have zero platform fees. Users can onramp from fiat via Apple Pay, Google Pay, and credit cards, powered by MoonPay.</p><p>Other Jupiter announcements from Breakpoint include Perps V2, Jupiter RFQ, Metropolis API, acquisitions of SolanaFM and CoinHall, and ape.pro.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-41e3aa65529345e4879c13fd590e58a4",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa67eb670091945f3bd9433abb2cb3831?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1125,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c1e9215910454416a3863283ca9ce102",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>DRiP is one of Solana’s leading consumer apps, having minted over <a href=\"https://analytics.topledger.xyz/tl/public/dashboards/7XqwqSZ3r7aYD5EVBwd67VHQ3Y1pXrq0agQptxuU\" rel=\"noopener noreferrer\" target=\"_blank\">129 million</a> NFTs in the past year. At Breakpoint, founder Vibhu Norby <a href=\"https://www.youtube.com/watch?v=MxQL1OLEDIQ&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=80\" rel=\"noopener noreferrer\" target=\"_blank\">live demo’d</a> DRiP Mobile, now available for testing on <a href=\"https://testflight.apple.com/join/b8uTwht4\" rel=\"noopener noreferrer\" target=\"_blank\">iOS</a> and <a href=\"https://play.google.com/apps/testing/com.drip.haus\" rel=\"noopener noreferrer\" target=\"_blank\">Android</a>. The app features gasless, one-click transactions and a sleek UI, delivering a seamless web2-like experience.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-dc4cb94e38af4dbe87eb20691e7b2531",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8e8f6c0df0ab4ee6aad77b080bc4597c?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1125,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-12e09293e7484e98b5a61bb13810a024",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Photo Finish LIVE has seen over $27 million in total money spent entering its virtual races, according to <a href=\"https://dune.com/third-time-entertainment/photo-finish-live\" rel=\"noopener noreferrer\" target=\"_blank\">Third Time Entertainment</a>. It is now available on the <a href=\"https://apps.apple.com/us/app/photo-finish-live/id6504777327\" rel=\"noopener noreferrer\" target=\"_blank\">US App Store</a>, making it the first real-money horse racing game on the App Store. Upcoming milestones for Photo Finish LIVE include Google Play support, a live streaming app, and partnerships within the betting and racing industries.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-20b7bbb146c44c05980cc4b2b076208c",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc9da13a2290d49ac9c7fd6463c0de21e?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1125,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-a1d394e686d54242b59aff14c1086c74",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Rally is a mobile onchain everything app that recently rebranded from Floor. Its features include a seed phrase-free wallet, support for onchain actions like swaps and NFT minting, and a portfolio tracker. Since its inception in 2021, Rally has gained 100,000s of users, according to the <a href=\"https://x.com/floor/status/1838950363535135071\" rel=\"noopener noreferrer\" target=\"_blank\">team</a>.&nbsp;</p><p>At Breakpoint, <a href=\"https://www.youtube.com/watch?v=eoCUS3UYCzs&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=82&amp;pp=iAQB\" rel=\"noopener noreferrer\" target=\"_blank\">Rally</a> announced support for the Solana network along with four new features: an enhanced social discovery feed and tools, fiat payments powered by MoonPay, 100% gasless transactions, and a “give a meme, get a meme” referral program.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e0869e28dbd3474893fd02245bfd6454",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff28f46d5fe444ab1b881ea0b862b68dc?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1125,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-8fe94c5c15934b0e836d531a45d8763b",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>24 million users have visited onchain trading terminal Birdeye so far in 2024, <a href=\"https://www.youtube.com/watch?v=UTCTXOhoJI0&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=12\" rel=\"noopener noreferrer\" target=\"_blank\">according to co-founder Kha Nguyen</a> at Breakpoint. Birdeye hopes to reach even more users with the launch of its mobile app, coming to the App and Google Play Stores in early October. The mobile app launch will be followed by two other updates planned for mid-October:</p><ul><li>Birdeye V2: A new, faster interface for real-time data and decisions.</li><li>Birdeye Panel: A terminal with drag and drop components for a customized trading experience.</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-b98705ee0a54463999d28c9e182aa978",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3fc619df14684f53b3bb8cd17910b72a?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1125,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-f5c4de0297b9488fa11b4b7e8f651cb3",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Moonwalk Fitness is an app that gamifies fitness accountability. It’s aiming to reach a wider audience with its upcoming mobile app on iOS and Android devices that was <a href=\"https://www.youtube.com/watch?v=_Rh7pkGLXPE&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=79\" rel=\"noopener noreferrer\" target=\"_blank\">unveiled at</a> <a href=\"https://www.youtube.com/watch?v=_Rh7pkGLXPE&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=79\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint</a>. To reach non-crypto users, the app will feature traditional web2 login methods like phone numbers and emails, and fiat rails including Apple Pay, PayPal, and credit cards.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-215c5ee9cc6e42e8b3dd69f7d59ff1bc",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fd78a5fee0c46f8b31a8921ffc3ff5d?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1125,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-4c5790f196c341da8d30ce93419b5dd5",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>At Breakpoint’s Gamer Village, Aurory <a href=\"https://x.com/AuroryProject/status/1837104089932406879\" rel=\"noopener noreferrer\" target=\"_blank\">showcased</a> the new mobile build of Seekers of Tokane, a free-to-play, Japanese Role Playing Game. Aurory also <a href=\"https://x.com/AuroryProject/status/1835664973076259212\" rel=\"noopener noreferrer\" target=\"_blank\">hosted</a> a Seekers of Tokane competition with $1,500 in prizes, exclusive to players at its Breakpoint booth. The mobile version is <a href=\"https://x.com/AuroryProject/status/1837104092981629073\" rel=\"noopener noreferrer\" target=\"_blank\">open</a> for testing on iOS and Android devices.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-14549cadd17a4407a1170ec9da2c6755",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h3>Mobile Infra</h3><p>Between hardware and software not optimized for crypto and the app store duopoly, building apps on existing mobile devices is not ideal. In an effort to provide a better experience for mobile crypto apps and disrupt the app store duopoly, several teams are developing new mobile devices specifically geared for Solana.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-faa133e6781948b0af3f728cb1c3dc6f",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f4b7e00012146ecbd9bf2fdf9bb2538?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1125,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-0bc0b56ae78a4b57830bbdc317bbc910",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Solana Mobile’s Chapter 2 has been the most successful crypto mobile device experiment to date, selling over 140,000 pre-order units. At Token 2049, the Solana Mobile team showcased the phone, known officially as <a href=\"https://x.com/solanamobile/status/1836614409613119632\" rel=\"noopener noreferrer\" target=\"_blank\">Seeker</a>, for the first time. It features many updates from Solana Mobile’s first phone, Saga, which include:</p><ul><li>A higher performant phone – lighter, brighter, with a batter camera and longer battery – at a more accessible price</li><li>The Seed Vault Wallet, built in collaboration with Solflare, which provides secure and seamless self-custody</li><li>Rewards tracking and improved discoverability and navigation in the Solana Mobile dApp Store</li><li>Seeker-only experiences from Solana dApps like Helium, Moonshot, Alethea, and many more</li></ul><p>Seeker is shipping in mid-2025. The $500 Early Adopter Window pricing is open for <a href=\"http://solanamobile.com/\" rel=\"noopener noreferrer\" target=\"_blank\">pre-orders</a>.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-ff67d1a90241481c9766adb08ea10ed1",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F124bfd0ecacf40e6a1935bfbf4e4410f?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1125,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-376929ef78994c5fb62f1b677dea3827",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Jambo offers a phone at a lower price point of just $99. At Breakpoint, the team <a href=\"https://www.youtube.com/watch?v=cLTVsNB8jio&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=56&amp;pp=iAQB\" rel=\"noopener noreferrer\" target=\"_blank\">unveiled</a> JamboPhone 2 and announced that the phone will support the Solana network. The smartphone comes with JamboGPT, the JamboPlay dApp store, and rewards from ecosystem partners. JamboPhone 2 is now open for <a href=\"https://jambophone.xyz/products/jp2\" rel=\"noopener noreferrer\" target=\"_blank\">pre-orders</a>.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-0c7be884113848809987e68d77440478",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h3>Blinks</h3><p>Blockchain links (blinks) provide developers a unique way to meet users where they are, enabling actions anywhere a link can be shared. Blinks are currently not geared toward user onboarding, since they lack functionality on mobile or for non-crypto users. But they offer a more composable, seamless experience for crypto apps, as <a href=\"https://www.youtube.com/watch?v=ySd66tRY6HU&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=70\" rel=\"noopener noreferrer\" target=\"_blank\">discussed</a> by Dialect founder Chris Osborn at Breakpoint. Developers can teleport their apps into social media platforms, starting with Twitter, or even other apps. For example, DRiP <a href=\"https://x.com/drip_haus/status/1823890958410228020\" rel=\"noopener noreferrer\" target=\"_blank\">uses</a> blinks to let users bid on auctions via Mallow and buy NFTs from Tensor directly on DRiP.</p><p>One of the early use cases for blinks has been in e-commerce, with brands like <a href=\"https://x.com/BAXUSco/status/1807856125054013702\" rel=\"noopener noreferrer\" target=\"_blank\">BAXUS</a> and <a href=\"https://x.com/KeystoneWallet/status/1813926326652506312\" rel=\"noopener noreferrer\" target=\"_blank\">Keystone</a> leveraging blinks for product drops directly on Twitter. At Breakpoint, payments platform Helio <a href=\"https://www.youtube.com/watch?v=JhX-vo1UA2w\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that it will soon launch blinks for Shopify, making it even easier for Shopify merchants to reach more buyers. Helio <a href=\"https://medium.com/helio-fintech/helio-takes-the-helm-of-solana-pay-on-shopify-8deef50a6014\" rel=\"noopener noreferrer\" target=\"_blank\">took over</a> operations of the <a href=\"https://techcrunch.com/2023/08/23/solana-pay-plug-in-with-shopify-for-usdc-payments/\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay Shopify plugin</a> in December, which has helped drive Helio’s total annualized payment volume to $1 billion, according to co-founder Stijn Paumen at Breakpoint.</p><p>Since the blinks launch at the end of July, hundreds of developers have created over <a href=\"https://dial.to/\" rel=\"noopener noreferrer\" target=\"_blank\">400 unique types of blinks</a>. To spur development, SEND hosted a blinks hackathon (“Blinkathon”), featuring over $30,000 in prizes from SEND and many partner sponsors. After Breakpoint, SEND <a href=\"https://x.com/thesendcoin/status/1839324387935399999\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> the results of the Blinkathon, which garnered over 100 submissions.&nbsp;</p><p>The top overall prize went to <a href=\"https://x.com/tj_littlejohn/status/1826679111021916455\" rel=\"noopener noreferrer\" target=\"_blank\">Blurt</a>, which allows users to donate to live streamers on Twitch, Youtube, Twitter, and Kick directly via a blink. Streamers can easily start accepting crypto donations creating a wallet with their Google account, powered by <a href=\"https://x.com/TipLinkOfficial/status/1800552077673807946\" rel=\"noopener noreferrer\" target=\"_blank\">TipLink</a>. Blockchain-based payments, especially micropayments, are a notable unlock for the creator economy. To facilitate micropayments, platforms like Twitch and TikTok use in-app currencies, but there’s still inefficiencies: creators have to hit a $50 <a href=\"https://help.twitch.tv/s/article/minimum-payout-threshold?language=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">withdrawal</a> <a href=\"https://www.tiktok.com/legal/page/global/tiktok-creator-fund-terms/en\" rel=\"noopener noreferrer\" target=\"_blank\">threshold</a> and may need to wait up to a month to access their earnings. <a href=\"https://help.twitch.tv/s/article/payout-details-faq?language=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Payout</a> and currency exchange fees also cut into their earnings, especially for creators outside the U.S. By leveraging low-cost payments on Solana, Blurt could boost platform margins while allowing creators to keep more of what they earn.</p><h2><strong>Institutions are Here</strong></h2>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-4131439340b6458ab93c45a153003997",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6c3c030e92de4e2eae2c8566a27905bc?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1126,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-58eb0107dfb748c0b5f6942f825dc32f",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>The total value of tokenized treasury products on Solana has doubled in the past thirty days to $123 million, driven by <a href=\"https://x.com/ph0rt0n/status/1838454378644054178\" rel=\"noopener noreferrer\" target=\"_blank\">$50 million USDY</a> moving from Ethereum to Solana on Sept. 23. Solana ranks third in tokenized treasuries among all networks, behind Ethereum ($1.6 billion) and Stellar ($422 million). However, several recent developments could spur more growth in this area.</p><p>In late July, Libre <a href=\"https://x.com/solana/status/1815719702989344780\" rel=\"noopener noreferrer\" target=\"_blank\">launched</a> on Solana, giving institutional investors access to onchain funds from Hamilton Lane and Brevan Howard Digital. The launch made Hamilton Lane the <a href=\"https://fortune.com/crypto/2024/07/23/hamilton-lane-becomes-first-asset-manager-to-launch-a-fund-on-solana-blockchain/\" rel=\"noopener noreferrer\" target=\"_blank\">first asset manager</a> to launch a fund on Solana. And at Breakpoint, it was announced that several top-tier asset managers are set to join them.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-436b8f8ad0c84743810b5a17d2d54814",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F06cd346c39624ad393e0f60a8fa7e24e?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1126,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-31927d5fc83b46ff8efbbafc902949f8",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Franklin Templeton announced at Breakpoint that it plans to launch a money market fund on Solana. Franklin Templeton is a top-20 asset manager in the world by AUM, at <a href=\"https://investors.franklinresources.com/news-center/press-releases/press-release-details/2024/Franklin-Resources-Inc.-Announces-Month-End-Assets-Under-Management-1ce366cda/default.aspx\" rel=\"noopener noreferrer\" target=\"_blank\">$1.7 trillion</a>. Its onchain BENJI offering (FOBXX) is the second largest tokenized treasury product at $435 million. Once live, Franklin Templeton will become the first asset manager to issue securities on Solana pursuant to a public registration statement with the SEC.</p><p>Franklin Templton’s BENJI is second to only BlackRock’s BUIDL in onchain value. BUIDL was launched by BlackRock in <a href=\"https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network\" rel=\"noopener noreferrer\" target=\"_blank\">partnership</a> with Securitize, which acts as the transfer agent, tokenization platform, and placement agent. At Breakpoint, Securitize <a href=\"https://www.youtube.com/watch?v=zLGCB4bvBuI&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=129\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that it will add native support for Solana, allowing it to deploy its tokenized assets on the network. One-third of BUIDL’s onchain supply is used as <a href=\"https://etherscan.io/token/0x7712c34205737192402172409a8f7ccef8aa2aec?a=0x72be8c14b7564f7a61ba2f6b7e50d18dc1d4b63d\" rel=\"noopener noreferrer\" target=\"_blank\">reserves</a> for Ondo’s OUSG fund. Ondo <a href=\"https://www.coindesk.com/business/2023/12/19/more-real-world-assets-arrive-on-solana-as-ondo-finance-expands-tokenized-treasury-offering/\" rel=\"noopener noreferrer\" target=\"_blank\">expanded</a> to Solana at the end of 2023 and could help drive adoption of BUIDL on the network. Besides BlackRock’s BUIDL, Securitize also has tokenized feeder funds for KKR and Hamilton Lane. Securitize is <a href=\"https://securitize.io/learn/press/securitize-selects-wormhole-as-official-interoperability-provider\" rel=\"noopener noreferrer\" target=\"_blank\">leveraging</a> Wormhole to enable seamless, compliant cross-chain transfers for its onchain assets.&nbsp;</p><p>It’s not just asset managers coming to Solana, but also banks.&nbsp;</p><p>Société Générale, the world’s <a href=\"https://en.wikipedia.org/wiki/List_of_largest_banks\" rel=\"noopener noreferrer\" target=\"_blank\">19th largest bank</a> by total assets, is adding support for Solana via its digital assets subsidiary, SG FORGE. <a href=\"https://www.sgforge.com/societe-generale-forge-solana-network/\" rel=\"noopener noreferrer\" target=\"_blank\">SG FORGE will first launch </a>its EUR CoinVertible (EURCV) stablecoin on Solana. EURCV is the first MiCA-compliant stablecoin issued by a bank and has a market cap of $37 million on Ethereum.&nbsp;</p><p>In general non-USD backed stablecoins have not seen adoption – they make up around 0.2% of the total stablecoin market cap. But SG FORGE <a href=\"https://www.youtube.com/watch?v=3WrVV4AsN2g&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=38\" rel=\"noopener noreferrer\" target=\"_blank\">believes</a> EURCV can be useful as a settlement instrument for other institutional products, as a better value transfer mechanism for corporates and their treasury desks, and for use in DeFi.&nbsp;</p><p>SG FORGE also plans to bring its other tokenized products to the Solana ecosystem, including an offering similar to a money market fund, other structured products, and bonds.&nbsp;</p><p>In parallel, institutional SOL investment products and SOL markets continue to grow as SOL solidifies its status as an investable digital commodity alongside BTC and ETH, among other digital assets. Exchange-traded SOL products are live in Brazil and in the EU, and announcements for potential products – subject to ongoing regulatory review – are in process in Canada and the U.S. In addition, <a href=\"https://www.theblock.co/post/316225/cypherpunk-holdings-solana-rebrands-sol-strategies\" rel=\"noopener noreferrer\" target=\"_blank\">Sol Strategies Inc.</a>, (CSE: HODL), a Canadian publicly traded company solely focused on Solana, continues to pursue institutional SOL investment strategies by adding SOL to its balance sheet and stake to its validator. </p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-73a5fad46a1d44428d9af3d71e3844a1",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Payments Ecosystem Expansion</h2><p>Solana-based payments offer advantages over traditional systems, due to its faster settlement, lower costs, programmability, and composability. Token extensions is also a unique blockchain solution that expands the design space for token issuers, especially those who need compliance, without requiring them to build the necessary infrastructure themselves or use permissioned environments.&nbsp;</p><p>As such, a strong payments ecosystem has developed on Solana, with support from traditional companies like Visa, PayPal, Shopify, and Stripe, alongside numerous crypto-native protocols. Breakpoint featured several payments-related developments, including:</p><ul><li>Sling Money’s Open Launch: At Breakpoint, Sling Money <a href=\"https://www.youtube.com/watch?v=Hv_FXzrAHTI&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=21\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> the general availability of its global payments app. The app supports instant fiat on/offramps across 76 countries, integrating various payment rails including bank accounts, debit cards, and mobile money accounts like Pix and M-PESA. Users can also load and transfer stablecoins between wallets or exchanges in an additional 75+ countries. In-app payments are powered by Solana-based stablecoins, but this is abstracted away from users who can send money in their preferred currency. Additionally, Sling Links enable users to send money to non-Sling users via a simple link sent through text, email, or other messaging platforms.</li><li>Zar’s Introduction: Zar is a new payments protocol that <a href=\"https://www.youtube.com/watch?v=qwVlnXjm3mY&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=70&amp;pp=iAQB\" rel=\"noopener noreferrer\" target=\"_blank\">introduced</a> itself at Breakpoint. It aims to accelerate stablecoin adoption in emerging markets by improving cash on/offramp infrastructure. It uses DePIN incentives to aggregate and scale existing <a href=\"https://x.com/zarpay_app/status/1838682727169818911\" rel=\"noopener noreferrer\" target=\"_blank\">agent banking networks</a>, which process $560 billion in cash annually among over 18 million agents. The Zar app functions like a decentralized exchange but for the physical world, allowing users to find agents offering the best rates for converting cash to digital dollars. It features a stablecoin-only wallet that abstracts away crypto complexities, a debit card compatible with Apple and Google Pay, and an SDK for integration into other wallets and apps. Zar is founded by Brandon Timinisky, who previously launched Pakistani mobile neobank SadaPay, which reached four million users within two years before being acquired.&nbsp;&nbsp;</li><li>Huma Finance’s Solana Deployment: Payment financing (PayFi) network Huma Finance <a href=\"https://www.youtube.com/watch?v=vW2PcHdWBOs&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=24\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that it will be deploying on Solana at Breakpoint. PayFi refers to leveraging the time value of money. In the traditional world, credit cards, trade finance, and cross-border prefunding all rely on a form of PayFi. With low transaction fees, enforceable smart contracts, and cross-border payments on Solana, financing options like accounts receivable and creator monetization can be democratized for all parties. During Token2049 in Singapore, Huma Finance co-hosted the inaugural <a href=\"https://lu.ma/vxd9t95n\" rel=\"noopener noreferrer\" target=\"_blank\">PayFi Summit</a> with the Solana Foundation.</li><li>Sphere’s Spherenet: At Breakpoint, Sphere <a href=\"https://www.youtube.com/watch?v=mE4TI9ZlPxw&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=90\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> <a href=\"https://www.sphere.net/\" rel=\"noopener noreferrer\" target=\"_blank\">Spherenet</a>, a permissioned SVM network designed to enhance cross-border payments. Co-founder Arnold Lee described Spherenet as a “decentralized Wise” – a way for fintechs and apps to discover and transact with each other in a trust-minimized environment. Spherenet is built on a custom, permissioned ledger to incorporate privacy and compliance by design, along with features like fixed and nominal gas fees.</li><li>Travala’s Solana Integration: Travala is a travel booking company that accepts crypto payments, with over 300,000 monthly active users <a href=\"https://www.youtube.com/watch?v=7jOdBxIK_vQ&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=82\" rel=\"noopener noreferrer\" target=\"_blank\">according to CEO Juan Otero</a> at Breakpoint. Otero announced that Travala has integrated the Solana network for payments with stablecoins and SOL.&nbsp;</li></ul><p>To let users not only save and earn, but also spend with stablecoins, several teams are releasing debit cards backed by Solana-based stablecoins. Ones announced at Breakpoint include:&nbsp;</p><ul><li>Fuse Pay: Squads Labs <a href=\"https://www.youtube.com/watch?v=duEz_ePt6SU&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=46&amp;pp=iAQB\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> Fuse Pay, a self-custodial Visa debit card enabling users to spend from their Fuse wallet. Fuse is a mobile smart wallet powered by multisig protocol Squads Protocol, replacing seed phrases and single key pairs with multi-factor authentication. Fuse went <a href=\"https://fusewallet.com/blog/fuse-apple-app-store\" rel=\"noopener noreferrer\" target=\"_blank\">live</a> on the App Store in August. By leveraging Fuse’s Smart Accounts, Fuse Pay can integrate features like daily spend limits. Fuse Pay is built in collaboration with <a href=\"https://www.youtube.com/watch?v=eScevJY4wkE&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=36\" rel=\"noopener noreferrer\" target=\"_blank\">Bridge</a>, an API platform for payments using stablecoins. Bridge came out of <a href=\"https://x.com/StableCoin/status/1829189512741957734\" rel=\"noopener noreferrer\" target=\"_blank\">stealth</a> at the end of August, <a href=\"https://fortune.com/crypto/2024/08/29/bridge-stablecoins-sequoia-ribbit-index-haun-58-million/\" rel=\"noopener noreferrer\" target=\"_blank\">announcing</a> $58 million in funding.</li><li>Solana Card: KAST offers stablecoin-powered Visa cards that are available to people in over 100 countries and accepted at over 100 million merchants globally. At Breakpoint, KAST showcased its new <a href=\"https://www.kast.finance/solana\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Card</a>, available in several tiers including a virtual-only card, compatible with Apple and Google Pay, and several physical versions. KAST also has its own Solana <a href=\"https://solanabeach.io/validator/9RXDftY5xyhtYyzk4z7U9ddvBF2Z8DMfXmV6P6du9dxS\" rel=\"noopener noreferrer\" target=\"_blank\">validator</a>, enabling it to offer interest free spending on 35-60% of users’ SOL held on the card.</li><li>Cloud Card: Sanctum <a href=\"https://www.youtube.com/watch?v=v11Owh2ZEkY&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=89\" rel=\"noopener noreferrer\" target=\"_blank\">introduced</a> the Cloud Card at Breakpoint, in collaboration with BasedApp and Jupiter. Similar to the others, Cloud Card is a Visa debit card where users can spend stables in 100+ countries. Sanctum aims to make the Cloud Card more engaging by integrating Creator Coin rewards. <a href=\"https://x.com/sanctumso/status/1837881309949198367\" rel=\"noopener noreferrer\" target=\"_blank\">Creator Coins</a> were another product announced by Sanctum at Breakpoint. They allow creators to launch their own branded LSTs, with creators keeping the staking rewards from the underlying SOL. Sanctum’s Cloud Card is set to launch in Q4, with a <a href=\"https://c2ro6h22m3b.typeform.com/sanctum-card?typeform-source=qrcode-button\" rel=\"noopener noreferrer\" target=\"_blank\">waitlist</a> now open.</li><li>Reap Card: Reap is a payments solution for businesses. It <a href=\"https://www.youtube.com/watch?v=DCcQFkBzh64&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=90&amp;pp=iAQB\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> at Breakpoint that it has fully integrated the Solana network. Reap’s core offerings include the Reap Card, a Visa card that can be settled in fiat or stablecoins, and Reap Pay, a B2B payments product.</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-83d8051bb58f4ece83fc575b10414db4",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fed5203c707d147c7a2d8dfa02c7a894b?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1126,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-49d59b39c5a64ff59d2f31410a0e8bf8",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>A strong and diverse set of stablecoins is needed to power Solana's payment ecosystem. Solana’s stablecoin market cap has grown by 151% YoY to $3.8 billion. It ranks fifth among all networks, behind Ethereum ($85 billion), TRON ($60 billion), BNB Chain ($5.0 billion), and Arbitrum ($4.6 billion), and sits just ahead of Base ($3.7 billion). Out of those top six networks, the market cap of stablecoins on Solana grew the most QoQ, up by 23%.</p><p>The Q3’24 stablecoin growth has been driven by PayPal’s PYUSD, which has risen to a $332 million market cap in four months following its launch on Solana. At Breakpoint, PayPal’s senior vice president of digital currencies, Jose Fernandez da Ponte, <a href=\"https://www.youtube.com/watch?v=sb5jiVMfBqw&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=20\" rel=\"noopener noreferrer\" target=\"_blank\">discussed</a> the company’s efforts to integrate crypto and PYUSD into its product suite, which includes:</p><ul><li>PayPal wallet, with 400 million users</li><li>PayPal checkout, with 30 million merchants</li><li>Venmo, with 90 million users</li><li>Braintree, commerce platform</li><li>Xoom, a remittance service</li><li>Hyperwallet, a global payouts platform</li></ul><p>Shortly after Breakpoint, PayPal <a href=\"https://newsroom.paypal-corp.com/2024-09-25-PayPal-Enables-Business-Accounts-to-Buy,-Hold-and-Sell-Cryptocurrency\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> the launch of crypto merchant accounts, enabling its U.S. merchants to buy, hold, and sell crypto directly from their PayPal business account.</p><p>Beyond PYUSD, the most popular stablecoins on Solana are those issued by a single entity — namely Circle’s USDC, Tether’s USDT, and Ondo’s USDY. In total, over 99% of Solana’s stablecoin market cap is from centralized stablecoins. The largest decentralized stablecoin in crypto is USDS/DAI, at a combined market cap over $5.5 billion.&nbsp;</p><p>Sky (fka MakerDAO) founder Rune Christensen <a href=\"https://www.youtube.com/watch?v=vwPKuXRnvdU&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=53&amp;pp=iAQB\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that Sky’s ecosystem tokens, including USDS, savings USDS (sUSDS), and governance token SKY, will be bridged to Solana via Wormhole. Sky <a href=\"https://forum.makerdao.com/t/sky-on-solana-short-term-crosschain-strategy-proposal/25172\" rel=\"noopener noreferrer\" target=\"_blank\">plans</a> to commit up to 2 million SKY ($138,000 as of September 29, 2024) per week to incentivize adoption of USDS in Solana DeFi protocols. Eventually, Sky will look to deploy its protocol natively on Solana via Solana <a href=\"https://sky.money/features#skylink\" rel=\"noopener noreferrer\" target=\"_blank\">Skylink</a>.&nbsp;</p><p>Over 99% of the Solana stablecoin market cap is also from USD-pegged stablecoins. Beyond EURCV, another non-USD stablecoin coming to Solana is Coins’ PHPC. Coins is the largest regulated exchange in the Phillipines, with around 4 million KYC’d users, according to CEO Wei Zhou at <a href=\"https://www.youtube.com/watch?v=Czh3IUPcaGI&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=99\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint</a>. Zhou announced that its central bank-approved Filipino stablecoin, PHPC, will expand onto Solana. It will also launch liquidity pools pairing PHPC against USDT and USDC in order to support remittance and onchain FX trading use cases.</p><p>With the plethora of stablecoins can come fragmented growth and liquidity. At Breakpoint, Perena <a href=\"https://www.youtube.com/watch?v=1ASwU6IP_t4&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=34&amp;pp=iAQB\" rel=\"noopener noreferrer\" target=\"_blank\">introduced</a> Numeraire, a multi-asset stableswap protocol on Solana. Perena was recently founded by Anna Yuan, the Solana Foundation’s former stablecoin lead, to build infrastructure for stablecoins.</p><h2><strong>Trends in DePIN</strong></h2>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-de06b659b0d34c61be73117390c1cd42",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4b00bce989f7436daccc1501a169998f?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 900,
+                    "width": 1600
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-26843a82f8c44416b18e455d78ca37e5",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Solana has become the leading hub for DePIN projects, hosting an estimated 78 projects – more than any other network, according to Messari. Emerging trends in the sector include several projects seeing demand-side growth and rising sub-sectors like decentralized energy.</p><h3>Is DePIN Demand Here?</h3><p>DePIN projects use token incentives to bootstrap the supply-side of a network, with the hope that a superior or cheaper experience will induce demand. As of Breakpoint, demand-side interest is starting to grow across networks like Helium, XNET, and Hivemapper, all of which recently announced that major industry players are paying to leverage the networks.</p><p>Several tier-one US mobile carriers are now paying to offload data onto the Helium and XNET networks. Data offloading enables mobile network operators (MNOs) to redirect (“offload”) data traffic from their primary cellular networks (4G/5G) to alternative networks, like WiFi in both Helium’s and XNET’s cases. This allows MNOs to expand coverage while minimizing capital expenditures costs. </p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e34027bbb3e44f29937069e9c2a3d0f5",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd6a91c561da64161adb7c48a70ec3389?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1125,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-11240ce1f307454c9a5da66c6830d01a",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Helium’s carrier offload beta went live in mid-June and has since expanded to three carriers. After initial testing, paid carrier data offload went <a href=\"https://x.com/amirhaleem/status/1829582767413182484\" rel=\"noopener noreferrer\" target=\"_blank\">live</a> at the end of August. Carriers pay to transfer data through Helium Mobile Hotspots, and hotspot earners are rewarded with MOBILE tokens. To date, <a href=\"https://planner.hellohelium.com/stats?tag=Carrier+Offload&amp;carrierTag=Total\" rel=\"noopener noreferrer\" target=\"_blank\">88 terabytes</a> of data have been offloaded to the network, leading to <a href=\"https://dune.com/queries/2608923\" rel=\"noopener noreferrer\" target=\"_blank\">$21,000</a> in Helium data credits burned, according to Helium Mobile.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c1432497675e450b87433ff68d10214f",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7218c2cc68145ff814281a6f5d4234a?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 1125,
+                    "width": 2000
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-7531a903755641869e796d31d2dcac83",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>After <a href=\"https://x.com/XNET_Mobile/status/1824528862480364004\" rel=\"noopener noreferrer\" target=\"_blank\">migrating</a> to Solana in mid-August, XNET announced its first paid carrier offload <a href=\"https://x.com/XNET_Mobile/status/1832113469388419431\" rel=\"noopener noreferrer\" target=\"_blank\">agreement</a> in early September. Thus far, a total of 20 terabytes of data from over 1.1 million users has been offloaded to XNET, <a href=\"https://dune.com/xnet/xnetmobile\" rel=\"noopener noreferrer\" target=\"_blank\">according to the team</a>.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-d6941e3cc6704d8e93a4141412bd505b",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7437ba6c14a41b89293fbf3f50075db?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.563,
+                    "lockAspectRatio": false,
+                    "height": 1125,
+                    "width": 2000,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-fa8f7bbca9a440df88805ad95a551d48",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>In September, the Hivemapper network reached 10 million unique miles of road mapped, 27% of the world’s roads, according to <a href=\"https://beemaps.com/network/coverage\" rel=\"noopener noreferrer\" target=\"_blank\">Bee Maps</a>. It reached this milestone in under 2 years, over <a href=\"https://x.com/Hivemapper/status/1836909654208635261\" rel=\"noopener noreferrer\" target=\"_blank\">5x faster</a> than it took for Google Street View. At Breakpoint, Hivemapper <a href=\"https://www.youtube.com/watch?v=x9kBksgaTw0&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=61\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that it’s now selling data to three of the top ten global mapmakers, including <a href=\"https://beemaps.com/blog/case-study-here\" rel=\"noopener noreferrer\" target=\"_blank\">HERE Technologies</a>.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-aaf154b60b714854ad419975feca8bde",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h3>Emerging DePIN Sub-Sectors</h3><h4>Energy</h4><p>The energy sector is ripe for disruption due to several factors:</p><ul><li>Aging Infrastructure: Many power grids&nbsp; are outdated, especially in the United States where <a href=\"https://www.coindesk.com/opinion/2024/06/28/depin-can-rebuild-the-grid-from-the-bottom-up/\" rel=\"noopener noreferrer\" target=\"_blank\">70% of power lines over 25 years old</a>, leading to frequent <a href=\"https://www.popsci.com/story/environment/why-us-lose-power-storms/\" rel=\"noopener noreferrer\" target=\"_blank\">outages</a> and inefficiencies.</li><li>Rising Energy Demand: The <a href=\"https://x.com/QwQiao/status/1830961236151873902\" rel=\"noopener noreferrer\" target=\"_blank\">gap</a> between energy supply and demand is widenin<a href=\"https://x.com/QwQiao/status/1830961236151873902\" rel=\"noopener noreferrer\" target=\"_blank\">g</a>, driven in part by increasing energy needs from AI and other tech innovations.</li><li>Distributed Renewable Energy Sources: Renewable energy like solar and wind is becoming more affordable, but their distributed nature conflicts with centralized grid designs built for large, consistent power plants, not intermittent, smaller-scale generation.</li><li>Climate Change Imperative: People are increasingly realizing that a transition to renewable energy sources is needed to avoid climate damage. Over <a href=\"https://about.bnef.com/blog/global-net-zero-will-require-21-trillion-investment-in-power-grids/\" rel=\"noopener noreferrer\" target=\"_blank\">$21 trillion</a> in grid modernization investment is needed by 2050 to net-zero emissions.&nbsp;</li></ul><p>Virtual Power Plants (VPPs) offer a potential solution by aggregating distributed energy resources such as solar panels, wind turbines, and battery storage to operate as a single unit, optimizing both generation and consumption. Demand Response Programs (DRPs) further reduce grid strain by incentivizing users to reduce their energy usage during peak times.</p><p>However, VPPs and DRPs have yet to reach scale due in part to coordination issues, insufficient user incentives, and fragmented data. Crypto can potentially address these challenges with token incentives and shared ledgers. Several teams in the Solana ecosystem are building in this sector, including:</p><ul><li>Fuse: Fuse is a full-stack web2 renewable energy business that launched in 2022 and raised $78 million in funding. Fuse is now building <a href=\"https://www.youtube.com/watch?v=0B5ywxFEGgM\" rel=\"noopener noreferrer\" target=\"_blank\">Project Zero</a>, a decentralized renewable energy network powered by Solana. Project Zero aims to use token incentives to drive the installation of distributed energy sources and shift consumption patterns. When energy costs rise, consumers are rewarded for using less, and vice versa – turning everyone into a mini energy trader. Fuse recently <a href=\"https://decrypt.co/248985/fuse-plugs-solana-token-energy-distribution-depin-play\" rel=\"noopener noreferrer\" target=\"_blank\">raised</a> $12 million in funding, led by Multicoin, to build Project Zero, whose mainnet launch is planned for 2025.</li><li>Starpower: Starpower is a decentralized energy network on Solana that aggregates devices into a decentralized virtual power plant (VPP). Similar to Project Zero, it rewards users for managing and optimizing their energy consumption. Starpower currently sells and distributes three pieces of hardware: a wall plug to connect home devices to the network, a battery for energy storage, and an EV-charging solution. Almost 14,000 devices have been activated on the network, according to the project’s <a href=\"https://www.starpower.world/explorer\" rel=\"noopener noreferrer\" target=\"_blank\">explorer</a>.</li><li>Srcful: Srcful is also developing a dVPP, starting with solar panels and home batteries. Instead of building out its own infrastructure layer from scratch, Scrful leverages existing Helium IoT infrastructure as a Helium <a href=\"https://docs.srcful.io/helium-energy/overview/\" rel=\"noopener noreferrer\" target=\"_blank\">subnetwork</a> (Helium ENERGY). Compatible Helium Hotspots can be upgraded for potential dual mining rewards of both IOT and ENERGY. Srcful is currently in beta on Solana devnet.</li><li>Powerledger: Powerledger offers a platform for tracking, tracing, and trading renewable energy. Powerledger has been building on its own SVM fork for the past two years, but <a href=\"https://www.youtube.com/watch?v=W5oaTWea0os&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=106\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> at Breakpoint that it is migrating to Solana mainnet. By migrating to mainnet, Powerledger will enable Solana projects and validators to track their energy usage and purchase offsets, while also integrating assets like carbon credits into DeFi.</li><li>DeCharge: DeCharge is a DePIN network for electrical vehicle charging. Users can purchase and install an EV charger, earning when others use it. DeCharge placed second in the Renaissance hackathon’s DePIN track and was accepted into Colosseum’s first accelerator cohort. DeCharge has surpassed 400,000 minutes of EV charging among over 211 locations, according to <a href=\"https://substack.com/@tokenrelations/p-149396576\" rel=\"noopener noreferrer\" target=\"_blank\">Token Relations</a>.</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-52b50833a2844c8aa59011f1a0a27fbd",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h4>Content Delivery</h4><p>Delivering content quickly from servers to end users is crucial for apps and services, whether it's static files like images or dynamic data like AI responses. With their importance on the number and distribution of nodes, along with their ability to leverage existing, latent infrastructure, content delivery and edge compute networks are well-suited for DePIN.&nbsp;</p><p>Pipe Network is a decentralized content delivery network that recently <a href=\"https://www.coindesk.com/business/2024/09/16/multicoin-led-10m-raise-for-crypto-incentivized-internet-infrastructure-network-pipe/\" rel=\"noopener noreferrer\" target=\"_blank\">raised</a> $10 million in a round led by Multicoin. Traditional CDNs like Cloudfare and Akumai cache content (for e.g., images, videos, and webpages) across distributed servers. When users request content, it’s delivered by the closest server, reducing latency compared to if it was always delivered by the origin server.</p><p>Pipe Network hopes to improve on this model by incentivizing people to contribute their excess storage and bandwidth. The thesis is simple: more nodes = higher chance a node is closer to the user = faster delivery. It plans to launch its mainnet in 2025.</p><p>As a decentralized edge computing layer, Gradient Network is similar to Pipe Network, but it focuses more on dynamic, rather than static, content. It incentivizes users to contribute idle compute resources to perform real-time processing tasks such as AI inference and serverless functions. With operations happening closer to the user, latency can be reduced.</p><p>Gradient Network launched open beta in mid-September, and surpassed 20,000 connected nodes within 24 hours of launch, according to the <a href=\"https://x.com/Gradient_HQ/status/1834636308234616871\" rel=\"noopener noreferrer\" target=\"_blank\">project</a>.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-f09a22726db94489815ba856842dc228",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Other Headlines</h2><p><strong>BTC &lt;&gt; Solana</strong></p><p>Interest in Bitcoin programmability has grown in the past year, with high-volume Ordinals trading, private funding into Bitcoin layers, and discussion around network upgrades like op_cat. Historically, Bitcoin programmability has largely revolved around BTC itself – bridging BTC to other smart contract platforms.&nbsp;</p><p>Leading the wrapped bitcoin market is BitGo’s wBTC, with a <a href=\"https://www.coingecko.com/en/coins/wrapped-bitcoin\" rel=\"noopener noreferrer\" target=\"_blank\">$9.8 billion</a> market cap. However, wBTC recently sparked some <a href=\"https://blockworks.co/news/lightspeed-newsletter-wbtc-solana-opportunity\" rel=\"noopener noreferrer\" target=\"_blank\">controversy</a> with the announcement of a <a href=\"https://blog.bitgo.com/bitgo-to-move-wbtc-to-multi-jurisdictional-custody-to-accelerate-global-expansion-plan-2ea0623fa2c8\" rel=\"noopener noreferrer\" target=\"_blank\">new ownership structure</a> in partnership with BiT Global. On Solana, wBTC (bridged via Wormhole) has a <a href=\"https://solscan.io/token/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh#holders\" rel=\"noopener noreferrer\" target=\"_blank\">$141 million</a> market cap. At Breakpoint, several teams announced plans to launch wrapped BTC products on Solana:</p><ul><li>Coinbase’s cbBTC: At Breakpoint, Coinbase <a href=\"https://x.com/solana/status/1837338949955768613\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that it plans to bring its wrapped bitcoin cbBTC to Solana. In a couple weeks since its <a href=\"https://www.coindesk.com/business/2024/08/14/coinbase-promotes-cbbtc-wrapped-bitcoin-version-for-base-blockchain/\" rel=\"noopener noreferrer\" target=\"_blank\">launch</a> on Ethereum and Base, cbBTC has reached a <a href=\"https://www.coingecko.com/en/coins/coinbase-wrapped-btc\" rel=\"noopener noreferrer\" target=\"_blank\">$219 million</a> market cap.</li><li>Stacks’ sBTC: Bitcoin layer Stacks is aiming to create a more trustless option for wrapped bitcoin with its upcoming <a href=\"https://docs.stacks.co/concepts/sbtc\" rel=\"noopener noreferrer\" target=\"_blank\">sBTC</a>. At Breakpoint, founder Muneeb Ali <a href=\"https://x.com/Stacks/status/1837125070453403845\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that Stacks plans to bring sBTC to Solana.</li><li>Zeus: Zeus is building a permissionless communication layer between Solana and Bitcoin. At <a href=\"https://www.youtube.com/watch?v=LzbmY8mtSCU&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=116\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint</a>, it announced that it plans to launch on mainnet in Q4’24.</li><li>deBridge: Interoperability protocol deBridge announced that it plans to bring native BTC to Solana at <a href=\"https://www.youtube.com/watch?v=gvMWljOhZf8&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=117\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint</a>, with more details to follow.</li></ul><p><strong>Phantom Embedded Wallets</strong></p><p>At Breakpoint, Phantom <a href=\"https://www.youtube.com/watch?v=2QcGq2ikOLo&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=39\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> its launch of embedded wallets, making it easier for developers to onboard new users. Phantom’s embedded wallets <a href=\"https://x.com/phantom/status/1837036020417651161\" rel=\"noopener noreferrer\" target=\"_blank\">feature</a> seedless wallet creation via an email, Google account, or Apple account; a comprehensive user interface; and universal access across apps and devices. Back in July, Privy, one of the leaders in the embedded wallets space, <a href=\"https://x.com/privy_io/status/1816132358049030499\" rel=\"noopener noreferrer\" target=\"_blank\">added</a> support for the Solana network.</p><p><strong>Pyth Oracle Integrity Staking</strong></p><p>Pyth <a href=\"https://www.youtube.com/watch?v=-ltSafRAZp8&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=86&amp;pp=iAQB\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> its Oracle Integrity Staking (OIS) upgrade at Breakpoint. OIS uses economic incentives – staking and slashing mechanisms for Pyth data publishers and PYTH holders – to improve data reliability.</p><p><strong>Wormhole Era3</strong></p><p>Wormhole was highlighted as the interoperability partner during several Breakpoint keynotes, including from <a href=\"https://x.com/wormhole/status/1837032175121879161\" rel=\"noopener noreferrer\" target=\"_blank\">Securitize</a>, <a href=\"https://x.com/wormhole/status/1837117346403733951\" rel=\"noopener noreferrer\" target=\"_blank\">Sky</a>, and <a href=\"https://www.youtube.com/watch?v=9JirC-u-o2Q&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=117\" rel=\"noopener noreferrer\" target=\"_blank\">Worldcoin</a>. At its own <a href=\"https://www.youtube.com/watch?v=an_eAK7x03o&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=129&amp;pp=iAQB\" rel=\"noopener noreferrer\" target=\"_blank\">keynote</a>, Wormhole announced a set of updates collectively named “Era3”, including composable intents, upgrades to Portal and several other products, and the launch of Wormhole Institutional.&nbsp;</p><p><strong>dVIN</strong></p><p>dVIN aims to unify the wine industry through RWA tokenization and DePIN incentive mechanisms. By tokenizing wine, dVIN can cut out middlemen and give winemakers direct access to consumer data to improve customer acquisition and loyalty. Over the past three years, dVIN piloted projects with 70 wineries, tokenizing $2 million of wine, according to <a href=\"https://www.youtube.com/watch?v=kwGINEHnCKc\" rel=\"noopener noreferrer\" target=\"_blank\">dVIN Labs CEO David Garrett</a> at Breakpoint. dVIN also <a href=\"https://x.com/SolanaConf/status/1837045505475629123\" rel=\"noopener noreferrer\" target=\"_blank\">gave away</a> 4,000 bottles of champagne to conference attendees.</p><p><strong>ZK Compression</strong></p><p>At Breakpoint, Helius and Light Protocol <a href=\"https://www.youtube.com/watch?v=m_6m2fGH_Zk&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L&amp;index=31\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that ZK Compression is live on Solana mainnet. ZK Compression can reduce developers’ cost to create token accounts by 1,000x. To showcase its capabilities, they also <a href=\"https://x.com/heliuslabs/status/1839727907989557274\" rel=\"noopener noreferrer\" target=\"_blank\">released</a> AirShip, a tool for mass airdrops.</p><p><strong>Other Announcement and News</strong></p><p>Even beyond the announcements and news mentioned in this report, there were many other product-focused keynotes, debates, workshops, and more at Breakpoint 2024. For those who wish to get the full picture of the state of the Solana ecosystem, head to <a href=\"https://www.youtube.com/watch?v=6M8SGByj-yM&amp;list=PLilwLeBwGuK7YY8igEkLeFcpdoFRJAa0L\" rel=\"noopener noreferrer\" target=\"_blank\">the Solana Foundation’s YouTube channel</a> to watch the on-stage sessions.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8f1b4fe61f494f6cb323ad604ac9ccd1",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F868b363231274d8995b05dc520be6232"
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Keep in Touch"
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Sign up for the Letter to the Solana Ecosystem to keep up with the latest news.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Share your email here!"
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Please use a valid email."
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Please try again."
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Success! Thanks for joining!"
+                },
+                "newsLetter": true,
+                "formId": "c2fea3ca-b535-4e6b-baf3-526f896333d0"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1729025594605,
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_fdc7961f1b294150b5682cf34739a08b",
+  "lastUpdated": 1731424431100,
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "componentsUsed": {
+      "Content Editor": 1,
+      "Copy": 27,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false,
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/state-of-solana-breakpoint-2024?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers%2CeditContentPriority&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=fdc7961f1b294150b5682cf34739a08b&builder.overrides.fdc7961f1b294150b5682cf34739a08b=fdc7961f1b294150b5682cf34739a08b&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default"
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "name": "The State of Solana at Breakpoint 2024",
+  "previewUrl": "https://solana.com/news/state-of-solana-breakpoint-2024",
+  "published": "published",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4d574ec131b14cf6a9367def01a2969b",
+  "testRatio": 1,
+  "variations": {},
+  "@originId": "fdc7961f1b294150b5682cf34739a08b",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@liveSyncEnabled": true,
+  "rev": "l9w1e2t4y1"
+}

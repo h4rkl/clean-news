@@ -1,0 +1,126 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1638950400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3f6052b18c0646dea2f439fd7ce64546",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "The latest news from the Solana ecosystem — November 2021 edition!",
+    "publishedDate": "Wed Dec 08 2021 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "title": "Monthly community update | November 2021",
+    "seo": {
+      "internalName": "Monthly community update | November 2021",
+      "noFollow": false,
+      "seoDescription": "The latest news from the Solana ecosystem — November 2021 edition!",
+      "seoTitle": "Monthly community update | November 2021",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Monthly community update | November 2021",
+      "ogUrl": "https://www.solana.com/blog/november-2021-community-update",
+      "ogDescription": "The latest news from the Solana ecosystem — November 2021 edition!",
+      "ogImage": "https://solana.ghost.io/content/images/2021/12/community-update-november-2021-blog.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Solana Community Update | Nov. 2021",
+      "twitterDescription": "Solana energy usage, the Squid Prize, and more!",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/12/community-update-november-2021-blog.png"
+    },
+    "slug": "november-2021-community-update",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-bfb2df71b12640d6a31199d9de366d91",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f1db6df9e81140a0921855bc331d364a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Get this monthly community update directly in your inbox!&nbsp;<a href=\"https://solana.ghost.io/monthly-update-september-2021/solana.com/newsletter\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up here.</a></p><p>🌱 See the energy impact of a Solana transaction</p><p>🧑‍🏫 How Solana brings time to crypto</p><p>🖥 Bloomberg, Galaxy create index to track Solana</p><p>🐦 @Solana reaches 1 million followers on Twitter</p><p>🦑 Nominations open for the December 2021 Squid Prize</p><p>👻 Phantom iOS wallet coming soon</p><p>🌌 Wormhole expands bridge to FTX</p><p>🎨 BuildSpace helps artist launch NFT collection with Metaplex</p><h2><strong>🌱 See the energy impact of a Solana transaction</strong></h2><p>The Solana Foundation has released its first-ever energy usage report, showing the total energy impact of a Solana transaction and the ecosystem at large.</p><p>According to the most recent calculations,&nbsp;<strong>a single Solana transaction takes 0.00051 kWh, or 1,836 Joules, of energy</strong>. That is less than the energy impact of two Google Searches, and far less than normal household activities like leaving a light on for an hour, running a refrigerator, or driving a gallon of gas. It is also much, much lower than other blockchain networks like bitcoin, ethereum, and eth2.</p><p><a href=\"https://solana.com/news/solana-energy-usage-report-november-2021?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Read the report.</a></p><h2><strong>🧑‍🏫 How Solana brings time to crypto</strong></h2><p>You may have heard a lot about Solana's innovative proof of history, but what exactly is it? And why is it so important?</p><p>Send your crypto-curious friends the first in a series of articles about&nbsp;<a href=\"https://solana.com/news/proof-of-history?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana's core technical innovations for a lay audience</a>.</p><h2><strong>🖥 Bloomberg, Galaxy to track Solana</strong></h2><p>Bloomberg and Galaxy Digital have partnered to create an index to track Solana. This is among the first institutional sources that is tracking Solana, according to a post announcing the partnership by Tim Grant, head of Europe for Galaxy.</p><p>The Bloomberg Galaxy Solana Index is now live on Bloomberg Terminal.&nbsp;<a href=\"https://www.theblockcrypto.com/linked/124339/bloomberg-galaxy-partner-to-create-new-index-that-tracks-the-price-of-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more at the Block.</a></p><h2><strong>🐦 @Solana reaches 1 million followers on Twitter</strong></h2><p>Big news: The @Solana Twitter account now has more than a million followers! The account reached the milestone at the end of an amazing run for the ecosystem, which saw massive growth in the number of developers and projects building on the platform.</p><p><a href=\"https://twitter.com/solana/status/1463875197656875010?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow it here.</a></p><h2><strong>🦑 Nominations open for the December 2021 Squid Prize</strong></h2><p>It's that time again! The Squid Prize is once again open for nominations. Named after its first recipient,&nbsp;<a href=\"https://twitter.com/fordudesake?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">@fordudesake</a>, the Squid Prize is a biannual celebration of people who have made extraordinary contributions to the Solana community. Winners will receive $20,000 in USDC and an exclusive Squid Prize NFT.</p><p>If you know of someone who has made the Solana universe a little bit friendlier, take a few minutes to nominate them.</p><p><a href=\"https://solanalabs.typeform.com/to/yzDfzVnC?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Make a nomination here.</a></p><h2><strong>👻 Phantom iOS wallet coming soon</strong></h2><p>Phantom, the easy-to-use wallet for the Solana ecosystem, dropped a sneak peak on a long-awaited feature:&nbsp;<a href=\"https://twitter.com/phantom/status/1463661910952271875?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a mobile wallet</a>! They announced it would be coming to iOS in January 2022.</p><p>The company also recently announced a partnership with MoonPay for easy on-ramp services.&nbsp;<a href=\"https://www.moonpay.com/blog/moonpay-phantom?utm_content=187754124&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-1024699964071522305\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about that partnership.</a></p><h2><strong>🌌 Wormhole expands bridge to FTX</strong></h2><p>Wow! Wormhole announced a major bridging partnership with FTX that would allow FTX's users to make deposits for wETH and many other wrapped assets.</p><p><a href=\"https://twitter.com/wormholecrypto/status/1463993093657710608?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here.</a></p><h2><strong>🎨 BuildSpace helps artist launch NFT collection with Metaplex</strong></h2><p>Have a spare weekend? BuildSpace has launched a new project that will help aspiring artists build a custom NFT collection on Metaplex in a weekend.</p><p><a href=\"https://buildspace.so/solana-nfts?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Let's get cracking.</a></p><h2><strong>☀️ Solana Ecosystem News</strong></h2><ul><li>BuildSpace helps you&nbsp;<a href=\"https://twitter.com/_buildspace/status/1456345221772500999?s=21&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">ship your own custom NFT collection on Solana</a>&nbsp;with Metaplex in a weekend.</li><li><a href=\"https://solana.com/ecosystem/katana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Katana</a>, the winners of the Solana IGNITION hackathon, announce they are coming soon.</li><li><a href=\"http://blog.pokt.network/pocket-network-officially-integrates-solana-securing-its-rpc-node-layer-through-decentralization/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Pocket Network</a>&nbsp;officially integrates Solana.</li><li>Nina,&nbsp;<a href=\"https://twitter.com/nina_market_/status/1460656687011012619?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a new decentralized music distribution service</a>, is coming to Solana.</li><li>Kineko, a high-throughput sports betting and prediction markets protocol with real-time settlement,&nbsp;<a href=\"https://twitter.com/KinekoDefi/status/1461692621198348290?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">has migrated to Solana</a>.</li><li>Soda Protocol,&nbsp;<a href=\"https://twitter.com/SodaProtocol/status/1458827016346734592?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a lending protocol with credit system based on Solana</a>, launched on mainnet.</li><li><a href=\"https://twitter.com/uxdprotocol/status/1459736479513681920?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">UXD Protocol</a>, the algorithmic stablecoin backed 100% by a delta neutral position using derivatives built on Solana, raised $57M in the IDO.</li><li><a href=\"https://twitter.com/cypher_protocol/status/1461336771556524033?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cypher Protocol</a>, expiratory futures markets on Solana, raises $2.1M.</li><li>Solana has joined&nbsp;<a href=\"http://xn--solana%20joined%20the%20bloktopia%20metaverse-zq729b./\" rel=\"noopener noreferrer\" target=\"_blank\">the Bloktopia metaverse</a>.</li><li>Bonfida announces the launch of&nbsp;<a href=\"https://twitter.com/bonfida/status/1464191226802962434?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Jabber</a>, an on-chain messaging application built on Solana.</li><li>Somnium Space VR,&nbsp;<a href=\"https://twitter.com/SomniumSpace/status/1462489775219396624?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">an open social &amp; persistent VR platform</a>&nbsp;built on the blockchain, is now live on Solana.</li><li>Sonarwatch&nbsp;<a href=\"https://twitter.com/Sonarwatch/status/1463087150497476611?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">introduces</a>&nbsp;Sonar V2, a tool for daily DeFi monitoring and Solana ecosystem exploration.</li><li>QuarryProtocol, a tool to discover, launch, and farm DeFi liquidity mines on Solana,&nbsp;<a href=\"https://twitter.com/QuarryProtocol/status/1461763318608121856?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">is now live on Solana's mainnet</a>.</li></ul><p>As this mailing list continues to grow, it’s important that Solana is bringing only the highest quality emails to your inbox. If you have any comments, questions, or suggestions, please respond to this email with your thoughts. We would love to hear from you!</p><p>We also provide more frequent updates via FTX. Only holders of SOL can receive these direct updates.</p><p>Lastly, follow us on our various social channels below to receive daily updates on what’s going on in the Solana ecosystem.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://solana.com/news?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blog</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">FTX</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F746c1b089040477abc233e774567971c",
+  "lastUpdated": 1694189894879,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_4424385b829d4b4ca84eb39079e3688d",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687617828620,
+  "@originId": "4424385b829d4b4ca84eb39079e3688d",
+  "testRatio": 1,
+  "createdDate": 1687362570203,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=4424385b829d4b4ca84eb39079e3688d&builder.overrides.4424385b829d4b4ca84eb39079e3688d=4424385b829d4b4ca84eb39079e3688d&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly community update | November 2021",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

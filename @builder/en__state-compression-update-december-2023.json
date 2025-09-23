@@ -1,0 +1,279 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/state-compression-update-december-2023",
+  "data": {
+    "datePublished": 1703167200413,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35f64c26bba840c1a8fed9c2662e4e7a",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "A look at how the Solana ecosystem has used state compression, seven months on.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35f64c26bba840c1a8fed9c2662e4e7a",
+      "seoDescription": "A look at how the Solana ecosystem has used state compression, seven months on.",
+      "metaType": "article",
+      "seoTitle": "State Compression Unlocked ‘Cambrian Explosion for Digital Assets’ "
+    },
+    "title": "State Compression Unlocked ‘Cambrian Explosion for Digital Assets’ ",
+    "slug": "state-compression-update-december-2023",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_33fe975401244255a461cc5f0bcac6a5"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a70200e65d34494b65f9e04c0727a14"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-699bdb666a874bf798074fea2e3e4ed7",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-32525cbafe4242cc9a6eac6a5d870565",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>In April, the Solana Foundation <a href=\"https://cointelegraph.com/news/solana-reveals-cost-cutting-solution-for-on-chain-storage\" rel=\"noopener noreferrer\" target=\"_blank\">announced state compression</a>, an ecosystem-wide experiment with a new approach to reduce costs for decentralized apps by magnitudes. State compression is a data structure that builds upon the blockchain fundamental of Merkle trees to allow decentralized apps to store hashed smart contract data on-chain that updates directly onto the Solana ledger. It cuts data storage and execution costs down dramatically, while maintaining the security and decentralization of Solana’s base layer.&nbsp;</p><p>State compression is a blockchain game-changer for scale and cost that’s already bearing fruit throughout the Solana ecosystem. <a href=\"https://solana.com/news/how-to-use-compressed-nfts-on-solana?\" rel=\"noopener noreferrer\" target=\"_blank\">Minting NFTs</a> on Solana with compression is much cheaper than minting NFTs without it — even more so when compared to the cost of minting on other blockchains.</p><p>Now, seven months after the announcement of compressed NFTs, the Solana Foundation has conclusive data on the actual cost of using compression. As of Dec. 20, 2023, any project can use cNFTs to mint one million NFTs for $247.80 (compared to<a href=\"https://solana.com/news/state-compression-compressed-nfts-solana\" rel=\"noopener noreferrer\" target=\"_blank\"> the initial estimates of $113.42</a> in April 2023) — significantly less than more than $6 million it would cost to mint one million NFTs on Ethereum, or the more than $98,000 it would cost on Polygon.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6a2a086a8435440b8e2ca773abb365e5",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a4e566bb1c040a2b1be8ba618e74389?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.686,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 1235,
+                "width": 1800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a4e566bb1c040a2b1be8ba618e74389?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a4e566bb1c040a2b1be8ba618e74389?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a4e566bb1c040a2b1be8ba618e74389?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a4e566bb1c040a2b1be8ba618e74389?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a4e566bb1c040a2b1be8ba618e74389?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a4e566bb1c040a2b1be8ba618e74389?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a4e566bb1c040a2b1be8ba618e74389?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a4e566bb1c040a2b1be8ba618e74389?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a4e566bb1c040a2b1be8ba618e74389?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a4e566bb1c040a2b1be8ba618e74389?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-94f662756e694466b22d453164b1ef86",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>DRiP and sending NFTs at scale</h2><p>While state compression has major implications for <em>any </em>Solana platform that uses smart contracts, the first sector in which state compression has proven its use case is NFTs. In the months since state compression became available, a number of high profile projects have incorporated it into their NFT products.</p><p>One of the first projects to show the state compression for NFTs is DRiP, an NFT platform that drops free collectibles and assets every week. As of Nov. 14, 2023, the platform crossed the threshold of 68 million NFTs minted with creators across the spectrum of culture. That is 18,000 NFTs per minute to a user base of 750,000. The total cost to DRiP was around $12,000 total.</p><p>Upgrading to compressed NFTs has been a catalytic tech unlock and vital boost for DRiP. “We're sending 3 million NFTs a week now,” explains Drip founder Vibhu Norby. “If we were doing this on the old Solana spec, we would be spending $300K weekly. We’re a startup. The fact that we can do this for a couple hundred bucks enables our business completely.”&nbsp;</p><p>The unlocking of scale in NFTs is more than a technical upgrade. “State compression allows us to think past the scarcity model of NFTs, which was driving the market over the last few years,” explains Norby. “It allows us to see the true potential for NFTs: composable assets at scale. It allows for this Cambrian explosion of new ideas that weren't possible before.”</p><p>A number of other ecosystem teams have also incorporated compression:</p><ul><li>Social messaging app <a href=\"https://www.dialect.to/\" rel=\"noopener noreferrer\" target=\"_blank\">Dialect</a> allows users to collect and trade <a href=\"https://solana.com/news/case-study-dialect\" rel=\"noopener noreferrer\" target=\"_blank\">compressed NFT stickers</a>.&nbsp;</li><li><a href=\"https://www.underdogprotocol.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Underdog</a> offers an <a href=\"https://underdog.readme.io/reference/getting-started-1\" rel=\"noopener noreferrer\" target=\"_blank\">API for integrating compressed NFTs</a> into any product or workflow.&nbsp;</li><li><a href=\"https://www.crossmint.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Crossmint</a> has released a <a href=\"https://docs.crossmint.com/docs/mint-compressed-nfts\" rel=\"noopener noreferrer\" target=\"_blank\">minting API</a> for users.</li><li><a href=\"https://docs.helius.dev/compression-and-das-api/mint-api\" rel=\"noopener noreferrer\" target=\"_blank\">Helius</a>’ minting API aims to reduce the complexity of compression for developers.</li><li>Decentralized wireless pioneer <a href=\"https://www.helium.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Helium</a> uses NFT compression to <a href=\"https://finance.yahoo.com/news/helium-completes-solana-migration-minting-163104448.html\" rel=\"noopener noreferrer\" target=\"_blank\">manage its global network</a> of hardware wireless hotspots.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b61491d96bae4cb587904654429d8cc0",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://twitter.com/BackAnUnderdog/status/1687194508231163904",
+                "content": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" align=\"center\"><p lang=\"en\" dir=\"ltr\">Devs, here&#39;s how to make a compressed NFT in less than 30 lines of code <a href=\"https://t.co/1JzmPETE3A\">pic.twitter.com/1JzmPETE3A</a></p>&mdash; Underdog Protocol ⬇️🐶 (@BackAnUnderdog) <a href=\"https://twitter.com/BackAnUnderdog/status/1687194508231163904?ref_src=twsrc%5Etfw\">August 3, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a29b275b863649e9afaa75193131e456",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>The future of cNFTs</h2><p>While the first phase of NFT development was driven by digital assets defined by scarcity, exclusivity, and pursuant speculation, compressed NFTs rewrite the value model by making NFTs available and affordable, instead defined by abundance, inclusivity, and utility. Compressed NFTs lower the barrier for entry and the barrier for access to NFTs for startups, enterprise, and users alike. “It’s not about one person with a million NFTs,” explains Jon Wong, technical lead of the Ecosystem Engineering team at the Solana Foundation. “It’s about a million people with one NFT.”&nbsp;</p><p>Lowering costs and increasing availability presents the first clear path towards mass NFT use cases like access, identity, membership, loyalty programs, governance, and in-game assets. For example, enterprises — primarily concerned that the cost of transacting on blockchain is not viable at enterprise scale — can offer membership, rewards, or loyalty programs to <a href=\"https://solana.com/solutions/enterprise\" rel=\"noopener noreferrer\" target=\"_blank\">millions of customers</a> without spending millions of dollars. <a href=\"https://solana.com/solutions/games-and-entertainment\" rel=\"noopener noreferrer\" target=\"_blank\">In games</a>, compressed NFTs mean unshackling digital assets from sluggish usability, stifled efficiency, and limitations due to cost.&nbsp;</p><p>“State compression is generic. That means you can do it with any kind of chain state. NFTs just happen to be the first use case,” explains Wong. “I envision a whole host of other use cases whereby basically any state that you want to use in the context of a smart contract can be injected into Solana and used in a smart contract.”</p><p>It’s important to note that state compression does add complexity to the backend of web3 platforms making use of it, particularly in regards to communication between RPC providers and app developers. Additionally, the lower bar to entry for minting NFTs will come with new challenges in regards to spam for marketplaces and wallets. The ecosystem-wide effort to develop state compression — which incorporated the Helius, Triton, SimpleHash, Phantom, and Solflare teams with support from the Solana Foundation — shows that tackling these challenges and generally improving the technology will be a group effort.</p><p>Compressed NFTs are the first example of what looks to be a new phase of blockchain development. Or, as Norby explains: “We’ve assumed that blockchains are about decentralized money, but compression allows us to think about decentralized everything.” </p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3ecdb03ee74d4c6b9b2858f730825268",
+            "meta": {
+              "previousId": "builder-edc70af5c55945fc93559f2dc11bbf46",
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "newsLetter": true,
+                "formId": "94b90b1b-b29a-4ad7-9b3b-87331601d030",
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Join the new art world."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Hear about the latest news, tools, and events for creatives using Solana.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Thanks for joining this email list!"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "lastUpdated": 1718291678720,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_7f4a3011748d42d09bb8469a0d107305",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1703173194468,
+  "@originId": "7f4a3011748d42d09bb8469a0d107305",
+  "testRatio": 1,
+  "createdDate": 1703111254537,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/state-compression-update-december-2023?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2CeditLayouts%2CeditLayers&builder.user.role.name=Developer&builder.user.role.id=developer&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=7f4a3011748d42d09bb8469a0d107305&builder.overrides.7f4a3011748d42d09bb8469a0d107305=7f4a3011748d42d09bb8469a0d107305&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 3,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "State Compression Unlocked ‘Cambrian Explosion for Digital Assets’ ",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

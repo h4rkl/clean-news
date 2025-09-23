@@ -1,0 +1,211 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/developer-educator-program",
+  "data": {
+    "datePublished": 1691607600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fade57487dfd14d30a8c94154e60149e3",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_91ef520c9f3848e7825cd1c610a3f92c"
+    },
+    "intro": "Learn how to conduct Solana workshops with the Solana Foundation Developer Relations team.",
+    "seo": {
+      "seoTitle": "Developer Educator Program: Cultivating the next generation of Solana builders"
+    },
+    "title": "Developer Educator Program: Cultivating the next generation of Solana builders",
+    "slug": "developer-educator-program",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-80881f612a9149f581bed599e592558d",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dc03202b14df4de594bd3f6b43b2fc78",
+            "meta": {
+              "transformed.rawHtml": "localized",
+              "localizedTextInputs": [
+                "rawHtml"
+              ]
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Over the last year, the developer relations team at the Solana Foundation has been running <a href=\"https://github.com/solana-workshops\" rel=\"noopener noreferrer\" target=\"_blank\">workshops</a> around the world to help teach students, professionals, and the next generation of Solana builders about Solana. The goals of the workshops are to:</p><ul><li>Help attendees learn about the Solana blockchain;</li><li>Convey how the Solana blockchain can be used;</li><li>Teach them how to build on Solana.</li></ul><p>The impact of the workshops is constrained by the number of developer team educators.&nbsp;We’d like to change that — by decentralizing it.</p><p>The Solana Foundation Developer Relations team is hosting sessions on <a href=\"https://lu.ma/developer-education-program\" rel=\"noopener noreferrer\" target=\"_blank\">how to conduct Solana workshops</a> the week of Aug. 14. These sessions will cover everything from setup and gathering students to hosting the sessions and cultivating a long-running community. We’ll show you how to navigate teaching both a physical and virtual workshop, managing different skill levels, and preparing to deliver the best presentation possible.&nbsp;</p><p>Whether you are a new developer on Solana, a student going back to school, or a seasoned professional looking to sharpen your presentation skills, you can help teach the next wave of developers.</p><p>Not only will you be helping the greater Solana community, but you can also earn while doing so. <a href=\"https://earn.superteam.fun/listings/bounties/Conduct-Technical-Workshop/\" rel=\"noopener noreferrer\" target=\"_blank\">Earn up to $250</a> hosting a workshop in your area — perfect for hosting a pizza party at your school’s local blockchain club or a lunch-n-learn at your place of employment.&nbsp;</p><p><a href=\"https://lu.ma/developer-education-program\" rel=\"noopener noreferrer\" target=\"_blank\">Join the Solana Developer Educator sessions</a> on August 14th, 16th, and 17th and let’s scale education through workshops.</p><p>Interested in seeing what these workshops are all about? Find videos of the workshops <a href=\"https://github.com/solana-workshops\" rel=\"noopener noreferrer\" target=\"_blank\">on Github</a> and check out the<a href=\"https://github.com/Solana-Workshops/tug-of-war-solana-pay\" rel=\"noopener noreferrer\" target=\"_blank\"> tug-of-war workshop</a> which is particularly fun and engaging!</p>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-99538eea28b740ab9fc2fba51d330bef",
+            "meta": {
+              "previousId": "builder-64047d5578174b58b9ec78293dccd501"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5fcdf12cb7a24c2fad9b5a040e4af1e7",
+            "component": {
+              "name": "Conversion Panel",
+              "options": {
+                "variant": "inline-centered",
+                "heading": "Sign up for the Solana Developer Update Newsletter",
+                "body": "News, commits, and more",
+                "buttons": [
+                  {
+                    "label": "Sign Up",
+                    "hierarchy": "outline",
+                    "size": "md",
+                    "url": "/developers"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-decde57192c84e9b9ec79a2f9a1ce26f",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Interested in seeing what these workshops are all about? Find videos of the workshops <a href=\"https://github.com/solana-workshops\" rel=\"noopener noreferrer\" target=\"_blank\">on Github</a> and check out the<a href=\"https://github.com/Solana-Workshops/tug-of-war-solana-pay\" rel=\"noopener noreferrer\" target=\"_blank\"> tug-of-war workshop</a> which is particularly fun and engaging!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-14bdf035d60c4d5e8228fdd0a5a7c8cf",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Interested in seeing what these workshops are all about? Find videos of the workshops <a href=\"https://github.com/solana-workshops\" rel=\"noopener noreferrer\" target=\"_blank\">on Github</a> and check out the<a href=\"https://github.com/Solana-Workshops/tug-of-war-solana-pay\" rel=\"noopener noreferrer\" target=\"_blank\"> tug-of-war workshop</a> which is particularly fun and engaging!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8ed5c754f8244c60a85e25d9231edf1e",
+  "lastUpdated": 1704915078839,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e982141c520645f483a3b14a2b8403e7",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1691611009491,
+  "@originId": "e982141c520645f483a3b14a2b8403e7",
+  "testRatio": 1,
+  "createdDate": 1691604205674,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/developer-educator-program?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=e982141c520645f483a3b14a2b8403e7&builder.overrides.e982141c520645f483a3b14a2b8403e7=e982141c520645f483a3b14a2b8403e7&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Conversion Panel": 1,
+      "Copy": 3,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Developer Educator Program: Cultivating the next generation of Solana builders",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

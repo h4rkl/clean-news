@@ -1,0 +1,187 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1589871600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2d63f3056f7f4402817a5f334dc36463",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nPocket is a decentralized API solution, that incentivizes participants to run full nodes for developers who need data for their…\n",
+    "publishedDate": "Tue May 19 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Pocket Announces Its Integration With Solana, Providing Decentralized API Solutions For Developers",
+      "ogUrl": "",
+      "ogDescription": "\nPocket is a decentralized API solution, that incentivizes participants to run full nodes for developers who need data for their…\n",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Pocket Announces Its Integration With Solana, Providing Decentralized API Solutions For Developers",
+      "noFollow": false,
+      "seoDescription": "\nPocket is a decentralized API solution, that incentivizes participants to run full nodes for developers who need data for their…\n",
+      "seoTitle": "Pocket Announces Its Integration With Solana, Providing Decentralized API Solutions For Developers",
+      "noIndex": false
+    },
+    "title": "Pocket Announces Its Integration With Solana, Providing Decentralized API Solutions For Developers",
+    "twitterMeta": {
+      "twitterTitle": "Pocket Announces Its Integration With Solana, Providing Decentralized API Solutions For Developers",
+      "twitterDescription": "\nPocket is a decentralized API solution, that incentivizes participants to run full nodes for developers who need data for their…\n"
+    },
+    "slug": "pocket-announces-its-integration-with-solana--providing-decentralized-api-solutions-for-developers",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_eeae863e41eb4334b2500d1a9566a904"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc162926a1c34884938092e2be078099"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a08bdcb4a0ca4f81b00df16c8ca465ee"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-d223260331cc45ad865b2bd18b1203f7",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4bd27259117745ceb37b0f9c7a2d0e91",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ef5e46a1d94092b9c46ae3da095c17?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ef5e46a1d94092b9c46ae3da095c17?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ef5e46a1d94092b9c46ae3da095c17?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ef5e46a1d94092b9c46ae3da095c17?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ef5e46a1d94092b9c46ae3da095c17?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ef5e46a1d94092b9c46ae3da095c17?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ef5e46a1d94092b9c46ae3da095c17?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ef5e46a1d94092b9c46ae3da095c17?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ef5e46a1d94092b9c46ae3da095c17?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ef5e46a1d94092b9c46ae3da095c17?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f05d2fea9d4c4177a7d0553fb5a42b75",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>We are thrilled to announce that Pocket will be integrating with Solana.&nbsp;<a href=\"https://pokt.network/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Pocket</a>&nbsp;is a decentralized API solution, that incentivizes participants to run full nodes for developers who need data for their applications. We see this as a critical integration and believe the success and importance of Infura as the crux supporting Ethereum today is an example of how beneficial a well-developed API solution can be. Pocket Network’s mission is to ensure the sustainable decentralization of blockchain infrastructure aligns perfectly with what we aim to achieve.</p><p>The significant challenges with API solutions today are that they incentivize closed-source set-ups and disincentivizes individuals from running full nodes, have higher costs due to heavy reliance on cloud monopolies, are a middleman for “decentralized” apps, are susceptible to censorship and single points of failure, and need to manage multiple endpoints to access different blockchains. Pocket hopes to change this by incentivizing full-nodes directly through POKT tokens, coordinating applications and full-nodes through a trustless system, making it magnitudes cheaper, creating a low barrier of entry so anyone can participate, being highly redundant and nearly impossible to take down, and finally, by being blockchain-agnostic and providing one interface to access any chain.</p><p>It’s great to see that Pocket decided to prioritize their integration with Solana. Below you can read an excerpt from their announcement article,&nbsp;“<a href=\"https://medium.com/pocket-network/why-pocket-is-excited-to-integrate-with-solana-dac662f1e7f3?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Why Pocket Is Excited To Integrate With Solana</a>”</p><p>While visiting San Francisco for SFBW in 2017 I discovered a new revolutionary blockchain, Solana. My co-founder, Luis, messaged me with excitement about the Proof of History concept they were innovating on. We began chatting about the grand experiment going on between sharding and composability. We don’t know which is better, we didn’t know which will win, but there are clear visions for each path.For context, the argument goes as follows: Blockchains have scaling problems, and not every blockchain application needs to be able to connect to each other. By designing a system to have independent shards, with limited composability, blockchains will be better able to scale and cater to unmet demand for decentralized applications. On the other hand, by embracing a one-shard approach where every smart contract has full composability on one, single layer, the increased connectivity of these core building blocks, or “money legos” could unlock more exciting possibilities by providing the potential to connect in ways we haven’t yet imagined.</p><p>We’ve seen these arguments in action through specific verticals like DeFi and gaming on Ethereum. The fact that these verticals have largely remained siloed to date provides credence to the sharding argument. That being said, I am firmly convinced that in time, anything that can connect will connect. As an industry, we do not yet have the foundation in having that critical mass of users or UX for these connections to happen. Human creativity and inertia will always push forward in the direction of these money legos being put together in increasingly interconnected forms.</p><p>In this future, I believe Solana will succeed.</p><p>Solana’s design of a unified, single chain is a fascinating project with incredible technological potential. By carefully optimizing and modularizing aspects of the traditional blockchain stack, we see the successful launch of a protocol that can support global-scale demand under one roof. With such high-throughput capacity, there will be a need for infrastructure on a massive scale. This provides Pocket with a unique opportunity to significantly push the Solana ecosystem forward.</p><p><strong>How Pocket fits into Solana’s vision</strong></p><p>Pocket is a layer-1 protocol that incentivizes people to run full nodes for blockchains by providing a decentralized API for developers needing data for their applications. Pocket fits quite nicely in the ‘Solana stack’, sitting above Solana’s&nbsp;<a href=\"https://docs.solana.com/cluster/ledger-replication?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">ledger replication</a>, or other words,&nbsp;<a href=\"https://medium.com/solana-labs/replicators-solanas-solution-to-petabytes-of-blockchain-data-storage-ef79db053fa1?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Archivers</a>. At full capacity, Solana will generate 4 petabytes of data per year, and Archivers are incentivized to store massive amounts of data within the Solana chain, but with no incentive for serving this data in a censorship-resistant manner.</p><p>While Archivers are incentivized to store data, Pocket enables further incentivization on the *reads* for data. This is done through Archivers within Solana submitting proofs of relays in the form of zero-knowledge range proofs (ZKRP’s) to the Pocket blockchain that represent each read (or API) request they have serviced.</p><p>By combining the storage and the accessing of this data, nodes are encouraged more than ever before to serve the same users of the chain, further aligning values and incentives. When Solana developers will be able to use the Pocket SDK, Pocket Network will trustlessly coordinate that developer’s connection to any Solana node running&nbsp;<a href=\"https://docs.pokt.network/docs/pocket-node-overview?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Pocket Core</a>&nbsp;alongside their setup.</p><p>Pocket’s novel&nbsp;<a href=\"https://pokt.network/wp-content/uploads/2020/04/Pocket-Network-Economic-Papeper-v1.0.2.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">economic model</a>&nbsp;and node incentivization scheme provides the perfect complement to Solana’s existing architecture. All Solana developers need to do is use our SDK alongside staking POKT for access to decentralized infrastructure. The Solana integration with the Pocket SDK is in development and we are running our&nbsp;<a href=\"https://pokt.network/incentivized-testnet-node-app-program/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">incentivized testnet</a>.</p><p>We encourage everyone to try it out and join the community of growing #noderunners on our&nbsp;<a href=\"http://bit.ly/PocketDiscordInvite?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a>!</p><p><strong>Keep updated on all things, Solana:</strong></p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></p><p><a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a></p><p><a href=\"http://solana.com/discord?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a></p><p><a href=\"http://solana.com/podcast?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Podcast</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F10906ea4e0494b49a44cfef56c7fe566",
+  "lastUpdated": 1696416762767,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f45c1ef585b54545b9f182752257bf63",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687529855554,
+  "@originId": "f45c1ef585b54545b9f182752257bf63",
+  "testRatio": 1,
+  "createdDate": 1687362703888,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=f45c1ef585b54545b9f182752257bf63&builder.overrides.f45c1ef585b54545b9f182752257bf63=f45c1ef585b54545b9f182752257bf63&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Pocket Announces Its Integration With Solana, Providing Decentralized API Solutions For Developers",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

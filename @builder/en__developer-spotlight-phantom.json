@@ -1,0 +1,340 @@
+{
+  "folders": [],
+  "data": {
+    "datePublished": 1709830800364,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02f1e84bba9c4d0ea4e4e43a40c854e1",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "The UX-focused, Solana-native wallet is enabling new user experiences with the latest, innovative token program.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F02f1e84bba9c4d0ea4e4e43a40c854e1",
+      "seoDescription": "The UX-focused, Solana-native wallet is enabling new user experiences with the latest, innovative token program.",
+      "seoTitle": "Developer Spotlight: Phantom Supports Token Extensions"
+    },
+    "title": "Developer Spotlight: Phantom Supports Token Extensions",
+    "slug": "developer-spotlight-phantom",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_984233a64dcc43669434d255d95ebab2"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-7b714208a2254233bf519362065df8ec",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0be0a15a1c2f411c95f0d929dbd8b4e9",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>In response to the growing needs of developers, a new era of token innovation has emerged with the introduction of Solana token extensions. These extensions represent a significant advancement beyond the original Solana token program, offering a standardized interface for integration with Solana applications. The result is plug-and-play, regulation-friendly, versatile token functionality that significantly decreases engineering time and resources.</p><p>Developed in collaboration with regulated institutions, token extensions unlock advanced functionalities while maintaining compliance and reducing engineering resources. Token extensions are available to all developers in the Solana ecosystem — but it's thanks to the infrastructural support from teams like&nbsp; Phantom, a crypto and NFT wallet that can be <a href=\"https://phantom.app/download\" rel=\"noopener noreferrer\" target=\"_blank\">downloaded as a mobile app or a browser extension</a>, that will enable these new use cases.&nbsp;</p><p>Founded on Solana in the spring of 2021, Phantom quickly gained traction for its user-friendly interface design and robust security features. According to Phantom’s Head of Ecosystem Success, Brian Friel, the decision to build within the Solana ecosystem was focused on a combination of a simple, best-in-class user experience. “Our decision to build on Solana was due to our early belief that there would be more chains than just Ethereum. At the time, Solana was very overlooked relative to its potential. We believed a flagship wallet that focused relentlessly on user experience was the missing piece to unlock growth for the ecosystem,” said Friel.&nbsp;</p><p>The decision to build on Solana was unconventional but strategic, leveraging Solana’s high throughput and low fees to stand out in a market dominated by Ethereum. Raul Riera, Phantom’s engineering manager, also credits Solana’s token extensions as a significant factor that has helped them streamline their development process, “This simplifies all the ways we treat tokens in the app because now Solana is giving us advanced tools and guidelines to easily generate a new range of tokens. I believe they have over a dozen extensions - all of which we’re working with individually to improve Phantom every day.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dea705cd24184e4297a8220b4a576d45",
+            "meta": {
+              "previousId": "builder-610c95a3e7714e6cb1ed13819662ce70"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Building with token extensions</h2><p>As ecosystem engineers introduce new features into the Solana protocol, Phantom aims to be on the leading edge of all implementations. Token extensions are no different; Phantom has already implemented support for many of them since the early days of 2024. By enabling support of the innovative extensions, Phantom is opening the door for token extension-enabled dApps for their large user base. To date, Phantom now can support teams using the following token extensions:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c68cd420824e430d861b165b8dfbd396",
+            "meta": {
+              "previousId": "builder-4f3431e74aee4677aa1bd2c9d8e656e8"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<style type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .gray{\n      background-color: #424242;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n</style>\n<table class=\"custom\">\n  <thead>\n    <tr>\n      <td>Token extension</td>\n      <td>Potential use</td>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/interest-bearing-tokens\"\n          >Interest-bearing tokens</a\n        >\n      </td>\n      <td>Rewards</td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/required-memo\"\n          >Required memo on transfer</a\n        >\n      </td>\n      <td>Invoicing</td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/metadata-pointer\"\n          >Metadata</a> and <a href=\"https://solana.com/developers/guides/token-extensions/metadata-pointer\">metadata pointer</a>\n      </td>\n      <td>Token verification</td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/permanent-delegate\"\n          >Permanent delegate</a\n        >\n      </td>\n      <td>Subscriptions</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://solana.com/developers/guides/token-extensions/transfer-fee\">Transfer fees</a></td>\n      <td>Royalties</td>\n    </tr>\n    <tr>\n      <td><a href=\"https://solana.com/developers/guides/token-extensions/transfer-hook\">Transfer hooks</a></td>\n      <td>Custom token transfer events</td>\n    </tr>\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingRight": "50px",
+                "paddingLeft": "50px",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0f19fe1c440442d181e863a91c235226",
+            "meta": {
+              "previousId": "builder-bf59b8d8dced46fab08b0c01ec87a049"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>While each extension is powerful on its own, Friel believes that the most exciting applications come from the potential to combine them, saying “One theme is that wallets up until today have been very simple. Storing assets, sending, swapping, like, you know, basic verbs in crypto. We’re now in a place where the Solana ecosystem can generate a new range of advanced functionality by combining different extensions. These permutations, in turn, have the potential to power the next generation of dApps.”&nbsp;</p><p>Riera continued on the theme of powerful combinations saying, “For us as developers, the most intriguing aspect of token extensions was the potential they offered. With numerous interfaces available, it was evident that the ecosystem could generate a new range of token capabilities by combining different extensions.”</p><p>Riera also expressed excitement about the potential that token extensions have for the advancement of user experience on blockchain technology as a whole. As a project that’s dedicated to building excellent user experience, the Phantom team had previously struggled with the amount of time they had to spend working with extensions to get things just right. Riera expanded on this by saying, “Extensions present unique challenges within the user experience. Our UX needed constant adjustments to accommodate a wide range of options, so making sure we made the correct adjustments was always a top priority. Token extensions have unlocked new UX paradigms that create innovative ways projects can utilize their tokens and cut down on the time and resources we need to spend on building great user experience.”</p><p>In other use cases beyond UX, token extensions are helping newcomers to the space solve challenges around risk reduction, security, and reliability. Token extensions have the potential to help companies interested in blockchain technology establish responsible governance and rules without needing to create their own smart contracts to implement the same functionality.&nbsp;</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bf59b8d8dced46fab08b0c01ec87a049",
+            "meta": {
+              "previousId": "builder-610c95a3e7714e6cb1ed13819662ce70"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>What’s next?</h2><p>For the Phantom developer team, the most exciting use case that they’re looking forward to seeing more of in the Solana ecosystem is the <a href=\"https://solana.com/developers/guides/token-extensions/getting-started#transfer-hooks\" rel=\"noopener noreferrer\" target=\"_blank\">transfer hooks</a> extension. “Transfer hooks essentially give unlimited potential on what developers can create now for holders,” said Riera. “It's so powerful it could replace other extensions, instead of the memo extension, a transfer hook could check the existence of a memo.”&nbsp;</p><p>Having this built-in token functionality that works across all marketplaces, wallets, and apps is a game changer that has the potential to simplify the development process of developers around the ecosystem and contribute to a better end-user experience in the entire crypto space. Friel continued on the excitement around transfer hooks, calling them “a powerful primitive that opens up the design space for new tokens and can streamline the process of collecting fees from transfers.”</p><p>2023 was a big year for the Phantom team as they surpassed a landmark three million monthly active users (MAUs). Looking ahead to 2024, they only see things heating up as the crypto sector continues its rapid growth. With their latest advancements in user experience and functionality, they want to keep users coming back to learn more, do more, and explore the larger ecosystem of Solana projects.&nbsp;</p><p>“In terms of success, the metrics are great, but it wouldn’t feel the same if it wasn't the Solana community driving it,” said Friel. “I would say Solana is pretty much the heart and soul of Phantom. And as we continue to grow and expand, that's who we work closest with. We can’t wait to be part of whatever is next for the ecosystem,”&nbsp;</p><p>Interested in learning more about token extensions? Check out the <a href=\"https://solana.com/solutions/token-extensions\" rel=\"noopener noreferrer\" target=\"_blank\">full range of possibilities</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-297b4c713159422494650a9e82a7a993",
+            "meta": {
+              "previousId": "builder-64047d5578174b58b9ec78293dccd501"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3dd460cf7436465b87b5873a6547040e",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Learn about Solana Development</h2>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-59447570e72145aea1adc022a0aae176",
+            "meta": {
+              "previousId": "builder-d859d6ed10ea4df8be20bcfeeeefb904"
+            },
+            "component": {
+              "name": "Card Deck",
+              "options": {
+                "cards": [
+                  {
+                    "type": "image",
+                    "heading": "Intro to Solana Development",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Development Course",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://www.soldev.app/course",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Bootcamp",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "More Solana Developer Tools",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  }
+                ],
+                "featured": true,
+                "numCols": 3
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "0px",
+                "marginTop": "-45px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6a850cf01c0b489badc6731bcbd07264",
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_590aefe3d7b74eb98bf46039f4d37513",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1709839504083,
+  "@originId": "590aefe3d7b74eb98bf46039f4d37513",
+  "testRatio": 1,
+  "createdDate": 1709831415419,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "name": "Developer Spotlight: Phantom Supports Token Extensions",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@liveSyncEnabled": true,
+  "lastUpdated": 1710360910299,
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "previewUrl": "https://solana.com/news/developer-spotlight-phantom",
+  "meta": {
+    "kind": "component",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Copy": 5,
+      "Section Molecule": 1
+    },
+    "hasLinks": false,
+    "lastPreviewUrl": "https://solana.com/news/developer-spotlight-phantom?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=590aefe3d7b74eb98bf46039f4d37513&builder.overrides.590aefe3d7b74eb98bf46039f4d37513=590aefe3d7b74eb98bf46039f4d37513&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default"
+  },
+  "rev": "l9w1e2t4y1"
+}

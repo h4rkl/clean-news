@@ -1,0 +1,474 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1605168000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F33d0ebee93344ffbbed5e0a9ad5eb4bf",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nAllocating 100 million SOL toward censorship resistance\n",
+    "publishedDate": "Thu Nov 12 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "seo": {
+      "internalName": "Announcing the Solana Foundation Delegation Strategy",
+      "noFollow": false,
+      "seoDescription": "\nAllocating 100 million SOL toward censorship resistance\n",
+      "seoTitle": "Announcing the Solana Foundation Delegation Strategy",
+      "noIndex": false
+    },
+    "title": "Announcing the Solana Foundation Delegation Strategy",
+    "openGraph": {
+      "ogTitle": "Announcing the Solana Foundation Delegation Strategy",
+      "ogUrl": "https://www.solana.com/blog/announcing-the-solana-foundation-delegation-strategy",
+      "ogDescription": "\nAllocating 100 million SOL toward censorship resistance\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Announcing-the-Solana-Foundation-Delegation-Strategy/0-CD33Nf38rwvL7yYH-3.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Announcing the Solana Foundation Delegation Strategy",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Announcing-the-Solana-Foundation-Delegation-Strategy/0-CD33Nf38rwvL7yYH-3.png",
+      "twitterDescription": "\nAllocating 100 million SOL toward censorship resistance\n"
+    },
+    "slug": "announcing-the-solana-foundation-delegation-strategy",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6594621bcb8840319ec0495bba9e2175"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a903aab5e70849bb9af1d8e91f683c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6e486fb681614dda8835548c251fe8e7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-8e70a654854046dc8b5df1fd3968cf41",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ab148279bbcf4335b68f36beadd5d6bc",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Allocating 100 million SOL toward censorship resistance</strong></h3><p>This is the first post in a three-part blog series on initiatives the Solana Foundation is undertaking to enhance the network’s censorship resistance over the coming months. This post announces the Foundation’s new stake delegation strategy, while the following two posts will cover the launch of inflation and staking pools, respectively.</p><p>For additional questions please join the&nbsp;<a href=\"http://solana.com/discord?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Discord</a>.</p><h3><strong>Overview</strong></h3><p>The Solana Foundation is committed to growing the Solana network to become the most&nbsp;<strong>decentralized</strong>&nbsp;and&nbsp;<strong>censorship-resistant&nbsp;</strong>blockchain in the world. The Foundation continues to spend a significant amount of resources innovating on how to meet these goals today and over the long-term.</p><p>In accordance with its charter, the Foundation is committing to delegate 100,000,000 SOL (over 80% of the Foundation’s treasury) through an auto-delegation strategy that targets the following goals:</p><ul><li>Improve the network’s censorship resistance and security by incentivizing an even stake distribution to avoid a small number of nodes accumulating a large majority of delegations</li><li>Encourage growth in the number of validators by providing a baseline delegation, the size of which is inversely related to the size of the number of nodes on the network, to lower-staked nodes to help make running a well-performing validator a financially feasible operation for new entrants to the network.</li></ul><p>To these ends,&nbsp;<strong>the Foundation will deploy an autonomous script that dynamically and uniformly divides and delegates a pool of 100,000,000 SOL in such a way to maximize the minimum number of unique nodes that constitute 33% of the global stake.&nbsp;</strong>Full details of the delegation strategy are provided below.</p><p>The Solana Foundation plans to implement this delegation strategy on the Tour de SOL testnet during the week of November 16th and Mainnet Beta on or around 1 December 2020. Successful deployment and stake balancing are among the prerequisites for enabling inflation on Mainnet Beta, which is targeted for activation later in December 2020.</p><p>Nodes must meet specific eligibility criteria before receiving any delegation from the Foundation. Nodes that fail to maintain certain performance metrics will have the Foundation delegation removed until they have met the initial delegation requirements again. Details on the eligibility criteria outlined below.</p><p>The Foundation will regularly re-balance its distribution of delegations to account for a changing number of nodes on the network as well as any changes in non-Foundation stake delegations across the network. Details on the re-balance timing can be found below.</p><p>The Foundation will also automatically re-delegate all staking yields that are accumulated from the distributed stake. Thus the increase in circulating supply as a result of this delegation strategy will be limited only to the validator commissions, which are capped at 10% for eligibility. More info on the impact on circulating supply and commission eligibility requirements are provided below.</p><p>The delegation strategy described here may change depending on various factors. This post covers the overall design and objectives while noting that there may be modifications to the strategy before implementation.</p><h3><strong>Delegation Strategy Technical Details</strong></h3><p>This section describes the steps the Foundation will take, through its auto-delegation bot, to determine how to distribute its stake delegations in accordance with its delegation strategy.</p><p><strong>Defining the maximal security group</strong></p><p>A “security group” is defined here as&nbsp;<strong>the smallest group of unique nodes that comprises ≥ 33% of the total stake on the network.</strong>&nbsp;Equivalently, this group represents the&nbsp;minimum&nbsp;number of nodes that would need to be compromised in order to censor or generally compromise the overall security of the network. The Foundation delegation strategy provides delegations to eligible validator nodes that fall outside the security group.</p><p>The&nbsp;<strong>maximal security group</strong>&nbsp;is defined as the largest&nbsp;<strong>security group</strong>&nbsp;that can be created, given the strategic delegation of the Foundation’s tokens across eligible nodes on the network outside this group. The algorithm to identify this group is as follows:</p><ol><li>Calculate 33% of the total amount of stake on the network,&nbsp;including&nbsp;the tokens that are to be delegated by the Foundation.</li><li>Identify the minimum set of validator nodes of which cumulative, non-Foundation stake is greater than or equal to this amount. This is the network’s current&nbsp;<strong>maximal security group.</strong></li></ol><p><strong>Delegate tokens to eligible nodes outside the maximal security group</strong></p><p>Once the network’s maximal security group is identified, the Foundation’s total token pool (initially 100,000,000 SOL) is then divided into equal portions based on the number of eligible nodes&nbsp;outside&nbsp;of this group.</p><p>Additionally, the Foundation will not delegate so many tokens to any one node such that its cumulative total stake (Foundation + non-Foundation) exceeds the total stake of any node in the security group which does not receive a Foundation delegation. In this case, a node or nodes would receive a delegation from the Foundation such that their resulting total stake matches the stake of the lowest-staked node in the security group. Any tokens that are left over from these reduced delegations are then spread evenly over all remaining nodes along with the full-size Foundation delegation. This results in a diminishing Foundation delegation a single node receives as its total delegations approach or exceed the amount needed to enter the security group without changing the total stake-rank ordering of the network’s nodes. This scenario is presented as Example #2 below.</p><p><strong>Example #1</strong></p><p>Consider a hypothetical network with 10M non-Foundation tokens staked across 40 validators, along with an equally hypothetical Foundation that has 5M tokens that it can delegate at will. Let’s suppose a skewed initial stake distribution (prior to the Foundation’s delegation) that looks like:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fdc26de3174b45598f21fdaa6b6d4820",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fda7937f360e844a08c3a80f326bbe37d?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.6,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 480,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fda7937f360e844a08c3a80f326bbe37d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fda7937f360e844a08c3a80f326bbe37d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fda7937f360e844a08c3a80f326bbe37d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fda7937f360e844a08c3a80f326bbe37d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fda7937f360e844a08c3a80f326bbe37d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fda7937f360e844a08c3a80f326bbe37d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fda7937f360e844a08c3a80f326bbe37d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fda7937f360e844a08c3a80f326bbe37d?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fda7937f360e844a08c3a80f326bbe37d?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4e1ff0d77b6043ae9dbdd6f8a59ae1bf",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In this example, we see a pre-Foundation delegation “security group” composed of two nodes (shown in blue). I.e. an attacker would only need to take control of these two nodes to be able to halt the entire network.</p><p>As described above, the first step in applying the proposed delegation strategy, is to calculate the network’s&nbsp;<strong>maximal security group</strong>&nbsp;taking into account the Foundation’s holdings in addition to the non-Foundation owned stake. In this example, the Foundation holds 5M tokens so the total amount of stake on the network will be 15M tokens (10M tokens in non-Foundation stake, and 5M to be delegated from the Foundation). Therefore the&nbsp;<strong>maximal security group</strong>&nbsp;will be the minimum number of validators that comprise &gt;= 5M tokens (i.e. 33% of 15M) of non-Foundation stake. This group is identified here:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-019858f207fb42b7b08cc82781eda8eb",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1358f29b77c84305bf99fd9c36567d57?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.6,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 480,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1358f29b77c84305bf99fd9c36567d57?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1358f29b77c84305bf99fd9c36567d57?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1358f29b77c84305bf99fd9c36567d57?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1358f29b77c84305bf99fd9c36567d57?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1358f29b77c84305bf99fd9c36567d57?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1358f29b77c84305bf99fd9c36567d57?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1358f29b77c84305bf99fd9c36567d57?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1358f29b77c84305bf99fd9c36567d57?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1358f29b77c84305bf99fd9c36567d57?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bcf73ab7062b4e2ea7c0d2ed21a5a995",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In this case, the top 4 validator’s non-Foundation stake sums up to &gt; 5M tokens (33% of total stake) and is thus the&nbsp;<strong>maximal security group</strong>. Therefore, to ensure this&nbsp;<strong>maximal security group</strong>, the Foundation should divide up it’s delegatible token reserve across the non-maximal security group nodes with equally sized delegations.</p><p>In this example, there are 36 eligible nodes&nbsp;outside&nbsp;of the&nbsp;<strong>maximal security group</strong>, so each receives a delegation of 138,889 tokens (5,000,000 tokens / 36 nodes):</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-84d7a27c09304774a1fdb2d444c2472d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In this case, the top 4 validator’s non-Foundation stake sums up to &gt; 5M tokens (33% of total stake) and is thus the&nbsp;<strong>maximal security group</strong>. Therefore, to ensure this&nbsp;<strong>maximal security group</strong>, the Foundation should divide up it’s delegatible token reserve across the non-maximal security group nodes with equally sized delegations.</p><p>In this example, there are 36 eligible nodes&nbsp;outside&nbsp;of the&nbsp;<strong>maximal security group</strong>, so each receives a delegation of 138,889 tokens (5,000,000 tokens / 36 nodes):</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e9f3c13d36cc45ec8ff79f051eca9e54",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a100c42e7da45eeba0233661b4ad044?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.6,
+                "lockAspectRatio": false,
+                "height": 480,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a100c42e7da45eeba0233661b4ad044?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a100c42e7da45eeba0233661b4ad044?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a100c42e7da45eeba0233661b4ad044?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a100c42e7da45eeba0233661b4ad044?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a100c42e7da45eeba0233661b4ad044?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a100c42e7da45eeba0233661b4ad044?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a100c42e7da45eeba0233661b4ad044?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a100c42e7da45eeba0233661b4ad044?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5a100c42e7da45eeba0233661b4ad044?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-82df483fbdcf4114a9dd3781b7560ae0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>With the equal distribution of the Foundation’s tokens across the non-security group nodes, the network’s security group has been doubled from two to four nodes. Additionally, new and lesser staked nodes have received stake from which they can help add security to the network through decentralization.</p><p>Through the strategic deployment of Foundation tokens, the censorship resistance of the overall network has been improved and validation opportunities have been presented to nodes with less stake on the network.</p><p><strong>Example #2</strong></p><p>The algorithm used to divide up the total Foundation delegation pool and deliver the equal delegations to the non-security nodes maintains a requirement that the total stake rank-ordering of the nodes after the delegations must be the same as the rank-ordering based on non-Foundation stake.</p><p>However, this requirement may not be initially satisfied at the border between the security group nodes and the non-security group nodes. As an example of this scenario, the delegation from the Foundation, as initially calculated as an equal portion of the total Foundation stake across all non-security group nodes, would lead to the highest-staked node&nbsp;outside&nbsp;of the security group, who receives this delegation, having a total stake greater than the least staked node&nbsp;inside&nbsp;of the security group, which doesn’t receive a delegation. A graphical representation of this situation is shown here:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-130a2c4805d44769821553db5566bc1a",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff261c7d6c8564c20aaec0e5dcf7bd966?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.6,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 480,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff261c7d6c8564c20aaec0e5dcf7bd966?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff261c7d6c8564c20aaec0e5dcf7bd966?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff261c7d6c8564c20aaec0e5dcf7bd966?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff261c7d6c8564c20aaec0e5dcf7bd966?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff261c7d6c8564c20aaec0e5dcf7bd966?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff261c7d6c8564c20aaec0e5dcf7bd966?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff261c7d6c8564c20aaec0e5dcf7bd966?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff261c7d6c8564c20aaec0e5dcf7bd966?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff261c7d6c8564c20aaec0e5dcf7bd966?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bd84672c8c5441cdb12080692d0e0324",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In this hypothetical scenario, the Foundation delegations delivered to nodes 10, 11 and 12, has changed the total stake rank-ordering of the validator set, which violates the constraint specified by the strategy. Instead, the delivery algorithm will take the following steps:</p><ol><li>Reduce the delegation to node 10, until the stake on node 10 is equal to the stake on node 9.</li><li>Re-calculate the per-node Foundation delegation after adding the amount of the Foundation delegation that was ‘removed’ from node 10 to the entire pool.</li><li>Consider re-distributing the newly calculated per-node Foundation stakes to nodes with non-Foundation stake &lt; node 10 (i.e. nodes 11+)</li><li>If the total potential delegation on node 11 is now greater than node 10, restart this process by reducing the delegation on node 11 and re-calculating the per-node stake to distribute across downstream nodes (i.e. back to step 1)</li></ol><p>By applying this delegation delivery algorithm to the example situation presented above, the final delegation distribution would look like:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7372bc5c7ec34e7e95a1ce8c056742ff",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40f8b960f6e347c7b179f3418e9368e6?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.6,
+                "lockAspectRatio": false,
+                "height": 480,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40f8b960f6e347c7b179f3418e9368e6?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40f8b960f6e347c7b179f3418e9368e6?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40f8b960f6e347c7b179f3418e9368e6?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40f8b960f6e347c7b179f3418e9368e6?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40f8b960f6e347c7b179f3418e9368e6?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40f8b960f6e347c7b179f3418e9368e6?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40f8b960f6e347c7b179f3418e9368e6?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40f8b960f6e347c7b179f3418e9368e6?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F40f8b960f6e347c7b179f3418e9368e6?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-965e699a236a40cdb4dd2f5d1029bd2b",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>After this reduction process, in this example, the amount of delegation for nodes 13+ has increased proportionally by the amount that was removed from nodes 10, 11 and 12 in order to satisfy the design constraints without reducing the overall amount of delegations distributed.</p><p>Diminishing the Foundation delegation near the security group boundary should avoid scenarios that introduce economic attack vectors and edge-case incentives that might not align with the overarching goals of the strategy.</p><p><strong>Rebalancing period</strong></p><p>The Foundation delegations will be re-assessed and re-balanced every 4 epochs (approximately every 8 days) according to the process described below. No delegations will be added except at the re-balance intervals, though delegations can be deactivated at any time if a node fails to remain eligible for delegation.</p><p>At the time of a re-balance, all non-Foundation delegations will be tallied, and adjusted delegations will be computed. The rebalance interval of 4 epochs means that there will be some amount of lag between a change in non-Foundation stake and an updated Foundation delegation spread. Given the amount of stake the Foundation may move in a single rebalance, it may take more than 1 epoch to warm up or cool down, based on Solana’s protocol limit that no more than 25% of total network stake delegation may be added or removed in a single epoch. By leaving an interval between re-balancing, this gives time for the Foundation’s stake changes to take effect, as well as reduce the risk of bottlenecking other users of the network who wish to delegate their stake.</p><p>This is designed to be a long-term delegation strategy, to incentivize staking behavior over many months or years, so passing over smaller per-epoch fluctuations by non-Foundation delegators is acceptable.</p><p><strong>Considerations</strong></p><p>The proposed delegation strategy is designed to create incentives to enhance network security and to grow the network. Network security is increased by the Foundation delegating its tokens in a way to&nbsp;maximize the minimum number of nodes comprising &gt; 33% of the total stake.&nbsp;Network growth is encouraged by offering a path for new validators to obtain a delegation from the Foundation from which to seed their validation services.</p><p>Because the Foundation pool is equally distributed across all non-security group nodes, the amount of each Foundation delegation is inversely proportional to the number of non-security group nodes that qualify to receive the delegation. In this way, we expect the network to grow with new validators to the extent that the revenue from the resultant Foundation delegation is worth the cost and effort of supporting a validator that meets the requirements of the delegation.</p><p>Additionally, nodes&nbsp;in&nbsp;the security group should be continuously evaluating whether it is economically beneficial, to the extent possible, to split their delegations across multiple nodes. By doing so, potentially creating nodes outside the security group, gaining Foundation delegations and with those, additional revenue.</p><p>Foundation delegations will receive staking yield the same as other staked tokens. However, the yields distributed to Foundation delegations, minus the commissions set by the validators, are immediately added to the total pool of Foundation tokens used for this strategy. I.e. The interest earned from the Foundation’s staked tokens will be re-delegated, in accordance with the strategy outlined above, across the network. This provides an increasing delegation pool to continually incentivize the security and growth of the network.</p><p>Additionally, as a result of this re-delegation of Foundation staking yields, the impact on the total circulating supply, as defined by the number of tokens that are currently unlocked and in accounts outside of the control of the Solana Foundation or Solana Labs, is minimized to only the tokens earned by the validators that receive Foundation delegations via their commission rates. We can estimate what the monthly increase to the circulating supply might be for the first year after inflation is enabled, with some assumptions around the average validator commission rate, the percent of the total supply that is staked, and the initial global inflation rate.</p><p>First, we take a maximal assumption of an average of 10% commission set by validators that receive Foundation grants (note the max commission to be eligible is 10%). Additionally, for simplicity, we estimate that the average fraction of the total stake on the network over the first year is 65% and that the inflation rate over the first year is 7.5% (using the average range of potential inflation parameters explored&nbsp;<a href=\"https://forums.solana.com/t/solana-inflation-design-overview/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>). With these assumptions, we’d expect an average first-year staking yield of around 11.5%. Given the commitment to delegate 100M tokens, and ignoring the compound interest across that first year for simplicity, we’d expect the Foundation delegations to yield ~11.5M tokens. From our upper estimate of 10% average commission for validators that receive a Foundation delegation, we’d then expect ≤ 10% (≤ 1.15M) of these 11.5M tokens to enter the circulating supply over the year, while ≥ 90% (≥ 10.5M tokens) to be automatically re-introduced into the delegation program and retained as delegated stake accounts. This suggests an upper limit on the increase to circulating supply as a consequence of this delegation strategy of no more than ~100,000 tokens per month.</p><h3><strong>Eligibility Requirements</strong></h3><p>Please note the Solana network always has been and always will be permissionless. Anyone can operate a validator and earn rewards from delegations at any time, without needing the consent of the Solana Foundation. However, in order to receive a delegation directly from the Foundation and be eligible for the program described in this document, all of the following criteria must be met.</p><p><strong>Prerequisites</strong></p><p>The following must be met&nbsp;before&nbsp;the Solana Foundation will include a validator node on Mainnet Beta in its delegation distribution strategy.</p><ol><li>Node operators must pass KYC</li><li>Node operators must agree to and sign our Participation Agreement.</li><li>Node operators must participate in at least one full stage (approximately one month in duration) of the&nbsp;<a href=\"https://solana.com/tds?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tour de SOL incentivized testnet program</a>. After successfully participating in Tour de SOL, validators will be eligible to participate in the delegation program on Solana’s Mainnet Beta network.</li><li>A validator who is eligible for Foundation delegation on Mainnet Beta may choose to migrate their Tour de SOL node from testnet to Mainnet Beta, or they may choose to continue to participate in Tour de SOL and earn the corresponding compensation, and start up a second node dedicated to Mainnet Beta.</li></ol><p><strong>Technical Requirements</strong></p><p>The following technical metrics must be maintained by a node in order to remain eligible for a Foundation delegation. New nodes participating in the program must consistently maintain these criteria for the duration of a Delegation Exclusion Period (defined below) before they will receive their initial Foundation delegation.</p><p>Note that these technical requirements are intended to change over time as the performance of the network becomes better understood.</p><ul><li>Vote on &gt;90% on all valid blocks during the sampling window.</li><li>A block is considered valid if it has received maximum (32) confirmations by the cluster, or is an ancestor of a block that has.</li><li>Retain a delinquency rate &lt;10% over the course of a 48-hour moving average time window.</li><li>A node is considered delinquent if its root slot is more than 256 slots behind the network supermajority’s root slot. Delinquency status will be polled hourly. If a node is sampled as delinquent in more than 10% of the previous 48 hours’ checks, it is considered to have failed this requirement.</li><li>Propose blocks in &gt;90% of scheduled leader slots</li><li>Validators who have not yet received any delegation and are not included in the current epoch’s leader schedule are exempt from this criteria. Once a Foundation delegation is received and the node enters the leader (block producer) schedule, this requirement will be enforced.</li><li>Retain a commission rate ≤ 10%</li></ul><p>If a validator fails any of the above criteria, its Foundation delegation is deactivated in the current epoch and the node enters a Delegation Exclusion period.</p><p><strong>Delegation Exclusion Period</strong></p><p>Nodes new to the program, and those that have failed to maintain the delegation criteria are ineligible for a Foundation delegation for a minimum of two rebalancing periods, defined as the Delegation Exclusion Period. Throughout this period, the nodes’ performance will continue to be monitored along with all delegated nodes. The delegation criteria must be maintained for the full Delegation Exclusion Period and then the node will receive a Foundation delegation at the next rebalancing period. If a node fails to maintain the requirements during the exclusion period, the Delegation Exclusion Period timing starts over.</p><h3><strong>Migrating from the Foundation’s current stake distribution</strong></h3><p>Most validators who have been participating in Mainnet Beta thus far have received up to 550,000 SOL delegation from the Foundation. Up until now, this value has been somewhat arbitrary. To prepare for the new distribution strategy, the current script used to automatically delegate Foundation stake will be modified to delegate no more than 270,000 SOL to any single node, and new delegations up to 270,000 SOL will be made to validators who have recently joined Mainnet Beta. This will provide a very rough approximation of the results of the first re-balancing of the new strategy once it is implemented. By migrating stake in bulk now over several epochs, we will avoid a major single-epoch stake movement when the new strategy program is started.</p><p>Validators who are already staked on Mainnet Beta will not by default be subject to the Delegation Exclusion period, to avoid everyone on the network being stripped of their delegations at once. If a validator fails to meet the technical criteria when the new program is enabled, they will be subject to the Delegation Exclusion period.</p><h3><strong>Changes to current Mainnet Beta compensation plan</strong></h3><p>Validators participating in Mainnet Beta have thus far earned monthly compensation directly from the Solana Foundation for their services. This compensation program is expected to end prior to the enablement of inflation on Mainnet Beta. A final announcement will be made by the Solana Foundation via Discord and Solana forums to terminate those existing contracts. The financial incentive for validators will be from protocol-driven inflationary rewards.</p><p>The compensation plan for participating in Tour de SOL incentivized testnet program will&nbsp;not&nbsp;change with the activation of inflation on Mainnet Beta.</p><p>For additional questions please join the&nbsp;<a href=\"http://solana.com/discord?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Discord</a>.</p><p>Make sure to follow us on our various social channels below to receive daily updates on what’s going on in the Solana ecosystem. We also provide frequent updates via Blockfolio Signal, so add $SOL to your Portfolio if you’re interested in receiving direct updates.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockfolio</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F48935f25610d457bbcb66e2b1d6d98d0",
+  "lastUpdated": 1694189929732,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f4982bb079c540b6a11600a242e0076f",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687591458850,
+  "@originId": "f4982bb079c540b6a11600a242e0076f",
+  "testRatio": 1,
+  "createdDate": 1687362662218,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=f4982bb079c540b6a11600a242e0076f&builder.overrides.f4982bb079c540b6a11600a242e0076f=f4982bb079c540b6a11600a242e0076f&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Announcing the Solana Foundation Delegation Strategy",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

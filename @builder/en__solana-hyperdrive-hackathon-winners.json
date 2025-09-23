@@ -1,0 +1,176 @@
+{
+  "@liveSyncEnabled": false,
+  "folders": [],
+  "data": {
+    "datePublished": 1699019400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc43c2a6ff2644287ae917672c0da049f",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "The Grand Champion winner out of over 900 submissions took advantage of AI to make it easy to interact with the blockchain.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc43c2a6ff2644287ae917672c0da049f",
+      "seoDescription": "The Grand Champion winner out of over 900 submissions took advantage of AI to make it easy to interact with the blockchain.",
+      "seoTitle": "Solana | Meet the winners of the Hyperdrive Hackathon"
+    },
+    "title": "Meet the winners of the Hyperdrive Hackathon",
+    "slug": "solana-hyperdrive-hackathon-winners",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bec3d03a15a94e16b13707bd0f0163b2"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-ae3ffa9e9f584612b5fe2e8b34fe91ab",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9d12514f906e4460a2334c5369865560",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The Solana Foundation is thrilled to announce the results of the <a href=\"https://solana.com/hyperdrive\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Hyperdrive Hackathon</a>, an online competition focused on bringing the next wave of high-impact projects into the Solana ecosystem. Hyperdrive was the eighth Solana hackathon, bringing together founders and developers from around the world to launch products spanning Infrastructure, Mobile Consumer Apps, Payments, DAOs, AI, and everything in-between.</p><p>Hyperdrive saw more than 7,000 participants submit 907 final projects to the judges, the largest online Solana hackathon to date and the latest in a stream of growing submissions. AWS, Ironforge, UXD, Magic Eden, IO.NET, Helio, Phantom, The Network State, and EasyA joined the Solana Foundation as category sponsors for the hackathon, offering a platform for crypto startups to jumpstart their journey.</p><p>“Solana Hackathons are where new startups are made, and Hyperdrive was no exception,” said Dan Albert, executive director of the Solana Foundation. “The nearly 1,000 teams built during Hyperdrive are going to be among the ones shaping the future of entertainment, infrastructure, finance, mobile, and more.”</p><p>Browse through all the project submissions in the <a href=\"https://hyperdrive.solana.com/projects/explore\" rel=\"noopener noreferrer\" target=\"_blank\">Hyperdrive public directory.</a></p><p>Without further ado, here are your winners:</p><h2>Grand Champion</h2><p><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=fluxbot\" rel=\"noopener noreferrer\" target=\"_blank\">FluxBot</a>, an AI-powered chatbot that enables easy, user-friendly interactions with the Solana blockchain, received the Grand Prize of $50,000 USDC, along with passes to attend Breakpoint 2024 in Singapore Sept. 19-21.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f48298998f4845eeabcbdb154c48d0d3",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.canva.com/design/DAFxJLSnCUs/z-6C3fduWXfsQOAFh91X6w/view?utm_content=DAFxJLSnCUs&utm_campaign=designshare&utm_medium=link&utm_source=viewer",
+                "content": "<div class=\"iframely-embed\"><div class=\"iframely-responsive\" style=\"padding-bottom: 56.25%; padding-top: 120px;\"><a href=\"https://www.canva.com/design/DAFxJLSnCUs/z-6C3fduWXfsQOAFh91X6w/view\" data-iframely-url=\"//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAFxJLSnCUs%2Fz-6C3fduWXfsQOAFh91X6w%2Fview%3Futm_content%3DDAFxJLSnCUs&key=a3100d4670e5b4e643cfef9767269e9b\"></a></div></div><script async src=\"//cdn.iframe.ly/embed.js\" charset=\"utf-8\"></script>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7f73e56be90647a6a92d419f53f369f5",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Mobile Consumer Apps Track</h2><p>The first prize goes to <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=sollinked\" rel=\"noopener noreferrer\" target=\"_blank\">Sollinked</a>, a dApp that gives users a way to set up pay-to-reach services for content creators, with an award of $30,000 in USDC.&nbsp;</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=kizzy\" rel=\"noopener noreferrer\" target=\"_blank\">Kizzy</a>, a dApp where users play games by predicting viewership of influencer content.&nbsp;</li><li>Third: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=cliq\" rel=\"noopener noreferrer\" target=\"_blank\">Cliq</a> a trustless, anonymous social dApp for professionals.</li><li>Fourth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=bindapp\" rel=\"noopener noreferrer\" target=\"_blank\">BindApp</a>, a dApp that turns shopping into an interactive fashion, merging gamification with personalized style.</li><li>Fifth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=3tv\" rel=\"noopener noreferrer\" target=\"_blank\">3TV</a>, a dApp where groups chat via text, video, and audio, enabling creators to stream, monetize with tips, mint NFTs post-stream, and communities to create token-gated chat rooms.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions</p><ul><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=blockride\" rel=\"noopener noreferrer\" target=\"_blank\">Blockride</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=horizon\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=trekn\" rel=\"noopener noreferrer\" target=\"_blank\">Trekn</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=redeemable\" rel=\"noopener noreferrer\" target=\"_blank\">Redeemable</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=W3ed\" rel=\"noopener noreferrer\" target=\"_blank\">WE3DCLUB</a></li></ul><h2>Crypto Infrastructure Track</h2><p>The first prize goes to <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=plex\" rel=\"noopener noreferrer\" target=\"_blank\">epPlex</a>, a protocol for minting ephemeral, epNFTs, with an award of $30,000 in USDC.</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=ping.\" rel=\"noopener noreferrer\" target=\"_blank\">Ping</a>,&nbsp;a smart NFT wallet on Solana that offers features like e-commerce and social linking, along with tracking gain user insights.</li><li>Third: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=SolKeeper\" rel=\"noopener noreferrer\" target=\"_blank\">SolKeeper</a>,&nbsp;a program that enables users to verify the security of deployed programs on Solana by tracking code versions and audits.</li><li>Fourth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Firethree\" rel=\"noopener noreferrer\" target=\"_blank\">Firethree</a>, a tool that offers integrated storage with a Firebase-like experience.</li><li>Fifth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=deauth\" rel=\"noopener noreferrer\" target=\"_blank\">DeAuth</a>, an oAuth provider, streamlines web3 authentication with multi-tenancy, diverse identity linkages, and comprehensive user management.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=BlocQL\" rel=\"noopener noreferrer\" target=\"_blank\">Bloc QL</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=formigo\" rel=\"noopener noreferrer\" target=\"_blank\">Formigo</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Gib+Work\" rel=\"noopener noreferrer\" target=\"_blank\">Gib Work</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=sayver\" rel=\"noopener noreferrer\" target=\"_blank\">Sayver</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=soda\" rel=\"noopener noreferrer\" target=\"_blank\">Soda</a></li></ul><h2>Artificial Intelligence Track</h2><p>The first prize goes to <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Wysdom\" rel=\"noopener noreferrer\" target=\"_blank\">Wysdom</a>, a platform that provides interactive notebooks that facilitate smart contract creation, dApp prototyping, and collective knowledge building, with an award of $30,000 in USDC.&nbsp;</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Aperture\" rel=\"noopener noreferrer\" target=\"_blank\">Aperture</a>, a transaction explainer that decodes Solana transaction signatures.</li><li>Third: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=byte+in\" rel=\"noopener noreferrer\" target=\"_blank\">ByteIn</a>, a mobile city-building game that incentivizes healthier eating habits.</li><li>Fourth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=FRIDAY\" rel=\"noopener noreferrer\" target=\"_blank\">FRIDAY</a>, a dApp that gives users access to content and offers from their favorite creators by leveraging their own data.</li><li>Fifth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=guardian+ai\" rel=\"noopener noreferrer\" target=\"_blank\">Guardian AI</a>, a network that safeguards DAOs and multisigs with decentralized AI agents.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=assisterr\" rel=\"noopener noreferrer\" target=\"_blank\">Assisster</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=blackhat\" rel=\"noopener noreferrer\" target=\"_blank\">Blackhat Game</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Condensation\" rel=\"noopener noreferrer\" target=\"_blank\">CondensationAI</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=kiteshield\" rel=\"noopener noreferrer\" target=\"_blank\">Kiteshield</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=magipop\" rel=\"noopener noreferrer\" target=\"_blank\">Magipop</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=vinci+world\" rel=\"noopener noreferrer\" target=\"_blank\">Vinci World</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=watch+tower\" rel=\"noopener noreferrer\" target=\"_blank\">Watch Tower</a></li></ul><h2>Games and Entertainment Track</h2><p>The first prize goes to <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=solciv\" rel=\"noopener noreferrer\" target=\"_blank\">Solciv</a>, a strategy game with a permissionless marketplace for third-party creators, with an award of $30,000 in USDC.&nbsp;</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=sync+studios\" rel=\"noopener noreferrer\" target=\"_blank\">Sync Studios</a>, a solution that turns web2 player mobile player accounts in games into tradable assets.</li><li>Third:<a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=hyperdrive+havoc\" rel=\"noopener noreferrer\" target=\"_blank\"> Hyperdrive Havoc</a>, a game where players battle enemies, unlock upgrades, and earn cNFTs.</li><li>Fourth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=geoverse\" rel=\"noopener noreferrer\" target=\"_blank\">Geoverse</a>, a top-down role player game built fully onchain.</li><li>Fifth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=football+club+owners\" rel=\"noopener noreferrer\" target=\"_blank\">Football Club Owners</a>, a game where participants manage football clubs to generate tangible value.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=blockpal\" rel=\"noopener noreferrer\" target=\"_blank\">BlockPal</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Butterfly\" rel=\"noopener noreferrer\" target=\"_blank\">Butterfly Lottery</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=%27cade\" rel=\"noopener noreferrer\" target=\"_blank\">Cade</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Dupe.\" rel=\"noopener noreferrer\" target=\"_blank\">Dupe</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=defilliate\" rel=\"noopener noreferrer\" target=\"_blank\">Defilliate</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Frontier\" rel=\"noopener noreferrer\" target=\"_blank\">Frontier Realm Zero</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Intrant\" rel=\"noopener noreferrer\" target=\"_blank\">Intrant Infernis</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=lands+of+ascension\" rel=\"noopener noreferrer\" target=\"_blank\">Lands of Ascenion</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=mindforgex\" rel=\"noopener noreferrer\" target=\"_blank\">MindForgeX</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=mixtape\" rel=\"noopener noreferrer\" target=\"_blank\">Mixt Ape</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=picoplay\" rel=\"noopener noreferrer\" target=\"_blank\">Pico Play</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Pixelmotchi\" rel=\"noopener noreferrer\" target=\"_blank\">PixelMotchi</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=soundwork\" rel=\"noopener noreferrer\" target=\"_blank\">Soundwork</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=tontine\" rel=\"noopener noreferrer\" target=\"_blank\">Tontine</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=trade+or+bust\" rel=\"noopener noreferrer\" target=\"_blank\">Trade or Bust</a></li></ul><h2>Finance and Payments Track</h2><p>The first prize goes to <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=alexandria\" rel=\"noopener noreferrer\" target=\"_blank\">Alexandria</a>, a trade router that consolidates order books into an 'order library,' with an award of $30,000 in USDC.&nbsp;</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=luxhaus\" rel=\"noopener noreferrer\" target=\"_blank\">Luxhaus</a>, a platform offering affordable tickets to win luxury assets.</li><li>Third: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=surfer+finance\" rel=\"noopener noreferrer\" target=\"_blank\">Surfer Finance</a>, a DeFi protocol that provides yield trading and fixed-rate options for various Solana-based assets.</li><li>Fourth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=juicer\" rel=\"noopener noreferrer\" target=\"_blank\">Juicer</a>, a hub for maximising yield and managing risk across multiple DEFI apps.</li><li>Fifth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=seagull+one\" rel=\"noopener noreferrer\" target=\"_blank\">Seagull One</a>, a Solana native debit card.&nbsp;</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=alphaline\" rel=\"noopener noreferrer\" target=\"_blank\">Alphaline</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=arcana\" rel=\"noopener noreferrer\" target=\"_blank\">Arcana</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=cloak\" rel=\"noopener noreferrer\" target=\"_blank\">CloakZK</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=ditty\" rel=\"noopener noreferrer\" target=\"_blank\">Ditty</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Dyson\" rel=\"noopener noreferrer\" target=\"_blank\">DysonSwap</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=mercure\" rel=\"noopener noreferrer\" target=\"_blank\">Mercure</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=moveflow\" rel=\"noopener noreferrer\" target=\"_blank\">MoveFlow</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Shipped\" rel=\"noopener noreferrer\" target=\"_blank\">Shipped</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=solsubs\" rel=\"noopener noreferrer\" target=\"_blank\">Solsubs</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=spedx\" rel=\"noopener noreferrer\" target=\"_blank\">SpedX</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=the+vault\" rel=\"noopener noreferrer\" target=\"_blank\">The Vault</a></li></ul><h2>Physical Infrastructure Networks Track</h2><p>The first prize goes to <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=shaga\" rel=\"noopener noreferrer\" target=\"_blank\">Shaga</a>, a tool that allows PC lending and monetization for server-side gaming on Solana, with an award of $30,000 in USDC.&nbsp;</p><p>Additional prizes went to:</p><ul><li>Second: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=dain\" rel=\"noopener noreferrer\" target=\"_blank\">Dain</a>, a decentralized AI network with synergistic nodes and services for optimal information delivery and functionality.</li><li>Third: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=albedo\" rel=\"noopener noreferrer\" target=\"_blank\">Albedo</a>, a network that uses iot sensors to manage insurance payouts.</li><li>Fourth:<a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=vaxchain\" rel=\"noopener noreferrer\" target=\"_blank\"> Vaxchain</a>, a DePIN protocol that verifies vaccine authenticity and safety.</li><li>Fifth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=clust\" rel=\"noopener noreferrer\" target=\"_blank\">Clusttr</a>, a marketplace for real estate investment through fractional ownership.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize the work of the following honorable mention:</p><ul><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=terra+va\" rel=\"noopener noreferrer\" target=\"_blank\">Terra Project</a></li></ul><h2>DAOs and Network States Track</h2><p>The first prize goes to <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=pubkey+link\" rel=\"noopener noreferrer\" target=\"_blank\">Pubkey Link</a>, a customizable, secure open-source Discord verification bot, with an award of $30,000 in USDC. Additional prizes went to</p><ul><li>Second: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=tatami\" rel=\"noopener noreferrer\" target=\"_blank\">Tatami,</a> a tool that streamlines Solana token launches.</li><li>Third: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Hub3\" rel=\"noopener noreferrer\" target=\"_blank\">Hub3</a>, a social-fi platform that empowers creators to monetize their content through advanced token-gated access.</li><li>Fourth:<a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=daocre\" rel=\"noopener noreferrer\" target=\"_blank\"> DAOCre-8</a>, a platform that combines traditional crowdfunding with decentralized governance.</li><li>Fifth: <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=onda\" rel=\"noopener noreferrer\" target=\"_blank\">Onda</a>, decentralized, community-moderated forums built on Solana Account Compression.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions</p><ul><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=citizen\" rel=\"noopener noreferrer\" target=\"_blank\">Citizenship Toolkit</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=convergence\" rel=\"noopener noreferrer\" target=\"_blank\">Convergence</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=Ky%C5%8Dd%C5%8D\" rel=\"noopener noreferrer\" target=\"_blank\">Kyōdō</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=solar\" rel=\"noopener noreferrer\" target=\"_blank\">Solar Saloon</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=tokenvest\" rel=\"noopener noreferrer\" target=\"_blank\">Tokenvest</a></li><li><a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=voxvil\" rel=\"noopener noreferrer\" target=\"_blank\">Voxvil3</a></li></ul><h2>University Award</h2><p>The University Award, which recognizes excellence from a project led by university students, goes to <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=space+fight\" rel=\"noopener noreferrer\" target=\"_blank\">Space Fight</a>, a multiplayer spaceship game with NFT-based ships, power-ups, and multiple modes, receiving a $20,000 USDC prize for the project.</p><h2>Public Goods Award</h2><p>The Public Goods Award, which recognizes an open-source project that benefits developers across the Solana ecosystem, goes to <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=radiant\" rel=\"noopener noreferrer\" target=\"_blank\">Radiants</a>, a protocol for ecosystem-wide NFT deflation and merging of projects utilizing a suite of tools, receiving a $20,000 USDC prize.</p><h2>Climate Award</h2><p>The Climate Award, recognizing projects that are built with climate change and sustainability in mind, goes to <a href=\"https://hyperdrive.solana.com/projects/explore?nameQuery=carbonpay\" rel=\"noopener noreferrer\" target=\"_blank\">CarbonPay</a>, an eco-friendly Solana wallet, receiving a USDC prize of $5,000.</p><p>Check out all the <a href=\"https://hyperdrive.solana.com/projects/explore\" rel=\"noopener noreferrer\" target=\"_blank\">submissions</a>, and congratulations to all the winners!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-11e37c3541cd40f982cb8fd605978616",
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "eyebrow": "",
+                "headline": "Hear about the next online Solana hackathon.",
+                "body": "Solana hackathons provide ambitious builders a launchpad to create projects that push the crypto space forward. Enter your email to be notified about the next one.",
+                "buttons": [],
+                "formId": "c54770ae-9976-4ab8-8b7f-21d288659efe",
+                "newsLetter": true,
+                "placeholder": "Put your email here!"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa067c6dcb4ab46e3a1099e6cb44765f2",
+  "lastUpdated": 1699892218623,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_712ad87284cb4e93ad46ec5d73bcc6ae",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1699019756725,
+  "@originId": "712ad87284cb4e93ad46ec5d73bcc6ae",
+  "testRatio": 1,
+  "createdDate": 1699009179229,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "lastPreviewUrl": "https://solana-next-com-git-builder-staging-solana-foundation.vercel.app/news/solana-hyperdrive-hackathon-winners?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_712ad87284cb4e93ad46ec5d73bcc6ae&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_712ad87284cb4e93ad46ec5d73bcc6ae=983ae1dad0ba4ca4ac6dd4ac310edee1_712ad87284cb4e93ad46ec5d73bcc6ae&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Copy": 2,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Meet the winners of the Hyperdrive Hackathon",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

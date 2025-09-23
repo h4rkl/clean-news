@@ -1,0 +1,587 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1606118400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa9c97da1042047e784b494b6685d86f4",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "With over 1,000 registrations & 60+ project submissions from builders globally!\n",
+    "publishedDate": "Mon Nov 23 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "openGraph": {
+      "ogTitle": "Announcing the Winners of Solana’s Inaugural Hackathon",
+      "ogUrl": "",
+      "ogDescription": "\nWith over 1,000 registrations & 60+ project submissions from builders globally!\n",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Announcing the Winners of Solana’s Inaugural Hackathon",
+      "noFollow": false,
+      "seoDescription": "\nWith over 1,000 registrations & 60+ project submissions from builders globally!\n",
+      "seoTitle": "Announcing the Winners of Solana’s Inaugural Hackathon",
+      "noIndex": false
+    },
+    "title": "Announcing the Winners of Solana’s Inaugural Hackathon",
+    "twitterMeta": {
+      "twitterTitle": "Announcing the Winners of Solana’s Inaugural Hackathon",
+      "twitterDescription": "\nWith over 1,000 registrations & 60+ project submissions from builders globally!\n"
+    },
+    "slug": "announcing-the-winners-of-solana-s-inaugural-hackathon",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_03e6904c00924a32b6187f46a5fa40d0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_4dc516e5ca7f4aa8ac937d0d5bc371a6"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bec3d03a15a94e16b13707bd0f0163b2"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-be0d24289d06499aa635e988f9bab3f5",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f312a0e2994b4a90b53021c74af8434d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>With over 1,000 registrations &amp; 60+ project submissions from builders globally!</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1dfb35f701634e218c2812bd5604165f",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fac998eeb6d7b4544968373945a545ea9?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fac998eeb6d7b4544968373945a545ea9?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fac998eeb6d7b4544968373945a545ea9?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fac998eeb6d7b4544968373945a545ea9?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fac998eeb6d7b4544968373945a545ea9?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fac998eeb6d7b4544968373945a545ea9?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fac998eeb6d7b4544968373945a545ea9?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fac998eeb6d7b4544968373945a545ea9?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fac998eeb6d7b4544968373945a545ea9?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fac998eeb6d7b4544968373945a545ea9?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2d5f72931b3e4152a72965a300af6802",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>To accelerate the already rapid growth of the ecosystem,&nbsp;<a href=\"https://solana.com/hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the Solana Foundation hosted its first online hackathon</a>, bringing industry leaders and builders from around the world together for two weeks of hacking on Solana. Even though the event revolved around Wormhole, a new bi-directional bridge with Ethereum, participants were encouraged to build any project that could impact the ecosystem.</p><p><strong>Over 1,000 builders registered for the Solana Wormhole hackathon, with 60+ final project submissions spanning DeFi, Web3, NFT gaming, and core infrastructure.</strong>&nbsp;Thank you to all who joined and created impactful products for the Solana ecosystem! We’d also like to thank our all-star lineup of judges and speakers who participated in&nbsp;<a href=\"https://www.youtube.com/playlist?list=PLilwLeBwGuK5Icr4uZpDwMhtckrkSaFT0&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">live panels</a>&nbsp;throughout the hackathon.</p><p>Take a look at all the project submissions in the public directory at&nbsp;<a href=\"http://solana.com/hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">solana.com/hackathon</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2c6701ca0a6f4771859e8b4e5053cb38",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7c2b241da574eafba77b01d25ba0a52?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.423,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 338,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7c2b241da574eafba77b01d25ba0a52?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7c2b241da574eafba77b01d25ba0a52?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7c2b241da574eafba77b01d25ba0a52?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7c2b241da574eafba77b01d25ba0a52?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7c2b241da574eafba77b01d25ba0a52?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7c2b241da574eafba77b01d25ba0a52?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7c2b241da574eafba77b01d25ba0a52?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7c2b241da574eafba77b01d25ba0a52?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff7c2b241da574eafba77b01d25ba0a52?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4d653577cc0c4badb98e0ff82514ab23",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Beyond engaging with talented teams worldwide, the hackathon allowed the Solana Foundation to improve essential documentation, tooling, and other educational resources to better serve developers integrating with Solana. If you signed up for the hackathon, it would be very much appreciated if you could fill out&nbsp;<a href=\"https://solanalabs.typeform.com/to/MXvvGnjw?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">this brief survey</a>&nbsp;to give additional feedback on how to improve Solana’s developer experience.</p><p>The quality and diversity of projects were impressive. However, there were 14 submissions that stood out from the rest. The projects were judged based on the following five categories: Functionality, potential impact, novelty, design, and extensibility.</p><p>So, without further ado, here are the winners of the Solana Wormhole Hackathon…</p><h2><strong>First Place&nbsp;Winners</strong></h2><p>The four first-place winners will each receive $30,000 in USDC-SPL tokens.</p><p><strong>Jabber</strong></p><p>Jabber is a p2p messaging platform built on Solana. The app allows users to send end-to-end encrypted messages to any valid Solana address. The app converts signing keys to Curve25519 to encrypt messages. The Jabber team leveraged Solana’s high-throughput to put most of the functionality all on-chain.</p><ul><li><a href=\"https://twitter.com/jabber_im?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow Jabber on Twitter</a></li><li><a href=\"https://jabberim.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Vist the Jabber Website</a></li><li><a href=\"https://github.com/vidhunv1/jabber/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Jabber’s GitHub Repository</a></li><li>Try the app&nbsp;<a href=\"https://jabber-test.vercel.app/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2a979b3588094f96aacf4a228b85b011",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe src=\"https://player.vimeo.com/video/479480751?app_id=122963\" width=\"700\" height=\"929\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a9c18ceb5ef0442dab5f082e4f63211c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Solana Fantasy Sports</strong></p><p>Solana Fantasy Sports is a fully on-chain app where users can start a league by setting an entry-amount in SOL. Friends join by paying an entry fee and then choose players in the initial draft. Users can swap players during the game, and scores are published weekly by owner wallets fetched from an API. The highest scorer in each league gets to withdraw the entry-amount collected.</p><ul><li><a href=\"https://twitter.com/SolanaSports?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow Solana Fantasy Sports on Twitter</a></li><li><a href=\"https://github.com/ProtoDao/solana-fantasy-app?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Fantasy Sports’ GitHub Repository</a></li><li>Try the app&nbsp;<a href=\"https://solanafantasy.netlify.app/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-09409b9721554a6c8950e1da16b3ca75",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Solana Structured Products</strong></h3><p>Structured products in traditional finance are simply a combination of two or more financial instruments that comprise a single product that pays out based on the underlying assets’ performance. The Structured Products team built a system that allows users to match and lock single deposits with the shared goal of executing a particular trading strategy, coupled with position management bots that read and respond to Serum DEX’s market data.</p><ul><li><a href=\"https://twitter.com/solstructured?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow Structured Products on Twitter</a></li><li><a href=\"https://github.com/wilbarnes/solana-structured-products?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Structured Product’s GitHub Repository</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3066b169923741d59289d93b207cc301",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218e708eaf164fe1a5cf7347e6a216f3?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.574,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 459,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218e708eaf164fe1a5cf7347e6a216f3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218e708eaf164fe1a5cf7347e6a216f3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218e708eaf164fe1a5cf7347e6a216f3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218e708eaf164fe1a5cf7347e6a216f3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218e708eaf164fe1a5cf7347e6a216f3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218e708eaf164fe1a5cf7347e6a216f3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218e708eaf164fe1a5cf7347e6a216f3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218e708eaf164fe1a5cf7347e6a216f3?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218e708eaf164fe1a5cf7347e6a216f3?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c3e8a0bba7fa420cbd0bf2701375ffc6",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>StableSwap</strong></p><p>StableSwap brings Curve to Solana! The team modified Solana’s Solana token-swap program by implementing Curve’s StableSwap invariant. The live app allows users to trade highly-correlated SPL tokens in a familiar swap interface.</p><ul><li><a href=\"https://twitter.com/stableswap_pro?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Follow StableSwap on Twitter</a></li><li><a href=\"https://github.com/michaelhly/stable-swap-program?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">StableSwap’s GitHub Repository</a></li></ul><h2><strong>Second Place&nbsp;Winners</strong></h2><p>The 5-second place winners will each receive $10,000 in USDC-SPL tokens.</p><p><strong>SolGSN</strong></p><p>SolGSN is a gas station implementation for Solana. The platform allows users to do fee-less transactions, where the dApp creator pays fees on behalf of the user. This gives dApp creators more flexibility to provide a more seamless user experience. Also, the dApp and user can add or withdraw credits at any time.</p><ul><li>Follow SolGSN on Twitter</li><li><a href=\"https://github.com/princesinha19/solgsn?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SolGSN’s GitHub Repository</a></li><li>View the team’s deck&nbsp;<a href=\"https://docs.google.com/presentation/d/14iBbXitBhS5vqem0ZE_9nsbn1lXT0uF9vwPMs_1PnJM/edit?ref=solana.ghost.io#slide=id.p\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-21371d3c44bd4ba8aaebcec72f8ffc49",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b730be863104822aa67016088dcda4c?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.583,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 466,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b730be863104822aa67016088dcda4c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b730be863104822aa67016088dcda4c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b730be863104822aa67016088dcda4c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b730be863104822aa67016088dcda4c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b730be863104822aa67016088dcda4c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b730be863104822aa67016088dcda4c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b730be863104822aa67016088dcda4c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b730be863104822aa67016088dcda4c?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b730be863104822aa67016088dcda4c?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-acfae680acb846399685aa1db49a4ecf",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>IdentitySwap</strong></p><p>IdentitySwap is an Automatic Money Market (AMM) dApp that demonstrates the concept of decentralized identity on the Solana SPL Token-Swap program. The program connects with Civic’s identity verification system.</p><ul><li>Follow IdentitySwap on Twitter</li><li><a href=\"https://github.com/civicteam/identity-swap?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">IdentitySwap’s GitHub Repository</a></li></ul><p><strong>SoproX</strong></p><p>SoproX is a tool that helps developers to conveniently create a Solana Rust-based program (SRP) with no build configuration. To simplify Solana’s program development, the team created a solution for developers to immediately bootstrap their programs. There are several built-in templates with many levels of readability in SoproX, including a Hello World instance for new developers to learn Solana.</p><ul><li>Follow SoproX on Twitter</li><li><a href=\"https://github.com/DescartesNetwork/soprox?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SoproX’s GitHub Repository</a></li><li>Try it out&nbsp;<a href=\"https://soprox.descartes.network/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></li></ul><p><strong>P2P Wallet Bundle</strong></p><p>The P2P Org team built a bundle of open-source Solana wallet implementations, written for&nbsp;<a href=\"https://github.com/p2p-org/p2p-wallet-ios?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">iOS</a>,&nbsp;<a href=\"https://github.com/p2p-org/p2p-wallet-android?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Android</a>, and a web browser version. The team leveraged Solana, Serum, and Bonfida infrastructure.</p><ul><li>Follow P2P Wallet on Twitter</li><li><a href=\"https://github.com/p2p-org/p2p-wallet-web?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">P2P Wallet’s GitHub Repository</a></li><li>Try out the wallet&nbsp;<a href=\"https://p2p-org.github.io/p2p-wallet-web/?ref=solana.ghost.io#/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></li></ul><p><strong>Solong</strong></p><p>Solong is a slick new extension browser that allows users to interact with any application on Solana or in the Serum ecosystem. It also included the ability to mint new SPL tokens directly within the UI.</p><ul><li>Try out the wallet&nbsp;<a href=\"https://solongwallet.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1579a1b8e1ad4df9973f328f2789a834",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe\n  src=\"https://www.youtube.com/embed/48HD6QKCYmk?feature=oembed\"\n  width=\"640\"\n  height=\"480\"\n  frameborder=\"0\"\n  scrolling=\"no\"\n></iframe>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c80d67e10ed74c2b9d837ece6216b09e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Third Place&nbsp;Winners</strong></h2><p>The fivethird-place winners will each receive $5,000 in USDC-SPL tokens.</p><p><strong>SOL Survivor</strong></p><p>SOL Survivor is a messaging app and Mortal Kombat style fighting game on the Solana testnet. The premise is simple, both users submit a hash of 4 choices: attack/block/counter/taunt. After both users have submitted their hashes they can reveal (“unleash”) their choice. Once the first player has revealed their action the second player will have 10 seconds to reveal their choice as well.</p><ul><li><a href=\"https://github.com/kemargrant/soltalk/blob/master/public/sssc.c?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SOL Surivor’s GitHub Repository</a></li><li>Try out the game&nbsp;<a href=\"https://dnfpbwm8i1o6z.cloudfront.net/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bf88202df49a4b2eac4ba58499b70973",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe\n  src=\"https://www.youtube.com/embed/RyCgjsrUJq0?feature=oembed\"\n  width=\"700\"\n  height=\"393\"\n  frameborder=\"0\"\n  scrolling=\"no\"\n></iframe>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-71a42fe0aba14eb693585830f4dbb15d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>SquiFi</strong></p><p>Squifi is a generalized crowdfunding platform built on Solana. Squifi aims to increase a groups’ purchasing power by pooling passive income from individuals. Pool contributors are granted SPL pool share tokens for ownership.</p><ul><li><a href=\"https://github.com/marbar3778/squad_finance/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SquiFi’s GitHub Repository</a></li><li>Read the submission&nbsp;<a href=\"https://docs.google.com/document/d/1xXFdCRrp9tGW68BTRB9wIr-XNbRWuRkJ_Z91xitXFig/edit?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></li></ul><p><strong>Moebius</strong></p><p>Moebius is a cross-chain oracle that bridges on-chain Ethereum data to Solana. As a use-case of Moebius, the team built Moebius-Uniswap that bridges Uniswap time-weighted average prices to Solana, allowing Solana-based apps to access Uniswap prices.</p><ul><li>Follow Moebius on Twitter</li><li><a href=\"https://github.com/roynalnaruto/moebius?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Moebius’ GitHub Repository</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9644d3ca5d38486a8cd91067c9924d05",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe src=\"https://www.youtube.com/embed/7qNSjpNDjN0?feature=oembed\" width=\"700\" height=\"393\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fb4d33337cbc473b84aad19dc7477940",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Solanaroll</strong></p><p>Solanaroll is a fast, inexpensive dice game with a user-funded pooled treasury. The dice game is provably fair and has a 1% house edge.</p><ul><li>Follow Solanaroll on Twitter</li><li><a href=\"https://github.com/turnyay/solanaroll?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solanaroll’s GitHub Repository</a></li><li>Try the game&nbsp;<a href=\"https://www.solanaroll.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></li></ul><p><strong>Nebula Wallet</strong></p><p>Nebula is a wallet and name service for Solana accounts and tokens. The wallet includes basic functionalities like sending Sol/Tokens, creating your own SPL tokens, and minting/freezing token contracts. Tokens can also be registered in a name service by the minter of the token.</p><ul><li>Follow Nebula on Twitter</li><li><a href=\"https://github.com/Nebula-Wallet?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Nebula Wallet’s GitHub Repository</a></li><li>Try the wallet&nbsp;<a href=\"https://nebulawallet.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></li></ul><p>Congratulations again to all the hackers and winners! If you are interested in continuing to develop on Solana, the Foundation is always looking for talented teams to fund through the&nbsp;<a href=\"https://solana.com/grants?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Grants Program</a>. There are several future hackathons already planned through 2021, so sign up for the newsletter, follow Solana on Twitter, and stay tuned for upcoming announcements!</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockfolio</a></p><p>Solana Foundation grants are given without consideration of legal viability for the proposed project or endeavor. The Solana Foundation does not encourage, induce or sanction the use of any software application in violation of applicable laws and regulations by offering grants to companies, projects, or individuals, and does not endorse any project or product created by a grant recipient. All grant recipients must comply with applicable laws and regulations when releasing any software that they develop while using proceeds from their Solana Foundation grants or in relation thereof.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdef13a8ec45f47e6ac897eac0d4a3f41",
+  "lastUpdated": 1696416552799,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3bc440fd2fe4414f93bd4612db981901",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687592790954,
+  "@originId": "3bc440fd2fe4414f93bd4612db981901",
+  "testRatio": 1,
+  "createdDate": 1687362657704,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=3bc440fd2fe4414f93bd4612db981901&builder.overrides.3bc440fd2fe4414f93bd4612db981901=3bc440fd2fe4414f93bd4612db981901&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Announcing the Winners of Solana’s Inaugural Hackathon",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

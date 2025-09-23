@@ -1,0 +1,576 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/evm-to-svm",
+  "data": {
+    "datePublished": 1713283200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F46b339797f274b5ab7afed94f110bb84",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Everything developers need to know to start their Solana journey\n",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F46b339797f274b5ab7afed94f110bb84",
+      "seoDescription": "Everything developers need to know to start their Solana journey\n",
+      "seoTitle": "Moving from Ethereum Development to Solana"
+    },
+    "title": "Moving from Ethereum Development to Solana",
+    "slug": "evm-to-svm",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-565510a5226d4225bd0500abf3409f07",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4125284bf132403bb6d3d24ddaf2552d",
+            "meta": {
+              "previousId": "builder-352a6a2ee7884de89bfa0f2d371716b1"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Making the move from EVM to SVM (Solana) requires understanding several key differences between the virtual machines. This article will walk through several of those differences, including accounts, fees, transactions, smart contracts (programs), and more. It will also explore developer setup including tooling and SDKs.&nbsp;</p><p>By the end, developers will have the knowledge needed to start their Solana journey.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-352a6a2ee7884de89bfa0f2d371716b1",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Understanding the Core Differences&nbsp;</h2><p>To start, let’s look at the most significant difference between EVM and SVM—the account model design.</p><h3>Account Model</h3><p>Unlike Ethereum, Solana was designed to take advantage of multiple cores and support parallel <a href=\"https://solana.com/docs/core/transactions\" rel=\"noopener noreferrer\" target=\"_blank\">transactions</a>. To achieve this, Solana uses an account model.</p><p>An <a href=\"https://solana.com/developers/evm-to-svm/accounts\" rel=\"noopener noreferrer\" target=\"_blank\">account</a> on Solana is a record in the Solana ledger that either holds data (a data account) or is an executable program (a smart contract or <a href=\"https://solana.com/developers/evm-to-svm/smart-contracts\" rel=\"noopener noreferrer\" target=\"_blank\"><em>program</em></a> on Solana).&nbsp;</p><p>Like Ethereum, each account has an address identifier. However, unlike Ethereum—where each smart contract is an account with the execution logic and storage tied together—Solana’s smart contracts are entirely stateless. State must be passed to accounts for them to execute on.</p><p>Let’s look at a code example. In the Solidity code below, state is tied to the smart contract with the line <code>int private count = 0.</code></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d6bc7586e8784faf97b1647b2af7c298",
+            "component": {
+              "name": "Code Block",
+              "options": {
+                "code": "contract Counter {\n  int private count = 0;\n  function incrementCounter() public\n    { count += 1;\n    }\n  function getCount() public constant returns (int) {\n    return count;\n  }\n}",
+                "language": "solidity"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1a50eb376c644a09ac4a3e9938edfc08",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  With Rust (Solana) there is a struct within the smart contract stating\n  initialize_counter. This initial counter creates an account with a count of 0.\n  The account is passed to this counter to increment the count. This keeps state\n  from being kept within the smart contract itself.\n</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e762e141a954453186cb061414ac1154",
+            "component": {
+              "name": "Code Block",
+              "options": {
+                "code": "#[program]\npub mod counter_anchor {\n  use super::*;\n\n  pub fn initialize_counter(_ctx: Context<InitializeCounter>) -> Result<()> {\n    Ok(())\n  }\n\n  pub fn increment(ctx: Context<Increment>) -> Result<()> {\n  ctx.accounts.counter.count = ctx.accounts.counter.count.checked_add(1).unwrap();\n    Ok(())\n  }\n}\n\n#[derive(Accounts)]\npub struct InitializeCounter<'info> {\n  #[account(mut)]\n  pub payer: Signer<'info>,\n  #[account(\n    init,\n    space = 8 + Counter::INIT_SPACE,\n    payer = payer\n    )]\n  pub counter: Account<'info, Counter>,\n  pub system_program: Program<'info, System>,\n}\n\n#[derive(Accounts)]\npub struct Increment<'info> {\n  #[account(mut)]\n  pub counter: Account<'info, Counter>,\n}\n\n#[account]\n#[derive(InitSpace)]\npub struct Counter {\n  count: u64,\n}\n",
+                "language": "rust"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-947801ab073a4a6a9f70452a44629ed4",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>With Solana, data is stored in separate accounts outside of the program. To execute the logic in a program, pass the account to be performed on.&nbsp;</p><p>In the case of this counter program, pass a counter account to the program when calling the increment function, and the program then increments the value in the counter account.</p><h3>Benefits of the Account Model Design</h3><p>One of the primary benefits of this account model is program reusability.&nbsp;</p><p>With the ERC20 interface on Ethereum, every time a developer creates a new token, they must redeploy the ERC20 smart contract to Ethereum with its specified values. This redeployment incurs a high cost.</p><p>But with Solana, it’s not necessary to create and deploy a new smart contract in order to create a new token. Instead, create a new account, known as the mint account, using the <a href=\"https://spl.solana.com/token\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Token Program</a>, passing details such as number of tokens, decimal points, who can mint, and more.</p><p>And this can be done by simply sending a transaction to the Token Program. Using the Solana Program Library CLI, for example, it’s just a single command:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-44932d947c944b259f331426b95706b5",
+            "component": {
+              "name": "Code Block",
+              "options": {
+                "code": "$ spl-token create-token",
+                "language": "rust"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bf8fa85624aa44f5bb44a8dbd3bd5384",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Local Fee Markets</h3><p>Another benefit of the account model is that fee markets are local per account.&nbsp;</p><p>On Ethereum, fee markets are global. If an NFT collection goes viral and everyone is minting—fees go up for everyone. But on Solana, since fee markets are local per account, only people minting that NFT collection pay the elevated fees. Users not participating are unaffected.</p><h3>Fees</h3><p>Let’s dive deeper into fees. On Solana, fees are broken into three categories: base fee, priority fee, and rent. Let’s look at each.</p><ul><li>The <a href=\"https://solana.com/docs/intro/transaction_fees\" rel=\"noopener noreferrer\" target=\"_blank\">base fee</a> is calculated based on the number of signatures in a transaction. Each signature costs 5000 lamports (0.000000001 sol = 1 lamport). If a transaction has 5 signatures, the base fee is 25000 lamports.&nbsp;</li><li>The <a href=\"https://solana.com/docs/intro/transaction_fees#:~:text=from%20the%20RPC.-,Prioritization,-fee%20%23\" rel=\"noopener noreferrer\" target=\"_blank\">priority fee</a> is an optional fee that can be added to a transaction to give it priority. This fee is based on the amount of compute units used in the transaction. Similar to Ethereum gas, this fee is a simple measurement of computing resources required for the transaction.&nbsp;</li><li>The final fee, <a href=\"https://solana.com/docs/intro/rent\" rel=\"noopener noreferrer\" target=\"_blank\">rent</a>, is more like a deposit. When developers create accounts or allocate space on the network, they must deposit SOL for the network to keep their account. Rent is calculated based on the number of bytes stored on the network, and an additional base fee is charged for allocating space.&nbsp;</li></ul><h3>Transactions</h3><p>On Solana, program execution begins with a <a href=\"https://solana.com/docs/core/transactions\" rel=\"noopener noreferrer\" target=\"_blank\">transaction</a> being submitted to the cluster. Each transaction on Solana consists of four parts:</p><ol><li>One or more <a href=\"https://solana.com/docs/terminology#instruction\" rel=\"noopener noreferrer\" target=\"_blank\">instructions</a>. Instructions are the smallest execution logic on Solana. They can be thought of like function calls on an Ethereum smart contract. They invoke programs that make calls to the Solana runtime to update the state (for example, calling the token program to transfer tokens from one account to another).</li><li>An array of accounts to read or write from</li><li>One or more <a href=\"https://solana.com/docs/terminology#signature\" rel=\"noopener noreferrer\" target=\"_blank\">signatures</a></li><li>A recent blockhash or nonce. Instead of using an incremental nonce as on Ethereum, on Solana a recent blockhash is pulled from the cluster. With this blockhash, the transaction is only valid for 150 blocks, preventing long-living transaction signatures from being executed at a much later date.</li></ol><p>One other significant difference between Ethereum and Solana is that with Solana, transactions can have multiple instructions (function calls on Ethereum). This means it’s not necessary to create custom smart contracts to chain functions in a single transaction. Each instruction can be a separate function call, done in order in the transaction. Transactions are also atomic: if an instruction fails, the entire transaction will fail.</p><h3><strong>Transaction Limitations</strong></h3><p>Like with Ethereum gas limitations, there are compute unit limitations on Solana transactions.&nbsp;</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1aaeeb64762944dba4c65293e987f04c",
+            "meta": {
+              "previousId": "builder-4f3431e74aee4677aa1bd2c9d8e656e8"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<style type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .gray{\n      background-color: #424242;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n</style>\n<table class=\"custom\">\n  <thead>\n    <tr>\n      <td></td>\n      <td>Ethereum</td>\n      <td>Solana</td>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Single Transaction Compute Cap</td>\n      <td>30,000,000</td>\n      <td>1,400,000 Compute Units</td>\n    </tr>\n    <tr>\n      <td>Block Compute Cap</td>\n      <td>30,000,000 Gas</td>\n      <td>48,000,000 Compute Unit</td>\n    </tr>\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingRight": "50px",
+                "paddingLeft": "50px",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0fdda86cecbc4d559f531037a66ff935",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Other limitations include:</p><ul><li>Each account referenced may be at most 12,000,000 compute units used per block.</li><li>Instructions can only be called at a depth of 4 before the transaction reverts.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-05c1836bbfb342b3be2fd20519c49165",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Mempool</h2><p>Unlike Ethereum, Solana does not have mempools. Solana validators instead <a href=\"https://solana.com/docs/core/transactions/retry#:~:text=The%20Journey%20of%20a%20Transaction%20%23\" rel=\"noopener noreferrer\" target=\"_blank\">forward all transactions</a> to up to four leaders on the leader schedule. Not having a mempool forces the transactions to hop from leader to leader until blockhash expiration, but it also reduces the overhead of gossip across the cluster.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-db3a084bb07f49ce9064573cc0d120d9",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>The Solana Developer Environment</h2><p>Now let’s look at some of the developer tools on Solana.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1d9fcdf3ec664939b99411dd865cbcb7",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03f4e5e0cb8f43cabfb3104d213beba5?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.647,
+                "lockAspectRatio": false,
+                "height": 1035,
+                "width": 1600,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03f4e5e0cb8f43cabfb3104d213beba5?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03f4e5e0cb8f43cabfb3104d213beba5?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03f4e5e0cb8f43cabfb3104d213beba5?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03f4e5e0cb8f43cabfb3104d213beba5?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03f4e5e0cb8f43cabfb3104d213beba5?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03f4e5e0cb8f43cabfb3104d213beba5?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03f4e5e0cb8f43cabfb3104d213beba5?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03f4e5e0cb8f43cabfb3104d213beba5?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03f4e5e0cb8f43cabfb3104d213beba5?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03f4e5e0cb8f43cabfb3104d213beba5?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-776eef93e92a4220af7849f6b26fff01",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Programming Languages</h3><p>While Ethereum primarily uses Solidity for writing smart contracts, Solana uses <a href=\"https://solana.com/docs/programs/lang-rust\" rel=\"noopener noreferrer\" target=\"_blank\">Rust</a>. If moving from Ethereum, consider the <a href=\"https://www.anchor-lang.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Anchor framework</a> or <a href=\"https://neonevm.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Neon</a>, both of which can help developers get started faster by allowing them to build in Solana using familiar EVM tools.&nbsp;</p><p>Like Ethereum, there are <a href=\"https://solana.com/docs/clients/rust\" rel=\"noopener noreferrer\" target=\"_blank\">client-side SDKs available</a> for many of the most popular programming languages, including <a href=\"https://github.com/solana-labs/solana-web3.js\" rel=\"noopener noreferrer\" target=\"_blank\">JavaScript</a>, <a href=\"https://github.com/michaelhly/solana-py\" rel=\"noopener noreferrer\" target=\"_blank\">Python</a>, and <a href=\"https://github.com/skynetcap/solanaj\" rel=\"noopener noreferrer\" target=\"_blank\">Java</a>.</p><h3>Developer Tooling</h3><p>Solana does not currently have an equivalent to Foundry, but it does have a wide set of tools equivalent to those used for Solidity.&nbsp;</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6886a603e8d24e2db5ee64af126afbc6",
+            "meta": {
+              "previousId": "builder-4f3431e74aee4677aa1bd2c9d8e656e8"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<style type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .gray{\n      background-color: #424242;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n</style>\n<table class=\"custom\">\n  <thead>\n    <tr>\n      <td>Tool</td>\n      <td>Solana Equivalent</td>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>\n        Hardhat\n      </td>\n      <td><a href=\"https://docs.solana.com/developing/test-validator\">Solana Test Validator</a></td>\n    </tr>\n    <tr>\n      <td>\n        Brownie\n      </td>\n      <td><a href=\"https://docs.rs/solana-program-test/latest/solana_program_test/\">Program-test</a>, <br><a href=\"https://kevinheavey.github.io/solana-bankrun/\">BankRun.js</a></td>\n    </tr>\n    <tr>\n      <td>\n       Ethers, Wagmi\n      </td>\n      <td><a href=\"https://www.npmjs.com/package/@solana/web3.js\">@solana/web.js</a></td>\n    </tr>\n    <tr>\n      <td>\n      Remix\n      </td>\n      <td><a href=\"https://beta.solpg.io/\">Solana Playground</a></td>\n    </tr>\n    <tr>\n      <td>\n        ABI\n      </td>\n      <td>Anchor Framework's IDL</td>\n    </tr>\n    <tr>\n      <td>Etherscan</td>\n      <td><a href=\"https://solana.fm/\">SolanaFM</a>, <br><a href=\"https://xray.helius.xyz/\">XRay</a></td>\n    </tr>\n    <tr>\n      <td>scaffold-eth</td>\n      <td><a href=\"https://github.com/solana-developers/create-solana-dapp\">create-solana-dapp</a></td>\n    </tr>\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingRight": "50px",
+                "paddingLeft": "50px",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9451b1762d9e45acad9eaee3863b2711",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>For a deeper dive, here is a <a href=\"https://solana.com/developers\" rel=\"noopener noreferrer\" target=\"_blank\">broader list of developer resources</a>.</p><h3>Creating Smart Contracts</h3><p>When creating programs on Solana (or when migrating existing Ethereum smart contracts) there are several core differences—too many to cover here. But let’s look at a few of the most common:</p><ul><li>Mapping does not directly exist on Solana. Instead, use <a href=\"https://solanacookbook.com/core-concepts/pdas.html#facts\" rel=\"noopener noreferrer\" target=\"_blank\">program-derived addresses</a>. Like mapping, program-derived addresses give the ability to create a map from a key or account to a value stored on-chain.</li><li>On Solana, programs are default upgradable. A smart contract can be upgraded by a simple CLI command <code>solana program deploy &lt;program_filepath&gt;.</code></li><li>When writing a solidity smart contract, it’s common to check for either <code>msg.sender</code> or <code>tx.origin</code>. There is no equivalent to this on Solana. Each transaction can have multiple signers, and the person sending the transaction is not necessarily the one who signed the transaction.</li></ul><p>For more information on programs and how to deploy, <a href=\"https://solana.com/developers/evm-to-svm/smart-contracts\" rel=\"noopener noreferrer\" target=\"_blank\">check out this guide</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6bae6aa985ea48bea34e4dcd8ca252ef",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Learn More</h2><p>Those are some of the most critical differences between developing on Ethereum and Solana. There is much more to learn, of course. And the best way to get started is to jump right in! Here are a few resources for next steps:</p><ul><li><a href=\"https://beta.solpg.io/\" rel=\"noopener noreferrer\" target=\"_blank\">The Solana Playground</a> where developers can write, build, and deploy Solana programs from the browser</li><li><a href=\"https://solana.com/developers/guides/getstarted/hello-world-in-your-browser\" rel=\"noopener noreferrer\" target=\"_blank\">An intro to Solana development</a> using the Solana Playground</li><li>A more detailed look at the differences <a href=\"https://solana.com/developers/evm-to-svm/complete-guide\" rel=\"noopener noreferrer\" target=\"_blank\">between developing on Ethereum and Solana</a>&nbsp;</li><li>The <a href=\"https://www.youtube.com/watch?v=0P8JeL3TURU\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Bootcamp</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fbaf649dc32b42629bfafdb27deccc32",
+            "meta": {
+              "previousId": "builder-94bb68afefb64fee95700bc354ac6c74"
+            },
+            "component": {
+              "name": "Heading",
+              "options": {
+                "eyebrow": "",
+                "headline": "Learn from Solana Developers",
+                "body": "",
+                "variant": "standard"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginBottom": "-90px"
+              },
+              "medium": {
+                "marginBottom": "-45px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ff55d33249cd41488feffe27cf2c4a6a",
+            "meta": {
+              "previousId": "builder-d859d6ed10ea4df8be20bcfeeeefb904"
+            },
+            "component": {
+              "name": "Card Deck",
+              "options": {
+                "cards": [
+                  {
+                    "type": "image",
+                    "heading": "Intro to Solana Development",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Development Course",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://www.soldev.app/course",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Bootcamp",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "More Solana Developer Tools",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  }
+                ],
+                "featured": true,
+                "numCols": 3
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1a62781cf22340c086b54c35b9252c46",
+  "lastUpdated": 1713298448487,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_847431981d514939a558cca7aedc1909",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1713298448450,
+  "@originId": "847431981d514939a558cca7aedc1909",
+  "testRatio": 1,
+  "createdDate": 1713287369743,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/evm-to-svm?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=847431981d514939a558cca7aedc1909&builder.overrides.847431981d514939a558cca7aedc1909=847431981d514939a558cca7aedc1909&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Heading": 1,
+      "Code Block": 3,
+      "Copy": 11,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Moving from Ethereum Development to Solana",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

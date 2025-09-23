@@ -1,0 +1,377 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://builder-staging.solana.com/news/pyusd-paypal-solana-developer",
+  "data": {
+    "datePublished": 1716987900000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2161c7f0b6ac4671921709ca03691765",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "PayPal USD (PYUSD), a fully backed, regulated stablecoin pegged 1:1 to the US dollar, is now on Solana, combining PayPal's payment expertise with Solana's speed, security, and cost-effectiveness for near-instant global settlements and low-cost transactions.",
+    "seo": {
+      "seoDescription": "PayPal USD (PYUSD), a fully backed, regulated stablecoin pegged 1:1 to the US dollar, is now on Solana, combining PayPal's payment expertise with Solana's speed, security, and cost-effectiveness for near-instant global settlements and low-cost transactions.",
+      "seoTitle": "A Technical Deep Dive into PYUSD on Solana",
+      "noIndex": true
+    },
+    "title": "A Technical Deep Dive into PYUSD on Solana",
+    "slug": "pyusd-paypal-solana-developer",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-0ce17101bca54c748c476378c1436023",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-03173d2dca594c14bbce6faf6f273ac3",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The issues with legacy payment rails are well-known. They tend to be slow and expensive, involve too many intermediaries, require complicated arrangements such as pre-funding and liquidity requirements, and exclude the unbanked around the world. These faults are only exacerbated with cross-border transactions.&nbsp;</p><p>PayPal USD (PYUSD) is a stablecoin that combines the payments expertise of PayPal with the technical expertise of the Solana blockchain. Previously only available on Ethereum, PYUSD has now expanded to Solana where it can settle near-instantly, is highly cost-efficient, truly global, and is available 24/7.</p><p>PYUSD is issued by Paxos Trust Company, a fully chartered, limited purpose trust company r<em>egulated by the New York State Department of Financial Services (</em><a href=\"https://www.dfs.ny.gov/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>NYDFS</em></a><em>) </em>. PYUSD is 100% backed by high-quality liquid assets and is redeemable 1:1 via PayPal with the US dollar. PYUSD transactions are subject to regular audits and daily attestations including the <a href=\"https://paxos.com/pyusd-transparency/\" rel=\"noopener noreferrer\" target=\"_blank\">publication of monthly third-party attestation reports</a>, and get support from PayPal’s <a href=\"https://www.worldbank.org/en/news/press-release/2023/12/18/remittance-flows-grow-2023-slower-pace-migration-development-brief\" rel=\"noopener noreferrer\" target=\"_blank\">reporting</a>, fraud avoidance, and consumer protection tools.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ce46fef0f2524cf6ace514e6c2d94305",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>PYUSD Use Cases&nbsp;</h2><p>Because PYUSD on Solana is fast, cheap, and global, it enables new payments use cases that legacy systems can’t support, such as:</p><ul><li>Near-instant cross-border P2P payments - Consumers can send PYUSD to eligible persons worldwide with a Solana wallet, and the transfer settles near-instantly and for negligible cost.&nbsp;</li><li>Cost-effective B2B transfers - With the open nature of PYUSD, businesses can build services to create near-instant, cost-effective transfers seamlessly across borders.</li><li>Simplified global payouts - PYUSD simplifies global payouts, eliminating the complicated network of regional bank accounts, currencies, correspondent banking, and digital wallet rails.</li><li>Microtransactions - PYUSD on Solana enables merchant platforms to process or stream microtransactions in real time and at a low cost.&nbsp;</li></ul><p>Web3 payments - PYUSD gives Web3 merchants, such as NFT marketplaces and blockchain-based gaming platforms, digitally native currencies that connect to traditional fiat bank accounts.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-16c23de9b1d34913a190acdea70af9c4",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Where to Build with PYUSD</h2><p>PYUSD is available on major Solana wallets and exchanges, including wallets such as <a href=\"https://phantom.app/\" rel=\"noopener noreferrer\" target=\"_blank\">Phantom</a> and centralized exchanges such as Crypto.com. PYUSD is also available for eligible persons to buy, sell, and use within the PayPal ecosystem itself, through PayPal and Venmo.&nbsp;</p><p>Developers can acquire test PYUSD on Solana on devnet <a href=\"https://faucet.paxos.com/\" rel=\"noopener noreferrer\" target=\"_blank\">through the PYUSD faucet</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "pointerEvents": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d294578dd72249e28ba3aff727b7dfa7",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Compliance in a box: Technical details of PYUSD on Solana</h2><p>PYUSD on Solana was created as a <a href=\"https://solana.com/docs/core/tokens\" rel=\"noopener noreferrer\" target=\"_blank\">fungible token</a> using <a href=\"https://solana.com/solutions/token-extensions\" rel=\"noopener noreferrer\" target=\"_blank\">token extensions</a> on Solana (TEs) — a token standard and set of extensions that offer out-of-the-box compliance frameworks. TEs are a program adhering to the SPL token standard, which provides <a href=\"https://spl.solana.com/token-2022/extensions#extensions\" rel=\"noopener noreferrer\" target=\"_blank\">more than a dozen audited extensions</a> used to customize tokens.&nbsp;</p><p>Using TEs as the core architecture of PYUSD brings many benefits, including:&nbsp;</p><ul><li>Reduced Development and Testing: Because TEs are reusable standards, they significantly reduce the time required to develop and test apps.</li><li>Enterprise Ready: TEs are plug-and-play ready. They offer a fast, reliable, and proven path to adding blockchain and PYUSD to apps.</li><li>Flexibility: TEs are an open standard that allows PYUSD to be integrated and used not only in the PayPal ecosystem, but outside of PayPal with any compatible wallet, exchange, or library.</li></ul><p>Because PYUSD was built on the open standards of TEs, developers can freely include PYUSD in their apps, experiment with PYUSD, and build on top of PYUSD as needed. </p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4b59bd8ba21c47699ecbe9eeb830fd9e",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>PYUSD and token extensions</h3><p>PYUSD implements several mint extensions. By design, mint extensions must be initialized upon token creation. Token creators can configure extensions after token creation, but token creators cannot add new extensions. Because of this requirement, several extensions have been initialized for PYUSD, but not all of them may be used.</p><ul><li>Confidential transfers: allows merchants to provide confidentiality for transaction amounts to their consumers while maintaining visibility for regulatory purposes. (Note: This has not yet been enabled on Solana.)</li><li>Transfer hook: allows calling specific programs with each token transfer, enabling fine grained controls over how wallets can interact with the asset. As with transfer fees, this is initialized for potential future use but is currently initialized with a null program ID.</li><li>Permanent delegate: allows specifying a permanent delegate for a mint. This delegate has unlimited delegate privileges over any account for that mint, which means that it can burn or transfer any amount of tokens. This extension is critical for regulatory purposes, as it allows for seizing funds as required for compliance.</li><li>Metadata and metadata pointer: allows token creators to designate an address that describes the canonical (official) metadata for the token. This is used to store the name, ticker, and image in a standard manner.</li><li>Mint close authority: allows owners to close mint accounts and reclaim the <a href=\"https://docs.solana.com/terminology#lamport\" rel=\"noopener noreferrer\" target=\"_blank\">lamports</a> on the mint account. Although this may never be needed, it has been initialized in case it is needed in the future.</li></ul><p>Transfer fees: allows transfer fees to be withheld on each transfer, that can be claimed by a defined account. This is included as a fail-safe and initialized to 0.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bb1e193de1ad49a3b3694e0abf625b6a",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2><strong>Integrating PYUSD</strong></h2><p>The PYUSD Mint Address is:</p><p><code><strong>2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo</strong></code></p><p>This address uniquely identifies the PYUSD token on the Solana network and should be used to integrate PYUSD into your application. You can inspect the details of the mint account on the <a href=\"https://explorer.solana.com/address/2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Explorer</a>.</p><p>To learn more about how tokens are represented on the Solana network, visit the <a href=\"https://solana.com/docs/core/tokens\" rel=\"noopener noreferrer\" target=\"_blank\">Tokens on Solana</a> section of the documentation.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1e1bdff9bb604ceca0ce8ab385db15fb",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Learn more</h2><p>PYUSD, an open, fully backed stablecoin pegged 1:1 to the US dollar, is now available on Solana. Combined with the speed, cost-effectiveness, and security of Solana, PYUSD enables a new set of payments use cases.&nbsp;</p><p>Start building with Solana and PYUSD today. Request test PYUSD from the <a href=\"https://faucet.paxos.com/\" rel=\"noopener noreferrer\" target=\"_blank\">devnet faucet</a>, <a href=\"https://solana.com/solutions/token-extensions\" rel=\"noopener noreferrer\" target=\"_blank\">learn more about TEs</a>, and check out the PYUSD <a href=\"https://developer.paypal.com/community/blog/pyusd-quick-start-guide\" rel=\"noopener noreferrer\" target=\"_blank\">quick start guide</a>.</p><p>Check out the PYUSD on Solana | Developer Workshop.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f29c7fb7c8964c8ea5ab10a31c78e6b7",
+            "component": {
+              "name": "Youtube",
+              "options": {
+                "url": "https://youtu.be/Uc9zvaerY_o?feature=shared"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "pointerEvents": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dcc54d655e784816b8915671d6512396",
+            "meta": {
+              "previousId": "builder-6f59bba8679a4964851e289e7c728f7c"
+            },
+            "component": {
+              "name": "Section Molecule",
+              "options": {
+                "noPadding": "none"
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-ffa7a5a85d434427ae77f8891cd2825d",
+                "meta": {
+                  "previousId": "builder-9f87e61408ee49a0a8e20121c3565368"
+                },
+                "component": {
+                  "name": "Heading",
+                  "options": {
+                    "eyebrow": "",
+                    "headline": "Learn from Solana Developers",
+                    "body": "",
+                    "variant": "standard"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginBottom": "-90px"
+                  },
+                  "medium": {
+                    "marginBottom": "-45px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-25cf79968caa4bdb8504a419de7e50cc",
+                "meta": {
+                  "previousId": "builder-8a9542e00d124a0f9077761f0208fcfa"
+                },
+                "component": {
+                  "name": "Card Deck",
+                  "options": {
+                    "cards": [
+                      {
+                        "type": "image",
+                        "heading": "Intro to Solana Development",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      },
+                      {
+                        "type": "image",
+                        "heading": "Solana Development Course",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "https://www.soldev.app/course",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      },
+                      {
+                        "type": "image",
+                        "heading": "Solana Bootcamp",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      },
+                      {
+                        "type": "image",
+                        "heading": "More Solana Developer Tools",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "/developers",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      }
+                    ],
+                    "featured": true,
+                    "numCols": 3
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3a02063d24114cfdada506e961a2a0dc",
+  "lastUpdated": 1716990047952,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e62554d4c7bc42ff8e14f96f14a6bb43",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1716952554254,
+  "@originId": "e62554d4c7bc42ff8e14f96f14a6bb43",
+  "testRatio": 1,
+  "createdDate": 1716928121096,
+  "createdBy": "5PSTmJLAHchUsob0CuomAiRxqwH3",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://builder-staging.solana.com/news/pyusd-paypal-solana-developer?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_e62554d4c7bc42ff8e14f96f14a6bb43&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_e62554d4c7bc42ff8e14f96f14a6bb43=983ae1dad0ba4ca4ac6dd4ac310edee1_e62554d4c7bc42ff8e14f96f14a6bb43&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Heading": 1,
+      "Copy": 7,
+      "Youtube": 1,
+      "Section Molecule": 2
+    },
+    "hasLinks": false
+  },
+  "name": "A Technical Deep Dive into PYUSD on Solana",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

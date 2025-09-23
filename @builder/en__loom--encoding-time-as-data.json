@@ -1,0 +1,193 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "image": "",
+    "inputs": [],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "title": "Loom, Encoding Time as Data",
+    "twitterMeta": {
+      "twitterTitle": "Loom, Encoding Time as Data",
+      "twitterImage": null,
+      "twitterDescription": "\nA new approach to scaling blockchain\n"
+    },
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f7eb7b2117214a3d93bfe643270da5f2"
+        }
+      }
+    ],
+    "datePublished": 1609401600000,
+    "intro": "\nA new approach to scaling blockchain\n",
+    "publishedDate": "Thu Dec 31 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "openGraph": {
+      "ogTitle": "Loom, Encoding Time as Data",
+      "ogUrl": "https://www.solana.com/blog/loom--encoding-time-as-data",
+      "ogDescription": "\nA new approach to scaling blockchain\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Loom, Encoding Time as Data",
+      "noFollow": false,
+      "seoDescription": "\nA new approach to scaling blockchain\n",
+      "seoTitle": "Loom, Encoding Time as Data",
+      "noIndex": false
+    },
+    "slug": "loom--encoding-time-as-data",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-3ff54eb7bac54520ab1b05c724890aac",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4cca6a9475f745c69eac0ba685e8a0a4",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>A new approach to scaling blockchain</strong></h3><h3><strong>Disclaimer</strong></h3><p>All claims and content in this article are done with the author’s best effort. It is up to the reader to check and validate their accuracy and truthfulness. Furthermore nothing in this article constitutes a solicitation for investment.</p><h3><strong>Loom, Encoding Time as&nbsp;Data</strong></h3><p>Scaling blockchain is a hard problem. Not only is scaling throughput hard, but any high performance blockchain has to deal with an ever increasing mountain of data. Scaling bitcoin to just 25,000 transactions per second would create a petabyte of data each year.</p><p>We solve both of the problems by solving for time. The key innovation proposed by Loom is&nbsp;<strong>Proof of History </strong>— encoding passage of time as data into the ledger. Loom uses strong assumption of time to construct simpler and more efficient consensus and storage protocols.</p><p>Bitcoin and Proof of Work ledgers are a data structure that requires a lot of electricity to reproduce. You can look at the data and know how many terawatts of power was used to create it. When you look at a Proof of History ledger, you know how much time has been spent in producing it.</p><p>Bitcoin is also a historical record of sorts, people have built notarization services on top of it. You can take a document, hash it, and insert it into a block in the bitcoin blockchain, and it would require an attack on the entire bitcoin network to reverse that block. Since each bitcoin block is produced every 10 minutes you will always have “proof” of when your document was published.</p><p>A Proof of History ledger is a historical record that can record an event every microsecond. This record requires no trust, and can be cheaply and quickly verified by everyone in the world</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d491cd2aaa484242ae946db012f27e1b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78a574f53c134b6a8493615ffcd0b81b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.75,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 450,
+                "width": 600,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78a574f53c134b6a8493615ffcd0b81b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78a574f53c134b6a8493615ffcd0b81b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78a574f53c134b6a8493615ffcd0b81b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78a574f53c134b6a8493615ffcd0b81b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78a574f53c134b6a8493615ffcd0b81b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78a574f53c134b6a8493615ffcd0b81b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78a574f53c134b6a8493615ffcd0b81b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78a574f53c134b6a8493615ffcd0b81b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78a574f53c134b6a8493615ffcd0b81b?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "layerName": "Proof of&nbsp;HistoryProof of ...",
+            "id": "builder-3eb13ea173e343b3bf2db6667441f0dc",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Proof of&nbsp;History</p><p>Proof of History works by looping a cryptographic hash function like a sha256 over itself, taking its own output as the next input. The process generates a sample of the current output and the number of times it has been looped.</p><p>These samples of hashes are “ticks” of time in a Proof of History ledger. Only a single computer core can generate this data, but you can use many cores in parallel to verify. So a ledger with 1 second of ticks can be verified by a modern GPU in 0.25 milliseconds. By appending data to the state and recording it into the ledger we can guarantee that this data was created sometime before the next tick was generated.</p><p>For the entire network, and the entire world, we only need 1 single computer core to generate a Proof of History.</p><p>Loom has a theoretical max of&nbsp;<strong>710,000</strong>&nbsp;transactions per second on a 1 gigabit network without data partitioning, side chains, multi chains, shards etc..</p><p>Learn more about Loom checkout&nbsp;<a href=\"http://loomprotocol.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://loomprotocol.com</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8f119c9480464db8a6124c8236ea3ca4",
+  "lastUpdated": 1694189882378,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_033032c4762044379bd6a9f97cf0746a",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687369143977,
+  "@originId": "033032c4762044379bd6a9f97cf0746a",
+  "testRatio": 1,
+  "createdDate": 1687362751813,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=033032c4762044379bd6a9f97cf0746a&builder.overrides.033032c4762044379bd6a9f97cf0746a=033032c4762044379bd6a9f97cf0746a&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Loom, Encoding Time as Data",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "2oemt8k4o9i"
+}

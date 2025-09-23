@@ -1,0 +1,161 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1616655600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a6a27f25d1d4c6a8716e3fdfd94c735",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Block Dream Fund, the investment arm of the exchange OKEx, launched a strategic\ninvestment fund that will bring $20 million of new capital to accelerate the\ngrowth and development of key projects in the Solana ecosystem.\n\nBlock Dream Fund was established by theexchange OKEx in February. OKEx has\nallocated $100 million to the Block Dream Fund in a bid to empower talented\nentrepreneurs and exceptional projects innovating with blockchain technology.\n\nBlock Dream Fund is an investment institution un",
+    "publishedDate": "Thu Mar 25 2021 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Block Dream Fund launches 10m fund to support the Solana Ecosystem",
+      "noFollow": false,
+      "seoDescription": "Block Dream Fund, the investment arm of the exchange OKEx, launched a strategic\ninvestment fund that will bring $20 million of new capital to accelerate the\ngrowth and development of key projects in the Solana ecosystem.\n\nBlock Dream Fund was established by theexchange OKEx in February. OKEx has\nallocated $100 million to the Block Dream Fund in a bid to empower talented\nentrepreneurs and exceptional projects innovating with blockchain technology.\n\nBlock Dream Fund is an investment institution un",
+      "seoTitle": "Block Dream Fund launches 10m fund to support the Solana Ecosystem",
+      "noIndex": false
+    },
+    "title": "Block Dream Fund launches 10m fund to support the Solana Ecosystem",
+    "openGraph": {
+      "ogTitle": "Block Dream Fund launches 10m fund to support the Solana Ecosystem",
+      "ogUrl": "https://www.solana.com/blog/block-dream-fund-launches-10m-fund-to-support-the-solana-ecosystem",
+      "ogDescription": "Block Dream Fund, the investment arm of the exchange OKEx, launched a strategic\ninvestment fund that will bring $20 million of new capital to accelerate the\ngrowth and development of key projects in the Solana ecosystem.\n\nBlock Dream Fund was established by theexchange OKEx in February. OKEx has\nallocated $100 million to the Block Dream Fund in a bid to empower talented\nentrepreneurs and exceptional projects innovating with blockchain technology.\n\nBlock Dream Fund is an investment institution un",
+      "ogImage": "https://solana.ghost.io/content/images/2021/03/image--3--1.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Block Dream Fund launches 10m fund to support the Solana Ecosystem",
+      "twitterDescription": "Block Dream Fund, the investment arm of the exchange OKEx, launched a strategic\ninvestment fund that will bring $20 million of new capital to accelerate the\ngrowth and development of key projects in the Solana ecosystem.\n\nBlock Dream Fund was established by theexchange OKEx in February. OKEx has\nallocated $100 million to the Block Dream Fund in a bid to empower talented\nentrepreneurs and exceptional projects innovating with blockchain technology.\n\nBlock Dream Fund is an investment institution un",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/03/image--3--1.png"
+    },
+    "slug": "block-dream-fund-launches-10m-fund-to-support-the-solana-ecosystem",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-98d668e901b4491daac4123d0b4b21ce",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e0ad8c5abdf04bbaa47658e9d654b27e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F584a346a8b0b4cbe89013536340383e3?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.359,
+                "lockAspectRatio": false,
+                "height": 359,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F584a346a8b0b4cbe89013536340383e3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F584a346a8b0b4cbe89013536340383e3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F584a346a8b0b4cbe89013536340383e3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F584a346a8b0b4cbe89013536340383e3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F584a346a8b0b4cbe89013536340383e3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F584a346a8b0b4cbe89013536340383e3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F584a346a8b0b4cbe89013536340383e3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F584a346a8b0b4cbe89013536340383e3?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F584a346a8b0b4cbe89013536340383e3?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-50cdbfd92f0441d084623e8f25d2cb4b",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Block Dream Fund, the investment arm of the exchange OKEx, launched a strategic investment fund that will bring $20 million of new capital to accelerate the growth and development of key projects in the Solana ecosystem.</p><p>Block Dream Fund was established by theexchange OKEx in February. OKEx has allocated $100 million to the Block Dream Fund in a bid to empower talented entrepreneurs and exceptional projects innovating with blockchain technology.</p><p>Block Dream Fund is an investment institution under OKEx, focusing on exploring the best blockchain projects across the globe. It supports the most innovative early-stage blockchain projects. Block Dream Fund helps startups identify growth opportunities in new markets, and expand business operations to the asia-pacific region. As a global brand, Block Dream Fund’s media networks help startups discover new customers across the world.</p><p>“We are delighted to partner with Solana Foundation and look forward to working together to empower high-quality projects and accompany their development,” said Dora, the Founder of Block Dream Fund<strong>.&nbsp;</strong>“We will work together to expand the market size and user volume of the blockchain industry, and continue to create value. The Block Dream Fund looks forward to providing continued support to companies building on Solana.”</p><p>In the last month alone, over 50 market-ready projects launched on Solana. These included industry-leading DeFi applications, markets for NFTs, and infrastructure to support the next generation of Web 3 companies. Recent initiatives such as the Solana x Serum DeFi Hackathon saw 100+ project submissions from 3,000 builders, just as Raydium, an automated market maker (AMM) and liquidity provider built on the Solana blockchain for the Serum decentralized exchange (DEX),&nbsp;<a href=\"https://solana.blog/163-million-reasons-why-solanas-raydium-is-killing-it/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">surpassed</a>&nbsp;$160m total value locked, increasing more than 3000% in less than two months.</p><p>“The Solana ecosystem has grown multitudes in the past few months with the volume of projects and active developers skyrocketing quarter over quarter,” said Anatoly Yakovenko, President of the Solana Foundation. “We are tremendously excited to welcome our new strategic partner OKEx’s Block Dream Fund to the ecosystem and look forward to working alongside them to support the next wave of killer dApps, with their ongoing support.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fef4c6f6afddf4f6ea1cd5a14b79465fa",
+  "lastUpdated": 1694189896621,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_47aff63b266146ceb580c1c24959f368",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687601022315,
+  "@originId": "47aff63b266146ceb580c1c24959f368",
+  "testRatio": 1,
+  "createdDate": 1687362644109,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=47aff63b266146ceb580c1c24959f368&builder.overrides.47aff63b266146ceb580c1c24959f368=47aff63b266146ceb580c1c24959f368&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Block Dream Fund launches 10m fund to support the Solana Ecosystem",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

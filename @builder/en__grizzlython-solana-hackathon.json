@@ -1,0 +1,162 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1675324800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F53f1567ce205422fbf69d02133dbe3c4?format=webp",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Build through the bear for a chance to win $5 million in prizes and seed funding.",
+    "publishedDate": "Thu Feb 02 2023 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "openGraph": {
+      "ogTitle": "Welcome to Grizzlython, the next Solana Hackathon",
+      "ogDescription": "Build through the bear for a chance to win $5 million in prizes and seed funding.",
+      "ogImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F53f1567ce205422fbf69d02133dbe3c4?format=webp"
+    },
+    "title": "Welcome to Grizzlython, the next Solana Hackathon",
+    "seo": {
+      "internalName": "Welcome to Grizzlython, the next Solana Hackathon",
+      "seoDescription": "Build through the bear for a chance to win $5 million in prizes and seed funding.",
+      "seoTitle": "Welcome to Grizzlython, the next Solana Hackathon"
+    },
+    "twitterMeta": {
+      "twitterTitle": "Welcome to Grizzlython, the next Solana Hackathon",
+      "twitterDescription": "Build through the bear for a chance to win $5 million in prizes and seed funding.",
+      "twitterImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F53f1567ce205422fbf69d02133dbe3c4?format=webp"
+    },
+    "slug": "grizzlython-solana-hackathon",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-adc3493b7ff5471c882cf3989ed4e0de",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-60fb6504f7de40e7ba8750dcaaa97d94",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The bear is here. It’s time to fight back.</p><p>The Solana Foundation is excited to announce Grizzlython, an online, global Solana hackathon with $5 million in prizes and seed funding. Grizzlython, the seventh Solana hackathon, will run Feb. 2 - March 14, and is open to builders around the globe.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-af4f62236231486d85d02e2b833e8dd8",
+            "meta": {
+              "previousId": "builder-9794279d3d4d4d6aaf968474a244d11b"
+            },
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/watch?v=gjVwjISLPZo",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/gjVwjISLPZo?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-13865ba1b5c844b3baeb804fa675197b",
+            "meta": {
+              "previousId": "builder-60fb6504f7de40e7ba8750dcaaa97d94"
+            },
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana hackathons are competitions that enable members of the Solana community to bring their ideas to life and then to market. This sprint helps builders kickstart their projects and turn them into growing, fundable companies. The previous Solana Hackathon,&nbsp;<a href=\"https://solana.com/summercamp?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Summer Camp</a>, saw nearly 18,000 participants submit 750 projects. Cumulatively, Solana hackathon projects have raised over $600m in venture funding.</p><p>Builders will be able to participate in a full slate of Grizzlython programming, including office hours with the Solana Foundation Developer Relations Team, Solana Hacker Houses in&nbsp;<a href=\"https://solana.com/events/istanbulhh?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Istanbul</a>&nbsp;and&nbsp;<a href=\"https://solana.com/events/melbournehh?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Melbourne</a>, Twitter spaces, Twitch streams, and more. Participants will also be able to meet IRL at community-run coworking spaces in&nbsp;<a href=\"https://lu.ma/SolanaXMetacamp?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Singapore</a>,&nbsp;<a href=\"https://lu.ma/build-station-berlin?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Berlin</a>,&nbsp;<a href=\"https://qkcnv8w3wdg.typeform.com/to/mzeNTFkk?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Salt Lake City</a>,&nbsp;<a href=\"https://vn.superteam.fun/build-station?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ho Chi Minh City</a>,&nbsp;<a href=\"https://superteam.fun/solana-buildstation-india?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bangalore</a>,&nbsp;<a href=\"https://superteam.fun/solana-buildstation-india?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Delhi</a>, and&nbsp;<a href=\"https://www.driftmesummercamp.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Melbourne</a>.</p><p>In addition to a competition-wide Grand Champion, Grizzlython will have prizes across seven different tracks that epitomize the growing Solana ecosystem — Mobile, DeFi, Payments, Web3 Consumer, Tools + Infrastructure, Gaming, and DAOs + Network States.</p><p>Projects will be eligible for:</p><ul><li><strong><u>The Grand Champion</u></strong>&nbsp;will receive $50,000 USDC, three passes to&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint 2023</a>, and the chance to present their projects to the greater Solana community.</li><li>Five prizes each in the&nbsp;<strong><u>Mobile, DeFi, Payments, Web3 Consumer, Tools + Infrastructure, Gaming, and DAOs + Network States tracks</u></strong>, ranging from $30,000 USDC to $10,000 USDC.</li><li><strong><u>The University Award,</u></strong>&nbsp;a $20,000 USDC prize presented to the best student team</li><li><strong><u>The Climate Award,</u></strong>&nbsp;promoting green and climate-friendly projects, will receive $5,000 USDC.</li><li>All prize winners will have the opportunity to present their project to potential investors at&nbsp;<strong><u>an exclusive Demo Day.</u></strong></li></ul><p><a href=\"https://solana.com/grizzlython?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Register and learn more here.</a></p><p>No purchase necessary to enter or win. Void where prohibited. Participants must be the age of majority in their state/country of residence or older.</p><p><a href=\"https://solana.com/hackathon-grizzlython-official-rules-2023.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SOLANA Foundation Hackathon Official Rules</a></p><p>The Solana Grizzlython Hackathon is a competition where projects will be evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon will create software solely for purposes of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon. All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon.</p><p>The developer resources that Solana Foundation (“SF”) provides are for educational and inspirational purposes only. SF does not encourage, induce or sanction the deployment of any such applications in violation of applicable laws or regulations. SF does not encourage, induce or sanction the deployment, integration or use of any such applications (including the code comprising the Solana blockchain protocol) in violation of applicable laws or regulations and hereby prohibits any such deployment, integration or use. This includes use of any such applications by the reader (a) in violation of export control or sanctions laws of the United States or any other applicable jurisdiction, (b) if the reader is located in or ordinarily resides in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC), (c) if the reader is or is working on behalf of a Specially Designated National (SDN) or is a person subject to similar blocking or denied party prohibitions, or (d) in violation of the Commodities and Exchange Act.</p><p><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe40503322bb34e088e0e24c741a5d412",
+  "lastUpdated": 1694189907268,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_8bb96d15d8944ff0bf911f469f45ba44",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1689338948061,
+  "@originId": "8bb96d15d8944ff0bf911f469f45ba44",
+  "testRatio": 1,
+  "createdDate": 1689338637381,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=8bb96d15d8944ff0bf911f469f45ba44&builder.overrides.8bb96d15d8944ff0bf911f469f45ba44=8bb96d15d8944ff0bf911f469f45ba44&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Welcome to Grizzlython, the next Solana Hackathon",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

@@ -1,0 +1,686 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1640160000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d276d9076da400b823a6b2224e8b104",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Look back on all the Solana ecosystem has accomplished in 2021.",
+    "publishedDate": "Wed Dec 22 2021 13:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Happy Solstice 2021! Celebrating Solana’s sunny year",
+      "ogUrl": "https://www.solana.com/blog/happy-solstice-2021-celebrating-solanas-sunny-year",
+      "ogDescription": "Look back on all the Solana ecosystem has accomplished in 2021.",
+      "ogImage": "https://solana.ghost.io/content/images/2021/12/solana-solstice-2021.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Happy Solstice 2021! Celebrating Solana’s sunny year",
+      "noFollow": false,
+      "seoDescription": "Look back on all the Solana ecosystem has accomplished in 2021.",
+      "seoTitle": "Happy Solstice 2021! Celebrating Solana’s sunny year",
+      "noIndex": false
+    },
+    "title": "Happy Solstice 2021! Celebrating Solana’s sunny year",
+    "twitterMeta": {
+      "twitterTitle": "Happy Solstice 2021! Celebrating Solana’s sunny year",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/12/solana-solstice-2021.png",
+      "twitterDescription": "Look back on all the Solana ecosystem has accomplished in 2021."
+    },
+    "slug": "happy-solstice-2021-celebrating-solanas-sunny-year",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c535077033a24eabaf1e7672a5047f7d"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-bcbe1f7d167045eeb226d6ad57a1de27",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2f8cd828cdea472b8dfc5086c48a877a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Happy Solstice! Let’s start partying.</p><p>As the Solana ecosystem celebrates the close of 2021, it’s a great time to look back and see just how far it’s come. It’s the Solana Solstice, after all — a chance to be grateful for all the progress that has been made, and all that’s coming up in the future.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8646db95f61d41508cff4b1bc8437c7b",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"100%\" height=\"55%\" src=\"https://www.youtube.com/embed/pk66JHNMfVY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e68d7e3b8c1c48a5a178ee90e309e505",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Here’s a look at some of the highlights of 2021.</p><h3><strong>January</strong></h3><p>As the new year rolled over, Solana was already showing some sparks for its amazing year. The global state machine, which was less than a year old, already had…</p><ul><li>10,000,000,000 total transactions</li><li>$100 million TVL</li><li>360 global validators</li><li>70 projects</li></ul><p>But the year was only just beginning. And there was much more to come.</p><h3><strong>February</strong></h3><p>February saw the start of some big moves.&nbsp;<a href=\"https://twitter.com/solana/status/1361276954830245893?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">The Solana DeFi hackathon went live</a>,&nbsp;<a href=\"https://solana.com/news/winners-of-the-solana-x-serum-defi-hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">launching 91 new projects</a>&nbsp;in the Solana ecosystem. The Serum-led hackathon led to Solana DeFi heavyweights&nbsp;<a href=\"https://twitter.com/mangomarkets?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Mango Markets</a>, a cross-margin trading platform, and&nbsp;<a href=\"https://twitter.com/PsyOptions?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">PsyOptions</a>, which brought American-style options to the blockchain.</p><p>The Solana validator community also voted for&nbsp;<a href=\"https://twitter.com/solana/status/1359644551456038912?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">staking rewards to go live on the Solana mainnet beta</a>. This allowed SOL holders to stake their tokens towards making the network more secure while also earning rewards.</p><h3><strong>March</strong></h3><p>March came in like a lion, and — for the Solana ecosystem, came out like one too! March saw three major projects sprout, just in time for spring: the launch of&nbsp;<a href=\"https://twitter.com/RaydiumProtocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">on-chain order book Raydium</a>&nbsp;and&nbsp;<a href=\"https://twitter.com/orca_so?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">user-friendly DEX Orca</a>, as well as the beta of easy-to-use wallet&nbsp;<a href=\"https://twitter.com/phantom?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Phantom</a>.</p><h3><strong>April</strong></h3><p>Wow! The total value of USDT and USDC on Solana passed $1 billion on April 20th, nearly doubling from $510 million on April 2nd, 18 days before.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dd65ca6a9835400aad5e649292c9bd73",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/solana/status/1384493030196060160?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1384493030196060160%7Ctwgr%5Ea09d678a96cc862ed9e66f705c1b4eebf66123c5%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fhappy-solstice-2021-celebrating-solanas-sunny-year</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8cc565a0263e4d16955e1de6321bc66a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>May</strong></h3><p>Things were looking bright in May — Solana Season finally arrived. The hackathon&nbsp;<a href=\"https://solana.com/news/announcing-winners-of-the-solana-season-hackathon?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">spurred the formation of 326 new projects</a>, supercharging the growth of the Solana ecosystem to new heights.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f1fa70de72fd42a9b000cf79dc8f5a18",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/solana/status/1387411221717176323?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1387411221717176323%7Ctwgr%5Ea09d678a96cc862ed9e66f705c1b4eebf66123c5%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fhappy-solstice-2021-celebrating-solanas-sunny-year</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-643fc019c9984ed58c2a3afc8e50526d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Some notable participants include&nbsp;<a href=\"https://twitter.com/ZetaMarkets?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Zeta</a>, an under-collateralized DeFi options platform,&nbsp;<a href=\"https://twitter.com/solendprotocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solend</a>, a decentralized protocol for lending and borrowing, and&nbsp;<a href=\"https://twitter.com/defi_land?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DeFiLand</a>, a multi-chain agriculture simulation that gamifies DeFi.</p><h3><strong>June</strong></h3><p>The Solana ecosystem was looking sunny, and the world started taking notice. Metaplex,&nbsp;<a href=\"https://twitter.com/metaplexNFT/status/1400120169578500096?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the open-source way to set up an NFT marketplace</a>, launched with the help of partners RAC, Street Dreams, and CryptoKickers.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f00fede1ba1b412a928d1a40879d3e06",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/metaplexNFT/status/1400120169578500096?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1400120169578500096%7Ctwgr%5Ea09d678a96cc862ed9e66f705c1b4eebf66123c5%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fhappy-solstice-2021-celebrating-solanas-sunny-year</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8359a60f9156480995273874d5db2e2c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://www.wsj.com/articles/crypto-startup-solana-raises-314-million-to-develop-faster-blockchain-11623240001?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 20px;\">Solana Labs raised more than $314 million</a><span style=\"font-size: 20px;\">&nbsp;in a funding round led by a16z — or, more accurately, raised pi multiplied by $100 million — to bring web3 to the masses.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-74241f7b1d214052b57fb273e539cd2a",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xPwXM1GcLGo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-20301c086dfb481dbcaa7e8fce64873f",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">The traditional finance world started taking notice as well. Solana co-founder&nbsp;</span><a href=\"https://www.cnbc.com/video/2021/06/14/solana-labs-ceo-discusses-faster-more-energy-efficient-blockchain.html?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 20px;\">Anatoly Yakovenko went on&nbsp;Mad Money</a><span style=\"font-size: 20px;\">&nbsp;to talk about the vision for Solana, and co-founder&nbsp;</span><a href=\"https://video.foxbusiness.com/v/6258410297001?ref=solana.ghost.io#sp=show-clips\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 20px;\">Raj Gokal joined Fox Business</a><span style=\"font-size: 20px;\">&nbsp;to explain just how fast transactions on Solana go.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0c0d685ae6f24808bc757bd948b40d12",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe\n  aria-label=\"MVPD Picker\"\n  src=\"//static.foxnews.com/static/orion/html/video/iframe/vod.html?v=20230626145140#uid=fnc-embed-1&amp;url=video.foxbusiness.com%2Fv%2Fvideo-embed.html\"\n  border=\"0\"\n  frameborder=\"0\"\n  allow=\"autoplay\"\n  scrolling=\"no\"\n  style=\"width: 100%; height: 1px; min-height: 100%;\"\n  referrerpolicy=\"no-referrer-when-downgrade\"\n  mozallowfullscreen=\"\"\n  webkitallowfullscreen=\"\"\n  allowfullscreen=\"\"\n></iframe>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b64b6f34b4e44f0fa6b9f6ceee3a24a7",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>July</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e19072e52d324c9ca14395ed04c9f973",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/rajgokal/status/1420918824686080004?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1420918824686080004%7Ctwgr%5Ea09d678a96cc862ed9e66f705c1b4eebf66123c5%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fhappy-solstice-2021-celebrating-solanas-sunny-year</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3ea8fc9553444250817632e3bf5decbe",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">Chicago, can you make some noise? Solana Summer really started up in earnest with Solana Labs’ collaboration with Lollapalooza. The massive music festival launched an NFT marketplace that allowed attendees to get a one of a kind NFT of the 1991 Lollapalooza poster.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a989e26f2a8c4b12899efc0f8d81ca94",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/lollapalooza/status/1420083394382376961?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1420083394382376961%7Ctwgr%5Ea09d678a96cc862ed9e66f705c1b4eebf66123c5%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fhappy-solstice-2021-celebrating-solanas-sunny-year</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3b977c6d0638463e9f9f69bd3b94bcc2",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://twitter.com/solana/status/1418602302697611265?s=20&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Stake pools also went live</a>&nbsp;on the Solana network. Learn more about how important they are to the future of Solana&nbsp;<a href=\"https://solana.com/news/talking-stake-pools-with-fp-vasiliy-shapovalov-and-ella-kuzmenko?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">in this episode of&nbsp;the Solana Podcast</a>.</p><h3><strong>August</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b381230d34254675931275dbf7b186ee",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/DegenApeAcademy/status/1426739821595172868?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1426739821595172868%7Ctwgr%5Ea09d678a96cc862ed9e66f705c1b4eebf66123c5%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fhappy-solstice-2021-celebrating-solanas-sunny-year</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e0a667ee26c14e7ea5714f9641b558c5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The dog days of Solana Summer saw a number of ecosystem projects reach new heights. Solana DeFi Hackathon winner&nbsp;<a href=\"https://twitter.com/solana/status/1425622597421654020?s=20&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Mango Markets</a>&nbsp;were the first to use the Fair Launch protocol to run a, well, more fair token sale, raising more than $70 million. Pyth launched,&nbsp;<a href=\"https://www.coindesk.com/business/2021/08/25/pyth-launch-to-bring-quant-firms-market-data-to-solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">bringing market data to the Solana ecosystem</a>. And the DegenApesAcademy, that lovable band of degenerates, sold out in 8 minutes. Holy ape, indeed.</p><h3><strong>September</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b23bbde1616c4093a241a961703e53e8",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/SolanaFndn/status/1442523919198552081?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1442523919198552081%7Ctwgr%5Ea09d678a96cc862ed9e66f705c1b4eebf66123c5%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fhappy-solstice-2021-celebrating-solanas-sunny-year</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-db12f6783ee84d6ab4f65ed5f76b12d7",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>September saw Solana’s rise go meteoric. The Solana ecosystem reached 1000 global validators, decentralizing the system even more. Beloved millennial website&nbsp;<a href=\"https://www.prnewswire.com/in/news-releases/neopets-launches-its-first-nft-collection-the-neopets-metaverse-collection-823127718.html?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neopets announced they were launching NFTs</a>&nbsp;built on Solana. And Wormhole&nbsp;<a href=\"https://twitter.com/wormholecrypto/status/1438940760548667393?s=20&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">launched a token bridge</a>&nbsp;between Solana and Ethereum.</p><h3><strong>October</strong></h3><p>3… 2… 1… we have IGNITION. Solana’s third hackathon was its largest yet, with over $5 million in prizes and seed funding. It was a massive success,&nbsp;<a href=\"https://solana.com/news/solana-ignition-hackathon-winners?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">bringing 568 new projects onto Solana</a>&nbsp;— including yield manager&nbsp;<a href=\"https://mobile.twitter.com/katana_hq?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Katana</a>, which won the Grand Champion prize and launched its mainnet by December!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6287e19c7bd149bba68eda5abf6cf7b3",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/b50_18OHpnM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ac835e3ea53744908a1b5b7dbb70d553",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>NFTs in the Solana ecosystem also continued to take off, with&nbsp;<a href=\"https://hypebeast.com/2021/10/solana-monkey-business-nft-record-breaking-two-million-usd-sale?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a Solana Monkey Business NFT selling for $2 million</a>. Talk about shooting for the stars.</p><h3><strong>November</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d78eae331d7e41829c2e630a175b00f0",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff5b05a7db9064b56862f1dbaeba75799?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "height": 667,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff5b05a7db9064b56862f1dbaeba75799?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff5b05a7db9064b56862f1dbaeba75799?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff5b05a7db9064b56862f1dbaeba75799?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff5b05a7db9064b56862f1dbaeba75799?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff5b05a7db9064b56862f1dbaeba75799?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff5b05a7db9064b56862f1dbaeba75799?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff5b05a7db9064b56862f1dbaeba75799?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff5b05a7db9064b56862f1dbaeba75799?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff5b05a7db9064b56862f1dbaeba75799?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fa9795d2039f4e65a46c779890138dba",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>It was the beginning of something really special. Solana Breakpoint in Lisbon was the first in-person celebration of the Solana ecosystem, and&nbsp;<a href=\"https://solana.com/news/solana-breakpoint-2021-news-roundup?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">dozens of projects announced major news</a>. Some highlights include:</p><ul><li>Alexis Ohanian and 776 announced a $250 million — actually, make that $500 million — fund to help spur&nbsp;<a href=\"https://podcast.solana.com/episodes/alexis-ohanian-founder-seven-seven-six-ep-52?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the future of social media</a>&nbsp;on the blockchain;</li><li>Brave Browser announced&nbsp;<a href=\"https://brave.com/solana-partnership/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">it was integrating Solana</a>&nbsp;and making it the default blockchain;</li><li><a href=\"https://medium.com/render-token/render-network-announces-key-integration-with-solana-metaplex-65dbd9f93e8b?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RNDR</a>, an animation company, announced it would be rendering the metaverse using Solana;</li><li>Neon Labs announced&nbsp;<a href=\"https://twitter.com/neonlabsorg/status/1458148189551353865?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1458148189551353865%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fsolana-breakpoint-2021-news-roundup&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neon EVM</a>, an Ethereum virtual machine.</li></ul><p>You can watch every panel at Breakpoint&nbsp;<a href=\"https://www.youtube.com/playlist?list=PLilwLeBwGuK7yLsxKM1RZlxuNpaEuBEXk&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p>Also in November,&nbsp;<a href=\"https://twitter.com/phantom/status/1456983207770042377?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Phantom reached 1 million users</a>, and FTX, Lightning, and Solana Ventures announced they would be creating a fund to&nbsp;<a href=\"https://www.theblockcrypto.com/linked/123397/solana-ventures-ftx-lightspeed-100-million-blockchain-gaming-fund?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">jumpstart crypto gaming</a>.</p><h3><strong>December</strong></h3><p>The spirit of Solana was still going strong. Allbridge&nbsp;<a href=\"https://allbridge.medium.com/launching-a-bridge-to-solana-for-fantom-assets-with-saber-815fef7a6b9b?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announced a bridge</a>&nbsp;from Fantom to Solana.&nbsp;<a href=\"https://press.opera.com/2021/12/10/opera-solana-partnership/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Opera browser</a>&nbsp;revealed it would be supporting Solana dApps.&nbsp;<a href=\"https://twitter.com/mininations?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Mini Royale</a>&nbsp;became the first multiplayer game to launch on Solana. Twitch co-founder Justin Kan&nbsp;<a href=\"https://techcrunch.com/2021/12/13/justin-kan-debuts-fractal-a-solana-based-marketplace-for-gaming-nfts/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">launched a gaming NFT marketplace</a>&nbsp;using Solana. And finally,&nbsp;<a href=\"https://markets.businessinsider.com/news/currencies/michael-jordan-nba-crypto-solana-heir-fan-engagement-platform-jeffrey-2021-12?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Michael Jordan and his son</a>&nbsp;came to Solana to launch the “Heir” community platform.</p><p>The community has grown so much since January. As of the Solana Solstice, Solana has…</p><ul><li>1 million total NFTs minted</li><li>1.6 users on Phantom</li><li>5,985 total public repos</li><li>$11.4 billion TVL</li><li>$1.6 billion TVL in stake pools on Solana</li><li>1,135 RPC nodes</li><li>1,328 global validators</li><li>5,145 total projects in the ecosystem</li><li>45,500,750,478 transactions</li></ul><p>Where will the Solana ecosystem go from here? Stay tuned — there are some very cool announcements coming soon.</p><p>Here’s to a great year. Let’s keep building together.</p><p>What were the highlights of your Solana year?&nbsp;<a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tell us on Twitter.</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F79c471c56a2a42c4ba464712ad0cb751",
+  "lastUpdated": 1694189924794,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dad785e181c74a8ca91167376fc8c3dc",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687620364470,
+  "@originId": "dad785e181c74a8ca91167376fc8c3dc",
+  "testRatio": 1,
+  "createdDate": 1687362562907,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=dad785e181c74a8ca91167376fc8c3dc&builder.overrides.dad785e181c74a8ca91167376fc8c3dc=dad785e181c74a8ca91167376fc8c3dc&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Happy Solstice 2021! Celebrating Solana’s sunny year",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

@@ -1,0 +1,393 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/breakpoint-2023-news-announcements-recap",
+  "data": {
+    "datePublished": 1700071200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facd0c0be799b47c99580d9c6eb9d7e35",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Breakpoint 2023 saw news from Star Atlas, Google Cloud, Amazon Web Services, and more.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Facd0c0be799b47c99580d9c6eb9d7e35",
+      "seoDescription": "Breakpoint 2023 saw news from Star Atlas, Google Cloud, Amazon Web Services, and more.",
+      "seoTitle": "Only Possible on Solana: Breakpoint 2023 Sees New Product Launches, Tech Advancements, and Next-Level Networking "
+    },
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Only Possible on Solana: Breakpoint 2023 Sees New Product Launches, Tech Advancements, and Next-Level Networking "
+    },
+    "slug": "breakpoint-2023-news-announcements-recap",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-49440e23547e445fb4af046c0efacfbe",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-87969970bf404c709ad1f50b8032725d",
+            "meta": {
+              "previousId": "builder-12bbe9b3e3f948069263e8785181a853"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Breakpoint 2023 took place in Amsterdam from October 30 - November 3, bringing together over 3,000 developers, investors, traders, enterprise leaders, vendors, artists, musicians, and crypto-curious minds. Sessions covered innovation in the ecosystem and future plans for the network.&nbsp;   </p><p><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2776c2c957404fcc922afc43745c7971",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-7a50ce2bce7b4890bd15bfcf26012d66",
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<p>Breakpoint also served as a central point for multiple community events including MEV Camp, Block Zero, The Network State, Neodyme Security Day, IBC Amsterdam, and The DripHaus.&nbsp;</p><p>If you missed the event, you can catch a video of every session <a href=\"https://www.youtube.com/channel/UC9AdQPUe4BdVJ8M9X7wxHUA\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>. Below, you can read-up on some of the most exciting news coming out of Breakpoint 2023.</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-f716dbdac1ee4c5a988057e74f82faef",
+                        "meta": {
+                          "previousId": "builder-1b5302c478694fd3b0e57ed224f547db"
+                        },
+                        "component": {
+                          "name": "Youtube",
+                          "options": {
+                            "url": "https://www.youtube.com/watch?v=0MoYSUxYDFk"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "paddingTop": "0px",
+                            "paddingBottom": "20px"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b3c5fc7771d140a1b111008bffa3c391",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>The Future of the Solana Network</h2><p>In a pivotal moment for the ecosystem, Dan Albert, Executive Director of the Solana Foundation, <a href=\"https://www.youtube.com/watch?v=1X1Vk8XQ6OQ&amp;list=PLilwLeBwGuK7Wv9H90ig5SpnT4ipOyFST&amp;index=2\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that the long-awaited validator client, Firedancer, is live on testnet. Firedancer will increase validator diversity on Solana, which is the key to long-term resiliency and decentralization. Firedancer is built by a team at Jump Trading Group.</p><p>Albert joined Diego Perez de Ayala, Managing Partner at Frictionless Capital, for a <a href=\"https://www.youtube.com/watch?v=2ngjDiEIPSs&amp;list=PLilwLeBwGuK7Wv9H90ig5SpnT4ipOyFST&amp;index=8\" rel=\"noopener noreferrer\" target=\"_blank\">fireside chat</a> discussing the past, present, and future of Solana. Together, they outlined their prediction of a new era for the network – Solana 2.0, which is “defined by a sense of community ownership”.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-973e12e9d4ef43efabab2070188bdd02",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-fd0425f26a924953ab707de2533092e1",
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<h2>Recap on Ecosystem Announcements&nbsp;</h2><p>The Solana ecosystem is home to some of web3’s most innovative projects and is at the forefront of building the next frontier of decentralized tooling with real-world applications.&nbsp;</p><ul><li><a href=\"https://www.youtube.com/watch?v=c9elx0ir2js\" rel=\"noopener noreferrer\" target=\"_blank\">Star Atlas</a>: Michael Wagner, Founder of Star Atlas, provided insights into the Unreal Release 2.2, which enables freedom for creators to customize, mint, and sell their skins. Adding to the excitement, the co-founder and CEO of MetaGravity, Rashid Mansoor, unveiled a 30,000-player stress test conducted along with Star Atlas, showcasing the game’s remarkable capabilities.&nbsp;</li><li><a href=\"https://www.youtube.com/watch?v=QWA_c5ZQZ9U\" rel=\"noopener noreferrer\" target=\"_blank\">Render Network</a>: Trevor Harries-Jones, COO at OTOY and Director at Render Network announced that Render Network has successfully upgraded its core infrastructure from Ethereum to Solana. The move unlocks new capabilities like real-time streaming and dynamic NFTs, which are only made possible by Solana’s transaction speeds, low costs, and web-scale architecture.&nbsp;</li><li><a href=\"https://www.youtube.com/watch?v=yaYKVrpnZ_I\" rel=\"noopener noreferrer\" target=\"_blank\">Etherfuse</a>: Etherfuse CEO David Taylor unveiled Stablebonds, a new investment product designed to bridge the gap between traditional finance and DeFi.&nbsp;</li><li>And more from the Pyth Network, Buddy Link, Ryder, Sling, PsyOptions, Tweed, Orca, 3.land, FRIDAY, DSCVR, Jupiter, Baxus and many others.</li></ul>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-89b2a5cc221942319f2498b89cc22850",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-70b7ef416ed1426784e850af8022419b",
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<h2>Disrupting Million Dollar Industries&nbsp;</h2><p>Of those building on the Solana network, many are poised to disrupt major global industries.&nbsp;</p><ul><li><a href=\"https://www.youtube.com/watch?v=vAEi0f1phsE\" rel=\"noopener noreferrer\" target=\"_blank\">GameShift</a>: Solana Labs announced <a href=\"https://gameshift.solanalabs.com/\" rel=\"noopener noreferrer\" target=\"_blank\">the beta launch</a> of GameShift — one of the simplest and fastest ways to enable web3 gaming experiences on Solana. GameShift removes the obstacles associated with building applications on-chain, and provides a single, easy-to-use, web2-friendly API for developers.&nbsp;</li><li><a href=\"https://www.youtube.com/watch?v=yoZ2eF6Na7w\" rel=\"noopener noreferrer\" target=\"_blank\">Boba Guys</a>: Boba Guys unveiled results from <a href=\"https://solana.com/news/boba-guys-customer-loyalty-solana\" rel=\"noopener noreferrer\" target=\"_blank\">its loyalty program pilot</a> in its San Francisco location, which onboarded 600 users in just five weeks. With this, 31% of orders now come in through loyalty, there’s a 67% lift in monthly visits and a 65% increase in spending. Boba Guys plans to roll out the loyalty program across all 25 of its stores on Black Friday.</li><li><a href=\"https://www.youtube.com/watch?v=-A5AAOHq_RI&amp;list=PLilwLeBwGuK7gFGynbQIsWksYRjB9PDXs\" rel=\"noopener noreferrer\" target=\"_blank\">XP</a>: Michael Saunders, CEO of Captain, announced the official launch of XP, a web3-native ticket marketplace. At launch, XP has over 10 million tickets on-chain for&nbsp;live events. XP aims to remedy the flaws of web2 marketplaces by providing greater transparency, direct interactions, improved security, community building, and payment flexibility.</li></ul>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-6999f6a7d87049a980df485b05118b90",
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<h2>Big Tech Energy&nbsp;</h2><p>As the biggest names in tech look to innovate for a web3 future, they’re turning to Solana.</p><ul><li><a href=\"https://www.youtube.com/watch?v=wqADZnNPSV0\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Web Services</a>: Nikolay Vlasov, senior solutions architect at AWS, addressed developers at Breakpoint, announcing that <a href=\"https://solana.com/news/solana-blockchain-node-development-blueprints-available-on-aws\" rel=\"noopener noreferrer\" target=\"_blank\">Solana nodes are now available for quick deployment on AWS</a> with the help of the AWS Blockchain Node Runners repository. Vlasov concluded his talk with a message about the global applicability of Solana and AWS integrations: <em>“Being global means that the users are also global…Now, with automated deployments, we can scale the user experience.”</em></li><li><a href=\"https://www.youtube.com/watch?v=esNVZybjnLU\" rel=\"noopener noreferrer\" target=\"_blank\">Google Cloud</a>: James Tromans, Head of Web3 at Google Cloud, announced <a href=\"https://solana.com/news/solana-data-live-on-google-cloud-bigquery\" rel=\"noopener noreferrer\" target=\"_blank\">the addition of Solana data on Google Cloud’s BigQuery</a>. This integration enables developers, enterprises, and users to query detailed Solana data. James concluded the session by emphasizing that Google’s existing infrastructure makes it the ideal company to onboard developers to the blockchain space.</li></ul>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-441e958a6e10461ba5a8fe0c256a8c74",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>A Truly Onchain Event</h2><p>Those at Breakpoint 2023 saw this go from an event <em>about</em> blockchain to an event being <em>run on</em> the blockchain. A number of ecosystem projects helped us to make this a reality.</p><ul><li><strong>Solana-Powered USDC Payments:</strong> Using<a href=\"https://www.hel.io/\" rel=\"noopener noreferrer\" target=\"_blank\"> Helio</a>, attendees could purchase their tickets with USDC, showcasing payments that use the Solana network.&nbsp;</li><li><strong>Solana Pay-Enabled Vending Machines: </strong><a href=\"https://www.selecta.com/nl/nl\" rel=\"noopener noreferrer\" target=\"_blank\">Selecta</a> smart fridges integrated Solana Pay, and <a href=\"https://www.venta.xyz/\" rel=\"noopener noreferrer\" target=\"_blank\">Venta</a> enabled Solana Pay transactions to happen, just by tapping a near-field communication (NFC) wristband.</li><li><strong>Official Proof-of-Attendance NFTs: </strong>Collaborating with artists Joyce Liu and Duke +1, the Breakpoint team enabled official Breakpoint POAPs as digital mementos of attendance.&nbsp;</li><li><strong>Blockchain-Based Graphics Rendering: </strong>Some of the graphics used on site were powered by <a href=\"https://rendernetwork.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Render Network</a><em> </em>directly on the blockchain.</li></ul><h2>From Amsterdam to Singapore!</h2><p>In addition to all of the above, we topped off the week with a live announcement of Breakpoint 2024, which will take place in Singapore from Sept. 19 to 21. See you there!&nbsp;</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7881e3f1c1a74c9b8c6e6e727744c7c0",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "newsLetter": true,
+                "formId": "72c9e5c3-fe0d-4e63-ab21-1ec098d99f38",
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Keep in touch about Breakpoint 2024!"
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Hear the latest news about Breakpoint 2024, taking place Sept. 19-21, 2024 in Singapore.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F28ea247a69394aaf908dd6c00f49bca5",
+  "lastUpdated": 1725702303481,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f4d4a5d14416466ebf69fc1c57c6f81a",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1700078363788,
+  "@originId": "f4d4a5d14416466ebf69fc1c57c6f81a",
+  "testRatio": 1,
+  "createdDate": 1700059550712,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/breakpoint-2023-news-announcements-recap?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=f4d4a5d14416466ebf69fc1c57c6f81a&builder.overrides.f4d4a5d14416466ebf69fc1c57c6f81a=f4d4a5d14416466ebf69fc1c57c6f81a&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 7,
+      "Youtube": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Only Possible on Solana: Breakpoint 2023 Sees New Product Launches, Tech Advancements, and Next-Level Networking ",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

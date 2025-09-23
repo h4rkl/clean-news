@@ -1,0 +1,288 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/only-possible-on-solana-helium",
+  "data": {
+    "datePublished": 1711026000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd63bcb78bde46279789ca1aba495691",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_b96fb19ef99546e0bc54fef686059df6"
+    },
+    "intro": "Helium's leap onto Solana is a breakthrough for global connectivity over DePIN networks.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcd63bcb78bde46279789ca1aba495691",
+      "seoDescription": "Helium's leap onto Solana is a breakthrough for global connectivity over DePIN networks.",
+      "seoTitle": "The Helium Network is Leading the Way for DePIN, Only Possible on Solana"
+    },
+    "title": "Only Possible on Solana: Helium",
+    "slug": "only-possible-on-solana-helium",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_784d3f39beba4629a3bef38684fc5e6d"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-c0dd095959bd4e6da9e4a31b2624bf2c",
+        "meta": {
+          "previousId": "builder-6172153c33e3457f940040db61e8ccb4"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2e0d75e1085e47048193ea16526a2ed7",
+            "meta": {
+              "previousId": "builder-78d31e3bfe7045c883f1b163d28ce739"
+            },
+            "component": {
+              "name": "Youtube",
+              "options": {
+                "url": "https://youtu.be/VaBJu3dXpKk?feature=shared"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginLeft": "auto",
+                "marginRight": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0d1ef64606de4e42af9241351427a694",
+            "meta": {
+              "previousId": "builder-fad8c426e31d4441964a7864b8dcdb5f"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>DePIN — or decentralized physical infrastructure networking — represents one of the fastest growing sectors in web3, one that is already impacting people’s everyday lives in the real world. DePIN networks leverage incentives to motivate people all over the world to collaboratively provide infrastructure that powers everything from computer rendering to EV charging to telecommunications networks.&nbsp;</p><p>Case in point: <a href=\"https://solana.com/news/case-study-helium\" rel=\"noopener noreferrer\" target=\"_blank\">Helium</a> is building the world’s fastest growing decentralized wireless network. It’s a mobile service provider that offers $20-a-month 5G connectivity over its community-powered Helium Mobile network… but it’s also about people powering people. “Helium is a network that aligns the incentives between people that want to connect and people that are able to provide connectivity,” says Helium Foundation CEO Abhay Kumar.</p><p>“Helium is actually one of the easier blockchain use cases to describe, because there's actual physical hardware on the ground,” explains Noah Prince, head of protocol engineering at the Helium Foundation. “There are two networks – there's a 5G network and there's an IoT network. Basically, anybody can become a cell phone tower, they can put up a hotspot in their house, and then people walking around can use the network.” Hotspot providers are then compensated in Helium’s native token for the connectivity they provide.&nbsp;</p><p>“With Helium, it's a community leveraging what they already have as far as locations and hardware. The idea that you can run something on a community-built network makes everything cheaper,” explains Helium Foundation COO Scott Sigel. “Now, you're talking about $20 cell phone plans, because you're not talking about one large, centralized organization that has to think about the real estate, the operation, the upkeep, the head count, so the cost is just going to continue to come down in cost over time.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f45cceb50fd448c790011d5b15dcb7cf",
+            "meta": {
+              "previousId": "builder-80cc01a38ce94a4ebe1509e4e8d05d00",
+              "localizedTextInputs": [
+                "quote"
+              ]
+            },
+            "component": {
+              "name": "Rich Text Quote",
+              "options": {
+                "author": {
+                  "name": "Noah Prince",
+                  "role": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Head of Protocol Engineering"
+                  },
+                  "company": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Helium Foundation"
+                  }
+                },
+                "quote": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>As the Helium Network grows, we need the underlying blockchain to also grow with it. And Solana is the only real option for something like that.</p>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5ca2204b38d44b7a8f0c8a26bc1749a9",
+            "meta": {
+              "previousId": "builder-ab1a376454e647d0b1756186192c1dd8"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><a href=\"https://docs.helium.com/solana/migration/\" rel=\"noopener noreferrer\" target=\"_blank\">Since migrating to Solana in April 2023</a>, Helium has rolled out its $20 unlimited 5G cellular plan nationwide in the US, expanded coverage to Mexico in partnership with telecom giant Telefónica, and worked with Google to bundle its Pixel 8 smartphone with Helium services and hotspots. The remarkable growth of the Helium network attests not only to the quality of its service and value it provides, but the critical role blockchain can play in unlocking emerging industries.&nbsp;</p><p>“We’re coordinating work in the physical world at a large scale, and token incentives help to solve for that. It’s just not feasible to try to process this over traditional payment rails. It only works with blockchain technology. And at that kind of speed, that kind of scale, Solana's a natural fit,” Sigel explains. “We're thinking about coordination and scalability, but also what the experience looks like for the average user. It needs to be intuitive, it needs to be fast, it needs to be simple. Solana truly is the only blockchain that can power those types of interfaces.”</p><p>“Building the world's largest wireless network is a hard enough problem as it is – I don't need a blockchain that's getting in my way — and Solana doesn't,” says Prince. “As the Helium Network grows, we need the underlying blockchain to also grow with it. And Solana is the only real option for something like that.”&nbsp;</p><p><strong>Large-scale, decentralized infrastructure networks like Helium are only possible on Solana.</strong></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f7d4e7734efa4f60af176420e6a8968f",
+            "meta": {
+              "previousId": "builder-4f7d003d96e64326a5fb1728b2b515e0",
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "buttons": [
+                  {
+                    "hierarchy": "secondary",
+                    "size": "xl",
+                    "iconSize": "md",
+                    "url": "/possible",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "LEARN MORE"
+                    }
+                  }
+                ],
+                "image": {
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe88845776d6f473d9d82b6eeb59cfa75",
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Built for what's possible."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>See how teams like DRiP, Decaf, and more are taking advantage of the Solana tech stack to build a fast, secure, scalable, and user-friendly future.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff11ca1f4b37e4a6eb96888645ab67b8b",
+  "lastUpdated": 1722459505041,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_8704a73644004e6cb43574d914da90d9",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1710780498929,
+  "@originId": "8704a73644004e6cb43574d914da90d9",
+  "testRatio": 1,
+  "createdDate": 1711041304902,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/only-possible-on-solana-helium?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2CeditLayouts%2CeditLayers&builder.user.role.name=Developer&builder.user.role.id=developer&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=8704a73644004e6cb43574d914da90d9&builder.overrides.8704a73644004e6cb43574d914da90d9=8704a73644004e6cb43574d914da90d9&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "originalContentId": "18fef12d54774e23916ff35beb1232ab",
+    "componentsUsed": {
+      "Rich Text Quote": 1,
+      "Copy": 2,
+      "Youtube": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false,
+    "winningTest": null
+  },
+  "name": "OPOS: Helium",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

@@ -1,0 +1,145 @@
+{
+  "folders": [],
+  "data": {
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe6268f220e1244bf9648ec40412c4af8",
+    "newTags": [
+      "AI"
+    ],
+    "listTags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_721a34484b624a9dba0804c0a1648789"
+        }
+      }
+    ],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "title": "‘AI will make Solana more usable and understandable,’ says Anatoly Yakovenko",
+    "twitterMeta": {
+      "twitterTitle": "‘AI will make Solana more usable and understandable,’ says Anatoly Yakovenko",
+      "twitterDescription": "Solana Labs CEO Anatoly Yakovenko on how AI can impact Solana "
+    },
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_721a34484b624a9dba0804c0a1648789"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "datePublished": 1684825200000,
+    "intro": "Solana Labs CEO Anatoly Yakovenko on how AI can impact Solana ",
+    "publishedDate": "Tue May 23 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "‘AI will make Solana more usable and understandable,’ says Anatoly Yakovenko",
+      "ogUrl": "https://www.solana.com/blog/ai-solana-anatoly-yakovenko",
+      "ogDescription": "Solana Labs CEO Anatoly Yakovenko on how AI can impact Solana ",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "‘AI will make Solana more usable and understandable,’ says Anatoly Yakovenko",
+      "noFollow": false,
+      "seoDescription": "Solana Labs CEO Anatoly Yakovenko on how AI can impact Solana ",
+      "seoTitle": "‘AI will make Solana more usable and understandable,’ says Anatoly Yakovenko",
+      "noIndex": false
+    },
+    "slug": "ai-solana-anatoly-yakovenko",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-ccc2328099444b9d83554f07120c8d5e",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-962e470b93d048be85f1eaf5b5f854d1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana Foundation highlighted today a range of&nbsp;<a href=\"https://solana.com/developers/ai?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">artificial intelligence-related activities</a>&nbsp;happening on Solana right now,&nbsp;<a href=\"https://www.prnewswire.com/news-releases/solana-becomes-the-first-layer-1-blockchain-to-integrate-artificial-intelligence-with-chatgpt-301832054.html?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">from chatbots to accelerators to grant programs.</a></p><p>Solana co-founder and Solana Labs CEO Anatoly Yakovenko discussed his views on AI with Jonathan Abramovich, who leads infrastructure business development for Solana Foundation.</p><p><strong>Jonathan Abramovich</strong>: What are your broad views on AI and how it impacts Solana?</p><p><strong>Anatoly Yakovenko:</strong>&nbsp;I think the natural language interface that ChatGPT has enabled is interesting and cool. It feels like it's as big of a shift as when Microsoft Windows and the computer mouse were first introduced. So now we're going into reasonably well-working text-based interfaces that can do complex actions.</p><p>Every dev building consumer-oriented apps should be thinking about how their app is going to be interacted with through an AI model because this is a new paradigm for telling computers what to do. With AI, it’s like you're almost talking to a human, but there's still a lot of work to be done in terms of actually getting something useful out of it.</p><p>AI will make Solana more usable and understandable. Crypto APIs are way better than the APIs that deal with money from finance-focused centralized service providers because they are trustless and don’t deal with the same issues that centralized providers have to deal with. They have more programability and so an AI that can deploy smart contracts and do transactions is better and more powerful than one that can't.</p><p>I think it's important enough that we should spend resources on this and give reference examples to devs to then start building their applications with that in mind.</p><p><strong>JA: Is that the intention with the ChatGPT plugin?</strong></p><p><strong>AY:&nbsp;</strong>Yes, exactly. The plugin just gives you a text interface, like a text-based block explorer. You can describe an object on-chain and it will respond by telling you that it is an NFT account or something like that. So that’s kind of cool but it won’t yet mint an NFT set. What I want it to do is be able to write to the chain but we’re not there yet. The plugin was easy to do, though - one of our devs did the initial build in a weekend.</p><p><strong>JA: Why is AI coming to Solana right now in a way that it’s not happening on other chains?</strong></p><p><strong>AY:</strong>&nbsp;For right now, ChatGPT plugin is reading on-chain data that can help construct transactions that can be run on-chain. But Solana is cheap and fast so we hope that people will be able to run these transactions within a ChatGPT loop. That means that the machine interface to the chain is cheap enough for ChatGPT to be able to do it. You need both speed and cost advantages to make a good user experience, otherwise, it doesn't really work.</p><p><strong>JA: What is the stage we’re in for applying AI to Solana?</strong></p><p><strong>AY:&nbsp;</strong>Right now, we’re in the stage of discovering what AI can do. I encourage devs to go write plugins for whatever software they are working on, interact with it, and discover what it can do. I don’t think anyone knows where it's supposed to go. It's just really, really cool that you can basically treat it like a Star Trek computer. The Star Trek computer wasn't perfect - it couldn't answer arbitrary questions, but you could tell it to do something and it would go do it. This is where I think LLMs have brought us. That's a pretty different experience than normal computer interactions or even Siri.</p><p><strong>JA: How else will AI make an impact on the Solana ecosystem?</strong></p><p><strong>AY:&nbsp;</strong>I already see developers using it to document and understand the code more, like using GPT models for documentation and plugins for automation. Other large language model style things are going to make it easier for devs to generate code for smart contracts, find bugs, and then write test code. I think it could be used to even find vulnerabilities.</p><p><strong>JA: What about on the validator front?</strong></p><p><strong>AY:&nbsp;</strong>That's interesting. There's a lot of data that validators monitor. I bet somebody could build AI-optimized monitoring tools for data - maybe someone is already working on that.</p><p><strong>JA: When&nbsp;</strong><a href=\"https://jumpcrypto.com/firedancer/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Firedancer</strong></a><strong>&nbsp;gets up and running there will be two unique code bases that Solana runs on – does that just imply that there's just twice as much information and data to comb through, and could an AI help with that?</strong></p><p><strong>AY:&nbsp;</strong>Ooh, I wonder – a sophisticated-enough AI should be able to look at the two code bases and write a third one that isn't dependent on the other two. That would be cool.</p><p><strong>JA: What about specific applications of AI on Solana?</strong></p><p><strong>AY:&nbsp;</strong>I expect to see AI that is differentiated by the data that it is trained on. Crowdsourcing data is really hard so very up-to-date data sources will probably come from crowdfunded, crypto-based projects, such as Hivemapper.</p><p>Another thing that I think would be cool is an AI plugin that you tell, \"Hey, I want to do an NFT set with 10,000 images in this style with these traits”, and then stable diffusion generates the whole thing, mints them on chain, sets up a Discord group, starts answering questions, and starts building out lore and stories. I think there's a lot of interesting, weird things that could happen.</p><p><strong>JA: Doesn't that just take away all the work?</strong></p><p><strong>AY:</strong>&nbsp;No, it doesn’t take away the fun work – it just takes away the hard work and the annoying work.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7ee873ab772e4067a27d8f91fb773f1f",
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9cd32898bb524510a72503775b38a7f6",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687594871195,
+  "@originId": "9cd32898bb524510a72503775b38a7f6",
+  "testRatio": 1,
+  "createdDate": 1687362370120,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "name": "‘AI will make Solana more usable and understandable,’ says Anatoly Yakovenko",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@liveSyncEnabled": true,
+  "lastUpdated": 1705862174823,
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "previewUrl": "https://solana.com/news/ai-solana-anatoly-yakovenko",
+  "meta": {
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false,
+    "lastPreviewUrl": "https://solana.com/news/ai-solana-anatoly-yakovenko?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=9cd32898bb524510a72503775b38a7f6&builder.overrides.9cd32898bb524510a72503775b38a7f6=9cd32898bb524510a72503775b38a7f6&builder.options.includeRefs=true&builder.options.locale=Default"
+  },
+  "rev": "onaw8wpsk8o"
+}

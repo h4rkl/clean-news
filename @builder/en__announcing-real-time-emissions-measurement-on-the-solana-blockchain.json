@@ -1,0 +1,293 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1682060400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F03b17b5641bd473ba1997be1066a94de",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Trycarbonara enables users to see emissions data down to the validator level.",
+    "publishedDate": "Fri Apr 21 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Announcing real time emissions measurement on the Solana blockchain",
+      "ogUrl": "",
+      "ogDescription": "Trycarbonara enables users to see emissions data down to the validator level.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Announcing real time emissions measurement on the Solana blockchain",
+      "noFollow": false,
+      "seoDescription": "Trycarbonara enables users to see emissions data down to the validator level.",
+      "seoTitle": "Announcing real time emissions measurement on the Solana blockchain",
+      "noIndex": false
+    },
+    "title": "Announcing real time emissions measurement on the Solana blockchain",
+    "twitterMeta": {
+      "twitterTitle": "Announcing real time emissions measurement on the Solana blockchain",
+      "twitterDescription": "Trycarbonara enables users to see emissions data down to the validator level."
+    },
+    "slug": "announcing-real-time-emissions-measurement-on-the-solana-blockchain",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5eb418bdd493453f837c77bd06fbeaaa"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-257f45d8a6564f538445ef28bbc1775b",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e7dc2ab880ad43e399a2882c479442da",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Starting today, the Solana Foundation is leading the charge by making Solana the first major smart-contract blockchain to have its emissions measured in real time.</p><p>The emissions tracker was developed in collaboration with Trycarbonara, a carbon data platform, and embeds software directly on Solana nodes to provide the most comprehensive and accurate measurement of the blockchain’s footprint to date. This measurement dynamically changes based on the throughput of individual validators, when they’re online and offline and changes in the validator network over time.This data is includes, for the first time:</p><ul><li><strong><u>Emissions measurement of RPC nodes</u></strong>&nbsp;via instrumentation of the underlying hardware</li><li><strong><u>Emissions granularity</u></strong>&nbsp;at the server level incorporating geolocation of validator and RPC nodes</li><li><strong><u>Marginal (or consequential) emissions</u></strong>&nbsp;based on the incremental emissions impact of new demand as it relates to the overall distribution of grid supply. This framework can be useful when gauging the environmental impact of changes and optimizations to energy consumption and accounts for the renewable energy mix of different sources of electricity.</li><li><strong><u>Embodied emissions</u></strong>&nbsp;based on the manufacturing, transportation, and end-of-life management of the hardware infrastructure of the Solana Network.</li><li><strong><u>Power Usage Effectiveness (PUE)</u></strong>&nbsp;which describes the overall efficiency of a data center.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-eacea1c7ef0d49d4a9f7dc79e034bb61",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21e8627cd2924492ad0c1f0607e826a1?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.65,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 650,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21e8627cd2924492ad0c1f0607e826a1?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21e8627cd2924492ad0c1f0607e826a1?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21e8627cd2924492ad0c1f0607e826a1?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21e8627cd2924492ad0c1f0607e826a1?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21e8627cd2924492ad0c1f0607e826a1?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21e8627cd2924492ad0c1f0607e826a1?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21e8627cd2924492ad0c1f0607e826a1?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21e8627cd2924492ad0c1f0607e826a1?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21e8627cd2924492ad0c1f0607e826a1?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fcb5935313594cbea7e088c363796e5a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>A snapshot of the climate impact of the Solana network, taken April 20, 2023. Source:&nbsp;<a href=\"https://solanaclimate.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">solanaclimate.com</a></p><p>The data set is detail-rich, open, and free to use, making it possible to scrutinize the sources of network emissions down to the validator level. This allows validators and ecosystem projects and teams to look at individual contributions to the network’s carbon footprint and explore mitigation strategies.</p><p>Below is an estimate of the network’s carbon emissions in the past year (the period between April 1, 2022 - March 31, 2023):</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e032eabff2d34bd1aa9f761393adabce",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"width: 90%\">\n  <tbody>\n    <tr>\n      <td\n        style=\"width: 25%; background-color:#231733; vertical-align: middle; padding:10px;\"\n      >\n        <p>\n          Energy use per transaction <br />(voting + non-voting transactions)\n        </p>\n      </td>\n      <td\n        style=\"width: 25%; background-color:#231733; vertical-align: middle; padding:10px;\"\n      >\n        <p>Total Carbon Footprint <br />(average emissions)</p>\n      </td>\n      <td\n        style=\"width: 25%; background-color:#231733; vertical-align: middle; padding:10px;\"\n      >\n        <p>Total number of nodes <br />(validators and RPC nodes)</p>\n      </td>\n      <td\n        style=\"width: 25%; background-color:#231733; vertical-align: middle; padding:10px;\"\n      >\n        <p>Total energy consumption in MWh</p>\n      </td>\n    </tr>\n    <tr>\n      <td style=\"width: 25%; vertical-align: middle; padding:10px;\">\n        <p>0.879k J</p>\n      </td>\n      <td style=\"width: 25%; vertical-align: middle; padding:10px;\">\n        <p>10,651.2 tCO2</p>\n      </td>\n      <td style=\"width: 25%; vertical-align: middle; padding:10px;\">\n        <p>3,511</p>\n      </td>\n      <td style=\"width: 14.29%; vertical-align: middle; padding:10px;\">\n        <p>26,514.1 MWh</p>\n      </td>\n    </tr>\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d488a27badd146b78e05e7584f6e68cc",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://solanaclimate.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Click here<strong>&nbsp;</strong>to see the full data set,</a>&nbsp;automatically updated on a biweekly basis, including:</p><ul><li>The top 10 “greenest” validators.</li><li>Emissions analysis across data centers and geographies.</li><li>The relative impact of consensus-producing versus RPC nodes.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f9fe412eab334fc0bfbb074ac6f58df2",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3c3db102589466c8081b3e09588b185?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.515,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 515,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3c3db102589466c8081b3e09588b185?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3c3db102589466c8081b3e09588b185?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3c3db102589466c8081b3e09588b185?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3c3db102589466c8081b3e09588b185?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3c3db102589466c8081b3e09588b185?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3c3db102589466c8081b3e09588b185?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3c3db102589466c8081b3e09588b185?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3c3db102589466c8081b3e09588b185?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb3c3db102589466c8081b3e09588b185?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-993a4efe16234f0cb098cfef3a8ad472",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>A snapshot of the climate impact of the Solana network compared to other common use cases, taken April 19, 2023. Source:&nbsp;<a href=\"https://solanaclimate.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">solanaclimate.com</a></p><p>The dashboard is robust and makes it possible to analyze network emissions from a number of different perspectives. Trycarbonara intends to keep developing their platform over time, and we encourage feedback, questions, and requests for additional analyses.</p><p>The Solana Foundation hopes to set a new standard for measuring emissions in blockchain by publishing this data. We welcome the chance to work with other ecosystem players, both inside and outside the Solana community, who are interested in better measuring their emissions.</p><p>Since<strong>&nbsp;</strong>November 2021, the Solana Foundation has regularly commissioned&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-september-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">independent third-party assessments</a>&nbsp;of the emissions of the Solana network. The Foundation is committed to making these measurements more accurate and comprehensive over time.</p><p>Moving forward, the Solana Foundation will track the release of new features that we expect to make the network more energy efficient and to make it easier for the Solana community to make environmentally conscious decisions.</p><ul><li><strong><u>On-chain offsets:</u>&nbsp;</strong>Several teams are building solutions to bring tokenized carbon and other nature-based credits on chain, and we will support these efforts where possible.</li><li><strong><u>Wallet level emissions analysis:</u>&nbsp;</strong>The Foundation is investigating ideas to provide emissions data on a user’s personal carbon on-chain footprint, based on their wallet address.</li><li><strong><u>Automatic offset purchases:</u>&nbsp;</strong>The Foundation is interested in projects that make it possible to be perpetually net-zero by enabling automatic offset purchases at regular intervals.<strong>&nbsp;&nbsp;</strong></li></ul><p><a href=\"https://www.sciencedirect.com/science/article/pii/S2666389921001884?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Information and Computing Technology (ICT) accounts for up to 3.9% of global carbon emissions</a>&nbsp;– more than that&nbsp;<a href=\"https://www.weforum.org/agenda/2022/12/aviation-net-zero-emissions/?ref=solana.ghost.io#:~:text=For%20many%20of%20us%2C%20the,aircraft%20powered%20by%20jet%20gasoline.\" rel=\"noopener noreferrer\" target=\"_blank\">of the airline industry</a>. Accurate measurement with realtime carbon data is the first step towards cutting emissions. We hope the Solana Foundation's efforts will inspire other blockchain networks and projects to take similar steps towards measuring their emissions and building a more regenerative on-chain community. If you’re interested in engaging or learning about these efforts,&nbsp;<a href=\"mailto:climate@solana.org\" rel=\"noopener noreferrer\">contact us here.</a></p><p>Trycarbonara is a venture-backed company headquartered in Seattle. Its real-time carbon data platform automatically quantifies the climate impact of technology assets to empower all organizations to create sustainable value. Learn more at:&nbsp;<a href=\"https://trycarbonara.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">trycarbonara.com</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbfb6c03ad25d43b8ae86852d76e6deca",
+  "lastUpdated": 1696410210773,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cf115341ed0442459cc585a671be58df",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687594459431,
+  "@originId": "cf115341ed0442459cc585a671be58df",
+  "testRatio": 1,
+  "createdDate": 1687362377929,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=cf115341ed0442459cc585a671be58df&builder.overrides.cf115341ed0442459cc585a671be58df=cf115341ed0442459cc585a671be58df&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Announcing real time emissions measurement on the Solana blockchain",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

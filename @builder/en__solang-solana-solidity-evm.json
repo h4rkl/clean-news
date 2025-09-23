@@ -1,0 +1,295 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solang-solana-solidity-evm",
+  "data": {
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F62fc911a0c9d44769c77338b3bc564aa",
+    "inputs": [],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_522ee32e37324ea3a406ecad62c51937"
+    },
+    "title": "Hyperledger Solang opens Solana to Ethereum’s Solidity developers",
+    "twitterMeta": {
+      "twitterTitle": "Solang opens Solana to Ethereum’s Solidity developers",
+      "twitterDescription": "Ethereum devs get a new way to build on Solana."
+    },
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a70200e65d34494b65f9e04c0727a14"
+        }
+      }
+    ],
+    "datePublished": 1689771600000,
+    "intro": "Ethereum devs get a new way to build on Solana.",
+    "publishedDate": "Wed Jul 19 2023 09:00:00 GMT-0400 (Eastern Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Solang opens Solana to Ethereum’s Solidity developers",
+      "ogDescription": "Ethereum devs get a new way to build on Solana.",
+      "ogType": "article"
+    },
+    "seo": {
+      "keywords": [
+        "Solang",
+        "Solana Solidity",
+        "Solana EVM"
+      ],
+      "seoTitle": "Hyperledger Solang opens Solana to Ethereum’s Solidity developers"
+    },
+    "slug": "solang-solana-solidity-evm",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-abfba66d12134cd2a40e353aee436725",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-090a69d7a4a443caadff38d58ec6d6c2",
+            "meta": {
+              "previousId": "builder-78302a6c778e4704bcc7763c0f710a77"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Solana development is well known for using Rust or C for writing smart contracts, but Solana is evolving to become more accessible with Solidity, the primary programming language used for Ethereum smart contracts. Solana Labs is thrilled to announce that today you can now build on Solana with Solidity using Hyperledger Solang, a new compiler which helps bridge the gap between EVM developers and the Solana ecosystem.&nbsp;</p><p>More programming languages available for building on Solana results in a broader skill set of developers entering the Solana ecosystem. We saw that last year with the community-led creation and release of <a href=\"https://seahorse-lang.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Seahorse</a>, which enables Solana smart contracts to be written in Python, the world’s most popular programming language. Today’s announcement continues the push to expand the reach of the Solana ecosystem.&nbsp;</p><p>Some of the highlights of the Hyperledger Solang compiler include:</p><ul><li>Compatibility with Ethereum Solidity 0.8</li><li>Ability to call other Solana smart contracts</li><li>Supports Solana SPL tokens</li><li>Supports program derived addresses</li><li>Enables development with Anchor</li><li>Builds native Solana smart contracts</li><li>Access to native Solana builtin functionality</li></ul><p>Getting started with Hyperledger Solang is simple, and we've put together a <a href=\"https://solana.com/developers/guides/solang-getting-started\" rel=\"noopener noreferrer\" target=\"_blank\">beginner’s guide</a> to assist you in leveraging your existing Solidity knowledge to tap into the high speeds and low costs of the Solana network. Now you can learn how to set up your development environment, write and test your first smart contract, and deploy it on the Solana network.<strong>&nbsp;</strong></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b9848ee44eb04edbb33d20b5f929fac1",
+            "component": {
+              "name": "Youtube",
+              "options": {
+                "url": "https://youtu.be/ALCHemQCDb4"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-df5190d747f145f98ce08f60a200e8c8",
+            "meta": {
+              "previousId": "builder-78302a6c778e4704bcc7763c0f710a77"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Getting started with Hyperledger Solang is simple, and we've put together a <a href=\"https://solana.com/developers/guides/solang-getting-started\" rel=\"noopener noreferrer\" target=\"_blank\">beginner’s guide</a> to assist you in leveraging your existing Solidity knowledge to tap into the high speeds and low costs of the Solana network. Now you can learn how to set up your development environment, write and test your first smart contract, and deploy it on the Solana network.</p><p><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8dd65796f49f4e70b4a41598df4ad4cd",
+            "meta": {
+              "previousId": "builder-644086dcce71486ca8764462ec425bf3"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-78df669e1e7e4be8a907ff74cd47ac05",
+            "component": {
+              "name": "Conversion Panel",
+              "options": {
+                "variant": "offset",
+                "heading": "Want to keep up on the latest news in the Solana ecosystem?",
+                "body": "Sign up for the monthly community update.",
+                "buttons": [
+                  {
+                    "label": "Sign Up",
+                    "hierarchy": "secondary",
+                    "size": "md",
+                    "endIcon": "arrow-right",
+                    "url": "https://solana.com/newsletter"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0e7577eb79604946a177db4af3b2f73c",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Getting started with Hyperledger Solang is simple, and we've put together a <a href=\"https://solana.com/developers/guides/solang-getting-started\" rel=\"noopener noreferrer\" target=\"_blank\">beginner’s guide</a> to assist you in leveraging your existing Solidity knowledge to tap into the high speeds and low costs of the Solana network. Now you can learn how to set up your development environment, write and test your first smart contract, and deploy it on the Solana network.<strong>&nbsp;</strong></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-a99ce6e1683a4e34bc53f5f13c4864e0",
+        "component": {
+          "name": "Copy",
+          "options": {
+            "rawHtml": "<p>Getting started with Hyperledger Solang is simple, and we've put together a <a href=\"https://solana.com/developers/guides/solang-getting-started\" rel=\"noopener noreferrer\" target=\"_blank\">beginner’s guide</a> to assist you in leveraging your existing Solidity knowledge to tap into the high speeds and low costs of the Solana network. Now you can learn how to set up your development environment, write and test your first smart contract, and deploy it on the Solana network.<strong>&nbsp;</strong></p>"
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-49ce3a28dcb746ef9eedff9be27af6f3",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F21b74087610d47f78fe4d454c342c1de",
+  "lastUpdated": 1704915095608,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_b6d854f25bc045dcaf01e25a429b6fb4",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1689771647326,
+  "@originId": "b6d854f25bc045dcaf01e25a429b6fb4",
+  "testRatio": 1,
+  "createdDate": 1689704224135,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solang-solana-solidity-evm?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=b6d854f25bc045dcaf01e25a429b6fb4&builder.overrides.b6d854f25bc045dcaf01e25a429b6fb4=b6d854f25bc045dcaf01e25a429b6fb4&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Conversion Panel": 1,
+      "Copy": 4,
+      "Youtube": 1,
+      "Section Molecule": 2
+    },
+    "hasLinks": false
+  },
+  "name": "Solang opens Solana to Ethereum’s Solidity developers",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "startDate": 1689771653743,
+  "rev": "l9w1e2t4y1"
+}

@@ -1,0 +1,325 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1686250800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3109fdd461bc4ea48df51d0b131cd80e",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Developers and studios are getting ready for PlayGG in July – are you?",
+    "publishedDate": "Fri Jun 09 2023 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Check out games you can experience at PlayGG",
+      "ogUrl": "",
+      "ogDescription": "Developers and studios are getting ready for PlayGG in July – are you?",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Check out games you can experience at PlayGG",
+      "noFollow": false,
+      "seoDescription": "Developers and studios are getting ready for PlayGG in July – are you?",
+      "seoTitle": "Check out games you can experience at PlayGG",
+      "noIndex": false
+    },
+    "title": "Check out games you can experience at PlayGG",
+    "twitterMeta": {
+      "twitterTitle": "Check out games you can experience at PlayGG",
+      "twitterDescription": "Developers and studios are getting ready for PlayGG in July – are you?"
+    },
+    "slug": "check-out-games-you-can-experience-at-playgg",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9687f359460a46d5bc32a40d446b0cb7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-00b42933ac134910b6599cb05bc5599a",
+        "component": {
+          "name": "Section Molecule",
+          "options": {}
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8f5ef3d36834414cb0d9a0a59d26b90a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The most important word in “blockchain games” isn’t blockchain, it’s games. And Solana is the blockchain for great games experiences, where developers have created 50+ fun games featuring incredible graphics, gameplay, and lore on the Solana blockchain.</p><p>You can experience these games at&nbsp;<a href=\"http://solana.com/playgg?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">PlayGG</a>, a free, community-first celebration of games and innovation happening July 18 and 19, 2023, at the JULEP Venue in San Diego, immediately before Comic-Con International. This is a free event and all ages are welcome - bring your family, friends, and teammates to play fun games with us!&nbsp;<a href=\"https://lu.ma/playgg?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Register HERE.</a></p><p>PlayGG will feature:</p><ul><li>Dozens of polished demos of real, fun, and playable games built on Solana</li><li>Livestreams with game personalities like y4splz and alliestrasza_</li><li>A tournament with G2 Esports</li><li>Talks and workshops from builders of these cutting edge blockchain games</li><li>A relaxed, lounge-like, family-friendly atmosphere + local food trucks for lunch and free refreshments throughout the day.</li></ul><p>Did we mention that it’s free? No wallets necessary to play!</p><p>As the first of an ongoing series highlighting the games that will be at PlayGG, let’s take a closer look at&nbsp;<strong><u>Bladerite</u></strong>,&nbsp;<strong><u>Star Atlas</u></strong>,&nbsp;<strong><u>Genopets</u></strong>,&nbsp;<strong><u>Aurory</u></strong>, and&nbsp;<strong><u>Earth From Another Sun (EFAS)</u></strong>.</p><h2><strong>Bladerite</strong></h2><p><a href=\"https://www.theseeds.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bladerite</a>&nbsp;is a free-to-play genre blending Battle Royale and MOBA game where players are dropped into a map and have to farm and fight for resources to be the last warrior standing while the map continuously gets smaller. Final survivors will win a considerable amount of rewards.</p><p>Some notable features of Bladerite include:</p><ul><li>Free-to-Play: No requirement to purchase assets prior to playing</li><li>No Tokenomics: No cryptocurrency of any kind will be issued for Bladerite</li><li>Bladerite Loot Mode: Core game mode for play-to-earn where players can monetize by winning the game and selling the loot on the built marketplace</li></ul><p>Since its launch in open beta test on April 24, the game from Seed Labs studio has been steadily growing. Seed Labs and G2 Esports will collaborate with PlayGG to host an IRL tournament for Bladerite, offering a prize pool of $5,000. Everyone has a chance to win.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-35aacc60b7824f25ad341cfb5efc1279",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/NHuGcXLP6nE",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/NHuGcXLP6nE?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ff1bc98bf5874689be924b6d2743a366",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Star Atlas</strong></h2><p><a href=\"https://staratlas.com/?utm_medium=playgg&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Star Atlas</a>&nbsp;is a grand strategy space exploration game with cinematic-quality game visuals. An integration with Solana makes for an improved gameplay experience in Unreal Engine 5, as well as a robust and efficient in-game economy.</p><p>The Star Atlas team recently released a new technical showcase, called SAGE: Escape Velocity, featuring a novel approach to on-chain game movement. In the first six weeks after the Escape Velocity debut, the game logged more than 30 million on-chain transactions. You can check out SAGE and their other releases at PlayGG.</p><p>Get a beta access key for playing Star Atlas on the&nbsp;<a href=\"https://store.epicgames.com/en-US/p/star-atlas-bead34?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Epic Games Store</a>&nbsp;by playing&nbsp;<a href=\"https://sage.staratlas.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Escape Velocity</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5e9624ba7bc3458c9c282dd8253a4177",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/uFE0YPo-iHk",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/uFE0YPo-iHk?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-817f01fcc11447389db46118c79c0ed0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Genopets</strong></h2><p><a href=\"https://www.genopets.me/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Genopets</a>&nbsp;is a free-to-play, move-to-play NFT mobile game that makes it fun and rewarding to live an active lifestyle. Think Tamagotchi + Pokemon GO + Fitbit + web3. A Genopet is your digital companion whose evolution and growth are inextricably linked to your own. The steps you take every day power your journey through the Genoverse as you explore, battle, and evolve — earning rewards while you play. The game is built around bonding with your digital pet and taking care of it every day by taking care of yourself. It regularly ranks among the most active apps on Solana.</p><p>At PlayGG, the team will showcase new features to customize, upgrade, share, and compete with other Genopets in the game! Download Genopets on the&nbsp;<a href=\"https://apps.apple.com/us/app/genopets-move-play-create/id1603131221?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Apple App</a>&nbsp;or&nbsp;<a href=\"https://play.google.com/store/apps/details?id=me.genopets.mobile&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Google Play</a>&nbsp;Store today and use referral code PLAYGG to start playing.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-90534057deff4ec2954263e6f02bf452",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/0iWuY3V0yiw",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/0iWuY3V0yiw?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-24f93ef0d3134b689692bd7e7d511dfc",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Aurory</strong></h2><p><a href=\"https://aurory.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Aurory</a>&nbsp;is an immersive platform consisting of multiple interoperable games and dApps, where players can hatch, trade, and battle collectible creatures called Nefties.<strong>&nbsp;</strong>The platform’s first live game, Aurory Tactics, is a competitive turn-based PvP strategy game currently in open alpha. In this game, opponents battle their teams of three Neftie creatures against each other for rewards and glory.</p><p>Recently, the team also launched a small, pre-alpha experience of their second game in active development, called Aurory Adventures. This game aims to capture more of the MMORPG audience, where players will be able to explore an open world, completing quests and defeating enemies. The full release date for Aurory Adventures is still TBD, but PlayGG attendees will be able to experience some early roadmap pieces live at PlayGG!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-64bf4c80519d402bb2e1e1f2a22074c5",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/_JRPTs2NMP8",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/_JRPTs2NMP8?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-978846966a5d4f41aff39431a81bfde1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Earth From Another Sun</strong></h2><p><a href=\"https://earthfromanothersun.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">EFAS</a>&nbsp;is an open world space exploration and MMORPG first-person shooter that has been in development for more than three years. Players can team up to wage massive sci-fi battles, explore the universe, conquer galaxies, and build up trading empires. The game is in closed alpha testing currently but already has over 20,000 paying players.</p><p>A brand new version has been created for PlayGG to showcase the newest weapons, vehicles, troops, quests, places to explore, and ship boarding combat that were recently added to the game. You’ll get to play for free at PlayGG.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d85a84fadec0481ab7322c16bc050953",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/py6R8wYQDAA",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/py6R8wYQDAA?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd55c06ff63e042fc849b32fbb3e82c9f",
+  "lastUpdated": 1696408028565,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_d19e384f4c9c4a778bac9c1a963b6084",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687595313839,
+  "@originId": "d19e384f4c9c4a778bac9c1a963b6084",
+  "testRatio": 1,
+  "createdDate": 1687362365856,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=d19e384f4c9c4a778bac9c1a963b6084&builder.overrides.d19e384f4c9c4a778bac9c1a963b6084=d19e384f4c9c4a778bac9c1a963b6084&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Check out games you can experience at PlayGG",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

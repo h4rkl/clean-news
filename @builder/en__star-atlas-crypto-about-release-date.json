@@ -1,0 +1,178 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1631818800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5b12553588dd49e3aa2c2896b18d0566",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "“Star Atlas,” CEO Mike Wagner admits, “is more complex than it sounds.”",
+    "publishedDate": "Fri Sep 17 2021 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "title": "Mark your ‘Star Atlas:’ Everything you need to know about the upcoming AAA blockchain game",
+    "seo": {
+      "internalName": "'Star Atlas:' What you need to know about the AAA crypto game",
+      "noFollow": false,
+      "seoDescription": "The upcoming AAA game set crypto Twitter aflame. Learn more about it, when its coming out, and how you can play right now.",
+      "seoTitle": "'Star Atlas:' What you need to know about the AAA crypto game",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "'Star Atlas' and the future of blockchain gaming",
+      "ogUrl": "https://www.solana.com/blog/star-atlas-crypto-about-release-date",
+      "ogDescription": "The upcoming AAA game set crypto Twitter aflame. Learn more about it, when its coming out, and how you can play right now.",
+      "ogImage": "https://solana.ghost.io/content/images/2021/09/blog-star-atlas-about.jpeg",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "'Star Atlas' and the future of blockchain gaming",
+      "twitterDescription": "The upcoming AAA game set crypto Twitter aflame. Learn more about it, when its coming out, and how you can play right now.",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/09/blog-star-atlas-about.jpeg"
+    },
+    "slug": "star-atlas-crypto-about-release-date",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c3121fe9ca9d4e90840697944b153676"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9687f359460a46d5bc32a40d446b0cb7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-bfa243ab095a47628ae401606a313edc",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-82161f2d58e54140915508b592e17daa",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The stars have aligned.&nbsp;<a href=\"https://staratlas.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Star Atlas</a>&nbsp;is coming.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0d0cda833ebe4bd3963b602371a96d18",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/hnFNh-1qLWk?feature=oembed",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/hnFNh-1qLWk?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2a2aea06e43345a5873d8c54dad53b88",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>When this cryptic teaser was released on August 25th, it lit crypto twitter aflame. An AAA-level crypto game? What is it? What does it have to do with crypto?</p><p>The answers are fascinating — and show how high-speed blockchain technology like Solana can really bring gaming into the future.</p><h2><strong>What is&nbsp;Star Atlas, really?</strong></h2><p>“Star Atlas,” CEO Mike Wagner admits, “is more complex than it sounds.”</p><p>On its face,&nbsp;Star Atlas&nbsp;is an MMO set in the year 2620. The universe has been colonized, and balkanized. Three factions split control, while somewhere in the deepest, most dangerous sector of space, something extremely valuable lurks. Players can earn in-game currency ($ATLAS and $POLIS, more on that below), buy anything from ships to space stations to land, and go on missions.</p><p>Although that sounds like many games already out there, there’s a key difference: Star Atlas is powered by blockchain technology — which means that the players truly own the stuff they win or buy in the game.</p><h2><strong>$ATLAS, $POLIS, and building a metaverse economy</strong></h2><p>This whole system is built on&nbsp;Star Atlas’ two tokens. The first, $ATLAS, is the typical in-game currency. Players can earn $ATLAS by doing various activities, like mining ore and selling it in the in-game market, or even by selling their assets. Almost everything in&nbsp;Star Atlas, from starships to land to mining platforms, is an NFT. “There are very few items in the game that aren't owned by players,” Wagner said.</p><p>$POLIS, meanwhile, means you get to play the other aspect of the game — political intrigue.&nbsp;Star Atlas&nbsp;has layers of governance built in that are controlled by players, from local corporations and guilds to giant regional DAOs. Any player holding $POLIS can make decisions about the game — and perhaps most interestingly, outvote the creators.</p><p>“As $POLIS gets distributed, we give up that majority stake that we have, and then it's totally feasible for the public at large to implement changes that maybe we don’t want,” Wagner explained. “The idea is that in the future, we don't have complete control over the outcome of the metaverse.”</p><p>Wagner likes to describe traditional gaming revenue models as rent-based. “When you're a player, you're purchasing access to a title and you get to rent time inside the game universe,” he says. “Things like character, the apparel on your character, the way your character looks, you have access to those items while you're in the game environment. But the second you decide that you no longer want to play that game, you forfeit all of those items back to the game universe.”</p><p>Star Atlas, in that case, “is like true home ownership.” If a player ever decides to leave the&nbsp;Star Atlas&nbsp;universe, they can sell that asset — and hopefully make a profit.</p><h2><strong>Star Atlas&nbsp;is a game — and a public utility</strong></h2><p>And that is what makes&nbsp;Star Atlas&nbsp;such an interesting project. It’s not just an AAA-level MMO, although that in itself is exciting. The creators want to build a universe where players truly can do whatever they want — and make money doing it. In other words, a true metaverse.</p><p>Wagner, who comes from the DeFi space, says the company is already taking steps for people to treat the game like a real economy, like insurance (for the very dangerous missions), lending (<a href=\"https://www.jetprotocol.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">through Jet protocol</a>) and staking (which, Wagner assures, is coming soon).</p><p>“I don't believe that a single tech company or entity should have control over the metaverse,” he said. “Anybody should be able to contribute to it. It should be self-governing and the economy should be self-sustaining.”</p><h2><strong>Solana, powering the metaverse</strong></h2><p>Solana is really the only blockchain that has the power to make this ambitious project happen. When first developing the game, Wagner said the team looked at several different options, but Solana just made sense.</p><p>“First and foremost, we just needed a scalable tech because we anticipate having millions to potentially billions of users interacting with the metaverse at some point,” he said. “High transaction throughput, low transaction costs, the sub-second finality which translates to low latency for our players on speed changes, all important.”</p><p>But support from the Solana community — and seeing that Solana was backed by key institutional players — helped. The Solana Labs team, Wagner notes, was “very pivotal to helping us promote in the early days and get our initial user base associated with the Solana user base.</p><h2><strong>When will&nbsp;Star Atlas&nbsp;come out?</strong></h2><p>Unlike traditional games, which have a single release date followed by updates and DLC, Star Atlas is being released in stages — and you can actually join in the community right now. The game held its first token generation event in August 2021, and began selling their first pieces of the universe in September — which means that&nbsp;<a href=\"https://play.staratlas.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">you can start preparing for your life in 2620 right now</a>.</p><p>And if you want to take your ship out for a spin, you won’t have to wait long.&nbsp;Star Atlas&nbsp;is releasing a mini game, which Wagner referred to as a “light version of&nbsp;Star Atlas,” in which you head out on missions sometime in the autumn of 2021. Other mini games explaining key game concepts will follow into 2022, with the final map — a literal star atlas — timed to the release of the full game.</p><p>Wagner is quick to note that they’re still very early in the process of making the game, but they’ve made some significant progress in that time, from the launch of a public marketplace to a public coin offering to expanding their staff. “It's been a very, very hectic schedule and calendar year for us,” he said. “We've done a lot, like a lot has been executed and the products have actually rolled out.”</p><p>But for those of you who want to take flight, stay tuned — it’s coming soon.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F921dfd923fb54f4297df662ff39e7372",
+  "lastUpdated": 1694189896531,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_4e29ebebe51648cfabea44394814178d",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687611841965,
+  "@originId": "4e29ebebe51648cfabea44394814178d",
+  "testRatio": 1,
+  "createdDate": 1687362610936,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=4e29ebebe51648cfabea44394814178d&builder.overrides.4e29ebebe51648cfabea44394814178d=4e29ebebe51648cfabea44394814178d&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Mark your ‘Star Atlas:’ Everything you need to know about the upcoming AAA blockchain game",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

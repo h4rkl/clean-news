@@ -1,0 +1,632 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://builder-staging.solana.com/news/rust-to-solana",
+  "data": {
+    "datePublished": 1716476400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F099d607233a0479bb4f50320a12cdbfe",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Setup details, restrictions, macro changes, and compute limits for developing on Solana.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F099d607233a0479bb4f50320a12cdbfe",
+      "seoDescription": "Setup details, restrictions, macro changes, and compute limits for developing on Solana.",
+      "seoTitle": "Moving from Rust to Solana"
+    },
+    "title": "Moving from Rust to Solana",
+    "slug": "rust-to-solana",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-3054b4880397420e8e5b55e1e73b9fd4",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6888bece8f17487ab9b382cfe14f939f",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Developers looking to get into Solana development who already know Rust have a great head start. Rust is an officially supported language for writing on-chain programs for Solana. However, several key differences in the language's usage could otherwise be confusing.</p><p>This article will walk through several of those differences, specifically the setup details, restrictions, macro changes, and compute limits. Additionally, this article will cover the development environments and frameworks needed to start with Solana.</p><p>By the end of this article, Rust developers will understand the differences they need to know to start their Solana journeys.</p><h2>Understanding the Core Differences&nbsp;</h2><p>First, note that this article aims at understanding <strong>the differences in using Rust as a language when working with Solana.</strong> It won’t cover <a href=\"https://solana.com/learn/blockchain-basics\" rel=\"noopener noreferrer\" target=\"_blank\">Blockchain or Solana basics</a>.</p><p>It also won’t cover core Solana concepts that must be understood in order to program in Solana, such as:</p><ul><li><a href=\"https://solana.com/docs/core/programs\" rel=\"noopener noreferrer\" target=\"_blank\">Programs</a> - Solana’s version of smart contracts</li><li><a href=\"https://solana.com/docs/core/accounts\" rel=\"noopener noreferrer\" target=\"_blank\">Accounts</a> - A record in the Solana ledger that either holds data (a data account) or is an executable program</li><li>Various <a href=\"https://solana.com/docs/core/fees#why-pay-transaction-fees\" rel=\"noopener noreferrer\" target=\"_blank\">fees</a> - Such as base fee, priority fee, and rent</li><li><a href=\"https://solana.com/docs/core/transactions\" rel=\"noopener noreferrer\" target=\"_blank\">Transactions</a> - Interactions with the network that contain instructions, signatures, and more.</li></ul><p>For more information on those core concepts, check out the <a href=\"https://solana.com/developers\" rel=\"noopener noreferrer\" target=\"_blank\">Solana developer documentation</a>.</p><p>Let’s now look at the differences in <strong>project setup.</strong></p><h2><strong>Key Setup Details</strong></h2><p>On-chain programs for Solana in Rust are still Rust programs at heart. They still follow the standard Rust project with a <code>/src</code> folder and <code>Cargo.toml </code>file in the root. That said, there are several key differences.</p><h3><strong>Project Dependencies</strong></h3><p>To get started, the <a href=\"https://crates.io/crates/solana-program\" rel=\"noopener noreferrer\" target=\"_blank\">solana-program crate</a> is required for every on-chain Solana program written with Rust. This is the base library for all on-chain Rust programs. The library defines macros for the required <strong>program entrypoint </strong>(see below), <strong>core data types</strong>, <strong>logging macros</strong>, and more.</p><h3>Program Entrypoint</h3><p>Instead of a <code>main</code> function, Solana programs use the <code>entrypoint!</code> macro. This symbol is exported and then called by the Solana runtime when the program runs. The entrypoint macro calls a given function, which must have the following type signature:</p><p><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-26ba79a3ef964ef7a93ce726ea41e0bb",
+            "component": {
+              "name": "Code Block",
+              "options": {
+                "code": "   pub fn process_instruction(\n        program_id: &Pubkey,\n        accounts: &[AccountInfo],\n        instruction_data: &[u8],\n    ) -> ProgramResult {\n\n        //program code goes here\n\n    }\n",
+                "language": "rust"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-aaa42e3886d54c489121e1cf09f929c8",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>These three parameters are passed to every on-chain program.</p><ol><li>The <code>program_id</code> is the public key of the current program.</li><li>The <code>accounts</code> are all accounts that are required to process the instruction.</li><li>The <code>instruction_data</code> is data specific to that instruction.</li></ol><p>Every program must then call the entrypoint! macro on the instruction, as follows:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0db8231fa5774b92a68ade682537715b",
+            "component": {
+              "name": "Code Block",
+              "options": {
+                "code": "entrypoint!(process_instruction);",
+                "language": "rust"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1bb92c048ee744938e9535d5c15620f6",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Building and Testing</h3><p>After installing the Solana command-line tools, projects can be built to target host machines as normal with<code> cargo build</code>.&nbsp;</p><p>However, to target the Solana runtime, use cargo <code>build-bpf</code> or c<code>argo build-spf </code>which will compile the program to the bytecode necessary to run it on the Solana runtime.</p><p>Unit testing can be achieved via <code>cargo test</code> with standard <code>#test </code>attributes. For more integrated testing, the <a href=\"https://crates.io/crates/solana-program-test\" rel=\"noopener noreferrer\" target=\"_blank\">solana-program-test</a> crate provides a local Solana runtime instance which can be used in conjunction with outside tests sending transactions.</p><p>Finally, a full test cluster can be started with the <a href=\"https://docs.solanalabs.com/cli/examples/test-validator\" rel=\"noopener noreferrer\" target=\"_blank\">solana-test-validator</a>, installed along with the Solana CLI. This creates a fully featured test cluster on a local machine, which can then deploy programs and run tests.</p><h2>Understanding Restrictions</h2><p>While most standard Rust crates are available in the Solana runtime, and third-party crates are supported as well, there are several limitations. Since the Solana runtime has resource constraints and must run deterministically, here are the differences to be aware of:</p><h3>Package Limitations</h3><p>The following packages are unavailable:</p><ul><li>rand</li><li>std::fs</li><li>std::net</li><li>std::future</li><li>std::process</li><li>std::sync</li><li>std::task</li><li>std::thread</li><li>std::time</li></ul><p>The following packages have limited functionality:</p><ul><li>std::hash</li><li>std::os</li></ul><h3>Rand Dependencies</h3><p>Because programs must run deterministically, the <code>rand</code> crate is not available. Using an additional crate that depends on <code>rand</code> will also cause compile errors.&nbsp;</p><p>However, if the crate used simply depends on <code>rand</code> but does not actually generate random numbers, then it is possible to work around this by adding the following to the program’s Cargo.toml:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d760717679784cbea544b7c9120ab62a",
+            "component": {
+              "name": "Code Block",
+              "options": {
+                "code": "getrandom = { version = \"0.1.14\", features = [\"dummy\"] }",
+                "language": "rust"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-94dbd327987c483ebd545fb289747a82",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Macro Changes</h3><p>Several standard macros have been replaced or have modified behavior to be aware of. First, the<code> println!</code> has been replaced with the computationally simpler <code>msg!</code> macro. The <code>msg!</code> macro outputs to the program logs, and it can be used as follows:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-174b92bb6e6c4ce7bd9bc2e9d3b58c86",
+            "component": {
+              "name": "Code Block",
+              "options": {
+                "code": "msg!(“Your message”);\nmsg!(0_64, 1_64, 2_64);\nmsg!(“Your variable: {:?}”, variable);\n",
+                "language": "rust"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c509b6226e1f4673bd1d1f4115c14ed9",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The <code>panic!, assert!</code>, and any internal panics are also output to the program logs by default. However, this can be modified with a custom panic handler.</p><h2>Compute Budget</h2><p>As a Rust developer, efficient computing is nothing new. What may be different is that in Solana, each transaction has a fixed <a href=\"https://solana.com/docs/core/runtime#compute-budget\" rel=\"noopener noreferrer\" target=\"_blank\">compute budget</a> that it must not surpass. When transactions exceed the compute budget, they are halted and return an error.</p><p>Programs can access the number of remaining compute units via the <code>sol_remaining_compute_units</code> system call, and can log the remaining number of compute units with <code>sol_log_compute_units</code>.</p><h2>Learning the Development Environments and Frameworks</h2><p>While the Solana CLI and the <code>solana_program</code> crate are all that is needed to get started, there are a couple of helpful tools which can accelerate learning.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-313690c8533443da93f305d95546d2db",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ab5393618d042e1bde91170bd31c404?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.4821,
+                "lockAspectRatio": false,
+                "height": 1040,
+                "width": 1614,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ab5393618d042e1bde91170bd31c404?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ab5393618d042e1bde91170bd31c404?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ab5393618d042e1bde91170bd31c404?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ab5393618d042e1bde91170bd31c404?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ab5393618d042e1bde91170bd31c404?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ab5393618d042e1bde91170bd31c404?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ab5393618d042e1bde91170bd31c404?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ab5393618d042e1bde91170bd31c404?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ab5393618d042e1bde91170bd31c404?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ab5393618d042e1bde91170bd31c404?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginBottom": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bee3b38017e34c1c9528489a26f31c2c",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Solana Playground</h3><p>The <a href=\"https://beta.solpg.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Playground</a> is a browser-based IDE that allows developers to develop and deploy Solana programs.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6f5ea1cd12b445e88fcdf6152ab954d8",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b3a21c6d9c347fc87b56951aef9cc92?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.4758,
+                "lockAspectRatio": false,
+                "height": 1172,
+                "width": 2000,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b3a21c6d9c347fc87b56951aef9cc92?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b3a21c6d9c347fc87b56951aef9cc92?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b3a21c6d9c347fc87b56951aef9cc92?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b3a21c6d9c347fc87b56951aef9cc92?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b3a21c6d9c347fc87b56951aef9cc92?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b3a21c6d9c347fc87b56951aef9cc92?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b3a21c6d9c347fc87b56951aef9cc92?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b3a21c6d9c347fc87b56951aef9cc92?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b3a21c6d9c347fc87b56951aef9cc92?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b3a21c6d9c347fc87b56951aef9cc92?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginBottom": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-aaffd2eef27d48a3bcae96c72ab25dc7",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>It’s the easiest way to begin developing with Solana, and it supports building, testing, and deploying Solana Rust programs. Additionally, a number of built-in tutorials are available to guide learning.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f394985e36ff43ac87fe6c3bfdfe1f0e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dde53057a7b4906aeed1cd47c35fc7d?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.6362,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 1500,
+                "width": 1315,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dde53057a7b4906aeed1cd47c35fc7d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dde53057a7b4906aeed1cd47c35fc7d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dde53057a7b4906aeed1cd47c35fc7d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dde53057a7b4906aeed1cd47c35fc7d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dde53057a7b4906aeed1cd47c35fc7d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dde53057a7b4906aeed1cd47c35fc7d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dde53057a7b4906aeed1cd47c35fc7d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dde53057a7b4906aeed1cd47c35fc7d?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dde53057a7b4906aeed1cd47c35fc7d?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1dde53057a7b4906aeed1cd47c35fc7d?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginBottom": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4d476cdf1bca4bc38fb5d14040f2b11a",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Using Anchor</h3><p><a href=\"https://www.anchor-lang.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Anchor</a> is a framework that seeks to accelerate the building of secure Solana programs. It can help by handling standard boilerplate code, speeding up the development cycle. Additionally, it provides some security checks by default, making Solana programs more secure.</p><p>To create a new program, simply create a new Anchor project in the Solana playground:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c6ce710e477144ae873b1f37fd78e38b",
+            "meta": {
+              "previousId": "builder-e707285f321f49e39fb092c390aefb53"
+            },
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F131b4c8e5afb4fd8bef1e58e82007b1a?width=1216",
+                "backgroundSize": "contain",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.4582,
+                "lockAspectRatio": false,
+                "height": 798,
+                "width": 1156,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F131b4c8e5afb4fd8bef1e58e82007b1a?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F131b4c8e5afb4fd8bef1e58e82007b1a?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F131b4c8e5afb4fd8bef1e58e82007b1a?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F131b4c8e5afb4fd8bef1e58e82007b1a?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F131b4c8e5afb4fd8bef1e58e82007b1a?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F131b4c8e5afb4fd8bef1e58e82007b1a?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F131b4c8e5afb4fd8bef1e58e82007b1a?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F131b4c8e5afb4fd8bef1e58e82007b1a?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F131b4c8e5afb4fd8bef1e58e82007b1a?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F131b4c8e5afb4fd8bef1e58e82007b1a?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden",
+                "marginBottom": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-00cffea8fa334a7a8f40083761f45356",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Alternatively, install the Anchor CLI locally, and then use <code>anchor init &lt;project-name&gt;</code> to create a new Anchor project.</p><h2>Creating Off-chain Programs</h2><p>So far, this article has covered the key details of developing <strong>on-chain Solana programs</strong> in Rust. However, it’s also possible to develop <strong>off-chain Solana clients</strong> in Rust. This can be done by using the <a href=\"https://docs.rs/solana-sdk/latest/solana_sdk/\" rel=\"noopener noreferrer\" target=\"_blank\">solana_sdk crate</a>. This contains the <a href=\"https://docs.rs/solana-client/latest/solana_client/\" rel=\"noopener noreferrer\" target=\"_blank\">solana_client crate</a> that allows Rust programs to interact with a Solana node via the JSON RPC API.</p><p>Another option is to use the <a href=\"https://docs.rs/anchor-client/latest/anchor_client/\" rel=\"noopener noreferrer\" target=\"_blank\">anchor_client crate</a> which interacts with Solana programs written in Anchor via RPC. Alternatively, consider writing on-chain programs in Rust, and off-chain clients in JS/TS.</p><h2>Wrap-up</h2><p>This article has covered the basics of developing for Solana with Rust, from setup details and restrictions to development environments and frameworks. Ready to put all that into practice? Check out <a href=\"https://solana.com/vi/developers/guides/getstarted/rust-to-solana\" rel=\"noopener noreferrer\" target=\"_blank\">this guide</a> for Rust developers writing their first Solana program.</p><p>For more Rust-related Solana resources, check out the <a href=\"https://solana.com/docs/programs/lang-rust\" rel=\"noopener noreferrer\" target=\"_blank\">Developing with Rust page</a>. And for other Solana program examples written with Rust, check out these <a href=\"https://github.com/solana-labs/solana-program-library/tree/master/examples/rust\" rel=\"noopener noreferrer\" target=\"_blank\">examples on GitHub</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-07fede82a4b346198b25f2009798df0a",
+            "meta": {
+              "previousId": "builder-6f59bba8679a4964851e289e7c728f7c"
+            },
+            "component": {
+              "name": "Section Molecule",
+              "options": {
+                "noPadding": "none"
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-4e7cc003da674c4e895b94cb15eeec09",
+                "meta": {
+                  "previousId": "builder-9f87e61408ee49a0a8e20121c3565368"
+                },
+                "component": {
+                  "name": "Heading",
+                  "options": {
+                    "eyebrow": "",
+                    "headline": "Learn from Solana Developers",
+                    "body": "",
+                    "variant": "standard"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginBottom": "-90px"
+                  },
+                  "medium": {
+                    "marginBottom": "-45px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c036e6e3f0684add88c39e5f0262f5cd",
+                "meta": {
+                  "previousId": "builder-8a9542e00d124a0f9077761f0208fcfa"
+                },
+                "component": {
+                  "name": "Card Deck",
+                  "options": {
+                    "cards": [
+                      {
+                        "type": "image",
+                        "heading": "Intro to Solana Development",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      },
+                      {
+                        "type": "image",
+                        "heading": "Solana Development Course",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "https://www.soldev.app/course",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      },
+                      {
+                        "type": "image",
+                        "heading": "Solana Bootcamp",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      },
+                      {
+                        "type": "image",
+                        "heading": "More Solana Developer Tools",
+                        "backgroundImage": {
+                          "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                        },
+                        "callToAction": {
+                          "url": "/developers",
+                          "endIcon": "arrow-right",
+                          "hierarchy": "outline"
+                        },
+                        "headingAs": "h3"
+                      }
+                    ],
+                    "featured": true,
+                    "numCols": 3
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffab60dae7aec4e118c06a8dcb6cb94f9",
+  "lastUpdated": 1716476675689,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_31746d09b3e2443a9ce8b8a3679bb455",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1716476664984,
+  "@originId": "31746d09b3e2443a9ce8b8a3679bb455",
+  "testRatio": 1,
+  "createdDate": 1716403548982,
+  "createdBy": "5PSTmJLAHchUsob0CuomAiRxqwH3",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://builder-staging.solana.com/news/rust-to-solana?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_31746d09b3e2443a9ce8b8a3679bb455&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_31746d09b3e2443a9ce8b8a3679bb455=983ae1dad0ba4ca4ac6dd4ac310edee1_31746d09b3e2443a9ce8b8a3679bb455&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Heading": 1,
+      "Copy": 9,
+      "Code Block": 4,
+      "Section Molecule": 2
+    },
+    "hasLinks": false
+  },
+  "name": "Technical Blog - Moving from Rust to Solana",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "startDate": 1716475500000,
+  "rev": "l9w1e2t4y1"
+}

@@ -1,0 +1,209 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1585033200000,
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "On March 23rd at 10 pm PST our Coinlist auction went live. The dutch auction sold out the 8 million available SOL tokens in 6 hours. We…\n",
+    "publishedDate": "Tue Mar 24 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Solana Raises 1.76 Million in Sold Out Coinlist Auction",
+      "ogUrl": "",
+      "ogDescription": "\nOn March 23rd at 10 pm PST our Coinlist auction went live. The dutch auction sold out the 8 million available SOL tokens in 6 hours. We…\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana Raises 1.76 Million in Sold Out Coinlist Auction",
+      "noFollow": false,
+      "seoDescription": "\nOn March 23rd at 10 pm PST our Coinlist auction went live. The dutch auction sold out the 8 million available SOL tokens in 6 hours. We…\n",
+      "seoTitle": "Solana Raises 1.76 Million in Sold Out Coinlist Auction",
+      "noIndex": false
+    },
+    "title": "Solana Raises 1.76 Million in Sold Out Coinlist Auction",
+    "twitterMeta": {
+      "twitterTitle": "Solana Raises 1.76 Million in Sold Out Coinlist Auction",
+      "twitterDescription": "\nOn March 23rd at 10 pm PST our Coinlist auction went live. The dutch auction sold out the 8 million available SOL tokens in 6 hours. We…\n",
+      "twitterImage": null
+    },
+    "slug": "solana-raises-1-76-million-in-sold-out-coinlist-auction",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-403f4d4f25f74b0fa94598c7e6adcd1b",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-db1071f394c14767bde48793b7e08438",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d3b035dd2574d5e8147fb9a60509a5c?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d3b035dd2574d5e8147fb9a60509a5c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d3b035dd2574d5e8147fb9a60509a5c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d3b035dd2574d5e8147fb9a60509a5c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d3b035dd2574d5e8147fb9a60509a5c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d3b035dd2574d5e8147fb9a60509a5c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d3b035dd2574d5e8147fb9a60509a5c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d3b035dd2574d5e8147fb9a60509a5c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d3b035dd2574d5e8147fb9a60509a5c?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d3b035dd2574d5e8147fb9a60509a5c?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1d3b035dd2574d5e8147fb9a60509a5c?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a3f81136574541e4b7eb557d697a48b6",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>On March 23rd at 10 pm PST our Coinlist auction went live. The dutch auction sold out the 8 million available SOL tokens in 6 hours. We want to thank our community for the overwhelmingly positive response to this auction, despite the current world conditions.</p><p>With a clearing price of $0.22 we had 1,416 registrations, and 445 bids from 91 countries! We’re really happy with the outcome. The goal with this auction was to distribute tokens to the 50k+ global community that has been so patiently waiting for the Solana network to launch.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-856e8687562741999a7260cb9f85ed1b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6f25b01e7074e6297dfce54b3741435?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.634,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 507,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6f25b01e7074e6297dfce54b3741435?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6f25b01e7074e6297dfce54b3741435?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6f25b01e7074e6297dfce54b3741435?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6f25b01e7074e6297dfce54b3741435?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6f25b01e7074e6297dfce54b3741435?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6f25b01e7074e6297dfce54b3741435?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6f25b01e7074e6297dfce54b3741435?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6f25b01e7074e6297dfce54b3741435?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6f25b01e7074e6297dfce54b3741435?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6f25b01e7074e6297dfce54b3741435?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fffa6eb269234f3cab2ef47b1eac6ed0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>\n  This auction was unique because of our&nbsp;<a\n    href=\"http://solana.com/staker-price-guarantee.pdf?ref=solana.ghost.io\"\n    rel=\"noopener noreferrer\"\n    target=\"_blank\"\n    >Staker Price Guarantee</a\n  >&nbsp;program. Any participant in the program enjoys a guarantee for 90% of\n  the Auction Clearing Price, redeemable at any time, for 12 months from the\n  start of the registration period.\n</p>\n<p>\n  Multiple hyper-growth projects have sought out Solana because of its high\n  throughput and scalability. During our auction, we were thrilled to announce\n  partnerships with projects such as Chainlink, Akash Network, Hummingbot, DDEX,\n  Civic, dFuse, and more!\n</p>\n<p>This is just the beginning. Stay tuned.</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcb3cb9fe556c4735932327e716fce123",
+  "lastUpdated": 1696416807798,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c172d2ab0cfe4d3bb15cad815342cc31",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1691088913246,
+  "@originId": "c172d2ab0cfe4d3bb15cad815342cc31",
+  "testRatio": 1,
+  "createdDate": 1687362709316,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=c172d2ab0cfe4d3bb15cad815342cc31&builder.overrides.c172d2ab0cfe4d3bb15cad815342cc31=c172d2ab0cfe4d3bb15cad815342cc31&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Raises 1.76 Million in Sold Out Coinlist Auction",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

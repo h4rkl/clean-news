@@ -1,0 +1,982 @@
+{
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "createdDate": 1755737435791,
+  "data": {
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e",
+      "model": "author"
+    },
+    "datePublished": 1755792000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8003844394cc4a50831868eb49830ec2",
+    "intro": "The future of finance is unfolding right now, and the Solana community is systematically enhancing the infrastructure to support it. \n\nThese technical improvements are building toward one inevitable outcome: a financial system where every market for every asset operates with the speed and accessibility of the internet.",
+    "seo": {
+      "metaType": "article",
+      "seoDescription": "Learn how compounding infrastructure improvements are scaling Solana to serve internet capital markets globally.",
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8003844394cc4a50831868eb49830ec2",
+      "seoTitle": "Increase Bandwidth, Reduce Latency: How Solana is Scaling to Enable Internet Capital Markets"
+    },
+    "slug": "blog-internet-capital-markets",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5",
+          "model": "entity-blog-tags"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a06f417c4cb24d50b4ca8ca34a2230a7",
+          "model": "entity-blog-tags"
+        }
+      }
+    ],
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Increase Bandwidth, Reduce Latency: How Solana is Scaling to Enable Internet Capital Markets"
+    },
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-e08befed9436429e9cd4b5bca84da855",
+        "meta": {
+          "previousId": "builder-9b5e81759a904d4b8d3f1c69ed9852bb"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          },
+          "isRSC": null
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c5a37b76f3194caab42b0388f64ed678",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline",
+                "callToAction.eyebrow",
+                "callToAction.headline",
+                "callToAction.description",
+                "callToAction.button.label"
+              ],
+              "previousId": "builder-b73690dff10a4d7d848205432aa7b944"
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Learn More"
+                    },
+                    "hierarchy": "outline",
+                    "url": "https://solana.com/developers"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Start building apps on Solana"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Dive into the developer docs to integrate your product or business with Solana."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In this article"
+                }
+              },
+              "isRSC": null
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-d594eaf95c7749a3a64c7e39fd7d1081",
+                "meta": {
+                  "previousId": "builder-610279c10cbf44afb98cb5f59364a76a",
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h3><strong>TL;DR</strong></h3><p>Compounding infrastructure improvements are scaling Solana to serve global markets:</p><ul><li>Solana block capacity expanded by 25% this year, with <a href=\"https://github.com/solana-foundation/solana-improvement-documents/pull/286\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Improvement Document (SIMD)</a> proposals for another 66% increase planned for later this year</li><li>A new Token Program rewrite (<a href=\"https://github.com/solana-foundation/solana-improvement-documents/pull/266\" rel=\"noopener noreferrer\" target=\"_blank\">P-token SIMD</a>) reduces transaction compute requirements of Solana’s most used program by over 95%</li><li>Jump’s <a href=\"https://jumpcrypto.com/firedancer/\" rel=\"noopener noreferrer\" target=\"_blank\">Firedancer</a> validator client has demonstrated 1M+ TPS in testing and 100k TPS on mainnet</li><li><a href=\"http://www.anza.xyz/blog/alpenglow-a-new-consensus-for-solana\" rel=\"noopener noreferrer\" target=\"_blank\">Alpenglow</a>, a new Solana consensus protocol proposed by Anza Research promises sub 150ms median finality</li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                    "paddingTop": "20px",
+                    "paddingLeft": "20px",
+                    "paddingRight": "20px",
+                    "paddingBottom": "20px",
+                    "opacity": "1",
+                    "borderRadius": "20px",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-34f8a819f4ca427f93ffbaa33a629439",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-d5b95c1ffb02487cb0f2cc9c1220683d"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Global Financial Infrastructure for Internet Capital Markets</h2><p>Internet Capital Markets are here and in full force on Solana. Last quarter, Solana processed 8.5 billion transactions, more than all other chains combined (<a href=\"https://app.artemisanalytics.com/asset/solana?from=assets&amp;tab=metrics&amp;category=KEY_METRICS&amp;metric=CHAIN_TXNS\" rel=\"noopener noreferrer\" target=\"_blank\">source: Artemis)</a>. Here are just a few notable highlights from that period:</p><ul><li>Raydium DEX realized $1 Trillion in lifetime volume</li><li>Pump.fun token launch: $600 million raised. 12 minutes.</li><li>xStocks debuted, already exceeding $2B in tokenized stock trading volume</li></ul><p>The future of finance is unfolding right now, and the Solana community is systematically enhancing the infrastructure to support it. These improvements are building toward one inevitable outcome: a financial system where every market for every asset operates with the speed and accessibility of the internet.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-87c18a46bd704078b45ded4404e13261",
+                "meta": {
+                  "previousId": "builder-1d5d7d0077e84cd393ecf3047e431f11"
+                },
+                "component": {
+                  "name": "Embed",
+                  "options": {
+                    "url": "https://x.com/anza_xyz/status/1948408290112889240",
+                    "content": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" align=\"center\"><p lang=\"en\" dir=\"ltr\">1/ Solana is taking major steps towards becoming the home of internet capital markets. 🧵👇<br>Upcoming changes are designed to give developers ALL the tools they need to build efficient, liquid markets on-chain. <a href=\"https://t.co/IHHyHomMC2\">pic.twitter.com/IHHyHomMC2</a></p>&mdash; Anza (@anza_xyz) <a href=\"https://twitter.com/anza_xyz/status/1948408290112889240?ref_src=twsrc%5Etfw\">July 24, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "pointerEvents": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-5e46cc93d4fa4c8a91ec69295804ddf2",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-c9180ce6ab434c5da467219f90bd6905"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2><strong>More Block Capacity: </strong><a href=\"https://github.com/solana-foundation/solana-improvement-documents/pull/207\" rel=\"noopener noreferrer\" target=\"_blank\">SIMD-0207</a><strong>, </strong><a href=\"https://github.com/solana-foundation/solana-improvement-documents/pull/256\" rel=\"noopener noreferrer\" target=\"_blank\">SIMD-0256</a><strong>, and </strong><a href=\"https://github.com/solana-foundation/solana-improvement-documents/pull/286\" rel=\"noopener noreferrer\" target=\"_blank\">SIMD-0286</a></h2><p>Solana measures capacity in Compute Units (CUs), the computational work needed to process transactions. This year, the network expanded from 48 million to 60 million CUs per block, a 25% throughput increase. For context and scale, a typical token transfer uses about 5,000 CU, so that change alone enables the network to process about 2,500 additional token transfers per block.</p><p>Next stop? 100M! A Solana Improvement Document Proposal (SIMD) outlines a plan to increase another 66% by end of year:</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "tagName": "a",
+                "id": "builder-200ff2d87d324aa5853066b780239dc2",
+                "properties": {
+                  "href": "http://xStocks.com",
+                  "target": "_blank"
+                },
+                "linkUrl": "http://xStocks.com",
+                "meta": {
+                  "previousId": "builder-ed436636d5e14e1880b6a02b82cb352a"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5e0e0e3342e2423491cd6ce4c62a0d02?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.55,
+                    "lockAspectRatio": false,
+                    "height": 770,
+                    "width": 1400,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "altText": "Image source: XStocks"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "cursor": "pointer",
+                    "pointerEvents": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-1973fa886d634903b2f9b4f25c14aae1",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-b4662a59ed71414ba692a6078af007d9"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Each upgrade proves itself under real-world load before the next expansion, maintaining velocity without compromising reliability.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-42323602e8934f25ad676ece7c2c7888",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-3e872b6a4c854559bc88362cdedb1f66"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2><strong>Increased Efficiency: P-Token</strong></h2><p>The Solana SPL Token Program is integral to many common activities on the platform, including DeFi swaps, lending, NFT marketplaces, stablecoin payments, airdrops, and more. The Program processes over 1.5 million transactions hourly (nearly 40% of Solana’s non-vote transactions).&nbsp;</p><p style=\"text-align: center;\"><strong><em>Hourly Breakdown: SPL Token vs Other Solana Programs (non-vote)&nbsp;</em></strong></p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "tagName": "a",
+                "id": "builder-294af8f077c24bb986505f6f708ae8d4",
+                "properties": {
+                  "href": "http://xStocks.com",
+                  "target": "_blank"
+                },
+                "linkUrl": "http://xStocks.com",
+                "meta": {
+                  "previousId": "builder-200ff2d87d324aa5853066b780239dc2"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fef5fa5a7f5f2459599e9e2b7a469c718?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.329,
+                    "lockAspectRatio": false,
+                    "height": 387,
+                    "width": 1176,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "altText": "Image source: XStocks"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "cursor": "pointer",
+                    "pointerEvents": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-f0ca063c9f3b46e7a29f9bf1fd011062",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-c7f0d1178f014567891417fde55cb814"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong><em>Source: </em></strong><a href=\"https://dune.com/queries/5638809/9163673\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Dune Analytics</em></a></p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-2115fa0471174b2e897d9085d439e4bf",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-44dd2e2ebf224fbbad6a7bc567a109f9"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Because most transactions actually include multiple invocations of the SPL Token Program, the network consistently processes over 200M SPL Token instructions daily.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "tagName": "a",
+                "id": "builder-0be9910d43b34b48a838ee3eb9811a35",
+                "properties": {
+                  "href": "https://x.com/KaminoFinance/status/1939636928510390671",
+                  "target": "_blank"
+                },
+                "linkUrl": "https://x.com/KaminoFinance/status/1939636928510390671",
+                "meta": {
+                  "previousId": "builder-f8924b2aa6634adc8ca1d4c0827d7383"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F44fe25e81dc249acb560f5c74408faa4?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.342,
+                    "lockAspectRatio": false,
+                    "height": 397,
+                    "width": 1162,
+                    "altText": "Image source: Kamino",
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "cursor": "pointer",
+                    "pointerEvents": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-4a7a6231b1194d34a1d970a5aa425cd1",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-55cb8972c4284fdfaeae4c89863f8e31"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong><em>Source: </em></strong><a href=\"https://dune.com/queries/5658783/9192812\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Dune Analytics</em></a></p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-2407f831d45546cea801d96779c34866",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-f025e58724b9477db72410eaea713d2a"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>At this scale, even small efficiency gains compound into massive capacity increases. Enter <a href=\"https://github.com/solana-program/token/tree/main/p-token\" rel=\"noopener noreferrer\" target=\"_blank\">P-Token</a>, a ground-up rewrite of the SPL Token Program that achieves dramatic efficiency gains while performing the same underlying actions.</p><p>To be clear: this isn't a new token program. P-Token is a drop-in code replacement for the existing SPL Token Program. All current functionality remains intact, meaning no changes to how you interact with tokens, wallets, or DeFi protocols. Your existing tokens, accounts, and integrations continue working exactly as they do today.</p><p>Under the hood, P-Token eliminates unnecessary data copying, reduces memory usage, and streamlines execution paths. The efficiency gains across all operations are massive:</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-71dabf41a8da4f3bb68e9e8da46f3295",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-2407f831d45546cea801d96779c34866"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong><em>P-token Compute Saving for Some Common Token Instructions</em></strong></p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-8ae3b5739da54e08a3738c85b3e47211",
+                "meta": {
+                  "previousId": "builder-ca4919380e894f36a3ba284aa2e776f8"
+                },
+                "component": {
+                  "name": "Custom Code",
+                  "options": {
+                    "code": "<style>\n  .table-wrapper {\n    width: 100%;\n    overflow-x: auto;\n    -webkit-overflow-scrolling: touch;\n  }\n\n  .validator-table {\n    width: 100%;\n    max-width: 100%;\n    border-collapse: collapse;\n    table-layout: fixed;\n    font-family: system-ui, sans-serif;\n    font-size: 1rem;\n    box-sizing: border-box;\n  }\n\n  .validator-table th {\n    padding: 0.75rem 1rem;\n    text-align: left;\n    border-bottom: 1px solid #2e2e2e;\n    white-space: normal;\n    overflow: visible;\n    text-overflow: clip;\n    word-break: keep-all;\n    overflow-wrap: normal;\n    hyphens: none;\n  }\n\n  .validator-table td {\n    padding: 0.75rem 1rem;\n    text-align: left;\n    border-bottom: 1px solid #2e2e2e;\n    white-space: nowrap;\n    overflow: hidden;\n    text-overflow: ellipsis;\n  }\n\n  .validator-table thead {\n    background: #2af8a7;\n    color: #000;\n  }\n\n  .validator-table tbody tr:nth-child(odd) {\n    background: rgba(255, 255, 255, 0.04);\n  }\n\n  /* mobile override */\n  @media (max-width: 600px) {\n    .validator-table thead {\n      display: none;\n    }\n\n    .validator-table,\n    .validator-table tbody,\n    .validator-table tr,\n    .validator-table td {\n      display: block;\n      width: 100%;\n    }\n\n    .validator-table tr {\n      margin-bottom: 1.25rem;\n    }\n\n    .validator-table td {\n      white-space: normal;\n      overflow: visible;\n      text-overflow: clip;\n      text-align: right;\n      position: relative;\n      padding-left: 50%;\n    }\n\n    .validator-table td::before {\n      content: attr(data-label);\n      position: absolute;\n      left: 1rem;\n      top: 0;\n      bottom: 0;\n      display: flex;\n      align-items: center;\n      font-weight: 600;\n      text-align: left;\n      white-space: normal;\n    }\n  }\n</style>\n</head>\n<body>\n<div class=\"table-wrapper\">\n  <table class=\"validator-table\">\n    <thead>\n      <tr>\n        <th>Operation</th>\n        <th>Current CUs</th>\n        <th>P-Token CUs</th>\n        <th>Improvement</th>\n      </tr>\n    </thead>\n\n    <tbody>\n      <tr>\n        <td data-label=\"Operation\">Token Transfer</td>\n        <td data-label=\"Current CUs\">4,645</td>\n        <td data-label=\"P-Token CUs\">249</td>\n        <td data-label=\"Improvement\"></td>\n      </tr>\n\n      <tr>\n        <td data-label=\"Operation\">MintTo</td>\n        <td data-label=\"Current CUs\">4538</td>\n        <td data-label=\"P-Token CUs\">155</td>\n        <td data-label=\"Improvement\">&gt; 95% reduction</td>\n      </tr>\n\n      <tr>\n        <td data-label=\"Operation\">Burn</td>\n        <td data-label=\"Current CUs\">4753</td>\n        <td data-label=\"P-Token CUs\">168</td>\n        <td data-label=\"Improvement\"></td>\n      </tr>\n    </tbody>\n  </table>\n</div>",
+                    "scriptsClientOnly": true
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-27f3c9ed01e9468bab66801e58c770de",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-516409a0f77648b9a2976b98d0fd7c1a"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><sub style=\"vertical-align: sub; font-size: smaller;\"><strong><em>P-Token delivers similar 95%+ efficiency gains across all 20+ token operations.</em></strong></sub></p><p>In <a href=\"https://neodyme.io/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Neodyme’s</a> audit of P-Token, they replayed 9 days of actual mainnet transactions, simulating how the upgraded program would have performed under real conditions (in lieu of the existing program). The findings were striking: P-Token would have slashed the network's total compute consumption by 12% (<a href=\"https://x.com/Neodyme/status/1958234163376717904\" rel=\"noopener noreferrer\" target=\"_blank\">source</a>). This isn't just a marginal improvement—it's the equivalent of adding an extra 5 million CUs of capacity to every block (enough to handle an additional 20,000 p-token transfers) without any hardware upgrades.</p><p>In practice, this translates to:</p><ul><li>Lower fees: Reduced compute usage means lower priority-related transaction fees (estimate your savings with <a href=\"https://ptoken.sendai.fun/\" rel=\"noopener noreferrer\" target=\"_blank\">this tool</a> from SendAI)</li><li>Better composability: More headroom enables more sophisticated cross-program interactions</li><li>Higher landing rates: Abundant compute headroom improves transaction landing reliability across the network</li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e465294951594392898b81d78deed8d9",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-e89296c1a68a4c98a30f5325e2311345"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2><strong>More Throughput, Sub-Second Finality</strong></h2><p>Solana has never settled for 'fast enough.’ Ecosystem engineers are working on two major upgrades that are going to transform Solana’s transaction throughput and finality latency.</p><p>Firedancer is a new client written from the ground up in C++ and maintained by <a href=\"https://jumpcrypto.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Jump Crypto</a>. In testing, the new client has demonstrated:</p><ul><li>1.2M transactions per second (~100x current mainnet) with geographically distributed nodes</li><li>6-8 million signature verifications/second</li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-24a277b69f0e4d1d90470854c51addc4",
+                "component": {
+                  "name": "Embed",
+                  "options": {
+                    "url": "https://youtu.be/AkqCgmgFxEM?feature=shared&amp;t=420",
+                    "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/AkqCgmgFxEM?rel=0&start=420\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;\"></iframe></div>"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-f784c73b8efd4df1ac8e99e5f04dc2c1",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-e7fdeb945bbe49aebf8942dabe73202d"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>The transition is happening gradually through \"Frankendancer,\" a hybrid deployment of Firedancer and Agave clients. It already represents about 28% of testnet stake and 10% of mainnet stake with stable operation since mid-2024. A Frakendancer validator recently <a href=\"https://x.com/cavemanloverboy/status/1957091396953034966\" rel=\"noopener noreferrer\" target=\"_blank\">demonstrated</a> a burst of 100,000 TPS on Solana’s mainnet.&nbsp;</p><p>Alpenglow is the biggest change to Solana's core protocol since launch. It is a complete replacement of Solana's consensus system (the mechanism that allows thousands of validators worldwide to agree on transaction order). The upgrade aims to reduce transaction finality from 12.8 seconds to under 150ms. At these speeds, Solana could realize Web2-level responsiveness with L1 finality, unlocking new use cases that require both speed and cryptographic certainty.</p><p>Alpenglow is actively being considered by the Community. Check out<a href=\"https://github.com/solana-foundation/solana-improvement-documents/pull/326\" rel=\"noopener noreferrer\" target=\"_blank\"> SIMD 0326</a> to vote on its future and join the discussion <a href=\"https://forum.solana.com/t/simd-0326-proposal-for-the-new-alpenglow-consensus-protocol/4236/50\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.&nbsp;</p><p>Combined with Firedancer's throughput gains, the practical implications are transformative:</p><ul><li>For traders: Sub-second execution with cryptographic finality for price-sensitive strategies</li><li>For applications: Responsive interfaces that feel native, not blockchain-constrained</li><li>For users: Instant feedback with mathematical certainty, not probabilistic confidence</li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-5a428d0bfd2d4f0796951c6f29adfe0e",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-81b8630ade7e4203b84d2ce8167b1c1a"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Internet-Speed Finance</h2><p>The compounding effect of these initiatives and the many others in the Solana ecosystem is financial infrastructure that operates at internet speed.&nbsp;</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-ce45b2d8717b4de889f5fa9441c096a6",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F780f423b835744efa5472e58729cd344?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.549,
+                    "lockAspectRatio": false,
+                    "height": 1098,
+                    "width": 2000,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-0f0b3243f9eb467e935ac8c3d5c106ff",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-5a428d0bfd2d4f0796951c6f29adfe0e"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>At this scale and speed, entirely new categories of financial applications become possible.</p><ul><li>Real-time global price discovery across every asset class simultaneously</li><li>Composable financial products where complex multi-step transactions execute reliably at scale</li><li>Micro-transaction economies that unlock entirely new product verticals</li><li>Institutional-grade settlement that rivals traditional financial rails</li></ul><p>These achievements aren't accidental. They are milestones in a <a href=\"https://www.anza.xyz/blog/the-internet-capital-markets-roadmap\" rel=\"noopener noreferrer\" target=\"_blank\">roadmap toward Internet Capital Markets</a>, where every financial instrument operates with the speed and accessibility of the internet itself. The improvements highlighted here represent just a fraction of the engineering momentum across the ecosystem. Teams are advancing everything from network packet processing to market microstructure optimization, each improvement compounding to power infrastructure capable of serving global markets.</p><p>Every asset and every market on a single state machine, distributed around the world, synchronized at the speed of light. That's Solana.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e7758629eb3e43a18df018f781d935c4",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-b38a6426323a424b96657e58a227489f"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h3>Resources and Further Reading</h3><p><strong>Want to dive deeper? Explore these technical resources and get involved:</strong></p><ul><li><a href=\"https://github.com/solana-program/token/tree/main/p-token\" rel=\"noopener noreferrer\" target=\"_blank\">P-Token Implementation</a></li><li><a href=\"https://jumpcrypto.com/firedancer/\" rel=\"noopener noreferrer\" target=\"_blank\">Firedancer Documentation</a></li><li><a href=\"https://github.com/solana-foundation/solana-improvement-documents\" rel=\"noopener noreferrer\" target=\"_blank\">SIMD Proposals</a></li><li><a href=\"https://docs.solana.com\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Developer Documentation</a></li><li><a href=\"https://www.anza.xyz/blog/why-solana-transaction-costs-and-compute-units-matter-for-developers\" rel=\"noopener noreferrer\" target=\"_blank\">Anza Blog: Why Solana Transaction Costs and Compute Units Matter for Developers</a></li><li><a href=\"https://www.anza.xyz/blog/alpenglow-a-new-consensus-for-solana\" rel=\"noopener noreferrer\" target=\"_blank\">Anza Blog: Alpenglow: A New Consensus for Solana</a></li><li><a href=\"https://www.anza.xyz/blog/the-internet-capital-markets-roadmap\" rel=\"noopener noreferrer\" target=\"_blank\">The Internet Capital Markets Roadmap</a> - Anza's vision for Solana's evolution</li><li><a href=\"https://x.com/SolanaStatus/status/1956090001810497591\" rel=\"noopener noreferrer\" target=\"_blank\">Alpenglow Vote</a>&nbsp;</li><li><a href=\"https://www.youtube.com/watch?v=AkqCgmgFxEM\" rel=\"noopener noreferrer\" target=\"_blank\">Ship or Die at Accelerate 2025: IBRL (Kevin Bowers - Firedancer, Brennan Watt - Anza)</a></li><li><a href=\"https://dune.com/solana_team/solana-compute-units\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Compute Unit Dashboard</a></li><li><a href=\"https://bam.dev/blog/understanding-bam/\" rel=\"noopener noreferrer\" target=\"_blank\">Jito Labs Block Assembly Marketplace</a> (BAM)</li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-41684b43c9b2438a83a4405a622170a2",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge",
+                "buttons.0.label",
+                "image.alt"
+              ],
+              "previousId": "builder-51ad3a68c0fd430fabbd174179fa2bc7"
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F164b00573079495f83756b6c533025f6"
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Start building apps on Solana."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p><span style=\"font-size: 20px;\">Build consumer and financial applications or integrate your business with Solana's high performance network.</span></p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Get started with developer resources"
+                    },
+                    "url": "https://solana.com/developers"
+                  }
+                ]
+              },
+              "isRSC": null
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1755820578265,
+  "folders": [],
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_ed490919a3a14f059f524c3dea601d5d",
+  "lastUpdated": 1755820578289,
+  "lastUpdatedBy": "rfkJKsR9FxTVJ7ts7qFHGvOaibA3",
+  "meta": {
+    "componentsUsed": {
+      "Content Editor": 1,
+      "Copy": 16,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": true,
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/blog-internet-capital-markets?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditLayouts%2CeditLayers%2CeditContentPriority%2CeditFolders%2CcreateProjects&builder.user.role.name=Editor&builder.user.role.id=editor&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=ed490919a3a14f059f524c3dea601d5d&builder.overrides.ed490919a3a14f059f524c3dea601d5d=ed490919a3a14f059f524c3dea601d5d&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "originalContentId": "3cb7d43fa3be46b99c0c6caecea6fd04",
+    "winningTest": null
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "name": "Blog Post: Internet Capital Markets",
+  "previewUrl": "https://solana.com/news/blog-internet-capital-markets",
+  "published": "published",
+  "query": [],
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Feff1f04b55ce44af838836e84991df75",
+  "testRatio": 1,
+  "variations": {},
+  "@originId": "ed490919a3a14f059f524c3dea601d5d",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@liveSyncEnabled": true,
+  "rev": "l9w1e2t4y1"
+}

@@ -1,0 +1,124 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1664478000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78e8b711877b41e59c64bc16ee010e70",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "The Solana Foundation is empowering the next generation of developers — thousands of university students around the world.",
+    "publishedDate": "Fri Sep 30 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Introducing Solana U, a new program for student builders",
+      "ogUrl": "",
+      "ogDescription": "The Solana Foundation is empowering the next generation of developers — thousands of university students around the world.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Introducing Solana U, a new program for student builders",
+      "noFollow": false,
+      "seoDescription": "The Solana Foundation is empowering the next generation of developers — thousands of university students around the world.",
+      "seoTitle": "Introducing Solana U, a new program for student builders",
+      "noIndex": false
+    },
+    "title": "Introducing Solana U, a new program for student builders",
+    "twitterMeta": {
+      "twitterTitle": "Introducing Solana U, a new program for student builders",
+      "twitterDescription": "The Solana Foundation is empowering the next generation of developers — thousands of university students around the world."
+    },
+    "slug": "introducing-solana-u-a-new-program-for-student-builders",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-3b9344adad2f4ba3965767d0a960adfe",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-696fa5f063d1405baa296a85a104fc3a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Solana Foundation Developer Relations Team is launching&nbsp;<a href=\"https://solanau.org/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana U</strong></a>, a new program aimed at equipping university students with tools to connect to the Solana ecosystem, learn Rust, and launch new projects.</p><p>This comprehensive initiative includes educational resources for students and professors, a student-focused Discord for learners to connect and ask questions, student developer hackathons, and more.</p><p>The centerpiece is the&nbsp;<a href=\"https://solanafoundation.typeform.com/to/VTeYWYX9?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Ambassadors Program</strong></a>, which gives the most passionate students at universities or in blockchain clubs a direct line to the Solana Foundation and core Solana Labs engineers. Ambassadors work closely with Solana Foundation staff to build a launch strategy for their school or club and get the educational materials, resources, and speakers it needs.</p><p>“Blockchain clubs are some of the best ways students learn about web3,” said Dana Dal Bo of the university relations team at the Solana Foundation. “We’re happy to make it easier for students to learn.”</p><p>Over 300 students from universities from 5 different continents are already actively engaged with Solana U, in addition to an active online community of more than 1000 learning from each other in Discord. Some of the universities whose blockchain clubs have already taken part include the University of Michigan, University of California Berkeley, the University of Belgrade, Yonsei University, and London Business School.</p><p>Other highlights of the program include:</p><ul><li>Free workshops, talks, and panels exclusively for students.</li><li>Accelerators to help jumpstart student projects.</li><li>University-focused hackathons.</li><li>The Breakpoint Global Fellows Program, to help students from around the world attend&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Breakpoint</a>&nbsp;in Lisbon.</li></ul><p>Student participation in the Solana ecosystem is accelerating. More than 210 projects in the most recent&nbsp;<a href=\"https://solana.com/summercamp?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Summer Camp Hackathon</a>&nbsp;– 30% of all submissions – came from students.</p><p>“Students from all around the world have shown enthusiasm for developing on Solana,” Dal Bo said. “They are consistently coming up with great ideas for new projects and unique approaches for building on Solana. We hope Solana U can serve as a great resource and conduit for even more development and more involvement at the university level.”</p><p>Interested students, professors, and academics of all stripes are encouraged to apply to Solana U programs:</p><ul><li><a href=\"https://solanafoundation.typeform.com/to/VTeYWYX9?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Apply for the Ambassador Program</a></li><li><a href=\"https://solanafoundation.typeform.com/welcome?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Apply to join the Solana U student Discord</a></li><li><a href=\"https://solanau.org/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about Solana U</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbaae40476cad4c20b65187c700480692",
+  "lastUpdated": 1696413497831,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_64d8884cc86f4e5496b14792a0019d3e",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687560061769,
+  "@originId": "64d8884cc86f4e5496b14792a0019d3e",
+  "testRatio": 1,
+  "createdDate": 1687362457910,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=64d8884cc86f4e5496b14792a0019d3e&builder.overrides.64d8884cc86f4e5496b14792a0019d3e=64d8884cc86f4e5496b14792a0019d3e&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Introducing Solana U, a new program for student builders",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

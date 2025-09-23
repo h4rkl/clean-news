@@ -1,0 +1,115 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1651518000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35680bc3890443368a1c37d6da851cc2",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "At approximately 20:30 UTC on Saturday, April 30, Solana’s Mainnet Beta cluster ceased producing blocks as result of stalled consensus.  Over the next seven hours, validator operators worked to identify the point of furthest progress, and collectively instituted a restart of the network.",
+    "publishedDate": "Tue May 03 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "04-30-22 Solana Mainnet Beta Outage Report and Mitigation",
+      "ogUrl": "",
+      "ogDescription": "At approximately 20:30 UTC on Saturday, April 30, Solana’s Mainnet Beta cluster ceased producing blocks as result of stalled consensus.  Over the next seven hours, validator operators worked to identify the point of furthest progress, and collectively instituted a restart of the network. ",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "04-30-22 Solana Mainnet Beta Outage Report and Mitigation",
+      "noFollow": false,
+      "seoDescription": "At approximately 20:30 UTC on Saturday, April 30, Solana’s Mainnet Beta cluster ceased producing blocks as result of stalled consensus.  Over the next seven hours, validator operators worked to identify the point of furthest progress, and collectively instituted a restart of the network. ",
+      "seoTitle": "04-30-22 Solana Mainnet Beta Outage Report and Mitigation",
+      "noIndex": false
+    },
+    "title": "04-30-22 Solana Mainnet Beta Outage Report and Mitigation",
+    "twitterMeta": {
+      "twitterTitle": "04-30-22 Solana Mainnet Beta Outage Report and Mitigation",
+      "twitterDescription": "At approximately 20:30 UTC on Saturday, April 30, Solana’s Mainnet Beta cluster ceased producing blocks as result of stalled consensus.  Over the next seven hours, validator operators worked to identify the point of furthest progress, and collectively instituted a restart of the network. "
+    },
+    "slug": "04-30-22-solana-mainnet-beta-outage-report-mitigation",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-e7d2ebfcea8f440fa01720745e43e05f",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ed1c1256c5cf446aa47df0f2a206d69e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>At approximately 20:30 UTC on Saturday, April 30, Solana’s Mainnet Beta cluster ceased producing blocks as result of stalled consensus.&nbsp;Over the next seven hours, validator operators worked to identify the point of furthest progress, and collectively instituted a restart of the network. Block production resumed at 03:30 UTC on Sunday, May 1, and network operators continued to restore client services over the next several hours.</p><h2><strong>What caused the outage?</strong></h2><p>An enormous amount of inbound transactions (6 million per second) flooded the network, surpassing 100 Gbps of traffic at individual nodes. There is no evidence of a denial of service attack, but instead evidence indicates bots tried to programatically win a new NFT being minted using the popular Candy Machine program. Since the mint price had a fixed floor and not a dynamic Dutch auction, the first user to call the mint received the NFT, which created an economic incentive to send a huge number of transactions in hopes of winning the mint.</p><p>The specific reason why consensus stalled was due to validators running out of memory and crashing. The root cause of the high memory usage was insufficient votes landing to finalize earlier blocks, preventing abandoned fork cleanup. The number of forks validators had to evaluate exceeded their capacity to do so, even after a reboot, necessitating manual intervention.</p><h2><strong>What is being done?</strong></h2><p>Since early January, Solana has suffered intermittent congestion issues resulting from bot activity targeted at NFT mints. The previous outage of Mainnet Beta occurred in September, 2021, and lasted for 17 hours. The outage of April 30 shares characteristics with the September outage, but the network this time continued to function even as transaction request volumes reached 10,000% the level from September, reflecting subsequent updates made by the validator community.</p><p>The beta release branch, v1.10, which is currently stabilizing on Testnet, includes memory use improvements to prolong the time nodes can endure slow or stalled consensus. Test nodes running v1.10 deployed on Mainnet Beta continued for 2000 additional slots beyond their similarly spec’d v1.9 peers.</p><p>Three mitigations are in the works to address the stability and resilience of the network.</p><ol><li><strong>QUIC -&nbsp;</strong>Today, Solana uses a custom raw UDP-based protocol to pass transactions between RPC nodes and the current leader. Since UDP is connectionless and lacks both flow control and receipt acknowledgments, there is no meaningful way to discourage or mitigate abusive behavior. In order to affect control over network traffic, Solana core protocols are being reimplemented atop QUIC, a protocol built by Google, designed for fast asynchronous communication like UDP, but with sessions and flow control like TCP. Once adopted, there will be many more options available to adapt and optimize data ingestion.</li><li><strong>Stake-weighted quality of service (QoS) -</strong>&nbsp;Leader network bandwidth has a fixed capacity and to effectively use it, stake-weighting is a must in order to end the current practice of indiscriminately accepting transactions on a first-come-first-served basis, without regard for source. Given that Solana is a PoS network, extending the utility of stake-weighting to transaction quality of service is a natural choice. Under this model a node with 0.5% stake will have the right to transmit at least 0.5% of the packets to the leader, and the rest of the network and no combination of the remaining stake will be able to fully wash them out. Stake-weighted QoS is in parallel development with QUIC today. Stake-weighted QoS will be more robust in conjunction with QUIC.</li><li><strong>Fee-based execution priority -</strong>&nbsp;Once ingested, transactions can still contend for modifying shared account data.&nbsp;This contention has been dealt with by a simple first-come-first-served similarly to network data ingestions, leaving users no means to express the urgency of their transactions’ execution. Given that anyone can submit transactions to the network, stake-weighting is not suitable for this prioritization.&nbsp;Instead a new instruction is being introduced into the Compute Budget program, offering users the ability to specify an arbitrary “additional fee” to be collected upon execution of the transaction and its inclusion in a block. The ratio of this fee to the requested compute units will serve as a transaction’s execution priority weight.&nbsp;Additional fees will be treated identically to the base fee today.</li></ol><h2><strong>Fees are coming to Solana</strong></h2><h2><br></h2><p>Fees on Solana are not the same as global fee markets on Ethereum. On Solana there is less competition for blockspace than the ability to write to a specific piece of state, such as a minting contract for an NFT. Solana transactions do not interact with all of the Solana state, instead they specify which state they need to read and which state they need to write. Reads can overlap and be parallelized, writes cannot. This is generally called the database “hotspot” problem, which state auctions are designed to solve.&nbsp;For example, if there are 10 seconds worth of work that needs to be written in the same state, but the amount of time is 1 second, there needs to be some mechanism that prioritizes which work is done, and which work fails. Since transactions are packed into blocks by “highest fee/compute unit” priority, the higher paying transactions will get to write first if validators are acting in their self-interest.</p><p>By comparison, Ethereum uses fee markets to allocate a scarce resource, namely blockspace. Solana’s fee prioritization should only impact the specific state, and not the whole block. This creates a system akin to ‘neighborhood fees’ instead of ‘global fees.’&nbsp;The subsequent transactions that are paying a higher fee, but can’t fit into this block because they have hit the maximum limits of writing to an account are spilled and scheduled for the next block, but other transactions that interact with other accounts can still be added to the same block, even if they are paying lower fees.</p><p>Fee prioritization work in process, and is targeted for the v1.11 release.</p><p>Editor's note June 16, 2022: This article has been updated with the term stake-weighted quality of service.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1a53d809d263485f816843df81523444",
+  "lastUpdated": 1698674077905,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5b2e25e706a946b782b1ea9bc028117e",
+  "lastUpdatedBy": "IozLyYparvUwRwGm8Pxge3b8QdB3",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687551115972,
+  "@originId": "5b2e25e706a946b782b1ea9bc028117e",
+  "testRatio": 1,
+  "createdDate": 1687362512017,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=5b2e25e706a946b782b1ea9bc028117e&builder.overrides.5b2e25e706a946b782b1ea9bc028117e=5b2e25e706a946b782b1ea9bc028117e&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "04-30-22 Solana Mainnet Beta Outage Report and Mitigation",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

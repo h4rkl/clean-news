@@ -1,0 +1,206 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1600239600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcaa96ceb75bc482a89de1b6b60dde236",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nSolana is on the move and thrilled to share the second US-based exchange to list SOL in the last 24 hours! Binance US is now accepting SOL…\n",
+    "publishedDate": "Wed Sep 16 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Binance.US Announces Support for SOL, making it the Second US Exchange within one day",
+      "ogUrl": "https://www.solana.com/blog/binance-us-announces-support-for-sol--making-it-the-second-us-exchange-within-one-day",
+      "ogDescription": "\nSolana is on the move and thrilled to share the second US-based exchange to list SOL in the last 24 hours! Binance US is now accepting SOL…\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Binance-US-Announces-Support-for-SOL--making-it-the-Second-US-Exchange-within-one-day/1-E70RKl3ld3lXagy3psshKw-3.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "Binance.US Announces Support for SOL, making it the Second US Exchange within one day",
+    "seo": {
+      "internalName": "Binance.US Announces Support for SOL, making it the Second US Exchange within one day",
+      "noFollow": false,
+      "seoDescription": "\nSolana is on the move and thrilled to share the second US-based exchange to list SOL in the last 24 hours! Binance US is now accepting SOL…\n",
+      "seoTitle": "Binance.US Announces Support for SOL, making it the Second US Exchange within one day",
+      "noIndex": false
+    },
+    "twitterMeta": {
+      "twitterTitle": "Binance.US Announces Support for SOL, making it the Second US Exchange within one day",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Binance-US-Announces-Support-for-SOL--making-it-the-Second-US-Exchange-within-one-day/1-E70RKl3ld3lXagy3psshKw-3.png",
+      "twitterDescription": "\nSolana is on the move and thrilled to share the second US-based exchange to list SOL in the last 24 hours! Binance US is now accepting SOL…\n"
+    },
+    "slug": "binance-us-announces-support-for-sol--making-it-the-second-us-exchange-within-one-day",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-b924ef3583f043f4a16acbb24670f7c3",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3c4611fb70ea4047a6b29537c4135804",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F887c39cc7b234f2a981d1f49aa05d6bb?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F887c39cc7b234f2a981d1f49aa05d6bb?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F887c39cc7b234f2a981d1f49aa05d6bb?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F887c39cc7b234f2a981d1f49aa05d6bb?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F887c39cc7b234f2a981d1f49aa05d6bb?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F887c39cc7b234f2a981d1f49aa05d6bb?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F887c39cc7b234f2a981d1f49aa05d6bb?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F887c39cc7b234f2a981d1f49aa05d6bb?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F887c39cc7b234f2a981d1f49aa05d6bb?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F887c39cc7b234f2a981d1f49aa05d6bb?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9dcd8c57e5534b81afc83d33663d95e0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana is on the move and thrilled to share the second US-based exchange to list SOL in the last 24 hours!&nbsp;<a href=\"https://support.binance.us/hc/en-us/articles/360055164473?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Binance.US</a>&nbsp;is now accepting SOL deposits immediately with trading beginning tomorrow, Friday 9/18, at 6 AM Pacific Time. Initial listing pairs will be SOL/USD and SOL/USDT.</p><p>This is an exciting milestone not just for The Solana Foundation, but also for US-based partners and community members who have played a tremendous role in expanding the value of the Solana ecosystem. Binance.US provides the Solana community with another first-rate liquidity partner to support our rapidly growing American audience. Across new applications, bridges, wallets, and other features, the community’s hard work has driven significant value, and the Solana Foundation can’t wait to share more of the genuinely great projects currently underway.</p><p>Beyond our existing community, the Solana Foundation is thrilled to welcome new SOL holders in the US.</p><p><strong>SOL is Coming To America!</strong></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-20990e443e0f4679852da046afc83be8",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe src=\"https://giphy.com/embed/12Nv3nBSCAbLO0/twitter/iframe\" width=\"435\" height=\"261\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-10bf9173ee2e478ab5835c4c4b04a235",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>About Binance US</strong></p><p>Launched in September 2019, Binance.US is a digital asset marketplace, powered by matching engine and wallet technologies licensed from the world’s largest cryptocurrency exchange, Binance. Operated by BAM Trading Services based in San Francisco, California, Binance.US provides a fast, secure, and reliable platform to buy and sell cryptocurrencies in the United States.</p><p><strong>Why This Is Exciting!</strong></p><p>Binance.US is one of the highest volume exchanges in the United States and the second exchange to offer SOL deposits and trading for US-based residents. US residents’ opportunity to trade SOL has been kept at bay for quite a while. This initially changed on September 16th when FTX US-listed SOL and continues with Binance US listing SOL on September 18th. With this addition, SOL is now available in almost every country around the world.</p><p><strong>Closing</strong></p><p>Things are moving quickly at Solana. Opening United States citizens’ availability to purchase SOL is another step toward supporting the rapidly expanding decentralized economy. The successful launch of&nbsp;<a href=\"http://projectserum.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Serum</a>, recent&nbsp;<a href=\"https://medium.com/solana-labs/tether-to-bring-usdt-to-the-solana-network-77864184b20?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">USDt announcement</a>, and migration of projects like Kin and Stardust to the Solana network create significant tailwinds for new projects and increased value to the network.</p><p>As always, make sure to follow Solana on our social channels for daily updates.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockfolio</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe0a29c3a15a44a829d5f0a56a553bfdb",
+  "lastUpdated": 1694189889542,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2ca0a8047fce4d5dbbcba4c6800757f2",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687547208396,
+  "@originId": "2ca0a8047fce4d5dbbcba4c6800757f2",
+  "testRatio": 1,
+  "createdDate": 1687362677423,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=2ca0a8047fce4d5dbbcba4c6800757f2&builder.overrides.2ca0a8047fce4d5dbbcba4c6800757f2=2ca0a8047fce4d5dbbcba4c6800757f2&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Binance.US Announces Support for SOL, making it the Second US Exchange within one day",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

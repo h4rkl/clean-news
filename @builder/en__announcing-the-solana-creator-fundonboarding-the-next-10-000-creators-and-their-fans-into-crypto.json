@@ -1,0 +1,198 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1627023600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff6ae9794618a42379ef46a3e5e1d7feb",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Announcing the Solana Creator Fund",
+    "publishedDate": "Fri Jul 23 2021 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Announcing the Solana Creator Fund",
+      "ogUrl": "https://www.solana.com/blog/announcing-the-solana-creator-fundonboarding-the-next-10-000-creators-and-their-fans-into-crypto",
+      "ogDescription": "Announcing the Solana Creator Fund",
+      "ogImage": "https://solana.ghost.io/content/images/2021/07/blog_Creator-fund_V01-01-1.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Announcing the Solana Creator Fund",
+      "noFollow": false,
+      "seoDescription": "Announcing the Solana Creator Fund",
+      "seoTitle": "Announcing the Solana Creator Fund",
+      "noIndex": false
+    },
+    "title": "Announcing the Solana Creator Fund",
+    "twitterMeta": {
+      "twitterTitle": "Announcing the Solana Creator Fund",
+      "twitterDescription": "Announcing the Solana Creator Fund",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/07/blog_Creator-fund_V01-01-1.png"
+    },
+    "slug": "announcing-the-solana-creator-fundonboarding-the-next-10-000-creators-and-their-fans-into-crypto",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_03e6904c00924a32b6187f46a5fa40d0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_1d25456cfae2407b969ed0dfab404bf3"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_b1d9f9c3192e47c78288a9d9c534a4e5"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-fa0d1b01afed44628fbc6b69bfdb5244",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9c036d2977bf440b8b5413fda9f4cade",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Onboarding the next 1,000 creators and their fans into crypto</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4f185a8090f24899a19418dd9b34e90e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab00666351184878a04835b29dee43f9?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.5,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 500,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab00666351184878a04835b29dee43f9?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab00666351184878a04835b29dee43f9?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab00666351184878a04835b29dee43f9?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab00666351184878a04835b29dee43f9?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab00666351184878a04835b29dee43f9?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab00666351184878a04835b29dee43f9?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab00666351184878a04835b29dee43f9?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab00666351184878a04835b29dee43f9?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fab00666351184878a04835b29dee43f9?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1b3fc4f508b343aab92b62434a2549db",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Public blockchains like Solana have given rise to a decentralized financial system that is more transparent, efficient, innovative, and accessible to anyone in the world. But it’s not just about finance. Crypto networks are now providing infrastructure for creators and artists of all kinds to connect directly with their fans and sidestep extractive networks, management firms, and centralized social media platforms.</p><p><strong>And so today (July 23, 2021), the Solana Foundation has joined forces with Audius and the Metaplex Foundation to launch a $5 million fund to bring the next wave of creators and fans onto crypto networks.</strong></p><p><a href=\"https://solanalabs.typeform.com/to/dSZNeWr8?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Apply here</strong></a><strong>.</strong></p><p>The Creator Fund is focusing on builders, musicians, and other artists who are experimenting with ecosystem projects like Audius, Metaplex and other decentralized platforms built on top of Solana. The Fund seeks to help creators pioneer new works in frontier categories like music streaming, NFTs, and The Metaverse, create new fan experiences using permissionless software, and spur innovation around creator-first business models. It will back visual artists, musicians, video producers, digital artists, performance artists, streamers, gamers, and other types of creators who are actively innovating and rewriting the rules of conventional wisdom for their field. In addition to capital, technical support will be provided to creators who need assistance utilizing crypto user interfaces, token models, and other monetization tools.</p><p>The growth of the creator economy is one of the most exciting developments of the 21st century and is pushing culture forward. We can't afford to wait for creators to discover what blockchains can do for them. The onus is on the Solana community to bring blockchain&nbsp;to&nbsp;creators. In order to get 1 billion people into crypto, we ourselves must experiment and reach outside our comfort zone to discover what's possible. To be clear, this will be hard. Most artists and creators are not tech-forward, and most don't care about Solana or blockchains whatsoever. That said, almost all of them can benefit from them, and funds like this are a step in the right direction toward creating a more diverse, innovative, and fair creator economy. That creator economy should be built on Solana, and we're willing to jump start it with initiatives like this, and more to come. Big swings lead to big outcomes.</p><p>The Solana Foundation is excited to partner with ecosystem projects like Metaplex and Audius who are already propelling the creator economy forward and bringing the next 1 billion people into crypto.</p><p><a href=\"https://audius.co/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Audius</a>&nbsp;is a digital streaming service that connects fans directly with artists and exclusive new music.&nbsp;It does this by being fully decentralized: Audius is owned and run by the community that makes it special. Audius is now one of the most popular music platforms on Earth with nearly 5 million monthly active users.</p><p><a href=\"https://www.metaplex.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Metaplex</a>&nbsp;enables artists and brands to build direct relationships with their audiences by launching their own NFT storefronts. In the words of Grammy Award Winner&nbsp;<a href=\"https://twitter.com/RAC?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RAC</a>, “Metaplex will do for NFTs what Shopify did for commerce, but takes it one step further by not acting as the middleman.”</p><p>The Solana Creator Fund is just one of the many community initiatives empowering creators, so be sure to follow&nbsp;<a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana on Twitter</a>&nbsp;for future announcements. And if you’re a creator who wants to join the crypto revolution, get in touch&nbsp;<a href=\"https://solanalabs.typeform.com/to/dSZNeWr8?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd8f9e59705fa4822bcabd79898e169da",
+  "lastUpdated": 1694189928048,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e9dfddc0d5284409bf04fe14b0cb05df",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687602983211,
+  "@originId": "e9dfddc0d5284409bf04fe14b0cb05df",
+  "testRatio": 1,
+  "createdDate": 1687362630317,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=e9dfddc0d5284409bf04fe14b0cb05df&builder.overrides.e9dfddc0d5284409bf04fe14b0cb05df=e9dfddc0d5284409bf04fe14b0cb05df&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Announcing the Solana Creator Fund",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

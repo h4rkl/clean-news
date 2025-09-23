@@ -1,0 +1,568 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1563260400000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+    "publishedDate": "Tue Jul 16 2019 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Tower BFT: Solana’s High Performance Implementation of PBFT",
+      "noFollow": false,
+      "seoDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+      "seoTitle": "Tower BFT: Solana’s High Performance Implementation of PBFT",
+      "noIndex": false
+    },
+    "title": "Tower BFT: Solana’s High Performance Implementation of PBFT",
+    "openGraph": {
+      "ogTitle": "Tower BFT: Solana’s High Performance Implementation of PBFT",
+      "ogUrl": "https://www.solana.com/blog/tower-bft--solana-s-high-performance-implementation-of-pbft",
+      "ogDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Tower BFT: Solana’s High Performance Implementation of PBFT",
+      "twitterImage": null,
+      "twitterDescription": "\nUnderstand 1 of 8 key technologies that make Solana the most performant blockchain in the world\n"
+    },
+    "slug": "tower-bft--solana-s-high-performance-implementation-of-pbft",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-eb7ee88ff35b4004b33d027ba04b0ce9",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3fa3ee4db9d245549d4724640bc0d3c1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Understand 1 of 8 key technologies that make&nbsp;</strong><a href=\"https://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana</strong></a><strong>&nbsp;the most performant blockchain in the&nbsp;world</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-34b062f85dbf4b94ac910c6e3e2a3462",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1887732926dc419ead9e9df270694bda?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1887732926dc419ead9e9df270694bda?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1887732926dc419ead9e9df270694bda?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1887732926dc419ead9e9df270694bda?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1887732926dc419ead9e9df270694bda?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1887732926dc419ead9e9df270694bda?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1887732926dc419ead9e9df270694bda?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1887732926dc419ead9e9df270694bda?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1887732926dc419ead9e9df270694bda?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1887732926dc419ead9e9df270694bda?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3dd13d59809047b0920be5f8fbb51588",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana</a>&nbsp;is the most performant permissionless blockchain in the world. On current iterations of the&nbsp;<a href=\"http://beta.testnet.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Testnet</a>, a network of 200 physically distinct nodes supports a sustained throughput of more than 50,000 transactions per second when running with GPUs. Achieving this requires the implementation of several optimizations and new technologies, and the result is a breakthrough in network capacity that signals a new phase in blockchain development.</p><h3><strong>There are 8 key innovations that make the Solana network possible:</strong></h3><ul><li><a href=\"https://solana.ghost.io/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Proof of History (POH)</strong></a><strong> </strong>— a clock before consensus;</li><li><a href=\"https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Tower BFT </strong></a>— a PoH-optimized version of PBFT;</li><li><a href=\"https://solana.ghost.io/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Turbine</strong></a> — a block propagation protocol;</li><li><a href=\"https://solana.ghost.io/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Gulf Stream</strong></a><strong> </strong>— Mempool-less transaction forwarding protocol;</li><li><a href=\"https://solana.ghost.io/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Sealevel </strong></a>— Parallel smart contracts run-time;</li><li><a href=\"https://solana.com/pipelining-in-solana-the-transaction-processing-unit/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Pipelining</strong></a> — a Transaction Processing Unit for validation optimization</li><li><a href=\"https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Cloudbreak</strong></a><strong> </strong>— Horizontally-Scaled Accounts Database; and</li><li><a href=\"https://solana.com/archivers/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Archivers</strong></a> — Distributed ledger store</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7dcff11b9d3c45d79f8f96c8e0bae69f",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa29cfe69fdd24931984032036473ab5d?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa29cfe69fdd24931984032036473ab5d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa29cfe69fdd24931984032036473ab5d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa29cfe69fdd24931984032036473ab5d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa29cfe69fdd24931984032036473ab5d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa29cfe69fdd24931984032036473ab5d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa29cfe69fdd24931984032036473ab5d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa29cfe69fdd24931984032036473ab5d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa29cfe69fdd24931984032036473ab5d?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa29cfe69fdd24931984032036473ab5d?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c1a08717e0cd4ba186aa785f803a00b5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In this blog post, we will explore&nbsp;<strong>Tower BFT,</strong>&nbsp;Solana’s custom implementation of PBFT that prefers liveness to consistency. Tower BFT leverages Solana’s PoH as a clock&nbsp;before&nbsp;consensus to reduce messaging overhead and latency&nbsp;.</p><p>“In order to provide aliveness, replicas must move to a new view, if they are unable to execute a request. However, it is important to maximize the period of time, when at least 2f + 1 non-faulty replicas are in the same view, and to ensure that this period of time increases exponentially until some requested operation executes” (<a href=\"http://pmg.csail.mit.edu/papers/osdi99.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Practical Byzantine Fault Tolerance</a>, Miguel Castro and Barbara Liskov).</p><p>Solana implements a derivation of PBFT, but with one fundamental difference. Proof of History (PoH) provides a global source of time before consensus. Our implementation of PBFT uses the PoH as the network clock of time, and the exponentially-increasing time-outs that replicas use in PBFT can be computed and enforced in the PoH itself.</p><p>PoH is a Verifiable Delay Function implemented as a sequential hash function. We use a loose definition of a VDF, since verification requires (compute time)/(number of cores). The basic principles of how PoH works are as follows:</p><ol><li>Sha256 loops as fast as possible, such that each output is the next input.</li><li>The loop is sampled, and the number of iterations and state are recorded.</li></ol><p>The recorded samples represent the passage of time encoded as a verifiable data structure. In addition, this loop can be used to record events.</p><ol><li>Messages that reference any of the samples are guaranteed to have been created after the sample.</li><li>Messages can be inserted into the loop and hashed together with the state. This guarantees that a message was created before the next insert.</li></ol><p>This data structure guarantees both time and order of events embedded within, and this core idea is the basis of all of the major technical optimizations in Solana.</p><p>Stated another way: Imagine you are on an island, and a bottle floats by with a thumb drive inside. On that drive is the Solana PoH ledger. Using only the PoH ledger, you can compute the state of all the nodes in the network. For example, a node is considered failed if a vote for the ledger has not been recorded in the last X hashes. We can consider the ledger to be valid if over the last X hashes hashes a supermajority of the network that has signed validation messages.</p><ol><li>All the nodes that examine this data structure will compute the exact same result,&nbsp;without requiring any peer-to-peer communication.</li><li>The PoH hash uniquely identifies that fork of the ledger; and</li><li>A validation vote message is only valid if the PoH hash that it voted on is present in the ledger.</li></ol><p>This brings us to voting and PBFT. Since the ledger itself works as a reliable network clock, we can encode the PBFT time-outs in the ledger itself.</p><p>1. A vote starts with a time-out of N hashes.</p><p>A Validator guarantees (with slashing) that once a vote for a PoH hash has been cast, the Validator will not vote for any PoH hash that is not a child of that vote, for at least N hashes.</p><p>2. The time-outs for all the predecessor votes double</p><p>To render operations more manageable, voting is restricted to a fixed period of hashes, which we call slots. Our goal for slots is the number of hashes that represents around 400ms. Every 400ms, the network has a potential rollback point, but every subsequent vote doubles the amount of real time that the network would have to stall before it can unroll that vote.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-eebab65e4a7d4dbfae6708e4c9a09935",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd9cc951380d9461d9b2c16b410e948b7?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd9cc951380d9461d9b2c16b410e948b7?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd9cc951380d9461d9b2c16b410e948b7?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd9cc951380d9461d9b2c16b410e948b7?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd9cc951380d9461d9b2c16b410e948b7?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd9cc951380d9461d9b2c16b410e948b7?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd9cc951380d9461d9b2c16b410e948b7?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd9cc951380d9461d9b2c16b410e948b7?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd9cc951380d9461d9b2c16b410e948b7?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd9cc951380d9461d9b2c16b410e948b7?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-372c2ab16f7f420ba8bca9beedd804e5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Imagine that each validator has voted 32 times in the last 12 seconds. The vote 12 seconds ago now has a timeout of 2³² slots, or roughly 54 years. Effectively, this vote will never be rolled back by the network. Whereas the most recent vote has a timeout of 2 slots, or about 800ms. As new blocks are added to the ledger, old blocks are increasingly likely to be confirmed because the number of slots old votes are committed to doubles every slot, or every 400ms.</p><p>Note that while this sounds like probabilistic finality in proof of work, it is not. Once ⅔ of validators have voted on some PoH hash, that PoH hash is canonicalized, and cannot be rolled back. This is distinct from proof of work, in which there is no notion of canonicalization.</p><p>To defend against being locked out from the rest of the network, each Validator ensures that they only vote if they see a supermajority of the network voting on the same ledger as well. Each Validator monitors when the timeout on an ancestor vote will increase past a predefined threshold — such as from 5 to 10 minutes — and ensures that a supermajority of the network has voted on a fork containing that vote. In practice, validators:</p><ol><li>Check if the supermajority has voted on a slot that will commit to a timeout of 10 minutes</li><li>If not, don’t vote</li></ol><p>So what happens to the network during a partition and timeouts actually start expiring?</p><ol><li>Any votes that have expired are cleared</li><li>Timeouts double for ancestors if and only if the child has an equal timeout</li></ol><p>For example, let’s consider a scenario in which the current timeouts are:</p><p><strong>64, 32, 16, 8, 4, 2</strong></p><p>If a validator stopped voting for 17 slots and voted again, the resulting timeouts for the validator would be:</p><p><strong>64, 32, 2</strong></p><p>It would take 4 more consecutive votes before all the ancestors double in timeouts again.</p><p><strong>64, 32, 4, 2</strong></p><p><strong>64, 32, 8, 4, 2</strong></p><p><strong>64, 32, 16, 4, 2</strong></p><p>Finally the 4th vote would double all the timeouts</p><p><strong>128, 64, 32, 16, 8, 4, 2</strong></p><p>This approach allows the network to continuously stream blocks without stalling the ledger until a supermajority observes the same ledger. Another notable aspect is that every participant in the network can compute the timeouts for every other participant without any P2P communications. This is what makes Tower BFT asynchronous.</p><p>We expect there to be many micro forks that are quickly discarded. When a Validator detects multiple forks, honest Validators compute the effective stake-weighted timeout of every fork and pick the heaviest one. Validator rewards are generated only for the votes that reach the 2³² timeout. Therefore, it is incentive compatible for validators to vote on top of the heaviest fork, since the fork with the largest amount of stake-weighted timeouts will generate the largest amount of rewards for the network.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6aa1d50cf07f49aeb646d78dff74d12a",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc2a22d56e5274ea586ac2f1e9e17917d?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.361,
+                "lockAspectRatio": false,
+                "height": 433,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc2a22d56e5274ea586ac2f1e9e17917d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc2a22d56e5274ea586ac2f1e9e17917d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc2a22d56e5274ea586ac2f1e9e17917d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc2a22d56e5274ea586ac2f1e9e17917d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc2a22d56e5274ea586ac2f1e9e17917d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc2a22d56e5274ea586ac2f1e9e17917d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc2a22d56e5274ea586ac2f1e9e17917d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc2a22d56e5274ea586ac2f1e9e17917d?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc2a22d56e5274ea586ac2f1e9e17917d?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6df29b55dd444b1cadd03f957749b33b",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana Validators and community: Take part in Tour de SOL and earn&nbsp;tokens!</p><p>Solana’s implementation of Tower BFT, alongside innovations like Proof of History, Proof of Replication, and Gulf Stream combine to create the most performant blockchain in the world. Solana’s testnet is live today. You can see it at&nbsp;<a href=\"https://testnet.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://testnet.solana.com</a>. For cost purposes, we are only running a handful of nodes. However, we have spun it up on many instances to over 200 physically distinct nodes (not on shared hardware) across 23 data centers on AWS, GCE, and Azure for benchmarking.</p><p>The runtime is functioning today, and developers can deploy code on the testnow now. Developers can build smart contracts in C today, and we are aggressively working on the Rust toolchain. Rust will be the flagship language for Solana smart contract development. The&nbsp;<a href=\"https://github.com/solana-labs/solana-web3.js?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Rust toolchain is publicly available</a>&nbsp;as part of the Solana Javascript SDK, and we are further iterating on the Software Development Kit.</p><p>Solana will soon launch a public beta incentivizing validators to run nodes via&nbsp;<a href=\"https://medium.com/solana-labs/solana-announces-tour-de-sol-an-incentivized-testnet-event-b26372a58a51?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tour de SOL</a> — analogous to Cosmos’s Game of Stakes — that challenges the public at large to test the limits of the Solana network while earning tokens for doing so.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d08b2b80311d477abdfbe94891c64516",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ed82e9c94a3409492b7ffd310aa724e?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ed82e9c94a3409492b7ffd310aa724e?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ed82e9c94a3409492b7ffd310aa724e?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ed82e9c94a3409492b7ffd310aa724e?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ed82e9c94a3409492b7ffd310aa724e?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ed82e9c94a3409492b7ffd310aa724e?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ed82e9c94a3409492b7ffd310aa724e?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ed82e9c94a3409492b7ffd310aa724e?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ed82e9c94a3409492b7ffd310aa724e?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5ed82e9c94a3409492b7ffd310aa724e?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-90e322c7637f4120bf7d07bc039f9607",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5eccd4a8d8fc41bda70da9f1e7140d0a?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.067,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 80,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5eccd4a8d8fc41bda70da9f1e7140d0a?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5eccd4a8d8fc41bda70da9f1e7140d0a?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5eccd4a8d8fc41bda70da9f1e7140d0a?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5eccd4a8d8fc41bda70da9f1e7140d0a?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5eccd4a8d8fc41bda70da9f1e7140d0a?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5eccd4a8d8fc41bda70da9f1e7140d0a?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5eccd4a8d8fc41bda70da9f1e7140d0a?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5eccd4a8d8fc41bda70da9f1e7140d0a?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5eccd4a8d8fc41bda70da9f1e7140d0a?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-14a6c54b798c4ac58d268351735b1722",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b36353861314b89aeb36f18bad0673e?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.066,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 53,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b36353861314b89aeb36f18bad0673e?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b36353861314b89aeb36f18bad0673e?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b36353861314b89aeb36f18bad0673e?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b36353861314b89aeb36f18bad0673e?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b36353861314b89aeb36f18bad0673e?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b36353861314b89aeb36f18bad0673e?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b36353861314b89aeb36f18bad0673e?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b36353861314b89aeb36f18bad0673e?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8b36353861314b89aeb36f18bad0673e?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e4ef004226a54d5e8017930e80ced077",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee30e8577a034f9c90ac8e0e32391a31?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee30e8577a034f9c90ac8e0e32391a31?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee30e8577a034f9c90ac8e0e32391a31?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee30e8577a034f9c90ac8e0e32391a31?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee30e8577a034f9c90ac8e0e32391a31?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee30e8577a034f9c90ac8e0e32391a31?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee30e8577a034f9c90ac8e0e32391a31?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee30e8577a034f9c90ac8e0e32391a31?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee30e8577a034f9c90ac8e0e32391a31?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee30e8577a034f9c90ac8e0e32391a31?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1fbd7a31005f433491b05ee9936dad9b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd8d8684957164cbd98db5afa1baa7ba0?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd8d8684957164cbd98db5afa1baa7ba0?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd8d8684957164cbd98db5afa1baa7ba0?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd8d8684957164cbd98db5afa1baa7ba0?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd8d8684957164cbd98db5afa1baa7ba0?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd8d8684957164cbd98db5afa1baa7ba0?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd8d8684957164cbd98db5afa1baa7ba0?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd8d8684957164cbd98db5afa1baa7ba0?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd8d8684957164cbd98db5afa1baa7ba0?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd8d8684957164cbd98db5afa1baa7ba0?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7a947f6384204a20acaf832a42423128",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56f224341ed24e4fb806ce5b6340a200?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.21,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 84,
+                "width": 400,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56f224341ed24e4fb806ce5b6340a200?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56f224341ed24e4fb806ce5b6340a200?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56f224341ed24e4fb806ce5b6340a200?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56f224341ed24e4fb806ce5b6340a200?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56f224341ed24e4fb806ce5b6340a200?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56f224341ed24e4fb806ce5b6340a200?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56f224341ed24e4fb806ce5b6340a200?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56f224341ed24e4fb806ce5b6340a200?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56f224341ed24e4fb806ce5b6340a200?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3f6510e8ecf549e99cf658e87fca228b",
+  "lastUpdated": 1694189906197,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_8442b5e6c2c94c4baa2d5d14cc08f86e",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687440067896,
+  "@originId": "8442b5e6c2c94c4baa2d5d14cc08f86e",
+  "testRatio": 1,
+  "createdDate": 1687362744507,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=8442b5e6c2c94c4baa2d5d14cc08f86e&builder.overrides.8442b5e6c2c94c4baa2d5d14cc08f86e=8442b5e6c2c94c4baa2d5d14cc08f86e&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Tower BFT: Solana’s High Performance Implementation of PBFT",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

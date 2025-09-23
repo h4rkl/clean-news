@@ -1,0 +1,274 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1660762800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8c37ef41e8874a1e88e80045fd846dee",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Neo Fairies is trying to change NFT incentives, and more stories from the Solana ecosystem.",
+    "publishedDate": "Thu Aug 18 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Monthly Community Update | August 2022",
+      "ogUrl": "",
+      "ogDescription": "Neo Fairies is trying to change NFT incentives, and more stories from the Solana ecosystem.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Monthly Community Update | August 2022",
+      "noFollow": false,
+      "seoDescription": "Neo Fairies is trying to change NFT incentives, and more stories from the Solana ecosystem.",
+      "seoTitle": "Monthly Community Update | August 2022",
+      "noIndex": false
+    },
+    "title": "Monthly Community Update | August 2022",
+    "twitterMeta": {
+      "twitterTitle": "Monthly Community Update | August 2022",
+      "twitterDescription": "Neo Fairies is trying to change NFT incentives, and more stories from the Solana ecosystem."
+    },
+    "slug": "monthly-community-update-august-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-49e71039411e45d4abc4e53d82c6f048",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a47cd242d0314992becaf6d5c74b10a1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Get this update first.&nbsp;<a href=\"http://eepurl.com/gOcpoL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up for the Solana Community Update newsletter!</a></p><h2><strong>Neo Fairies: Building community-centered entertainment and changing NFT incentives.</strong></h2><p>“How do you put people at the center of entertainment that they love?” asks Vijay Sundaram, the founder of&nbsp;<a href=\"https://ludaprojects.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Luda</a>.</p><p>It’s a question he’s been thinking about a lot these days. At Luda, Sundaram and a team of builders with roots in popular entertainment like Disney, the God of War video game series, and Niantic are trying to reinvent the relationship between fans and stories.</p><p>Fan communities built around entertainment franchises, like the Marvel Cinematic Universe or Minecraft, are vibrant forces of creativity — that ultimately benefit a large intellectual property rights holder, says Sundaram. “[The fans] don't really have a say in the future of Minecraft or Roblox. They ultimately are customers of that product.”</p><p>And while&nbsp;<a href=\"https://solana.com/learn/nfts?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">NFTs</a>&nbsp;and DAOs can give users ownership over art, many of the current incentives favor price and scarcity, not creative contributions. “Everything we built on the product side is very much about how do you deal with millions of NFTs? How do you make them free to access?” Sundaram says. “There's no mint, there's no auction, there's no drop — it's just you creating something and it's yours if you want it, and creating the model so that people's incentives are not to buy and trade and flip.”</p><p>To start, Luda has introduced the world of&nbsp;<a href=\"https://neofairies.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neo Fairies</a>. Built with a new tool called&nbsp;<a href=\"https://docs.wonderprotocol.org/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Wonder Protocol</a>&nbsp;— which allows users to mint as they build unique objects — users will be able to create characters, locations, and more, all while participating in a DAO that will guide the future of the property. And unlike some NFT projects that require a large investment of money up front, all users need to do to join in is make a creative contribution (by responding to a prompt) and pay a few dollars in fees.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-78460de4f066416ea72abb6b74833593",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/neofairies/status/1553425840582496257?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1553425840582496257%7Ctwgr%5E94700eb87377cd5b68ae84c6f1ed4a5a923e3803%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fmonthly-community-update-august-2022</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8fae1f3b4f78448f86fd36bb636ca5aa",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The urban-fantasy Neo Fairies envisions a version of our world where fairies have been in hiding. After joining the Discord, verifying yourself, and answering a prompt to get the creative juices flowing, users get an “Ikur Pass” that allows them to declare an area of the world a “fairy sanctuary” and mint an NFT. Soon, users will be able to use a character builder to create and mint their own characters, rather than receiving a randomly-generated one.</p><p>“We see this as one of the most aspirational ways to bring people into web3, and this new world that we want to build,” says Sundaram. “What we're trying to do is get this to be something where the community who helped create it, owns it — where the fans and the creators in that universe are literally at the center of that new monster universe in&nbsp;<a href=\"https://solana.com/learn/blockchain-basics?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">web3-land</a>…. We believe that all entertainment in the future should look and work this way.”</p><p><a href=\"https://neofairies.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about Neo Fairies.</a></p><h2><strong>Top Solana News</strong></h2><h3><strong>Jump Crypto introduces new validator client Firedancer</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6176a7ba30d54812a117b31c187bb173",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/jump_/status/1559586760887353344?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1559586760887353344%7Ctwgr%5E94700eb87377cd5b68ae84c6f1ed4a5a923e3803%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fmonthly-community-update-august-2022</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d484405979b743d4b60887c0cf15182d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This is big. Jump Crypto has announced that they are producing an alternate validator client for the Solana network. As president of Jump Crypto&nbsp;<a href=\"https://twitter.com/KanavKariya/status/1559539144640139272?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Kanav Kariya put it</a>, Firedancer is the \"first attempt at a second independent client implementation outside of eth world.\"</p><p><br></p><p><a href=\"https://jumpcrypto.com/jump-crypto-sets-out-to-build-new-validator-client-for-the-solana-blockchain-to-increase-the-throughput-and-reliability-of-the-network/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about Firedancer.</a></p><h3><strong>Read the Validator Health Report</strong></h3><p>The state of the validator network is strong. This month, the Solana Foundation released its&nbsp;<a href=\"https://solana.com/news/validator-health-report-august-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">first report on the health of the greater Solana validator network</a>.</p><p>The report dives into the validator network and key metrics the Foundation tracks to assess its health, including total validator count, Nakamoto Coefficient, and distribution of servers.</p><p>Some highlights:</p><ul><li>The Solana network now has 3,400 validators, including over 1,900 consensus-making nodes.</li><li>The Solana Foundation has verified that of 1,915 consensus-producing validators, at least 1,688 (88.14%) are run by independent entities.</li><li>Solana's Nakamoto Coefficient is now 31. See the chart below to see how Solana compares to other proof of stake networks.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2aecc9d5bcdf48f2814d7e087b1785f1",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0f3edbf7e8c44c0ca095ee269b3bc597?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.629,
+                "lockAspectRatio": false,
+                "height": 774,
+                "width": 1230,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0f3edbf7e8c44c0ca095ee269b3bc597?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0f3edbf7e8c44c0ca095ee269b3bc597?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0f3edbf7e8c44c0ca095ee269b3bc597?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0f3edbf7e8c44c0ca095ee269b3bc597?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0f3edbf7e8c44c0ca095ee269b3bc597?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0f3edbf7e8c44c0ca095ee269b3bc597?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0f3edbf7e8c44c0ca095ee269b3bc597?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0f3edbf7e8c44c0ca095ee269b3bc597?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0f3edbf7e8c44c0ca095ee269b3bc597?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1cf723749d5044c2bd254845dc2d5822",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Source:&nbsp;<a href=\"https://nakaflow.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Nakaflow</a>&nbsp;(as of 8/7/22)</p><p><a href=\"https://solana.com/news/validator-health-report-august-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Read the full report.</a></p><h3><strong>Major League Hacking opens applications for Solana Fellowship</strong></h3><p>It's time to learn. MHL Fellowships announces that applications are open for its Solana Fellowship. If you've a developer who is interested in getting started, apply to get started.</p><p><a href=\"https://fellowship.mlh.io/?utm_campaign=fellowship-hackers-batch_22fal&amp;utm_medium=social&amp;utm_source=twitter\" rel=\"noopener noreferrer\" target=\"_blank\">Apply now.</a></p><h2><strong>Ecosystem Headlines</strong></h2><p>Here's what's new this month:</p><ul><li><a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tickets for Breakpoint</a>, the Solana conference in Lisbon this November, are going fast.</li><li>Metaplex released&nbsp;<a href=\"https://twitter.com/metaplex/status/1555376528552255489?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Alpha Compression for NFTs</a>&nbsp;that help creators and builders to mint 1 million NFTs at a time.</li><li><a href=\"https://twitter.com/PythNetwork/status/1554115555325624321?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Pyth</a>&nbsp;announced the launch of Pythnet, a network built on the Solana codebase that enables the Pyth network to aggregate first-party data at sub-second speeds.</li><li>Rarible Protocol, the leading open source and multichain NFT protocol,&nbsp;<a href=\"https://twitter.com/rarible/status/1547612012535943168?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announces support for Solana NFTs</a>.</li><li><a href=\"https://twitter.com/saydialect/status/1544335026527019008?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Dialect</a>, a web3 messaging service, is working with the Solana Mobile to build out core messaging infrastructure and developer tooling for SMS.</li><li>Jito Labs&nbsp;<a href=\"https://twitter.com/jito_labs/status/1544422217286647808?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announces an MEV dashboard</a>&nbsp;for Solana.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6516d163e6aa4155a0de1d2386b5ee34",
+  "lastUpdated": 1696413667336,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_4779d8577e7148efaa1fea86e650a46b",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687558398733,
+  "@originId": "4779d8577e7148efaa1fea86e650a46b",
+  "testRatio": 1,
+  "createdDate": 1687362469001,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=4779d8577e7148efaa1fea86e650a46b&builder.overrides.4779d8577e7148efaa1fea86e650a46b=4779d8577e7148efaa1fea86e650a46b&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly Community Update | August 2022",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

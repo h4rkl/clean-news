@@ -1,0 +1,119 @@
+{
+  "folders": [],
+  "data": {
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F949440bda43c4b71a486a03213041541",
+    "inputs": [],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e4e93f3f7e6549629c15a31c9012072d"
+    },
+    "title": "Solana validators adopt the v1.16 update",
+    "twitterMeta": {
+      "twitterTitle": "Solana validators adopt the v1.16 update | Solana",
+      "twitterImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F949440bda43c4b71a486a03213041541",
+      "twitterDescription": "What you can expect in v1.16."
+    },
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "datePublished": 1695715200000,
+    "intro": "What you can expect in v1.16.",
+    "publishedDate": "Tue Sep 26 2023 11:00:00 GMT+0300 (Eastern European Summer Time)",
+    "openGraph": {
+      "ogTitle": "Solana validators adopt the v1.16 update | Solana",
+      "ogDescription": "What you can expect in v1.16.",
+      "ogImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F949440bda43c4b71a486a03213041541"
+    },
+    "seo": {
+      "seoDescription": "What you can expect in v1.16.",
+      "seoTitle": "Solana validators adopt the v1.16 update | Solana"
+    },
+    "slug": "solana-validators-v1-16-update",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-4c8f0722698a4ae583b5b992f6c004e7",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bd8e8f0204a64da59a308085332a5732",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>On Sept. 25, 2023, Solana Labs engineers notified validators that v1.16, a proposed update to the Solana Labs validator client, would soon be available for mainnet-beta. This comes after numerous audits and the work of volunteer adopters, who were able to identify and help engineers correct earlier issues (learn more below).</p><p>Version 1.16 contains nearly ten months of work and includes a number of developments that will be activated over time. Here’s what you can expect.</p><h2>Feature updates</h2><ul><li>Improve runtime support for zero-knowledge math:</li><li>Supports SPL Token22 Confidential Transfers.</li><li>Supports 128 elliptic curve operations (equivalents of EIP-196, EIP-197, and EIP-198).</li><li>Support for resizeable program data accounts.</li></ul><h2>Performance updates</h2><ul><li>The ledger data cleanup service has been optimized to reduce disk IO and time spent searching for entries to remove.</li><li>Gossip pull-requests peer sampling has been reworked to reduce startup bandwidth.</li><li>Accounts index has been moved to disk by default, which reduces memory usage while increasing IOPS. </li></ul><h2>Resiliency</h2><ul><li>Several small changes were made to improve performance and resilience of the repair process:</li><li>Repair requests are now prioritized by stake</li><li>The delay threshold for issuing shred repairs was increased (100ms -&gt; 200ms) to reduce the number of repair requests for shreds that would ultimately be served through turbine anyway.</li><li>Epoch accounts hash: If no transaction interacts with an account during a block, the contents of that account will have no effect on the block. Accounts that are rarely accessed could be corrupted on individual validators and the corruptions would go undetected. The epoch accounts hash project generates the hash of all accounts once per epoch and includes the result in a bank’s hash. Nodes with corrupted accounts will fork off within an epoch, so corruptions will be detected quickly.</li></ul><h2>How was v1.16 tested</h2><h3>Testnet</h3><p>Testnet has been running v1.16 since June 7, 2023. In addition to handling public transactions testnet is stress tested regularly with high transaction volume. More recently core contributors have built a regression and capacity testing framework that is used regularly on testnet.</p><h3>Canaries</h3><p>Solana Labs operates canary nodes on mainnet-beta including seven that run the beta branch (currently v1.16). Those v1.16 nodes have been stable for several months. To follow the canaries in real time checkout the #canaries-monitoring channel on the <a href=\"https://solana.com/discord\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Tech Discord</a>.</p><h3>Fuzzers</h3><p>Multiple runtime fuzzers have also been developed. Their implementations vary, but they execute partially randomized transactions against multiple versions of the runtime to ensure that the results are consistent. This is especially useful for catching edge cases or race conditions that manifest infrequently.</p><h3>Audits</h3><p>Version 1.16 has been extensively audited by multiple external auditors. Reports will be published to the <a href=\"https://github.com/solana-labs/security-audits\" rel=\"noopener noreferrer\" target=\"_blank\">security-audits</a> repo as they become available.</p><h3>Volunteer adoption</h3><p>A small subset of volunteers updated their mainnet-beta nodes to v1.16 starting on Aug. 23, 2023. These early adopters helped identify and resolve remaining issues including <a href=\"https://github.com/solana-labs/solana/issues/33087\" rel=\"noopener noreferrer\" target=\"_blank\">slow startup for RPC nodes</a> and <a href=\"https://github.com/solana-labs/solana/issues/32940\" rel=\"noopener noreferrer\" target=\"_blank\">general protection faults</a>.</p><p>Thanks to these volunteers, these issues have been corrected and v1.16 is now available for widespread use.</p><h2>Where can I monitor for future releases?</h2><p>If you are not a validator, the best place to monitor for updates is the <a href=\"https://twitter.com/solanastatus\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Status Twitter account.</a></p><h2>Related links</h2><p>For more information about features that will be activated over time see the <a href=\"https://github.com/solana-labs/solana/wiki/Feature-Gate-Activation-Schedule\" rel=\"noopener noreferrer\" target=\"_blank\">Feature Gate Activation Schedule</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa7e9e003278a485d983b9effbeba93bb",
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_aef5f9dad31244139c0d77ce6995c230",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1695737756938,
+  "@originId": "aef5f9dad31244139c0d77ce6995c230",
+  "testRatio": 1,
+  "createdDate": 1695673609970,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "name": "Solana validators adopt the v1.16 update",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@liveSyncEnabled": true,
+  "lastUpdated": 1715290272988,
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "previewUrl": "https://solana.com/news/solana-validators-v1-16-update",
+  "meta": {
+    "kind": "component",
+    "componentsUsed": {
+      "Copy": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false,
+    "lastPreviewUrl": "https://solana.com/news/solana-validators-v1-16-update?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=aef5f9dad31244139c0d77ce6995c230&builder.overrides.aef5f9dad31244139c0d77ce6995c230=aef5f9dad31244139c0d77ce6995c230&builder.options.includeRefs=true&builder.options.locale=Default"
+  },
+  "rev": "l9w1e2t4y1"
+}

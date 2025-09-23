@@ -1,0 +1,228 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1670871600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5fba3e91c46f429fbcaf71556a3555be",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "That time the Solana community created OpenBook, and more updates from the ecosystem.",
+    "publishedDate": "Tue Dec 13 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Monthly Community Update | December 2022",
+      "ogUrl": "",
+      "ogDescription": "That time the Solana community created OpenBook, and more updates from the ecosystem.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Monthly Community Update | December 2022",
+      "noFollow": false,
+      "seoDescription": "That time the Solana community created OpenBook, and more updates from the ecosystem.",
+      "seoTitle": "Monthly Community Update | December 2022",
+      "noIndex": false
+    },
+    "title": "Monthly Community Update | December 2022",
+    "twitterMeta": {
+      "twitterTitle": "Monthly Community Update | December 2022",
+      "twitterDescription": "That time the Solana community created OpenBook, and more updates from the ecosystem."
+    },
+    "slug": "monthly-community-update-december-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-466bf9a08ff04ef7bd624125fe650822",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bc2c0b9d0ece4b3eb5595daa67cbbec1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>OpenBook: How the Solana community came together to create a replacement for Serum</strong></h2><p>The collapse of FTX was a shock to the web3 community, including the Solana ecosystem. Though the relationship between FTX and the Solana community&nbsp;<a href=\"https://fortune.com/crypto/2022/12/06/ripping-the-bandaid-solana-cofounders-talk-sbf-ftx-and-what-comes-next/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">wasn’t particularly notable recently</a>, FTX was involved in the early days of Solana, largely as the primary developer of Serum.</p><p>“Think of Serum as a stock market without the centralized exchange of NASDAQ and the NYSE,” said Solana developer Brian Long. “Serum served a critical role in the Solana decentralized finance ecosystem.”</p><p>Because Serum was one of the first order books built using Solana’s high throughput, it played an outsized role in attracting traditional finance to the ecosystem, added Soju, a contributor to Solend Protocol. “[Serum provided] lots of dependencies from various DeFi protocols.”</p><p>While Serum was technically a DAO, FTX&nbsp;<a href=\"https://www.wired.com/story/ftx-serum-crypto-exchange/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">still held the keys</a>&nbsp;to make changes to the code. As the ecosystem watched the collapse unfold in real time, community members were watching Serum like a hawk. “If the program upgrade keys were compromised, they could be used to change the program and possibly steal user funds,” said Long.</p><p>Max Shreider of Mango, a large Solana DeFi project, noticed the problem and&nbsp;<a href=\"https://twitter.com/m_schneider/status/1591636068650352640?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">raised the alarm.</a>&nbsp;The community jumped into action. They forked, or copied the code, from a previous version of Serum to create a brand new, community-owned tool called OpenBook. Soon, Soju said, “other members of the Solana community such as Raydium, Jupiter and Triton were assisting the Mango team in rapidly deploying a fork of Serum v3.” Volunteers from across the Solana ecosystem stepped into action to create the new community-owned resource, jumping in to help however they could.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e6b44f2c5536417586f5d8a00cac3766",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/m_schneider/status/1591636076103634944?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1591636078037200896%7Ctwgr%5E79136f79f94df4a05f37320c7a96b14db01cafdf%7Ctwcon%5Es2_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fmonthly-community-update-december-2022</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2de1beb3764640ce84a17d22ea8f8b39",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>“I ran some ‘cranks’ — an off-chain script used to process matched orders in the order book,” said Long. He also “helped with the legal stuff” and started to raise awareness of the project in the community. “I guess that makes me a cat-herder, crank-turner, and cheerleader.”</p><p>Soju helped Long spread the word about OpenBook. “Currently, I run the Discord and Twitter, while coordinating with different parties to get minor tasks done.”</p><p>The initial transition over to OpenBook has been a success — by Nov. 16th,&nbsp;<a href=\"https://twitter.com/i/spaces/1eaKbrykWnvKX?s=20&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">there was more trading on OpenBook than on Serum.</a>&nbsp;What will happen next, however, is still open to question. “Personally, I would like to see Open Book move forward as a community-led project with no profit motivation,” Long says.</p><p>Soju agrees. “OpenBook can be something that everyone agrees is vital to Solana, and as a public good, does not serve to enrich any one small group of people,” they said. “This can unite the extremely large pool of talented developers in Solana to contribute to OpenBook, for the entire ecosystem.”</p><p><a href=\"https://twitter.com/openbookdex?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about OpenBook.</a></p><h2><strong>Top Solana News</strong></h2><h3><strong>Solana Mobile Announces DVT-1, Coming December 15th</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6d861956e2a14772bf002ea901290e08",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56c1b29bb0614cd285832af939b6fd8b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "height": 563,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56c1b29bb0614cd285832af939b6fd8b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56c1b29bb0614cd285832af939b6fd8b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56c1b29bb0614cd285832af939b6fd8b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56c1b29bb0614cd285832af939b6fd8b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56c1b29bb0614cd285832af939b6fd8b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56c1b29bb0614cd285832af939b6fd8b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56c1b29bb0614cd285832af939b6fd8b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56c1b29bb0614cd285832af939b6fd8b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F56c1b29bb0614cd285832af939b6fd8b?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-efa639d95a414c15bed47ce0d48e4b85",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>They're here.</p><p>Solana Mobile announced DVT-1, a developer unit program, would be coming starting Dec. 15th. Developers who are selected for DVT-1 will get early access to a phone to start building the mobile web3 projects of the future.</p><p>Interested?&nbsp;<a href=\"https://twitter.com/solanamobile/status/1601328643434635264?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Find out if you qualify and how to sign up.</a></p><h3><strong>Stripe announces payments onramps with Solana projects</strong></h3><p>Wow! This month,&nbsp;<a href=\"https://twitter.com/solana/status/1598362890641227777?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Stripe debuted</a>&nbsp;its payments onramp — and 11 of the 16 initial projects are built on Solana.</p><p>Stripe now has onramps with Audius, Backpack, FastAF, Fractal, Glow, Magic Eden, Magic, Orca, Ottr Finance, Spot, and Ultimate. U.S.-based developers and projects who are interested in signing up for the program can&nbsp;<a href=\"https://stripe.com/use-cases/crypto?ref=solana.ghost.io#request-invite\" rel=\"noopener noreferrer\" target=\"_blank\">learn more at Stripe.</a></p><h3><strong>Take a look at a snapshot of the Solana Network</strong></h3><p>The Solana Foundation has released a report looking at the performance of the Solana network in the days after the collapse of FTX.</p><p>The bottom line: Despite dealing with more complex transactions than normal and being under stress, the network performed (and continues to perform) well. In the time between Nov. 8-17th, average transactions averaged over 2,000 TPS, average blocktime remained below the historical average, and daily programs used was down 5%, in line with recent months.</p><p><a href=\"https://solana.com/news/snapshot-state-of-the-network-nov-17-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">See the live data in the full report.</a></p><h2><strong>Ecosystem Headlines</strong></h2><p>Here's what's new this month:</p><ul><li>Binance has resumed trading their&nbsp;<a href=\"https://www.binance.com/en/support/announcement/deposits-of-usdc-sol-token-resumed-5580d2b8411541a6a550fe658bc47397?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">USDC</a>&nbsp;and&nbsp;<a href=\"https://www.binance.com/en/support/announcement/deposits-of-usdt-sol-token-resumed-4df9fb3a27bf4735b7a726a3a9849ac0?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">USDT</a>&nbsp;on Solana rails. ByBit, KuCoin, and MEXC have also resumed trading.</li><li><a href=\"https://twitter.com/SquadsProtocol/status/1600489076569751552?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Squads</a>&nbsp;announced Account Abstraction.</li><li>Encode Club announced&nbsp;<a href=\"https://twitter.com/encodeclub/status/1600174646787473409?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a new Solana-focused hackathon.</a></li><li><a href=\"https://t.me/c/1340397132/256?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">CoinLedger</a>&nbsp;now supports automatic tax reporting for Solana.</li><li>A new plugin available for download from SolPress plugins allows users to&nbsp;<a href=\"https://twitter.com/SolPressPlugins/status/1597022403334311941?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">log in with Solana</a>&nbsp;on WordPress sites.</li><li><a href=\"https://twitter.com/solana/status/1598402449169154049?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Happy DEVcember!</a>&nbsp;Open a present to help you learn how to build on Solana every day from Dec. 1st-20th.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe667784e178947d5bdcba93f6e64a65c",
+  "lastUpdated": 1696413081563,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_55a8b395c4f34707bbc46aa5dbae8512",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687588651698,
+  "@originId": "55a8b395c4f34707bbc46aa5dbae8512",
+  "testRatio": 1,
+  "createdDate": 1687362438580,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=55a8b395c4f34707bbc46aa5dbae8512&builder.overrides.55a8b395c4f34707bbc46aa5dbae8512=55a8b395c4f34707bbc46aa5dbae8512&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly Community Update | December 2022",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

@@ -1,0 +1,183 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1681887600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F377295fe18924891bcf8e60c19753f19",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Almost one million hotspots land on Solana via largest NFT mint so far.",
+    "publishedDate": "Wed Apr 19 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "Helium upgrades to Solana, establishes a new foundation for its future",
+    "openGraph": {
+      "ogTitle": "Helium upgrades to Solana, establishes a new foundation for its future",
+      "ogUrl": "https://www.solana.com/blog/helium-upgrades-to-solana",
+      "ogDescription": "Almost one million hotspots land on Solana via largest NFT mint so far.",
+      "ogImage": "https://solana.ghost.io/content/images/2023/04/Frame-5.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Helium upgrades to Solana, establishes a new foundation for its future",
+      "noFollow": false,
+      "seoDescription": "Almost one million hotspots land on Solana via largest NFT mint so far.",
+      "seoTitle": "Helium upgrades to Solana, establishes a new foundation for its future",
+      "noIndex": false
+    },
+    "twitterMeta": {
+      "twitterTitle": "Helium upgrades to Solana, establishes a new foundation for its future",
+      "twitterImage": "https://solana.ghost.io/content/images/2023/04/Frame-5.png",
+      "twitterDescription": "Almost one million hotspots land on Solana via largest NFT mint so far."
+    },
+    "slug": "helium-upgrades-to-solana",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-59c77ee25bbd402e8cdf6d8730ed3b5c",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-97cbccd463124f03af730051c0f3fa95",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Main points</strong></p><ul><li>Helium has now completed its upgrade to Solana in one of the most significant layer 1 blockchain migrations ever.</li><li>Each hotspot is being minted as an NFT, a remarkable development on Solana that would be cost-prohibitive on any other blockchain.</li><li>Decentralized Physical Infrastructure (DePin) projects are flourishing on Solana, bringing blockchain technology into the real world.</li></ul><p>Helium has now completed its upgrade to Solana in one of the most significant layer 1 blockchain migrations ever. Helium pioneered a wireless network powered by people with almost one million hotspots deployed, and today marks a significant achievement that we believe will only lead to greater advancements.</p><p>Helium is a decentralized wireless network, the largest LoRaWAN network in the world, providing wireless access via its constellation of hotspots deployed by individuals and enterprises around the world. Helium has coverage in 192 countries and full wireless coverage in Lisbon, Los Angeles, New York City, London, Zurich, Amsterdam, Istanbul, Berlin, and Sydney, among many others. Helium’s community has also been busy during the past year deploying 5G coverage, with more than 8,000 5G radios in the wild.</p><p>Helium developers previously operated its own layer 1 blockchain, but the community saw more opportunity to scale and thrive on the Solana network (<a href=\"https://medium.com/@heliumfoundation/a-new-era-for-helium-begins-with-upgrade-to-solana-blockchain-88b742276ec1?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">read more about Helium’s upgrade to Solana</a>). Today, that opportunity becomes reality.</p><p>This is a great day for the communities of both Helium and Solana.</p><ul><li>Without worrying about the base layer blockchain, Helium’s vision for a decentralized wireless network will be better realized now because they will be more focused, better resourced, and better able to scale.</li><li>Helium’s upgrade opens up new utilities on Solana, such as new composability, smart contracts, DeFi, NFTs, other decentralized physical infra projects, and more, which weren’t previously possible on Helium’s own layer 1.</li><li>Helium’s upgrade to Solana is a great example of how decentralized physical infrastructure projects can provide real utility to users and can leverage Solana’s unrivaled speed, near-zero costs, and energy efficiency.&nbsp;</li></ul><p>How the upgrade to Solana is happening is also noteworthy. Each hotspot is being minted as an NFT, a remarkable development on Solana that would be cost-prohibitive on any other blockchain&nbsp;<a href=\"https://solana.com/news/state-compression-compressed-nfts-solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">thanks to the recent release of state compression</a>. For instance, minting 900k compressed NFTs on Solana costs as little as 0.3 SOL in storage cost and 5 SOL in transaction cost (roughly $122 at the time of publication), versus ~10,800 SOL ($260,000) in transaction costs for an uncompressed equivalent.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3fa25ed007344e5fbc4cac5ac827bc75",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd557d8cd4e5a49489e5bf119a6bb368d?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.7041,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd557d8cd4e5a49489e5bf119a6bb368d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd557d8cd4e5a49489e5bf119a6bb368d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd557d8cd4e5a49489e5bf119a6bb368d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd557d8cd4e5a49489e5bf119a6bb368d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd557d8cd4e5a49489e5bf119a6bb368d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd557d8cd4e5a49489e5bf119a6bb368d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd557d8cd4e5a49489e5bf119a6bb368d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd557d8cd4e5a49489e5bf119a6bb368d?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd557d8cd4e5a49489e5bf119a6bb368d?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-35e9e28ce91b4a4c8c2b74161f4190f4",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This chart is based on a snapshot taken on April 5, 2023 and based on a price of SOL at $21.14, MATIC at $1.14, and ETH at $1,909.45.&nbsp;<a href=\"https://solana.com/news/helium-upgrades-to-solana#fn\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here.</a></p><p>The value of minting an NFT for each hotspot is that the NFT acts as credentials for the hotspot and verifies its authenticity — all without a centralized service needed for verification. Additionally, the hotspot-as-NFT provides data for developers to build programs on top of Helium, and enables Helium Foundation and the Helium community to create token-gated experiences.</p><p>Decentralized Physical Infrastructure (DePIN) projects built on Solana serve functions in the real world beyond just executing compute. These projects are unique, as the physical location of the infrastructure provides critical value to the network.</p><p>Today this can only happen on Solana’s network, which is why DePIN projects from Helium to Hivemapper to Render to Onocoy are flourishing on Solana. These are all projects that bring blockchain technology into the real world.</p><p>The Solana Foundation is proud that the Helium community chose to build its future on Solana. There are several key advantages to Solana serving as the backbone for Helium:</p><ul><li><u>Cost-effective connectivity:</u>&nbsp;Community members benefit from the near-zero transaction costs of Solana.</li><li><u>Focus:</u>&nbsp;Helium’s community gets to stay laser-focused on their mission to develop “the people’s network”, not manage a layer 1 blockchain.</li><li><u>Open-source ethos:</u>&nbsp;Helium is built on open-source technology, and given that Solana has&nbsp;<a href=\"https://twitter.com/solana/status/1615398642717687842?lang=en&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the second largest organic developer community in web3</a>, there is clear overlap between ecosystems.</li><li><u>Composable smart contracts in one global state:</u>&nbsp;Helium developers will, for the first time, be able to write smart contracts that govern hotspots, sensors, and other devices on the network. At the same time, Solana developers will be able to pull in real-world data from Helium into their apps.</li></ul><p>The power of Solana is that it enables other entrepreneurs and innovators to expand the vision of their product and impact. It’s incredible to witness builders show off the advantages of Solana to people who haven’t yet experienced web3. Just last week, Solana Mobile announced&nbsp;<a href=\"https://solanamobile.com/news/saga-available-new-mobile-web3-era?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the launch of the Saga phone</a>, which makes it easy and secure for people to take care of their digital assets. Helium Mobile was at the launch event, offering Saga owners a month of free access to the Helium network starting in June.</p><p>This is just the beginning of the Solana community and the Helium community coming together as one. Stay tuned for what comes next.</p><p><strong>Editor's note, April 19, 2023:</strong>&nbsp;This post has been updated to clarify the costs associated with minting and storing compressed NFTs.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F30243c1af2e94efda17c5392e42d74e5",
+  "lastUpdated": 1694189894782,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_415b758ae7e04f66a51e3d0da24cdfa3",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687594236417,
+  "@originId": "415b758ae7e04f66a51e3d0da24cdfa3",
+  "testRatio": 1,
+  "createdDate": 1687362380608,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=415b758ae7e04f66a51e3d0da24cdfa3&builder.overrides.415b758ae7e04f66a51e3d0da24cdfa3=415b758ae7e04f66a51e3d0da24cdfa3&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Helium upgrades to Solana, establishes a new foundation for its future",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

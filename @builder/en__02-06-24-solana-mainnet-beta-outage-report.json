@@ -1,0 +1,122 @@
+{
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "createdDate": 1707257133755,
+  "data": {
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_7936d8cf751d43dcbc38a1bb3e3c6afc",
+      "model": "author"
+    },
+    "datePublished": 1707483600459,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F949440bda43c4b71a486a03213041541",
+    "inputs": [],
+    "intro": "On 2024-02-06 at 09:53 UTC Solana Mainnet Beta block finalization halted.",
+    "seo": {
+      "seoDescription": "On 2024-02-06 at 09:53 UTC Solana Mainnet Beta block finalization halted.",
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F949440bda43c4b71a486a03213041541",
+      "seoTitle": "02-06-24 Solana Mainnet Beta Outage Report"
+    },
+    "slug": "02-06-24-solana-mainnet-beta-outage-report",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb",
+          "model": "entity-blog-tags"
+        }
+      }
+    ],
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "02-06-24 Solana Mainnet Beta Outage Report"
+    },
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-c62be0aaadba424c946c7bc17f4fb47e",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          },
+          "isRSC": null
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a2bd18a3adb94612aedf9635760b2749",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ]
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p><em>This report was originally published by </em><a href=\"https://medium.com/@jeff.washington/2024-02-06-solana-mainnet-beta-outage-report-619bd75b3ce0\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Anza.</em></a></p><h2>Timeline</h2><p>On 2024-02-06 at 09:53 UTC Solana Mainnet Beta block finalization halted. Engineers from various ecosystem teams immediately began triaging the situation, determining the cause to be consistent with a bug that had been identified during the investigation of a recent Devnet outage and for which a patch was to be imminently deployed. This patch was slightly modified so that it would take immediate effect upon cluster restart and a v1.17.20 release cut to include this change. Simultaneously, validator operators had been coordinating restart instructions, determining 246,464,040 to be the highest available optimistically confirmed slot from which to start the cluster and preparing appropriate snapshots from that point. v1.17.20 release binaries and finalized restart instructions were published around 12:34 UTC. Consensus progress resumed again at 14:55 UTC, resulting in a total incident duration of approximately five hours.</p><h2>Root cause analysis</h2><h3>Preliminaries</h3><p>The Solana Labs validator implementation JIT compiles all programs before executing a transaction referencing them. To avoid excess recompilations, the JIT output of frequently used programs is cached.&nbsp;</p><p>Historically, this cache had been implemented via <code>ExecutorsCache</code>, whose structure was copied to each new block from its parent, duplicating accounting information and costing an additional recompile for the breadth of any forking events. With the v1.16 release branch, <code>ExecutorsCache</code> was replaced by a new implementation called <code>LoadedPrograms</code>.</p><p>The relevant objectives of <code>LoadedPrograms</code> were to make the cached programs view global, and fork-aware, reducing accounting information duplication, and allow transaction execution threads to cooperatively load new programs, preventing JIT compilation conflicts that could cause threads to block each other's progress. Part of the fork-awareness implementation is keeping track of the <em>effective slot height (the slot where the program becomes active)</em> for each program deployment to detect when a cache entry is invalidated by the on-chain program data being replaced. The cooperative loading strategy maintains usage statistics for each program that has been referenced by another program, including those whose JIT output has been unloaded due to eviction or invalidation to improve eviction performance.</p><h3>The bug</h3><p>For programs deployed with a modern loader, <code>LoadedPrograms</code> is able to use accounting information stored in a program's on-chain account to look up its most recent deployment slot and use this to calculate the effective slot height. However, for programs deployed with legacy loaders, the deployment slot is not retained in the account, so <code>LoadedPrograms</code><strong> uses a sentinel <em>effective slot height</em> of zero whenever a legacy loader program is encountered.</strong> There is an exception to this rule when an actual deploy instruction is observed, signaling that a program's bytecode has been replaced. In this case,&nbsp; <code>LoadedPrograms</code> inserts a corresponding entry into its accounting table with a <strong>true <em>effective slot height</em> regardless of which loader is used to deploy the program.</strong> This entry though, is highly susceptible to eviction since it has never been referenced by a transaction. When this occurs, the JIT output is thrown away and the program's accounting entry is replaced with one denoting its status as unloaded and<strong> retaining the <em>effective slot height</em>.&nbsp;</strong></p><p>The next time a transaction references this program, <code>LoadedPrograms</code> rightly requires that it be recompiled due the <em>unloaded</em> status. When compilation is complete, a new accounting entry is inserted at the program's <em>effective slot height.</em> On the next iteration through <code>LoadedPrograms</code>'s main loop, the newly loaded program is now visible and returned for transaction execution. However in the case of a legacy loader program, the new <strong>JIT output is inserted at the sentinel effective slot height of zero. This makes it effectively invisible</strong> to <code>LoadedPrograms</code> as the new entry is placed behind the unloaded entry. So every iteration through the mainloop triggers another recompilation of the same program as it always appears to be unloaded. <strong>This created a classic infinite loop.</strong></p><p>On its own, this would only be sufficient to stall a leader attempting to execute the transaction referencing the affected program. The corresponding block would never be broadcast and the triggering transaction would not be propagated to the rest of the cluster. However, in v1.16 <code>LoadedPrograms </code>did not have the cooperative loading feature implemented, so was not vulnerable to the degenerate case. This allows for the triggering transaction to be packed in a block which is then distributed to the rest of the validators, who then hit the infinite loop during replay. Since at the time of the outage, more than 95% of cluster stake was running 1.17, nearly all validators were stalled on this block. Since everyone was stalled in a recompilation loop, no one was voting and as a result, consensus halted irrecoverably.</p><h3>The fix</h3><p>This bug had been previously identified as the cause of a Devnet outage the previous week. Of the two legacy loaders that could trigger the bug, one (\"v1\") was already deploy-disabled and the other (\"v2\") was deprecated and scheduled to be deploy-disabled during the v1.18 release cycle. The chosen mitigation was to backport the v2 deploy-disable changes to v1.17, and remove the feature gate, making the “v2” deploy-disabled&nbsp; immediately upon cluster restart. This fix eliminates the ability to create the preconditions required to trigger the bug, which was a simpler resolution. A more complete fix will be included with further improvements to <code>LoadedPrograms</code> and allowed to stabilize with the regular release cycle.</p><h2>tl;dr</h2><p>The deploy-evict-request cycle of a legacy loader program triggered an infinite recompile loop in the JIT cache.</p>"
+                }
+              },
+              "isRSC": null
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1707491572535,
+  "folders": [],
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_1b70a822156149db9a0b281d2561490f",
+  "lastUpdated": 1754369548889,
+  "lastUpdatedBy": "TccMYcQtnFaazdlcnoYGtEcNnmg1",
+  "meta": {
+    "componentsUsed": {
+      "Copy": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false,
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/02-06-24-solana-mainnet-beta-outage-report?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers%2CeditContentPriority%2CeditFolders%2CcreateProjects&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=1b70a822156149db9a0b281d2561490f&builder.overrides.1b70a822156149db9a0b281d2561490f=1b70a822156149db9a0b281d2561490f&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default"
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "name": "02-06-24 Solana Mainnet Beta Outage Report",
+  "previewUrl": "https://solana.com/news/02-06-24-solana-mainnet-beta-outage-report",
+  "published": "published",
+  "query": [],
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35d1fdf7a2ae4e61bb68958db1137ef7",
+  "testRatio": 1,
+  "variations": {},
+  "@originId": "1b70a822156149db9a0b281d2561490f",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@liveSyncEnabled": true,
+  "rev": "l9w1e2t4y1"
+}

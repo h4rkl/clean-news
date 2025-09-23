@@ -1,0 +1,401 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1668625200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa60ba845162a40d4b6a15c40221340e4",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "A look at the state of the Solana network, news from Breakpoint, and more headlines from the Solana ecosystem.",
+    "publishedDate": "Thu Nov 17 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Monthly Community Update | November 2022",
+      "ogUrl": "",
+      "ogDescription": "A look at the state of the Solana network, news from Breakpoint, and more headlines from the Solana ecosystem.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Monthly Community Update | November 2022",
+      "noFollow": false,
+      "seoDescription": "A look at the state of the Solana network, news from Breakpoint, and more headlines from the Solana ecosystem.",
+      "seoTitle": "Monthly Community Update | November 2022",
+      "noIndex": false
+    },
+    "title": "Monthly Community Update | November 2022",
+    "twitterMeta": {
+      "twitterTitle": "Monthly Community Update | November 2022",
+      "twitterDescription": "A look at the state of the Solana network, news from Breakpoint, and more headlines from the Solana ecosystem."
+    },
+    "slug": "monthly-community-update-november-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-5d52cdb718804e798598998ce316ddb3",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-774d11098a59420e9e449754ab99efa6",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Get this update first.&nbsp;<a href=\"http://eepurl.com/gOcpoL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up for the Solana Community Update newsletter!</a></p><h2><strong>The State of the Solana Network 2022</strong></h2><p>More than 3,700 builders came together in Lisbon for&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint</a>, the conference put on by the Solana Foundation. Community members from around the world came to learn, code, and recognize the accomplishments and hard work of the Solana community. The celebration was cut short a few days later, however, when news of FTX’s collapse shocked the web3 community.</p><p>We’ve published a blog post to foster transparency and answer questions related to the FTX collapse.&nbsp;<a href=\"https://solana.com/news/solana-facts-ftx-bankruptcy?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">You can read that post here.</a></p><p><a href=\"https://twitter.com/solana/status/1590500388679176195?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">The Solana network remains strong</a>&nbsp;and full of committed builders —&nbsp;<a href=\"https://twitter.com/hashtag/SolanaJourney?src=hashtag_click&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">see for yourself.</a>&nbsp;Anatoly Yakovenko of Solana Labs and Austin Federa of the Solana Foundation gave the Breakpoint audience an overview of the state of the Solana network, showcasing how the ecosystem has grown over the last year. That robustness remains, with builders banding together to help each other in the wake of last week’s events, including notably&nbsp;<a href=\"https://twitter.com/m_schneider/status/1591636078037200896?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a community-run fork of Serum.</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e572fc94965c44ca80a64cf7b8dcd87d",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<iframe\n  width=\"560\"\n  height=\"315\"\n  src=\"https://www.youtube.com/embed/5NDs3Il2J3Q\"\n  title=\"YouTube video player\"\n  frameborder=\"0\"\n  allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\"\n  allowfullscreen=\"\"\n></iframe>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a9c90386620042c6bc9a3f2c9876ecab",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Here’s the facts on Solana over the past year:</p><ul><li><strong><u>User activity.</u></strong>&nbsp;As of October 2022, there were&nbsp;<a href=\"https://twitter.com/solana/status/1590500400364326913?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">11.5 million active user accounts</a>&nbsp;on Solana, despite the market downturn (at the peak, there were 22.4 million active user accounts).</li><li><strong><u>Developers.</u>&nbsp;</strong>The number of open source projects on Solana continues to grow, with&nbsp;<a href=\"https://twitter.com/solana/status/1590500404877557760?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">20,717 Github developer repositories</a>&nbsp;as of the start of Breakpoint in early November 2022.</li><li><strong><u>NFTs.</u></strong>&nbsp;NFTs have exploded on Solana, with more than&nbsp;<a href=\"https://twitter.com/solana/status/1590500412289093633?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">21.9 million NFTs minted</a>&nbsp;from 150,000 creators.</li><li><strong><u>Games.</u></strong>&nbsp;Over 1,100 gamers came to&nbsp;<a href=\"https://twitter.com/solana/status/1590500406634975232?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Foundation Games Day</a>&nbsp;in Lisbon, which took place the day before Breakpoint kicked off. They played dozens of complete (or nearly complete) games in the Solana ecosystem. There are currently 15 games that are live and playable using Solana, and with 37 expected by March 2023.</li><li><strong><u>DeFi.</u></strong>&nbsp;<a href=\"https://twitter.com/solana/status/1590500410049335296?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Over $150 million</a>&nbsp;was raised by Solana DeFi projects in 2022.</li><li><strong><u>DAOs.</u></strong>&nbsp;At Breakpoint 2021, DAO governance did not exist on Solana. In the year since, new tooling has led to&nbsp;<a href=\"https://twitter.com/solana/status/1590500408161714176?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a blossoming of DAOs on Solana,</a>&nbsp;leading to 7,693 DAO proposals and 31,793 total votes.</li><li><strong><u>Mobile.</u>&nbsp;</strong><a href=\"https://solanamobile.com/news/getting-closer-the-mobile-era-of-web3-with-saga-and-solana-mobile-stack?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Unlocking web3 for mobile devices</a>&nbsp;continues apace. The first Saga developer kits are due to ship in December 2022, the SolanaMobile dApp Store will open in January 2023, and public devices are coming in early 2023.</li></ul><p>Keep reading to learn about more of the exciting developments, news, and announcements coming out of Breakpoint 2022. Learn more about FTX’s bankruptcy and&nbsp;<a href=\"https://solana.com/news/solana-facts-ftx-bankruptcy?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">how it affects the Solana ecosystem.</a></p><h2><strong>Top Solana News</strong></h2><h3><strong>Jump Crypto's Firedancer processes 1.2 million transactions per second in live demo</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5059e861811e4bf9a026a486b366d062",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F429c1bc0b91b4085ab2d4220db9d48a0?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.666,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 666,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F429c1bc0b91b4085ab2d4220db9d48a0?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F429c1bc0b91b4085ab2d4220db9d48a0?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F429c1bc0b91b4085ab2d4220db9d48a0?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F429c1bc0b91b4085ab2d4220db9d48a0?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F429c1bc0b91b4085ab2d4220db9d48a0?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F429c1bc0b91b4085ab2d4220db9d48a0?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F429c1bc0b91b4085ab2d4220db9d48a0?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F429c1bc0b91b4085ab2d4220db9d48a0?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F429c1bc0b91b4085ab2d4220db9d48a0?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5d042e3703f14dc6ad02a580f1c55a80",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Kevin Bowers of Jump Crypto demonstrating Firedancer at Breakpoint, Nov. 6, 2022.</p><p>Kevin Bowers of Jump Crypto took the Breakpoint stage to give a preview of Firedancer, the anticipated new validator client being developed by the Jump team, and the results were eye-popping.</p><p><a href=\"https://www.youtube.com/watch?v=YF-7duYCK54&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">In a live demo</a>&nbsp;using synthetic transactions that closely resemble a Solana validator, Firedancer was able to process 1.2 million raw transactions per second, and 0.6 million transactions per second after deduplication. Wow!</p><h3><strong>Instagram and Facebook now support Solana NFTs</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-95766643c0af4f118d6e732f92b9b831",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee5d593c05834e95afc92598978800a3?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 667,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee5d593c05834e95afc92598978800a3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee5d593c05834e95afc92598978800a3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee5d593c05834e95afc92598978800a3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee5d593c05834e95afc92598978800a3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee5d593c05834e95afc92598978800a3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee5d593c05834e95afc92598978800a3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee5d593c05834e95afc92598978800a3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee5d593c05834e95afc92598978800a3?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fee5d593c05834e95afc92598978800a3?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-490d0dc555584061bdcf14dcad9f6a96",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Ty Swarts of Meta at Breakpoint, Nov. 5, 2022.</p><p>Big news! Meta announced that Instagram and Facebook are&nbsp;<a href=\"https://twitter.com/solana/status/1587932805933436929?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">now supporting Solana NFTs.</a></p><p>To get started, go to Instagram, select Settings, then Digital Collectables, then connect a Phantom wallet.</p><p>To celebrate, the Solana Foundation has teamed up with Solana NFT ecosystem creators, marketplaces, and infrastructure projects to celebrate with a special contest.&nbsp;<a href=\"https://solana.com/meta?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more.</a></p><h3><strong>Google Cloud is joining the Solana community</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-db42c14e57374dcc806c885a3e199ebd",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7dd418f355d14b70a117c14eaa40ed3e?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 667,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7dd418f355d14b70a117c14eaa40ed3e?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7dd418f355d14b70a117c14eaa40ed3e?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7dd418f355d14b70a117c14eaa40ed3e?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7dd418f355d14b70a117c14eaa40ed3e?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7dd418f355d14b70a117c14eaa40ed3e?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7dd418f355d14b70a117c14eaa40ed3e?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7dd418f355d14b70a117c14eaa40ed3e?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7dd418f355d14b70a117c14eaa40ed3e?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7dd418f355d14b70a117c14eaa40ed3e?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-51d92533a3d142549a5ae51824b635c1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Nalin Mittal of Google Cloud, on stage at Breakpoint with Nikhil Kumar of the Solana Foundation, Nov. 5, 2022.</p><p>Google Cloud&nbsp;<a href=\"https://twitter.com/googlecloud/status/1588927896911069184?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announced on stage</a>&nbsp;that they were exploring the Solana network. Not only has the company been running a block-producing validator, but they announced that they are adding Solana data to BigQuery. They're also bringing Blockchain Node Engine to Solana next year, so people can run nodes on the cloud.&nbsp;<a href=\"https://twitter.com/googlecloud/status/1588927896911069184?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more.</a></p><h3><strong>Ledger adds support for Solana Mobile</strong></h3><p><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-43cfacef596e4071adc762c884551e98",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fedb147de197c47e8b04d58568d26ad8f?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "height": 667,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fedb147de197c47e8b04d58568d26ad8f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fedb147de197c47e8b04d58568d26ad8f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fedb147de197c47e8b04d58568d26ad8f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fedb147de197c47e8b04d58568d26ad8f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fedb147de197c47e8b04d58568d26ad8f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fedb147de197c47e8b04d58568d26ad8f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fedb147de197c47e8b04d58568d26ad8f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fedb147de197c47e8b04d58568d26ad8f?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fedb147de197c47e8b04d58568d26ad8f?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4179474510cf461288ff6e99c6b40d29",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Steven Laver of Solana Mobile at Breakpoint, Nov. 5, 2022.</p><p>The Solana Mobile team has been&nbsp;<a href=\"https://solanamobile.com/news/getting-closer-the-mobile-era-of-web3-with-saga-and-solana-mobile-stack?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">working hard!</a>&nbsp;Among the many mobile-related announcements made on stage at Breakpoint, Ledger announced that they will be updating Ledger Live to support SMS, so users can easily connect their Seed Vault with Ledger Nano hardware wallets.&nbsp;<a href=\"https://solanamobile.com/news/getting-closer-the-mobile-era-of-web3-with-saga-and-solana-mobile-stack?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more.</a></p><h3><strong>Patika launches new Solana course for Turkish devs</strong></h3><p>Wow! Patika, a popular developer education company for Turkish builders, just announced a new Solana-focused practicum. Members of the cohort will learn Rust, build a dApp, and join the budding Solana community in Turkey.&nbsp;<a href=\"https://twitter.com/patika_dev/status/1589988898280992772?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up.</a></p><h2><strong>Ecosystem Headlines</strong></h2><p>Here's what's new this month:</p><ul><li>Realms announced&nbsp;<a href=\"https://app.realms.today/discover?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a new hub</a>&nbsp;for the Solana ecosystem.</li><li><a href=\"https://www.youtube.com/watch?v=pDbr0kFDUe0&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Circle</a>&nbsp;is bringing Euro Coin to Solana.</li><li>Neon Labs will&nbsp;<a href=\"https://twitter.com/neonlabsorg/status/1589596997883146241?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">bring their EVM</a>&nbsp;to mainnet on Dec. 12, 2022.</li><li><a href=\"https://twitter.com/saydialect/status/1588858004815814657?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Dialect,</a>&nbsp;a web3 messaging and wallet-to-wallet chat, launched the smart message SPEC.</li><li>All panels from Breakpoint have been uploaded to the Solana Foundation's Youtube channel.&nbsp;<a href=\"https://www.youtube.com/c/SolanaFndn/videos?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Check them out!</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F78d18d2a7580497b942095ad0846986e",
+  "lastUpdated": 1696413115417,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2e5bbbb57d104839adeba709b59e88c5",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687587818635,
+  "@originId": "2e5bbbb57d104839adeba709b59e88c5",
+  "testRatio": 1,
+  "createdDate": 1687362445688,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=2e5bbbb57d104839adeba709b59e88c5&builder.overrides.2e5bbbb57d104839adeba709b59e88c5=2e5bbbb57d104839adeba709b59e88c5&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly Community Update | November 2022",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

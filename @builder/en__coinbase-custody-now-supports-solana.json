@@ -1,0 +1,182 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1597647600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc8702230262a4bea914b82d86d0be2ae",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nSolana is proud to announce a partnership with Coinbase Custody, an institutional-grade qualified custodian and fiduciary under New York…\n",
+    "publishedDate": "Mon Aug 17 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Coinbase Custody Now Supports Solana",
+      "noFollow": false,
+      "seoDescription": "\nSolana is proud to announce a partnership with Coinbase Custody, an institutional-grade qualified custodian and fiduciary under New York…\n",
+      "seoTitle": "Coinbase Custody Now Supports Solana",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Coinbase Custody Now Supports Solana",
+      "ogUrl": "https://www.solana.com/blog/coinbase-custody-now-supports-solana",
+      "ogDescription": "\nSolana is proud to announce a partnership with Coinbase Custody, an institutional-grade qualified custodian and fiduciary under New York…\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Coinbase-Custody-Now-Supports-Solana/1-V6qd6x4q5QSFvz14fUiibQ-1.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "Coinbase Custody Now Supports Solana",
+    "twitterMeta": {
+      "twitterTitle": "Coinbase Custody Now Supports Solana",
+      "twitterDescription": "\nSolana is proud to announce a partnership with Coinbase Custody, an institutional-grade qualified custodian and fiduciary under New York…\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Coinbase-Custody-Now-Supports-Solana/1-V6qd6x4q5QSFvz14fUiibQ-1.png"
+    },
+    "slug": "coinbase-custody-now-supports-solana",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_09b69ea806b944cab023dbe46cf56c73"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc162926a1c34884938092e2be078099"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-af471a5dac274299841ff671daf46d80",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-23c4094be2ee4910a66127e8cd177756",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff43b34ad4a27499ead0155b2397b1016?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff43b34ad4a27499ead0155b2397b1016?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff43b34ad4a27499ead0155b2397b1016?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff43b34ad4a27499ead0155b2397b1016?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff43b34ad4a27499ead0155b2397b1016?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff43b34ad4a27499ead0155b2397b1016?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff43b34ad4a27499ead0155b2397b1016?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff43b34ad4a27499ead0155b2397b1016?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff43b34ad4a27499ead0155b2397b1016?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff43b34ad4a27499ead0155b2397b1016?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-283bd4a3f3ac4522952b064ea96d252f",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana is proud to announce a partnership with&nbsp;<a href=\"https://custody.coinbase.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Coinbase Custody</a>, an institutional-grade qualified custodian and fiduciary under New York State Banking Law.</p><p>The Solana Foundation has been working closely with the team at Coinbase over the past few weeks to vet and integrate Solana into its system. Coinbase has been nothing short of exceptional to work with. Without their help, this integration wouldn’t have been possible on such an accelerated timeline. Today is a big day for both of our teams.</p><p>This partnership closely aligns with our mission to bring speed&nbsp;and security&nbsp;to decentralized finance. Now, in addition to&nbsp;<a href=\"https://trustwallet.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">TrustWallet</a>&nbsp;and&nbsp;<a href=\"https://solflare.spacenet.live/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SolFlare</a>, investors have the option to store their SOL in Coinbase Custody’s offline cold storage system.</p><p>As an institutional investor, the complexity of ‘custodying’ new crypto-assets can seem daunting — which is precisely why Solana partnered with Coinbase Custody, one of the most trusted custody providers in the world.</p><p>In addition to ironclad security, Coinbase Custody is backed by a comprehensive set of insurance policies that create a safer and more secure way for larger institutions to custody SOLs. Beyond storage, Coinbase Custody also gives institutions the ability to participate in the network through staking and governance, which are equally crucial for the long-term health of the network.</p><p>Coinbase Custody adheres to strictest security protocols and builds on Coinbase’s 8-year track record of zero security incidents or lost crypto assets. Because of that, they are trusted by some of the world’s largest crypto traders and institutions.</p><p>Solana looks forward to growing and collaborating with Coinbase!</p><p>As always, make sure to follow us on our social channels for daily updates on the Solana ecosystem.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd9ddf49ba4744ba19d8e34cd2d5211a7",
+  "lastUpdated": 1694189894186,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_385db67e52ee45c5aecee1176f566d76",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687545609816,
+  "@originId": "385db67e52ee45c5aecee1176f566d76",
+  "testRatio": 1,
+  "createdDate": 1687362682617,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=385db67e52ee45c5aecee1176f566d76&builder.overrides.385db67e52ee45c5aecee1176f566d76=385db67e52ee45c5aecee1176f566d76&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Coinbase Custody Now Supports Solana",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

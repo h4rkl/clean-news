@@ -1,0 +1,214 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1668020400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F31a9c00e8b004e74a56346ed52dc5970",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Last updated: Nov. 21, 2022",
+    "publishedDate": "Thu Nov 10 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Solana Ecosystem Facts Related To FTX Bankruptcy",
+      "ogUrl": "",
+      "ogDescription": "Last updated: Nov. 21, 2022",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana Ecosystem Facts Related To FTX Bankruptcy",
+      "noFollow": false,
+      "seoDescription": "Last updated: Nov. 21, 2022",
+      "seoTitle": "Solana Ecosystem Facts Related To FTX Bankruptcy",
+      "noIndex": false
+    },
+    "title": "Solana Ecosystem Facts Related To FTX Bankruptcy",
+    "twitterMeta": {
+      "twitterTitle": "Solana Ecosystem Facts Related To FTX Bankruptcy",
+      "twitterDescription": "This page is meant to provide real time information and updates in the wake of recent events surrounding the commencement of Chapter 11 voluntary bankruptcy proceedings of FTX, Alameda Research, and related fallout in the crypto industry. Our main focus remains supporting builders and users who were affected. We will continue to update this with additional information as needed."
+    },
+    "slug": "solana-facts-ftx-bankruptcy",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-c9f6c12286f94ae19a0a1ee78b62cc61",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-62cc1d0806a4478b91152f2d00626f90",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Last updated: Nov. 21, 2022</p><p>This page is meant to provide real time information and updates in the wake of recent events surrounding the commencement of Chapter 11 voluntary bankruptcy proceedings of FTX Trading Ltd., Alameda Research Ltd., and affiliated entities (“FTX/Alameda”).&nbsp;Our main focus remains supporting builders and users who were affected. We will continue to update this with additional information as needed.</p><p><strong>The Solana network</strong></p><ul><li>During the events of the past week, the Solana network has&nbsp;<a href=\"https://solana.com/news/snapshot-state-of-the-network-nov-17-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">not experienced any notable performance or uptime issues.</a></li><li>The security of the Solana network has not been negatively impacted by the collapse of FTX, or movements in asset price.</li></ul><p><strong>Solana Foundation balance sheet exposure to FTX/Alameda</strong></p><ul><li>Solana Foundation had ~$1M in cash or cash equivalents on FTX.com as of 11/6/22 when FTX.com ceased to process withdrawals. This is less than 1% of Solana Foundation’s cash or cash equivalents and as such, the impact on Solana Foundation operations is negligible.</li><li>The Solana Foundation had no SOL custodied on FTX.com</li></ul><p><strong>Solana Foundation asset exposure to FTX/Alameda</strong></p><p>As of 11/14/22, the Solana Foundation has exposure to the below assets in connection with the transactions with FTX/Alameda specified below. These assets were held on FTX.com accounts (and continue to be held there) as of 11/6/22 when FTX.com ceased to process withdrawals.</p><ul><li>~3.24m shares of FTX Trading LTD common stock</li><li>~3.43m FTT tokens</li><li>~134.54m SRM tokens</li></ul><p>While we do not have visibility into FTX/Alameda’s current balance sheets, we can confirm the below transactions.</p><p><strong>Solana Foundation transactions with FTX/Alameda</strong></p><p>FTX/Alameda first purchased SOL from Solana Foundation in August of 2020, six months after Mainnet Beta launched. Below is a summary of Solana Foundation’s SOL sales to FTX/Alameda.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6b18ed07ebf9475ca76c74a3f0d3e38a",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.275591pt;\"><colgroup><col><col width=\"115\"><col width=\"93\"><col><col></colgroup><tbody><tr style=\"height: 36.547852pt;\"><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Entity</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Counterparty</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Effective Date</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"># of SOL&nbsp;</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Unlock Schedule</span></p></td></tr><tr style=\"height: 0pt;\"><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Solana Foundation</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Alameda Research Ltd</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">August 31, 2020</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">◎4,000,000</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">N/A</span></p></td></tr><tr style=\"height: 36.547852pt;\"><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Solana Foundation</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Alameda Research Ltd</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">September 11, 2020</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">◎12,000,000</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Linear monthly unlock from September 2021 to September 2027</span></p></td></tr><tr style=\"height: 0pt;\"><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Solana Foundation</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Alameda Research Ltd and FTX Trading Ltd.</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">January 7, 2021</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">◎34,524,833</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Linear monthly unlock from&nbsp; January 2022 to&nbsp; January 2028</span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></p></td></tr></tbody></table>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cb26424c54434655b1b94d7bcfa82cd5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Solana Labs, Inc.’s transactions with FTX/Alameda</strong></p><p>Below is a summary of Solana Labs, Inc.’s SOL sales to FTX/Alameda.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-48c70927e8a34706b035e15b5b36e407",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.275591pt;\"><colgroup><col><col width=\"116\"><col width=\"92\"><col><col></colgroup><tbody><tr style=\"height: 0pt;\"><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Entity</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Counterparty</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Effective Date</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"># of SOL&nbsp;</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Unlock Schedule</span></p></td></tr><tr style=\"height: 0pt;\"><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Solana Labs, Inc.</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Alameda Research Ventures Ltd.</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">February 17, 2021</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">◎7,500,000</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Full balance unlocks on March 1, 2025</span></p></td></tr><tr style=\"height: 0pt;\"><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Solana Labs, Inc.</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Alameda Research Ventures Ltd.</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">May 17, 2021</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">◎61,853*</span></p></td><td style=\"border: 1pt solid rgb(255, 255, 255); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Full balance unlocks on May 17, 2025 </span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br><br></span></p></td></tr></tbody></table>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d77ef2ed51f344879cf5013bf388d5fd",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>*not yet settled</p><p>In light of the voluntary Chapter 11 bankruptcy proceedings that FTX/Alameda announced on November 11, we do not know how these and other FTX/Alameda’s assets will be settled in the aftermath of the Chapter 11 proceedings.</p><p><strong>Locked Tokens on Solana</strong></p><ul><li>Locked tokens are deposited into locked stake accounts and they cannot be transferred on-chain until the lock has expired. Locked tokens can be staked, and broken into smaller stake accounts, but the tokens within stake accounts cannot be transferred on-chain until the lock has expired.</li></ul><p><strong>Wrapped assets on Solana affected by Sollet custodial bridge</strong></p><ul><li>The total exposure to Sollet-based assets on Solana in circulation is valued at approximately $40 million as of Nov 10, 2022. The status of the underlying assets is unknown at this time.</li><li>USDC and USDT on Solana are not wrapped assets, but are minted as native SPL tokens by Circle and Tether, respectively.</li></ul><p><strong>Status of Serum, an order book DeFi project built on Solana</strong></p><ul><li>The Serum community organized and deployed a new verified build of Serum with a new program ID. Additional efforts by the community are ongoing but a recent update was provided&nbsp;<a href=\"https://twitter.com/m_schneider/status/1591636068650352640?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>. We are closely following developments.</li></ul><p><strong>Status of the DeFi ecosystem on Solana</strong></p><ul><li>Most of the largest DeFi projects on Solana had limited or no exposure to FTX, based on a recent assessment by Solana Foundation. There are certainly projects with exposure to FTX and those projects seem to be actively working to figure out a way forward, but the outcomes there are not yet known. The DeFi environment in 2022 has been challenging but the ecosystem continues to evolve and innovate.</li></ul><p><strong>The current state of liquidity support / market making on Solana</strong></p><ul><li>There are multiple market makers providing liquidity for DeFi applications on Solana.</li></ul><p><strong>Unstaking of SOL as of Epoch 370 on Thursday, November 10</strong></p><ul><li>Token holders can stake or unstake SOL to a validator at every epoch boundary, which occurs roughly every two to three days.</li><li>The current epoch is Epoch 370 and is slated to end roughly around 8:30 AM UTC on Thursday, Nov. 10.</li><li>Currently 29 million SOL from ~250 accounts is slated to be unstaked at the end of Epoch 370. This accounts for ~5.4% of total supply.</li><li>The network has handled similar levels of destaking before: Epoch 140 saw over 44 million SOL unstaked and Epoch 72 saw over 30 million SOL unstaked.</li><li>A total of 63 million SOL&nbsp;was&nbsp;previously&nbsp;slated to be unstaked at the conclusion of Epoch 370. This amount included 28.5 million SOL scheduled to be unstaked by the Solana Foundation related to a change in a data center provider’s terms of service.&nbsp;The unstaking action of 28.5 million SOL by the Solana Foundation Delegation Program has been postponed, and will be effectuated in the near future (see more information&nbsp;<a href=\"https://twitter.com/SolanaFndn/status/1590464124827635712?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>).</li><li>All tokens in the Solana Foundation Delegation Program are owned by the Solana Foundation as part of its treasury. No entity on Solana has the ability to stake or unstake tokens it does not control the keys for.</li></ul><p>Update History:</p><p>Nov. 21: Added Solana Foundation asset information and clarification about USDC and USDT on Solana.</p><p>Nov 15: Added Update History section</p><p>Nov 14: Added Solana Foundation’s and Solana Labs’ historical transactions with FTX/Alameda, definition of locked tokens</p><p>Nov 13: Added Solana Foundation exposure to FTT, SRM, and FTX Trading Ltd. equity</p><p>Nov 11: Added information on wrapped assets</p><p>Nov 10: Added information on how key control works for unstaking</p><p>Nov 9: Initial publication of epoch boundary unstake information</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8c14d610496b4d91845583e2182d1f54",
+  "lastUpdated": 1696413278279,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_7a3923d6484b43de9b16aaa84d3dd0cb",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687561094876,
+  "@originId": "7a3923d6484b43de9b16aaa84d3dd0cb",
+  "testRatio": 1,
+  "createdDate": 1687362448204,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=7a3923d6484b43de9b16aaa84d3dd0cb&builder.overrides.7a3923d6484b43de9b16aaa84d3dd0cb=7a3923d6484b43de9b16aaa84d3dd0cb&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Ecosystem Facts Related To FTX Bankruptcy",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

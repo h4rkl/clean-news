@@ -1,0 +1,405 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-breakpoint-2024-side-events",
+  "data": {
+    "datePublished": 1717992000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faccadc6f03ef4168817abf6b21ba8a21",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Check out the side events happening in Singapore.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faccadc6f03ef4168817abf6b21ba8a21",
+      "seoDescription": "Check out the side events happening in Singapore.",
+      "seoTitle": "Get More Out of Breakpoint 2024: The Network State, Block Zero, and More"
+    },
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Get More Out of Breakpoint 2024: The Network State, Block Zero, and More"
+    },
+    "slug": "solana-breakpoint-2024-side-events",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-10f3c137af9748a19d913681bf1068d4",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bd1c942ea1fc4cafb965c99d7433b1fd",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ]
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Breakpoint 2024 may be a weekend jam-packed full of the latest and greatest news from the Solana ecosystem, but the fun doesn’t stop there. Breakpoint has become a nexus of events in the world of distributed technology — focused on Solana and beyond.</p><p>There are dozens of summits, conferences, pop-ups, happy hours, networking events, and more happening alongside Breakpoint 2024. Here are some highlights:</p>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ded305dbfe9943abb0c4408d10c35c06",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ],
+              "previousId": "builder-1fd46fd4ca0a404ca64e116bbc66ff74"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>\n  <strong><em>18 Sept. 2024:</em> Block Zero</strong>\n</p>\n<p>\n  Block Zero, an event organized by members of the Solana validator community,\n  will facilitate discussion on the network’s progression at the base layer.\n  This event is free of charge thanks to sponsors, but registration is required.\n  It is not necessary to have a ticket for Breakpoint 2024 to attend.\n</p>\n<p>\n  <a href=\"https://lu.ma/block0\" rel=\"noopener noreferrer\" target=\"_blank\"\n    >Register here</a\n  >.\n</p>\n<hr>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginLeft": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-85cd41819e3f418c8cb0e86ccd75aae1",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ],
+              "previousId": "builder-1fd46fd4ca0a404ca64e116bbc66ff74"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p><strong><em>19 Sept. 2024:</em> MEV + DeFi Day</strong></p><p>An event that will focus on the Solana MEV landscape: What's happening, how it impacts DeFi projects, and what traders should know.​ Registration preference will be given to builders and active traders.</p><p><a href=\"https://lu.ma/gaqop8yu\" rel=\"noopener noreferrer\" target=\"_blank\">Register here.</a></p>\n<hr>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginLeft": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-386b80d613854052a927aa9519cace05",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ],
+              "previousId": "builder-1fd46fd4ca0a404ca64e116bbc66ff74"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>\n  <strong><em>19 Sept. 2024:</em> StakePoint</strong>\n</p>\n<p>\n  StakePoint invites the leading companies, staking services, and investors on\n  Solana to share their expertise with an audience of global institutional\n  investors.\n</p>\n<p>\n  <a href=\"https://lu.ma/durn97l8\" rel=\"noopener noreferrer\" target=\"_blank\"\n    >Register here.</a\n  >\n</p>\n<hr>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginLeft": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-919b661e48174712949930f9936b902b",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ],
+              "previousId": "builder-1fd46fd4ca0a404ca64e116bbc66ff74"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>\n  <strong><em>20 Sept. 2024:</em> Drip Haus</strong>\n</p>\n<p>\n  Drip Haus is an all-day conference focused on creators and the business of\n  collectibles, hosted by Drip.\n</p>\n<p>\n  <a href=\"https://lu.ma/u75df9sx\" rel=\"noopener noreferrer\" target=\"_blank\"\n    >Register here.</a\n  >\n</p>\n<hr>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginLeft": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1fd46fd4ca0a404ca64e116bbc66ff74",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ]
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>\n  <strong><em>21 Sept. 2024:</em> Closing Celebration</strong>\n</p>\n<p>\n  Save the date! Celebrate the end of Breakpoint 2024 with your fellow\n  attendees. More details to follow.\n</p>\n<p>This event is open to all Breakpoint ticket holders.</p>\n<hr>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginLeft": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fa6442832d144d3486851a761133db4a",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ],
+              "previousId": "builder-1fd46fd4ca0a404ca64e116bbc66ff74"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>\n  <strong><em>22 Sept. 2024:</em> The Network State</strong>\n</p>\n<p>\n  This year’s Network State Conference features Brian Armstrong, Vitalik\n  Buterin, Bryan Johnson, and Solana’s own Anatoly Yakovenko. It’s about startup\n  societies, new cities, and even cryptocountries.\n</p>\n<p>\n  Tickets are only $199 and you can get them at&nbsp;<a\n    href=\"https://thenetworkstate.com/conf2024\"\n    rel=\"noopener noreferrer\"\n    target=\"_blank\"\n    >thenetworkstate.com/conf2024</a\n  >.\n</p>\n<hr>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginLeft": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4cbdbb78e7cf4f5ba1466c9a2cfd2358",
+            "meta": {
+              "localizedTextInputs": [
+                "rawHtml"
+              ]
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>There are plenty of other events happening at Breakpoint 2024 – head here to see <a href=\"https://solana.com/breakpoint/side-events\" rel=\"noopener noreferrer\" target=\"_blank\">the full list</a>. (Want to submit one? <a href=\"https://lu.ma/BP24-SideEvents\" rel=\"noopener noreferrer\" target=\"_blank\">Add your event to the calendar</a>)</p><p>See you in Singapore!</p>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-131760c05d614f28aa48591b86858963",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa27b3d2dbed14a838cf3d75f727113af"
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "BrEAKPOINT 2024"
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Don't miss the biggest Solana event of the year."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Don't miss the biggest Solana event of the year.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "GET TICKETS To BREAKPOINT 2024"
+                    },
+                    "url": "https://solana.com/breakpoint"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F114eb958fd3f46a88cbe2608f1296c29",
+  "lastUpdated": 1725702419206,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bbeab267774f4b8fa10ad0abe89cc149",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1718047465234,
+  "@originId": "bbeab267774f4b8fa10ad0abe89cc149",
+  "testRatio": 1,
+  "createdDate": 1718033256622,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-breakpoint-2024-side-events?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=bbeab267774f4b8fa10ad0abe89cc149&builder.overrides.bbeab267774f4b8fa10ad0abe89cc149=bbeab267774f4b8fa10ad0abe89cc149&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 8,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Get more out of Breakpoint 2024: The Network State, Block Zero, and More",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

@@ -1,0 +1,132 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/saga-reveal",
+  "data": {
+    "datePublished": 1655924400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdbefcc5c6c7043e293b2d10e8a9c8941",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Flagship Android phone from Solana Mobile showcases innovations needed to bring web3 to billions of mobile users",
+    "publishedDate": "Thu Jun 23 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Solana Mobile debuts Saga, a flagship Android phone for web3",
+      "ogUrl": "",
+      "ogDescription": "Flagship Android phone from Solana Mobile showcases innovations needed to bring web3 to billions of mobile users",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana Mobile debuts Saga, a flagship Android phone for web3",
+      "noFollow": false,
+      "seoDescription": "Flagship Android phone from Solana Mobile showcases innovations needed to bring web3 to billions of mobile users",
+      "seoTitle": "Solana Mobile debuts Saga, a flagship Android phone for web3",
+      "noIndex": false
+    },
+    "title": "Solana Mobile debuts Saga, a flagship Android phone for web3",
+    "twitterMeta": {
+      "twitterTitle": "Solana Mobile debuts Saga, a flagship Android phone for web3",
+      "twitterDescription": "Flagship Android phone from Solana Mobile showcases innovations needed to bring web3 to billions of mobile users"
+    },
+    "slug": "saga-reveal",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a81f12c5ae4c8ca4915604770f329b"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a70200e65d34494b65f9e04c0727a14"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-edf910d4484f4fc5969f5eafce2a81af",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-26bf9be221a34e69bf1bdedcf7b0d169",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>NEW YORK, June 23, 2022 /PRNewswire/ – Solana Mobile, a subsidiary of Solana Labs, introduced Saga, a flagship Android mobile phone with unique functionality and features tightly integrated with the Solana blockchain making it easy and secure to transact in web3 and manage digital assets, such as tokens and NFTs.</p><p>“Almost 7 billion people use smartphones around the world and more than 100 million people hold digital assets - and both of those numbers will continue to grow,” said Anatoly Yakovenko, co-founder of Solana, the world’s most performant blockchain. “Saga sets a new standard for the web3 experience on mobile.”</p><p>Saga was introduced at an event in New York today, which also included the introduction of the Solana Mobile Stack, a framework for Android allowing developers to create rich mobile experiences for wallets and apps on Solana and create a “Secure Element” for private key management (<a href=\"https://solana.com/news/solana-mobile-stack-reveal?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">read more here</a>). The Solana Mobile Stack SDK is available to developers now and Saga is available for pre-orders starting today, with delivery in early 2023.</p><p>“We chose the Saga name because the story of crypto is still being written,” said Raj Gokal, co-founder of Solana. “This is the next chapter of this narrative and we believe opening up crypto to mobile will lead to greater adoption, better understanding, and more opportunities.”</p><p>Saga is designed and manufactured by OSOM, a leading Android development company whose team has extensive experience building computing hardware for Google, Apple, and Intel, among others.</p><p>“Saga starts from first principles to create a mobile experience for individuals, developers, and ecosystem participants that opens a new era of mobility,” said Jason Keats, co-founder and CEO of OSOM. “The world needs novel hardware to embrace the future that is web3, and building out an ecosystem that looks to the future without being burdened by past legacy ecosystems is hugely exciting for us.”</p><p>Saga includes a 6.67\" OLED display, 12 GB RAM, 512 GB storage, and the latest flagship Snapdragon® 8+ Gen 1 Mobile Platform, the security features of which will enable the Solana Mobile Stack’s Seed Vault. With the addition of a Secure Element built into the device, the Seed Vault keeps private keys, seed phrases and secrets separated from the application layer yet still capable of interacting with apps running on the device or in a mobile browser.</p><p>Pre-orders for Saga require a $100 fully refundable deposit, which will be applied to the anticipated final cost of $1,000, and will be prioritized for developers in order to test the Solana Mobile Stack and Saga. Those who pre-order may be eligible to receive a Saga Pass, an NFT accompanying the first wave of Saga devices and the first ticket to influencing the direction of the SMS platform.</p><p>For more information:</p><ul><li><a href=\"http://solanamobile.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Mobile Homepage</a>, including pre-order information</li><li><a href=\"https://github.com/solana-mobile/solana-mobile-stack-sdk?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Mobile Stack SDK</a></li><li><a href=\"https://solana.com/news/solana-mobile-stack-reveal?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Mobile Stack begins new era of web3 with mobile-first Android platform</a></li><li><a href=\"http://solana.com/news/solana-mobile-stack-saga-anatoly-yakovenko?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Mobile Stack and flagship device, Saga, changes everything, by Anatoly Yakovenko</a></li></ul><p><strong>About Solana Mobile</strong></p><p>Solana Mobile is a mobile technology company developing the Solana Mobile Stack and Saga.&nbsp;It is a subsidiary of Solana Labs, a creator of open source software, and a contributor to Solana software and the Solana protocol. For more information, please visit&nbsp;<a href=\"https://solanamobile.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://solanamobile.com/</a>.&nbsp;</p><p>Snapdragon is a trademark or registered trademark of Qualcomm Incorporated.</p><p>Snapdragon is a product of Qualcomm Technologies, Inc. and/or its subsidiaries.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9df812653ad54a72b35d02f715605f0f",
+  "lastUpdated": 1704915726745,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e1b336e94696461389748ea0caf7521c",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687556429374,
+  "@originId": "e1b336e94696461389748ea0caf7521c",
+  "testRatio": 1,
+  "createdDate": 1687362486799,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/saga-reveal?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=e1b336e94696461389748ea0caf7521c&builder.overrides.e1b336e94696461389748ea0caf7521c=e1b336e94696461389748ea0caf7521c&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Mobile debuts Saga, a flagship Android phone for web3",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

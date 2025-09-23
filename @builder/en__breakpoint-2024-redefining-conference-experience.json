@@ -1,0 +1,359 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/breakpoint-2024-redefining-conference-experience",
+  "data": {
+    "datePublished": 1722351600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9671d9159793491ebd3bd0e94a7e6369",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e6c6d3e7982f4da696be96d90a238c6b"
+    },
+    "intro": "Expect a Solana ecosystem conference unlike any you’ve ever seen before.",
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Breakpoint 2024: Redefining the Conference Experience"
+    },
+    "slug": "breakpoint-2024-redefining-conference-experience",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2d264dcc3d6d4cd38ea1b9f8f2639c71"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-496e23a186b14472888daab8d10a99f4",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c740bb0ea4a74625807cd6f05e6217cb",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline"
+              ]
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "GET YOUR TICKETS"
+                    },
+                    "url": "/breakpoint",
+                    "hierarchy": "outline"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Coming soon"
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Breakpoint 2024"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Tickets to the biggest Solana event of the year are going fast."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In this article"
+                }
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-9433f8d3d54340e7980ab6ebf5c7d007",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><em>Akshay BD is the (non) chief marketing officer at the Solana Foundation.</em></p><p>The Solana Foundation is thrilled to host the community at Breakpoint in Singapore this September. We’re shaking things up to keep the format interesting and conference valuable to the attendees.</p><p>Here’s what you can expect:</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-8df1821c6c144b68a029c066bd68afee",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Two Main Stages</h2><p>At past Breakpoints, there have been up to four stages of various audience sizes. No more. In 2024, there will be two equally-sized stages&nbsp;—&nbsp;Left Curve and Right Curve.</p><ul><li><strong>Left Curve:</strong> A product and business-centric stage meant to showcase products, conversations, and debates that accelerate user adoption of Solana’s projects.</li><li><strong>Right Curve:</strong> A technical and engineering-centric stage meant to showcase products, conversations, and debates that accelerate developer adoption of the Solana platform.</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-120b21418a844a2480467f05cdcd2731",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>New Session Formats</h2><p>There will be <strong><em>NO PANELS</em></strong> at Breakpoint 2024. Instead, you can expect four different formats:&nbsp;</p><ul><li><strong>Product Keynote:</strong> Product builders will share a 5-minute, 5-slide presentation on something they are launching at Breakpoint – a product, partnership or token. These presentations are meant to catalyze the growth of Solana’s application layer or developer tooling. Interested founders and teams are welcome to fill out this <a href=\"https://solanafoundation.typeform.com/announcements\" rel=\"noopener noreferrer\" target=\"_blank\">form</a>, and we’ll do our best to pick as many as we can accommodate.&nbsp;</li><li><strong>Fireside Chats:</strong> Two invited, accomplished guests engage in a thematic discussion similar to a podcast. Importantly, it’s a discussion where they jointly explore a topic together, with a back and forth — not just merely agreeing with each other.</li><li><strong>Debates:</strong> A moderator will hold a debate between two invited panelists on topics relevant to the future of the Solana network. Each panelist will speak for and against the motion and, upon a half-time bell, switch sides to make the case for the other side. Expect a high-intensity, high-signal, data-oriented debate!</li><li><strong>Headline Keynotes:</strong> These keynotes are for massive, network-critical announcements and news. Past examples include the <a href=\"https://youtu.be/Dh6Yn2Odyr4?si=zbRQf1SqMXvSSLFb\" rel=\"noopener noreferrer\" target=\"_blank\">demo of Firedancer</a> in 2022.</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-78789fb9187a48bbbec26bb996472fcf",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Experiences Between the Stages</h2><p>Beyond speaking on stage, there are plenty of opportunities for attendees and teams hoping to make an impact can participate in Breakpoint 2024. Between the two stages are working areas, activations, places to meet, and more:</p><ul><li><strong>Basecamp:</strong> Returning for a second year due to popular demand, the Solana community can make their presence known to Breakpoint. Ecosystem teams will use this area to make their presence known onsite at Breakpoint.</li><li><strong>Gamer Village:</strong> Step into the game! Play real onchain games built on Solana, including Aurory, Star Atlas, Sonic, and many more. Want to showcase your game? <a href=\"mailto:games@solana.com\" rel=\"noopener noreferrer\">Apply here.</a> <em>(Note: Games must be fully playable!)</em></li><li><strong>The Arena, from Colosseum:</strong> Get ready to build! This builder space, hosted by <a href=\"https://www.colosseum.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Colosseum</a>, gives developers the space to work directly from Breakpoint. Some light programming will be included. To get involved, reach out to Colosseum <a href=\"mailto:matty@colosseum.org\" rel=\"noopener noreferrer\">here</a>.</li><li><strong>Activations at Breakpoint: </strong>Don't miss out. Expect unique, in-person experiences throughout the Breakpoint site powered by teams and artists across the Solana ecosystem.</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-1a2a3e8225a44c7a92b2d82f98105268",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Join Us in Singapore</h2><p>Secure your spot today and be part of the conversations that will shape the future of Solana and beyond. More information on Breakpoint can be found <a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>. Buying more than 10 tickets? <a href=\"mailto:breakpoint@solana.org\" rel=\"noopener noreferrer\">Reach out</a> to get a bulk discount.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-26d8e7da4f024fdc90b17412aaa854b9",
+            "meta": {
+              "previousId": "builder-4f7d003d96e64326a5fb1728b2b515e0",
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "lg",
+                    "iconSize": "md",
+                    "url": "/breakpoint/tickets",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "GET TICKETS"
+                    }
+                  }
+                ],
+                "image": {
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd5f74dc4016144949ecfad28e812d004",
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": " Breakpoint 2024"
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Not Your Average Crypto Conference"
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>No panels. No shills. No BS. Breakpoint 2024 is coming to Singapore on 20-21 September.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fad117297b6284988b2d139e304b27ff5",
+  "lastUpdated": 1725702445443,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9ceb6d4df2094237b3174824729349e8",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1722290247217,
+  "@originId": "9ceb6d4df2094237b3174824729349e8",
+  "testRatio": 1,
+  "createdDate": 1722288593137,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/breakpoint-2024-redefining-conference-experience?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=9ceb6d4df2094237b3174824729349e8&builder.overrides.9ceb6d4df2094237b3174824729349e8=9ceb6d4df2094237b3174824729349e8&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 5,
+      "Content Editor": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Breakpoint 2024: Redefining the Conference Experience",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

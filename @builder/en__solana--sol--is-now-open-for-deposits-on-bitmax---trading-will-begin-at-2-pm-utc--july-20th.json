@@ -1,0 +1,267 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc1a6c006e6c84fbdaff30776f1a57a19",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nThe Solana Foundation is excited to share that SOL is now open for deposits on BitMax\n",
+    "publishedDate": "Thu Jul 16 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Solana (SOL) Is Now Open For Deposits On BitMax — Trading Will Begin At 2 PM UTC, July 20th",
+      "ogUrl": "",
+      "ogDescription": "\nThe Solana Foundation is excited to share that SOL is now open for deposits on BitMax\n",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana (SOL) Is Now Open For Deposits On BitMax — Trading Will Begin At 2 PM UTC, July 20th",
+      "noFollow": false,
+      "seoDescription": "\nThe Solana Foundation is excited to share that SOL is now open for deposits on BitMax\n",
+      "seoTitle": "Solana (SOL) Is Now Open For Deposits On BitMax — Trading Will Begin At 2 PM UTC, July 20th",
+      "noIndex": false
+    },
+    "title": "Solana (SOL) Is Now Open For Deposits On BitMax — Trading Will Begin At 2 PM UTC, July 20th",
+    "twitterMeta": {
+      "twitterTitle": "Solana (SOL) Is Now Open For Deposits On BitMax — Trading Will Begin At 2 PM UTC, July 20th",
+      "twitterDescription": "\nThe Solana Foundation is excited to share that SOL is now open for deposits on BitMax\n"
+    },
+    "slug": "solana--sol--is-now-open-for-deposits-on-bitmax---trading-will-begin-at-2-pm-utc--july-20th",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2aef8ea1c72b4ef1be757bf840b6b521"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_03e6904c00924a32b6187f46a5fa40d0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2f3a618701124521874730783ed79998"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-5686cf34c01c4bf28f31c0cea06219c7",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cb565b7c1e084b25a00c83873cf9b1ef",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">Pairs: SOL/USDTDeposits Open: 2 PM UTC on July 17th, 2020</span></p><p><span style=\"font-size: 20px;\">Trading Starts: 2 PM UTC on July 20th, 2020</span></p><p><span style=\"font-size: 20px;\">Total Prizes: ◎35,000</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ebe705a8feee4b79b6af631b9188774c",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc70fa5e8a82d49e19926c77606b0a2b3?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc70fa5e8a82d49e19926c77606b0a2b3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc70fa5e8a82d49e19926c77606b0a2b3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc70fa5e8a82d49e19926c77606b0a2b3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc70fa5e8a82d49e19926c77606b0a2b3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc70fa5e8a82d49e19926c77606b0a2b3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc70fa5e8a82d49e19926c77606b0a2b3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc70fa5e8a82d49e19926c77606b0a2b3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc70fa5e8a82d49e19926c77606b0a2b3?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc70fa5e8a82d49e19926c77606b0a2b3?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e2d82d0b2fc747c8aa4cec8440869b96",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Solana Foundation is excited to share that SOL is now open for deposits on BitMax; starting at 2 PM UTC on July 20th, 2020, SOL/USDT will begin trading. Bitmax is a global digital assets trading platform based out of Singapore with over 190 trading pairs and 40 different margin trading pairs. BitMax is quickly becoming a leading exchange in China, Korea, and Japan.</p><p><a href=\"https://solana.com/earn/bitmax?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana’s Official Educational Giveaway Campaign</strong></a><strong>: ◎20,000 Available</strong></p><p>Event Duration: 07/17–07/23</p><p>The Solana Foundation is offering a SOL giveaway for BitMax users that learn more about Solana and join our global communities. To participate, BitMax users need to fill out a form, complete a quiz, follow the Solana&nbsp;<a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">English Twitter</a>, join the Solana&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">English Telegram</a>&nbsp;group, and refer users to the campaign.</p><p>Please review the following rules before registering.</p><ul><li>Duplicate submissions are not allowed. If your submission is found to be fraudulent or high-risk, you will be disqualified</li><li>Delivery of the giveaway will happen within 96 hours after the campaign ends. *Please keep an eye on the Solana Telegram and Twitter for a final 24-hour announcement</li><li>The giveaway will be distributed to the Solana (SOL) address associated with the ID you provided upon registration</li><li>The following countries are restricted from participating in this campaign: Burma, Crimea and Sevastopol, Cote d’Ivoire, Cuba, Democratic Republic of Congo, Iran, Iraq, Libya, North Korea, Sudan, Syria, and Zimbabwe</li><li>BitMax will be distributing all token awards</li><li>KYC is required and will be performed by BitMax</li></ul><p>Here are the steps to participate:</p><ol><li>Complete the form at&nbsp;<a href=\"https://solana.com/earn/bitmax?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://solana.com/earn/BitMax</a></li><li>Complete the short quiz</li><li>Sign up for the Solana newsletter</li><li>Follow&nbsp;<a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">@solana</a>&nbsp;on Twitter</li><li>Join the Solana&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;group</li></ol><p>This educational campaign allows users to be eligible for two sets of prizes: random drawings and referral competition wins. For users who place in the top 1,000 of participants, we will deliver a bonus giveaway on top of the random drawing that all users will receive.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-78630f0fb6dd46718f588f704b61abc1",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d4e08cb72fe47cc9c36339d8f52368a?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.653,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 522,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d4e08cb72fe47cc9c36339d8f52368a?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d4e08cb72fe47cc9c36339d8f52368a?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d4e08cb72fe47cc9c36339d8f52368a?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d4e08cb72fe47cc9c36339d8f52368a?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d4e08cb72fe47cc9c36339d8f52368a?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d4e08cb72fe47cc9c36339d8f52368a?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d4e08cb72fe47cc9c36339d8f52368a?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d4e08cb72fe47cc9c36339d8f52368a?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d4e08cb72fe47cc9c36339d8f52368a?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-564043078f764b1dac8dc8ee5388e6dc",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>BitMax Campaigns</strong></p><p>To help promote the SOL listing, BitMax will be holding two separate events for the Solana community. The first event is a community giveaway, and the second event is a trading competition. ◎13,433 will be rewarded to the Solana and BitMax community between these two events.</p><p><strong>BitMax Community Giveaway Campaign: ◎4,478 Available</strong></p><p>Event Duration: 07/20–07/25</p><p>BitMax has teamed up with prominent crypto communities and influencers for this event. Once the event goes live, you will be asked to complete a series of tasks. The first 1,000 participants to complete the tasks will each get 4 SOL. All rewards will be sent by BitMax. Follow the&nbsp;<a href=\"https://twitter.com/BitMax_Official?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">BitMax Twitter</a>&nbsp;account and join the<a href=\"https://t.me/BitMaxioEnglishOfficial?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;BitMax Telegram</a>&nbsp;channel to learn more about this initiative.</p><p><strong>BitMax Trading Campaign:</strong>&nbsp;<strong>◎8,995 Available</strong></p><p>Event Duration: 07/23–07/28</p><p>BitMax will be holding a trading competition starting July 23rd. For the duration of the event, the top 20 users ranked by SOL trading volume on the SOL/USDT BitMax trading pair will be able to earn from a token pool of&nbsp;<strong>◎</strong>4,400. The token distribution will be in proportion of the individual trading volume by rank. In addition, an extra&nbsp;<strong>◎</strong>4,400 will be distributed to everyone else who buys and sells SOL during this time frame. The allocation will be in proportion to individual trading volume until all the&nbsp;<strong>◎</strong>4,400 has been distributed.</p><p><a href=\"https://bitmaxhelp.zendesk.com/hc/en-us/articles/360051955213-BitMax-io-Listing-of-Solana-SOL-Special-Promotions-for-You-to-Share-32-000-USDT-in-SOL-Tokens-?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>PLEASE REVIEW THE OFFICIAL ANNOUNCEMENT FROM BITMAX HERE</strong></a></p><p>Follow Solana on social media</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></p><p><a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a></p><p><a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F29a2a227dbc740519865a6131aa4d388",
+  "lastUpdated": 1696416579387,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_54246b81885a4cdf880b14751fa67a3b",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687537049980,
+  "@originId": "54246b81885a4cdf880b14751fa67a3b",
+  "testRatio": 1,
+  "createdDate": 1687362689981,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=54246b81885a4cdf880b14751fa67a3b&builder.overrides.54246b81885a4cdf880b14751fa67a3b=54246b81885a4cdf880b14751fa67a3b&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana (SOL) Is Now Open For Deposits On BitMax — Trading Will Begin At 2 PM UTC, July 20th",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

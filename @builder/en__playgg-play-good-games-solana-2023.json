@@ -1,0 +1,125 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1680678000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0e4b30996b434b41b3ba3d5db9c74e39",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Play Good Games with developers, gamers, and the local community in a welcoming, family-friendly environment this July. ",
+    "publishedDate": "Wed Apr 05 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "PlayGG is coming to San Diego! Don’t miss this free Solana games exhibition with over 50 games on site",
+      "ogUrl": "",
+      "ogDescription": "Play Good Games with developers, gamers, and the local community in a welcoming, family-friendly environment this July. ",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "PlayGG is coming to San Diego! Don’t miss this free Solana games exhibition with over 50 games on site",
+      "noFollow": false,
+      "seoDescription": "Play Good Games with developers, gamers, and the local community in a welcoming, family-friendly environment this July. ",
+      "seoTitle": "PlayGG is coming to San Diego! Don’t miss this free Solana games exhibition with over 50 games on site",
+      "noIndex": false
+    },
+    "title": "PlayGG is coming to San Diego! Don’t miss this free Solana games exhibition with over 50 games on site",
+    "twitterMeta": {
+      "twitterTitle": "PlayGG is coming to San Diego! Don’t miss this free Solana games exhibition with over 50 games on site",
+      "twitterDescription": "Play Good Games with developers, gamers, and the local community in a welcoming, family-friendly environment this July. "
+    },
+    "slug": "playgg-play-good-games-solana-2023",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9687f359460a46d5bc32a40d446b0cb7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-869de10072014851923ff55ec3822155",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-52ef507c82a5418d8c5ce92b578d2a19",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>PlayGG is a community-first celebration of games and innovation, and it’s happening from July 18-19, 2023, at the JULEP Venue in San Diego, immediately before Comic-Con International. Mark your calendars,&nbsp;<a href=\"https://solana.com/playgg?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">register for the event here,</a>&nbsp;and make sure you’re a part of this free, immersive, fun community event featuring over 50 games built on Solana – along with the developers and personalities behind them.</p><p>PlayGG, which stands for Play Good Games, will showcase the latest web3 games and gameplay experiences from developers all over the world who are building on Solana. Attendees will have the opportunity to play games, meet developers, and learn about the latest developments in web3 gaming.</p><h2><strong>PlayGG stands for “Play Good Games”</strong></h2><p>PlayGG is a completely free event that, first and foremost, is all about good games and high quality player experiences. The goal of the exhibition is to make sure that everyone has the opportunity to experience the latest that games on Solana has to offer.&nbsp;</p><p>Not only is PlayGG free for attendees, but it’s also free for developers and exhibitors to have a booth on-site, showcase their projects, and offer memorable experiences for attendees. This event is all about bringing the gaming community together, where attendees will have the opportunity to connect with developers, gaming influencers, popular Twitch streamers, and of course, each other.</p><p>We can’t wait to share the fun games that developers have built on Solana. Games are taking off on Solana due to its unparalleled performance and scalability, which enables game devs to put players at the center of their games. The games are fun, but they also reward players for their efforts and allow players to contribute to the experience and intellectual property of the game. Web3 games are the next frontier for gamers!</p><h2><strong>Meet your favorite game developers and personalities</strong></h2><p>PlayGG will feature over 50 games built on Solana, offering attendees a wide variety of gameplay experiences. Developers will be on hand to offer demos and provide attendees with a behind-the-scenes look at their games. In addition, expect feature reveals, surprises, and other announcements from top gaming studios.</p><p>PlayGG will feature leading personalities from Twitch and other game-related sites, offering attendees the opportunity to meet some of the most prominent figures in gaming. Top professional teams will also be in attendance and competing live in online multiplayer Solana games.</p><p>For more information on PlayGG, including to sign up or on how to showcase a game, check out&nbsp;<a href=\"https://solana.com/playgg?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">our event site here.</a></p><p>See you in July, San Diego!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F99b936ca20ac4ffaadaf65a6a792cc34",
+  "lastUpdated": 1696412084825,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_d3206972b31346dfab9f9bfedb8f60b9",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687592579849,
+  "@originId": "d3206972b31346dfab9f9bfedb8f60b9",
+  "testRatio": 1,
+  "createdDate": 1687362400213,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=d3206972b31346dfab9f9bfedb8f60b9&builder.overrides.d3206972b31346dfab9f9bfedb8f60b9=d3206972b31346dfab9f9bfedb8f60b9&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "PlayGG is coming to San Diego! Don’t miss this free Solana games exhibition with over 50 games on site",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

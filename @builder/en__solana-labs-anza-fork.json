@@ -1,0 +1,233 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-labs-anza-fork",
+  "data": {
+    "datePublished": 1709643600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1874ed15459645e7b8f3afb21a38041f",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_7936d8cf751d43dcbc38a1bb3e3c6afc"
+    },
+    "intro": "The fork occurred on March 2, 2024.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1874ed15459645e7b8f3afb21a38041f",
+      "seoDescription": "The fork occurred on March 2, 2024.",
+      "seoTitle": "Learn More About the Solana Labs to Agave Fork"
+    },
+    "title": "Learn More About the Solana Labs to Agave Fork",
+    "slug": "solana-labs-anza-fork",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-9513879c89f043f4a6d357adaf0eec92",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e231fd07d9784007be16baf36ea0f076",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><em>This post was originally published by </em><a href=\"https://medium.com/anza-xyz/learn-more-about-the-solana-labs-to-agave-fork-f8507453e639\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Anza.</em></a></p><p>This weekend (March 2, 2024) [Anza] forked the Solana Labs validator software into a repo managed by the Anza team&nbsp;<a href=\"https://github.com/anza-xyz/agave\" rel=\"noopener noreferrer\" target=\"_blank\">located here</a>. Please see our&nbsp;<a href=\"https://x.com/anza_xyz/status/1763667506785587248?s=20%29\" rel=\"noopener noreferrer\" target=\"_blank\">X post here&nbsp;</a>and&nbsp;<a href=\"https://medium.com/anza-xyz/anza-github-migration-faq-9ab94e03f8dc\" rel=\"noopener noreferrer\" target=\"_blank\">FAQ here</a>.</p><p>If you are not familiar with Anza, we are a new dev shop within the Solana ecosystem consisting of former executives and core engineers from Solana Labs. One of our objectives is to build a forked Solana Labs validator client which will be called “Agave,” as well as contribute to other major protocols within the Solana ecosystem. Our&nbsp;<a href=\"https://medium.com/anza-xyz/meet-anza-a-new-solana-focused-dev-shop-7d92391d290b\" rel=\"noopener noreferrer\" target=\"_blank\">announcement provides further background</a>.</p><p>Our objective in forking the client will be to separate future contributions by the Anza team from the previous work at Solana Labs. This is part of our process to support the Firedancer client being developed by Jump Crypto, build dev tools and provide further engineering support to the broader Solana developer ecosystem.</p><p>Anza will be joining the Solana Validator Community Call (March 14, 2024 at 11am PST) and the Solana Foundation Core Community Call (March 13, 2024) to answer questions on this topic live. Please feel free to follow our new DevRel lead, Rex St. John, who&nbsp;<a href=\"https://twitter.com/rexstjohn\" rel=\"noopener noreferrer\" target=\"_blank\">will be active across various forums to answer any questions you may have</a>. Finally, follow Anza on X to stay updated for future announcements:&nbsp;<a href=\"https://twitter.com/anza_xyz\" rel=\"noopener noreferrer\" target=\"_blank\">https://twitter.com/anza_xyz</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4364ebcc98eb4b57beb387be0c89ef53",
+            "meta": {
+              "previousId": "builder-64047d5578174b58b9ec78293dccd501"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cd25bfe6847448349f4886318a881d09",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Learn more about Solana development</h2>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2687d70f461f4e62ab2e92dd6f6ac75c",
+            "meta": {
+              "previousId": "builder-d859d6ed10ea4df8be20bcfeeeefb904"
+            },
+            "component": {
+              "name": "Card Deck",
+              "options": {
+                "cards": [
+                  {
+                    "type": "image",
+                    "heading": "Intro to Solana Development",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Development Course",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://www.soldev.app/course",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Bootcamp",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "More Solana Developer Tools",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  }
+                ],
+                "featured": true,
+                "numCols": 3
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa403b50cad5e47dfa5b1f898a722811c",
+  "lastUpdated": 1709668569488,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_b10d96218ff24705a7632b5aa9cd0bb2",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1709665104034,
+  "@originId": "b10d96218ff24705a7632b5aa9cd0bb2",
+  "testRatio": 1,
+  "createdDate": 1709663032042,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-labs-anza-fork?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=b10d96218ff24705a7632b5aa9cd0bb2&builder.overrides.b10d96218ff24705a7632b5aa9cd0bb2=b10d96218ff24705a7632b5aa9cd0bb2&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Copy": 2,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Learn More About the Solana Labs to Agave Fork",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

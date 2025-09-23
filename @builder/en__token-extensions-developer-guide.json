@@ -1,0 +1,290 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/token-extensions-developer-guide",
+  "data": {
+    "datePublished": 1706103000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd907dc3f362646a8868ef4bd62de1e87",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Learn what you can create with token extensions, custom logic, compatibility, and more.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd907dc3f362646a8868ef4bd62de1e87",
+      "seoDescription": "Learn what you can create with token extensions, custom logic, compatibility, and more.",
+      "seoTitle": "A Developer’s Guide to Token Extensions on Solana"
+    },
+    "title": "A Developer’s Guide to Token Extensions on Solana",
+    "slug": "token-extensions-developer-guide",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a70200e65d34494b65f9e04c0727a14"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-cb93e04648964a56ade1959b1c618b0e",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c77b96de523740309aca2605a5fe998a",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><a href=\"https://solana.com/tokenextensions\" rel=\"noopener noreferrer\" target=\"_blank\">Token extensions on Solana</a> are the next generation of the Solana Program Library standard. The original Token program brought the basic capabilities of transfer, freeze, and minting tokens. Comprising more than a dozen extensions, developers can now unlock advanced token functionality with remarkable efficiency, requiring only a fraction of the engineering time.</p><h2>How do I create a token with token extensions?</h2><p>To get started, use the <a href=\"https://docs.solana.com/cli/install-solana-cli-tools\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Tool Suite</a> to create tokens with a CLI. Based on the extension you want to create, your command flags may be different. Below are the flags to add to create tokens with each type of extension.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-960a177bf31747a8b273c1496f99c8c4",
+            "meta": {
+              "previousId": "builder-2264545c234f43c0a898661fd050bb37"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<style type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .gray{\n      background-color: #424242;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n</style>\n<table class=\"custom\">\n  <thead>\n    <tr>\n      <td>Extension</td>\n      <td>CLI Flag</td>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/mint-close-authority\"\n          >Mint close authority</a\n        >\n      </td>\n      <td><code>--enable-close</code></td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/transfer-fee\"\n          >Transfer fee</a\n        >\n      </td>\n      <td><code>--transfer-fee < basis points > < max fee ></code></td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/non-transferable\"\n          >Non-transferrable</a\n        >\n      </td>\n      <td><code>--enable-non-transferable</code></td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/interest-bearing-tokens\"\n          >Interest-bearing</a\n        >\n      </td>\n      <td><code>--interest-rate < rate ></code></td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/permanent-delegate\"\n          >Permanent delegate</a\n        >\n      </td>\n      <td><code>--enable-permanent-delegate</code></td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/transfer-hook\"\n          >Transfer hook</a\n        >\n      </td>\n      <td><code>--transfer-hook < programID ></code></td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/metadata-pointer\"\n          >Metadata</a\n        >\n      </td>\n      <td><code>--enable-metadata</code></td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/metadata-pointer\"\n          >Metadata pointer</a\n        >\n      </td>\n      <td><code>--metadata-address < accountId ></code></td>\n    </tr>\n    <tr>\n      <td>Confidential transfer</td>\n      <td><code>--enable-confidential-transfers auto</code></td>\n    </tr>\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingRight": "50px",
+                "paddingLeft": "50px",
+                "paddingTop": "20px",
+                "width": "auto",
+                "alignSelf": "stretch"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-77bd636dc47644559673818fc4015c26",
+            "meta": {
+              "previousId": "builder-4516d16b21194cf3b3c8f0de80f6ab55"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  You can enable some extensions on a token account instead of the mint. See the\n  required flags for each below.</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2445dfa65a1140d1adecf8e822e6cfa6",
+            "meta": {
+              "previousId": "builder-2264545c234f43c0a898661fd050bb37"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<style type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .gray{\n      background-color: #424242;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n</style>\n<table class=\"custom\">\n  <thead>\n    <tr>\n      <td>Extension</td>\n      <td>Flag</td>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/immutable-owner\"\n          >Immutable owner</a\n        >\n      </td>\n      <td>Included by default</td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/required-memo\"\n          >Required memo on transfer</a\n        >\n      </td>\n      <td><code>enable-required-transfer-memos</code></td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://spl.solana.com/token-2022/extensions#cpi-guard\"\n          >CPI guard</a\n        >\n      </td>\n      <td><code>enable-cpi-guard</code></td>\n    </tr>\n    <tr>\n      <td>\n        <a\n          href=\"https://solana.com/developers/guides/token-extensions/default-account-state\"\n          >Default account state</a\n        >\n      </td>\n      <td><code>--default-account-state < state ></code></td>\n    </tr>\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingRight": "50px",
+                "paddingLeft": "50px",
+                "paddingTop": "20px",
+                "width": "auto",
+                "alignSelf": "stretch"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8d0b36aebc6942d9852ebebae4152189",
+            "meta": {
+              "previousId": "builder-4516d16b21194cf3b3c8f0de80f6ab55"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Now that you know what extensions are available, you can create your new token with the following command:</p><p><code>spl-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb create-token &lt;extension flags&gt;</code></p><p>With token extensions, you can mix and match based on what you need for your project. For example, if you wanted a token with transfer fees and a custom metadata, you would just use the following command to combine the extensions:</p><p><code>spl-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb create-token --interest-rate 5 --enable-metadata&nbsp;</code></p><p><strong><em>Note:</em></strong><em> While you can mix and match extensions, extensions cannot be added after the token mint is created.</em></p><h2>What extensions are compatible with each other?</h2><p>You can combine multiple extensions together, but some extensions would either not work or not make sense to combine. (For example, you would not want to add token hooks alongside the non-transferable token extension because it would add anything to the token but still cost more to create.)&nbsp;</p><p>The following extension combinations either do not work or will not make sense to combine:</p><ul><li>Non-transferable + {transfer hooks, transfer fees, confidential transfer}</li><li>Confidential transfer + fees (available in 1.18)</li><li>Confidential transfer + transfer hooks (can only see source / destination, can't act on amount)</li></ul><p>Other than these exceptions, you have the option to customize with any combination of token extensions that suit your project’s needs.</p><h2>How do I add custom logic to my tokens with token extensions?</h2><p>Token extensions enable you to create custom logic with your tokens while retaining full composability with dApps, wallets, programs. The two extensions that can enable this are the transfer hooks and metadata extensions.</p><h3>Transfer Hooks</h3><p>Transfer hooks are a powerful new extension that give token issuers greater ability to dictate how users and tokens interact. Now,any developer can insert custom logic into a program to be used with the transfer hook extension. With transfer hooks you can enable capabilities such as enforced on-chain royalties, enabling more elaborate token interactions.</p><p>It is important to note that while transfer hooks give the capability to insert custom logic within a transfer, all accounts from the initial transfer are converted to read-only accounts. This means that the signer privileges of the sender do not extend to the transfer hook program. This is to avoid potential unexpected logic executing on someone’s wallet who interacts with a token with transfer hooks, protecting the users.</p><p><a href=\"https://solana.com/developers/guides/token-extensions/transfer-hook\" rel=\"noopener noreferrer\" target=\"_blank\">Start building with transfer hooks today</a>.</p><h3>Metadata</h3><p>The Metadata extension empowers token issuers by allowing them to seamlessly embed diverse key-value pairs on-chain, all within a single account. This functionality is particularly beneficial for projects like games, enabling them to incorporate custom metadata within each token. This opens up a myriad of possibilities for games to enhance the capabilities of their in-game tokens and items. Furthermore, the inclusion of custom on-chain metadata paves the way for the establishment of new standards. This presents a unique opportunity for the developer community to collaboratively explore innovative applications of on-chain metadata, all encapsulated under the umbrella of token extensions.</p><p><a href=\"https://solana.com/developers/guides/token-extensions/metadata-pointer\" rel=\"noopener noreferrer\" target=\"_blank\">Start building with metadata today.</a></p><h2>Do I need to migrate tokens from one standard to another?</h2><p>Token extensions is a new standard for tokens, but it is not a requirement that anyone migrate from one standard to another. There are reasons why you may want to stick with the original Token standard. If you only need a transfer and freeze functionality and none of the additional features of token extensions, the Token program standard will suit your project just fine. However if you want the ability to add more advanced features, token extensions can help.</p><p>There is no way to automatically convert your tokens across standards today. <a href=\"https://spl.solana.com/token-upgrade\" rel=\"noopener noreferrer\" target=\"_blank\">A migration path</a> does exist between the token standards, but it comes with some complications:</p><ul><li>All tokens of the previous standard must be burned</li><li>The migration will be user opt-in only</li></ul><p>The general recommendation is that if you want token extension capabilities for your token, start with creating your token with that standard.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ea27cb1877db4b13906588512fb769b4",
+            "meta": {
+              "previousId": "builder-edc70af5c55945fc93559f2dc11bbf46",
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "newsLetter": true,
+                "formId": "f1bc79b9-a1cd-463a-8c2c-e761b2fa108d",
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "DEVELOPER NEWSLETTER"
+                },
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "For devs. By devs."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Hear about the latest news, commits, and more from the Solana Foundation Developer Relations team.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Share your email"
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Thanks for joining this email list!"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9ebec456566d4eff990543215e05d5a1",
+  "lastUpdated": 1718291484414,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6bd798de18e94eed9c9e6f05bae1b331",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1706104869424,
+  "@originId": "6bd798de18e94eed9c9e6f05bae1b331",
+  "testRatio": 1,
+  "createdDate": 1706041274633,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/token-extensions-developer-guide?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2CeditLayouts%2CeditLayers&builder.user.role.name=Developer&builder.user.role.id=developer&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=6bd798de18e94eed9c9e6f05bae1b331&builder.overrides.6bd798de18e94eed9c9e6f05bae1b331=6bd798de18e94eed9c9e6f05bae1b331&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 3,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "A Developer’s Guide to Token Extensions on Solana",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

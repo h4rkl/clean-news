@@ -1,0 +1,169 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1654110000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F92448b3b82e143a18d47da78045d41b6",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Plus, a new type of community-run event is starting up!",
+    "publishedDate": "Thu Jun 02 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Solana x Jump Hacker Houses celebrate Solana Summer with a European tour",
+      "ogUrl": "",
+      "ogDescription": "Plus, a new type of community-run event is starting up!",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana x Jump Hacker Houses celebrate Solana Summer with a European tour",
+      "noFollow": false,
+      "seoDescription": "Plus, a new type of community-run event is starting up!",
+      "seoTitle": "Solana x Jump Hacker Houses celebrate Solana Summer with a European tour",
+      "noIndex": false
+    },
+    "title": "Solana x Jump Hacker Houses celebrate Solana Summer with a European tour",
+    "twitterMeta": {
+      "twitterTitle": "Solana x Jump Hacker Houses celebrate Solana Summer with a European tour",
+      "twitterDescription": "Plus, a new type of community-run event is starting up!"
+    },
+    "slug": "solana-jump-hacker-houses-europe-tour-summer-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-bc71e10f04794168a43f351997565bca",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2b988fd1b2424e2cb409861eca1f6cd6",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The sun is out, and Solana developers are building.</p><p>As Solana Summer returns once again, the Solana Foundation is pleased to announce the next batch of Solana x Jump Hacker Houses! This successful series of weeklong, in-person events have seen thousands of builders around the world meet up, learn, collaborate, and ship the next generation of web3 projects.</p><p>Thanks to the support of Jump, the Solana Foundation is pleased to announce a special European tour for builders across the continent. From the Danube to the Thames, Solana developers can expect one-of-a-kind education, mentorship, and networking opportunities with the builders in their own community.</p><p>The Solana x Jump Hacker Houses are heading to…</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e06ed244fadb4d319c77b13ac0dae145",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"width: 90%\">\r\n<tbody>\r\n    <tr>\r\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>London, United Kingdom</p></td>\r\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>14-18 June 2022</p></td>\r\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/london-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\r\n</tr>\r\n    <tr>\r\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Barcelona, Spain</p></td>\r\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>22-26 June 2022</p></td>\r\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/barcelona-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\r\n</tr>\r\n    <tr>\r\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Belgrade, Serbia</p></td>\r\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>2-6 July 2022</p></td>\r\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/belgrade-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\r\n</tr>\r\n    <tr>\r\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Paris, France</p></td>\r\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>15-19 July 2022</p></td>\r\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/paris-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\r\n</tr>\r\n    <tr>\r\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Kraków, Poland</p></td>\r\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>3-7 August 2022</p></td>\r\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/krakow-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\r\n</tr>\r\n    <tr>\r\n        <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p><s>Budapest, Hungary</s></p></td>\r\n        <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p><s>10-14 August 2022</s></p></td>\r\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><s>Learn more</s></p></td>\r\n</tr>\r\n      <tr>\r\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Stockholm, Sweden</p></td>\r\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>24-28 August 2022</p></td>\r\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/stockholm-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\r\n</tr>\r\n    </tbody>\r\n</table>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a8c986949fa34910ba14316316266988",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>In addition to the official Solana x Jump Hacker Houses, the Solana Foundation is pleased to announce&nbsp;<strong>Solana Hacker House X</strong>, a new community-run event series for builders and members of the Solana ecosystem inspired by grassroots events like&nbsp;<a href=\"https://mobile.twitter.com/mtndao?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">mtnDAO</a>. These events are hosted by projects and community members from around the world with the support of the Solana Foundation. Interested in hosting a Hacker House X?&nbsp;<a href=\"https://solanalabs.typeform.com/hackerhouseX?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Get in touch.</a></p><p>The first community-run Hacker House X was AthensDAO, a DAO-focused event hosted by Grape Protocol which ran May 22-28, 2022.&nbsp;<a href=\"https://solana.com/events/athensdao?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here.</a></p><p>More Solana Hacker Houses are coming soon. Stay tuned and keep building!</p><p>Editor's note, June 20th, 2022: Please note that the Solana Hacker House in Budapest has been canceled due to scheduling issues. Registrants are highly encouraged to attend one of the other stops on the European Tour!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffeb7f5d7d75840f482131da2883bfa38",
+  "lastUpdated": 1696414486993,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c6a8c55b73764a92800fa8edb5c49778",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687554467677,
+  "@originId": "c6a8c55b73764a92800fa8edb5c49778",
+  "testRatio": 1,
+  "createdDate": 1687362497024,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=c6a8c55b73764a92800fa8edb5c49778&builder.overrides.c6a8c55b73764a92800fa8edb5c49778=c6a8c55b73764a92800fa8edb5c49778&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana x Jump Hacker Houses celebrate Solana Summer with a European tour",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

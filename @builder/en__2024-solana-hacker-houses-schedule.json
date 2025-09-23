@@ -1,0 +1,177 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/2024-solana-hacker-houses-schedule",
+  "data": {
+    "datePublished": 1705498200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68c3de61be7a42ce966c5430cba309ad",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Solana Hacker Houses are back with a new, focused format.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F68c3de61be7a42ce966c5430cba309ad",
+      "seoDescription": "Solana Hacker Houses are back with a new, focused format.",
+      "seoTitle": "The 2024 Solana Hacker House Schedule is Here"
+    },
+    "title": "The 2024 Solana Hacker House Schedule is Here",
+    "slug": "2024-solana-hacker-houses-schedule",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-f3ebc5d88321442fa0a7637a23cb9198",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-176cf66789a748ddbaaf9348eb86e42e",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Builders, get ready. A specialized group of Solana Hacker Houses are coming to regions around the world, with a focused format that ensures relevant learning and programming for different areas of the blockchain industry.</p><p>This year, Solana Hacker Houses will be coming to the following cities:</p><ul><li><a href=\"https://lu.ma/solana-hh-nyc-2024\" rel=\"noopener noreferrer\" target=\"_blank\">New York City</a> — <strong>DeFi, Security, and Regulations</strong> — March 28-29, 2024</li><li><a href=\"https://lu.ma/dubai-hh-2024\" rel=\"noopener noreferrer\" target=\"_blank\">Dubai</a> — <strong>RWA, Stablecoins, and Regulations</strong> — April 15-16, 2024&nbsp;</li><li><a href=\"https://lu.ma/london-hh-2024\" rel=\"noopener noreferrer\" target=\"_blank\">London</a> — <em>Topics coming soon! — </em>July 5-6, 2024&nbsp;</li><li><a href=\"https://lu.ma/bengaluru-hh-2024\" rel=\"noopener noreferrer\" target=\"_blank\">Bengaluru</a> — <em>Topics coming soon! — </em>July 26-27, 2024</li></ul><p>It all leads up to <a href=\"https://solana.com/breakpoint\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint 2024</a>, the annual gathering of the Solana community, happening in Singapore Sept. 19-21, 2024.</p><p>Solana Hacker Houses are opportunities for builders to gather, learn, and collaborate with the diverse and creative Solana community. Attendees can expect:</p><ul><li><strong>Learning and Development:</strong> Participate in informative and educational programming, including workshops, panels, and presentations from industry leaders and ecosystem teams.&nbsp;</li><li><strong>Networking:</strong> Experience opportunities for conversation and connection. Hacker Houses are a time to work on your project, network, find team members for your idea, or join an existing team.</li><li><strong>Testing Ground: </strong>Experiment, build, and receive feedback on your ideas, plus participate in a demo day to show your work to the community.</li><li><strong>Focused Topics: </strong>Each Solana Hacker House will specialize in different, relevant areas of the blockchain industry.&nbsp;</li></ul><p>Interested in sponsoring an event? Find more information in each individual event invite.</p><p>Want more events, both online and off? <a href=\"https://solana.com/events\" rel=\"noopener noreferrer\" target=\"_blank\">See Solana community events here.</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e0eece87c0d9461cb7a919839ca37236",
+            "meta": {
+              "previousId": "builder-0a952624aa4b4f4a97ca3fb6bbdbd02d",
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "newsLetter": true,
+                "formId": "72c9e5c3-fe0d-4e63-ab21-1ec098d99f38",
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Keep in touch about Breakpoint 2024!"
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Hear the latest news about Breakpoint 2024, taking place Sept. 19-21, 2024 in Singapore.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9342f7cf04c84d1a941fc92ddd1aa6e0",
+  "lastUpdated": 1718291501358,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_ec6fb6763af144bba4796fa5f9add151",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1705503619671,
+  "@originId": "ec6fb6763af144bba4796fa5f9add151",
+  "testRatio": 1,
+  "createdDate": 1705437063697,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/2024-solana-hacker-houses-schedule?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2CeditLayouts%2CeditLayers&builder.user.role.name=Developer&builder.user.role.id=developer&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=ec6fb6763af144bba4796fa5f9add151&builder.overrides.ec6fb6763af144bba4796fa5f9add151=ec6fb6763af144bba4796fa5f9add151&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "The 2024 Solana Hacker House schedule is here",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

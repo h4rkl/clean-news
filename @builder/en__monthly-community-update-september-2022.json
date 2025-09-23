@@ -1,0 +1,228 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1663527600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F004eeb31cab841ebbd37b46bb2bb84a6",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Meet the winners of the Solana Summer Camp Hackathon and more headlines from the community.",
+    "publishedDate": "Mon Sep 19 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Monthly Community Update | September 2022",
+      "ogUrl": "",
+      "ogDescription": "Meet the winners of the Solana Summer Camp Hackathon and more headlines from the community.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Monthly Community Update | September 2022",
+      "noFollow": false,
+      "seoDescription": "Meet the winners of the Solana Summer Camp Hackathon and more headlines from the community.",
+      "seoTitle": "Monthly Community Update | September 2022",
+      "noIndex": false
+    },
+    "title": "Monthly Community Update | September 2022",
+    "twitterMeta": {
+      "twitterTitle": "Monthly Community Update | September 2022",
+      "twitterDescription": "Meet the winners of the Solana Summer Camp Hackathon and more headlines from the community."
+    },
+    "slug": "monthly-community-update-september-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-94c4d94a4d0f4753a11bde44fa7ad948",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dbecce5df10b4d24b0b0f996130916c4",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Get this update first.&nbsp;<a href=\"http://eepurl.com/gOcpoL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up for the Solana Community Update newsletter!</a></p><h2><strong>Solana Summer Camp: Congratulations to the winners!</strong></h2><p>The Solana Foundation is pleased to announce the results of the&nbsp;<a href=\"https://solana.com/summercamp?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Summer Camp Hackathon</a>, a global competition focused on bringing the next wave of high-impact projects into the Solana ecosystem. Open to teams globally, Solana Summer Camp saw nearly 18,000 participants submit 750 final projects to the judges. Stripe, Orca, Grape, Solana Mobile, Fractal, and Brave joined the Solana Foundation as category sponsors for the hackathon, offering participants a global prize pool of up to $5 million in prizes and seed funding.&nbsp;</p><p><a href=\"https://solana.com/summercamp/voting/ironforge?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">IronForge</a>, a platform that includes automated deployments, program previews, auto-generated APIs, monitoring and more, received the Grand Champion prize of $65,000 in USDC, along with passes to attend&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint</a>, the annual Solana conference in Lisbon Nov. 4-7, 2022, where they will present their project.</p><p>The first place finishers of the six prize tracks include:</p><ul><li><strong>💸 Payments:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/sphere?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sphere</a>, which offers custodial and non-custodial payments solutions to help SMB owners, NFT creators, and companies seamlessly accept Solana payments, increase customer engagement, and manage their online crypto store.</li><li><strong>🎮 Gaming:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/solana-rpg-dungeon-quest-metaplex-multicharacter-integration?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RPG Quest</a>, a lightweight, pixel multicharacter, play-to-earn dungeon game built using Phaser, powered by Metaplex.</li><li><strong>⚖️ DAOs:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/bastion-community?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bastion</a>, which allows a DAO to become a wallet that transacts across Solana dApps and signs governance proposals.</li><li><strong>📈 DeFi:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/dual-finance-risk-manager?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Dual Finance</a>, which provides automated risk management of structured products via gamma scalping.</li><li><strong>💻 Web3:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/ora?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ora</a>, a search engine for blockchain data using AI for human-readable queries.</li><li><strong>📱 Mobile:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/block-live?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">BlockLive</a>, a fast, easy, and transparent event management and ticketing app built on Solana.</li></ul><p>There were also three other special awards:</p><ul><li><strong>🏫 The University Award:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/sol-stamps?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solstamps</a>, software designed to solve email phishing by linking user identities to Solana wallets.</li><li><strong>☀️ Community Choice Award:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/beluga-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Beluga</a>, a stableswap AMM that enables lower slippage and creation of permissionless pools.</li><li><strong>🌳 The Climate Award:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/wi-hi?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">WiHi</a>, a decentralized weather forecasting and climate monitoring solution that issues tokens as a reward to weather stations providing accurate data to the network.</li></ul><p><a href=\"https://solana.com/news/solana-summer-camp-winners?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">See the full list of winners and honorable mentions</a>, and&nbsp;<a href=\"https://solana.com/summercamp/voting?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">explore the submission directory.</a></p><h2><strong>Top Solana News</strong></h2><h3><strong>Helium proposes move to Solana</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0347b22c61354f4ea0959da8d7b08582",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/HeliumFndn/status/1564723480138055687?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1564723480138055687%7Ctwgr%5Ec4c40c95b6fbc4c2add7754a116b51ec855b90fe%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fmonthly-community-update-september-2022</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6cd6bcdbef444368988d29c974055fb4",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Big news. Helium, the crypto-powered decentralized wireless network, has recently proposed moving from their own blockchain to Solana. This vote, which is currently ongoing, would mean that Helium would move all of its operations onto the Solana blockchain — a decision that came after&nbsp;<a href=\"https://medium.com/helium-foundation/hip-70-evaluating-layer-1-blockchains-for-the-helium-network-15f81af6941c?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a long evaluation process</a>&nbsp;between other chains.</p><p>Amir Haleem, the CEO of Nova Labs and Founder of Helium, recently joined Austin Federa on&nbsp;<a href=\"https://podcast.solana.com/episodes/amir-haleem-ceo-nova-labs-founder-helium-ep-71?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the Solana Podcast</a>&nbsp;to talk about the history of Helium and the decision to move to Solana.&nbsp;<a href=\"https://podcast.solana.com/episodes/amir-haleem-ceo-nova-labs-founder-helium-ep-71?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Listen here.</a></p><h3><strong>Coinbase Cloud offers Solana Archival Nodes</strong></h3><p>Get ready to look in the past. Coinbase Cloud announced Solana Archival Nodes,&nbsp;<a href=\"https://twitter.com/ViktorBunin/status/1567274962293084162?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">a blockstore of all historical transactions.</a>&nbsp;This will help builders access archival Solana data.</p><p><a href=\"https://blog.coinbase.com/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana-developer-community-a42df0527213?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more</a>&nbsp;at Coinbase Cloud.</p><h3><strong>Solana Summer Camp meets IRL</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-33482110e84e473b97836ca39d469cb7",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd873a6b2de9c495489d0c47d5aef8dab?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 1,
+                "lockAspectRatio": false,
+                "height": 1080,
+                "width": 1080,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd873a6b2de9c495489d0c47d5aef8dab?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd873a6b2de9c495489d0c47d5aef8dab?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd873a6b2de9c495489d0c47d5aef8dab?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd873a6b2de9c495489d0c47d5aef8dab?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd873a6b2de9c495489d0c47d5aef8dab?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd873a6b2de9c495489d0c47d5aef8dab?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd873a6b2de9c495489d0c47d5aef8dab?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd873a6b2de9c495489d0c47d5aef8dab?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd873a6b2de9c495489d0c47d5aef8dab?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7eb46ec4cb4249e89d56aacc3a2b2c78",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>While Solana Summer Camp was primarily an online event, ecosystem teams across the world hosted thousands of participants at offline events in San Francisco, Chicago, Salt Lake City, New York City, London, Lisbon, Amsterdam, Prague, Berlin, Belgrade, and Singapore. The hackathon brought together crypto pioneers and developers from around the world to launch projects on the Solana blockchain spanning Payments, DeFi, Mobile, Gaming, DAOs, and everything in-between.</p><p>Interested in hosting your own IRL building event?&nbsp;<a href=\"https://solanalabs.typeform.com/hackerhouseX?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Consider setting up a Hacker House X!</a></p><h3><strong>Head to the Solana House at FORMAT Festival</strong></h3><p>Experience the future of art and tech — all in one place.</p><p>Enter the Solana House at the&nbsp;<a href=\"https://www.format-festival.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">FORMAT Festival</a>&nbsp;in Bentonville, Ark., September 23rd-25th to get free snacks with crypto-powered digital vouchers, immerse yourself in world-renowned artist Nancy Baker Cahill’s first Solana NFT exhibit, and participate in an NFT auction.</p><p><a href=\"https://solana.com/format?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more.</a></p><h2><strong>Ecosystem Headlines</strong></h2><p>Here's what's new this month:</p><ul><li>Make sure to snag&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">your tickets for Breakpoint</a>, the Solana conference in Lisbon this November!</li><li><a href=\"https://twitter.com/encodeclub/status/1567549396564279296?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Encode Club</a>&nbsp;has teamed up with the Solana Foundation for a bootcamp and hackathon.</li><li>Fireblocks, an all-in-one platform for building digital asset businesses,&nbsp;<a href=\"https://twitter.com/FireblocksHQ/status/1564977622873882628?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">now supports DeFi on Solana.</a></li><li><a href=\"https://twitter.com/SquadsProtocol/status/1559585058461143041?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Squads</a>, a decentralized protocol that helps web3-native teams organize and make decisions on-chain and manage digital assets together, announced Squads V3.</li><li>Coinbase Wallet announced that you can now&nbsp;<a href=\"https://twitter.com/CoinbaseWallet/status/1561835680233316354?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">connect your Coinbase Wallet</a>&nbsp;to Solana dapps.</li><li><a href=\"https://twitter.com/bonfida/status/1565597405688614913?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bonfida</a>&nbsp;added TrustWallet to their Solana Name Service.</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F406946a487e7451692b76d6d1326494c",
+  "lastUpdated": 1696413578681,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f4f42d82ccb7421ea483c3ebcb972c45",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687559114101,
+  "@originId": "f4f42d82ccb7421ea483c3ebcb972c45",
+  "testRatio": 1,
+  "createdDate": 1687362464601,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=f4f42d82ccb7421ea483c3ebcb972c45&builder.overrides.f4f42d82ccb7421ea483c3ebcb972c45=f4f42d82ccb7421ea483c3ebcb972c45&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly Community Update | September 2022",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

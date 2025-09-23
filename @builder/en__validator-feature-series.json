@@ -1,0 +1,848 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1584514800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0b62072cb97549899e2031773f5b6243",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nEvery week we will be highlighting a new validator that is helping to grow the Solana network.\n",
+    "publishedDate": "Wed Mar 18 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Validator Feature Series",
+      "noFollow": false,
+      "seoDescription": "\nEvery week we will be highlighting a new validator that is helping to grow the Solana network.\n",
+      "seoTitle": "Validator Feature Series",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Validator Feature Series",
+      "ogUrl": "https://www.solana.com/blog/validator-feature-series",
+      "ogDescription": "\nEvery week we will be highlighting a new validator that is helping to grow the Solana network.\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Validator-Feature-Series/1-O8Bix6aeCdm-GKcnEAtRGA-1.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "Validator Feature Series",
+    "twitterMeta": {
+      "twitterTitle": "Validator Feature Series",
+      "twitterDescription": "\nEvery week we will be highlighting a new validator that is helping to grow the Solana network.\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Validator-Feature-Series/1-O8Bix6aeCdm-GKcnEAtRGA-1.png"
+    },
+    "slug": "validator-feature-series",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bcb4dba618b1420eaef36b7cf622a748"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_17b0231fb4584dce86dba08857694d6a"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_0efeeff01d314e61bdef318830eb1084"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6e486fb681614dda8835548c251fe8e7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-4d1e2a39b7bf4dada30b7c58a62762a7",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3e5e69067c1c48658a2183e34ab2fc8b",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">Each week Solana will be highlighting a new validator that is helping to grow the Solana network. Check back every Thursday for the latest blog.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4c3e2f698d8f4bf0a9336ec9f3c13cba",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb552856ccff243c98e56fd8e2a462a0a?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb552856ccff243c98e56fd8e2a462a0a?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb552856ccff243c98e56fd8e2a462a0a?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb552856ccff243c98e56fd8e2a462a0a?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb552856ccff243c98e56fd8e2a462a0a?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb552856ccff243c98e56fd8e2a462a0a?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb552856ccff243c98e56fd8e2a462a0a?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb552856ccff243c98e56fd8e2a462a0a?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb552856ccff243c98e56fd8e2a462a0a?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb552856ccff243c98e56fd8e2a462a0a?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ffd4b2d4b04b46938f05be98eac476ca",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Solana Foundation is extremely excited to highlight one of the longstanding validator — Dokia Capital.</p><p>Solana first met the team at the launch of our incentivized testnet back in 2019. They were and continue to be one of our most active participants and contributors. In fact, they were the validator that produced the final block which killed the cluster when Solana launched the first incentivized testnet (due to the early stage of our software at the time). Earning them the notorious title, “The Clustah-Killah”.</p><p>The team is based in Romania and led by Aurel Lancu who has been involved in the blockchain space for several years now. The Solana team believes in their experience is strong validation, as they’re a team that has seen the ecosystem evolve across multiple phases, and saw the potential in Solana to help unblock scalability.</p><p>Since then the team has been consistently contributing to the project across the board including some which are discussed further below. Lastly, we want to highlight&nbsp;<a href=\"https://solflare.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SolFlare</a>, a simple and intuitive non-custodial web wallet for storing and managing SOL tokens. The wallet is live now and features support for Keystore files that can be saved to your computer or an external drive, and the Ledger Nano S. SolFlare also is the first Solana wallet interface to support staking without needing to use the command line interface, making stake delegation easier and accessible to casual users. You can check it out&nbsp;<a href=\"https://solflare.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-42edb058f99c4870982e1d501dd64fcd",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd29a8cbe19ea43d79bfaba03d0ac87fa?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.611,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 489,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd29a8cbe19ea43d79bfaba03d0ac87fa?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd29a8cbe19ea43d79bfaba03d0ac87fa?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd29a8cbe19ea43d79bfaba03d0ac87fa?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd29a8cbe19ea43d79bfaba03d0ac87fa?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd29a8cbe19ea43d79bfaba03d0ac87fa?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd29a8cbe19ea43d79bfaba03d0ac87fa?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd29a8cbe19ea43d79bfaba03d0ac87fa?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd29a8cbe19ea43d79bfaba03d0ac87fa?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd29a8cbe19ea43d79bfaba03d0ac87fa?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-86c8418db4a9469c86e98e773802176c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>About&nbsp;</strong><a href=\"https://www.dokia.capital/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Dokia Capital</strong></a></p><h3><strong>This section is written from the voice of Dokia&nbsp;Capital</strong></h3><p>Dokia Capital has been in the blockchain space for a long time. Our team started out in 2014 when we built a mining facility for Ethereum. Once we saw how the POS space was developing, we transitioned pretty quickly and focused on actively supporting innovative projects.We’re reliable, professional, and drama-free. We like to keep it simple, keep it moving and keep it decentralized. So we’re focused on doing a good job, keeping our delegators happy, and making sure the networks we support are secured and running smoothly.</p><p>We’re very careful and deliberate about the networks that we join. It’s important that we believe in what they stand for and their ability to deliver on their potential. Solana has shown a great track record on that front and we’re proud to have joined them from their earliest days. It was clear from the very first Tour de SOL that we participated in that the team was professional, competent, and dedicated, qualities that we believe will help them make Solana the first Web-Scale blockchain.</p><p>In any project of this magnitude, success is a team effort. We wanted to contribute something meaningful to the growth of Solana’s validator community so we took on the challenge of implementing OpenCL, which will allow a validator to use AMD GPUs. We’re confident that this will lower the barrier to entry for new validators that want to join and support Solana’s growth.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8f2a1b6cbc43423c8ebedf43325b82a9",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8630eda5d79e45eba38f58577e2fade0?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8630eda5d79e45eba38f58577e2fade0?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8630eda5d79e45eba38f58577e2fade0?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8630eda5d79e45eba38f58577e2fade0?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8630eda5d79e45eba38f58577e2fade0?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8630eda5d79e45eba38f58577e2fade0?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8630eda5d79e45eba38f58577e2fade0?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8630eda5d79e45eba38f58577e2fade0?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8630eda5d79e45eba38f58577e2fade0?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8630eda5d79e45eba38f58577e2fade0?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9bb296c803e445edb16d01ee1d94d4eb",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This week, the Solana Foundation highlights a validator team that has been crucial to the Solana network’s success, Staking Facilities. Based out of German, Staking Facilities is a team of six revolutionizing the staking industry. You can view a&nbsp;<a href=\"https://stakingfacilities.com/dashboard?addresses=KT1VJXPUffYwFaW5qBcqxJ3Pudb5JMaoDe5v%3Atezos%2Ccosmos16d9yc0mqah5ajxfur2r8fufku9kaarys2g3qx2%3Acosmos&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">staking dashboard</a>&nbsp;that the team developed&nbsp;<a href=\"https://stakingfacilities.com/dashboard?addresses=KT1VJXPUffYwFaW5qBcqxJ3Pudb5JMaoDe5v%3Atezos%2Ccosmos16d9yc0mqah5ajxfur2r8fufku9kaarys2g3qx2%3Acosmos&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p>Staking Facilities has been a crucial part of Solana’s development across Tour de SOL, testnet, and mainnet beta. The team has participated in our incentivized testnet since the very first day. Along with being early participants, Staking Facilities created&nbsp;<a href=\"http://solanabeach.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Beach</a>, the most common and widely used&nbsp;<a href=\"http://solanabeach.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">block explorer</a>&nbsp;for the Solana blockchain. Make sure to follow Solana Beach on&nbsp;<a href=\"https://twitter.com/solanabeach_io?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>, too; they are quite active.</p><p>The founder of Staking Facilities, Wolfgang Leonhart, has recently become one of the Solana Foundation directors. Staking Facilities is one of the most active validators within the Solana ecosystem. It’s incredible to see the energy and time the team is committing to continue the growth both from the Foundation and their core business.</p><p><strong>About Staking Facilities</strong></p><h3><strong>This section is written from the voice of&nbsp;Staking Facilities</strong></h3><p>Staking Facilities was founded in 2017, envisioning a more open, decentralized, and just economic system. We believe blockchain technology and the overall Web3 space are the very substrate for such a system to emerge.It’s our mission to facilitate its emergence through the provision of highly secure and performant infrastructure. We strive to develop industry standards for convenient staking to enable easy and secure access to novel pools of profitability for every token holder. Our track record of running successful validation infrastructure and services for several Proof-of-Stake networks proves our capability to execute upon our mission.</p><p>We follow a research-based investment strategy focussing on layer-1 protocols. We believe that networks that manage to capture the most economic activity will accrue the most value, and a core requirement for that is the ability to scale out with demand without sacrificing decentralization or security. Solana’s unique approach to scaling while remaining decentralized and secure immediately caught our attention and ultimately led to our early-stage investment. We supported the Solana ecosystem right from the start by participating in testnets, developing community tools such as Solanabeach, and providing liquidity as one of the top market makers on Binance. We are running our Solana node on our own, custom-build hardware deployed at a Tier 3+ datacenter. A combination of different security measures, together with state-of-the-art monitoring, ensures high availability, security, and fast response times.</p><p>We are a self-financed, self-sustaining, and independent company based in Munich, Germany. We always delegate a substantial amount of our own funds to our validators, so our incentives are best aligned with those of our customers. To help educate policymakers tasked with creating the appropriate regulations for PoS systems, we co-founded the Staking Infrastructure Working Group as a part of the European Blockchain Association. Staking with us means supporting our community contributions.</p><p>In case you have any questions, need assistance, or want to chat, always feel free to reach out to us via Telegram, eMail, Twitter, or LinkedIn!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b4792c8096104070b077849bdab1148e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218f478a0f3541bc885f4381c8d9b477?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218f478a0f3541bc885f4381c8d9b477?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218f478a0f3541bc885f4381c8d9b477?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218f478a0f3541bc885f4381c8d9b477?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218f478a0f3541bc885f4381c8d9b477?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218f478a0f3541bc885f4381c8d9b477?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218f478a0f3541bc885f4381c8d9b477?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218f478a0f3541bc885f4381c8d9b477?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218f478a0f3541bc885f4381c8d9b477?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F218f478a0f3541bc885f4381c8d9b477?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6ed1588363d94d558ce436a891379706",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This week the Solana Foundation highlights a validator team who has been and continues to be critical to our success — <a href=\"https://chorus.one/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Chorus One</a>.</p><p>Chorus One has been a crucial part of Solana’s development across Tour de SOL, testnet, and mainnet beta. During the initial stages, Chorus One was part of a small but critical group of validators that helped us successfully prepare for our genesis launch on March 16th. Participating in Solanas incentivize network since the very start, Chorus One has been incredibly active and vocal within the Solana Validator community.</p><p>During Tour de SOL, Reisen, an engineer at Chorus One, successfully identified 4 critical bugs, one of which allowed him to steal 500 million fake SOL tokens. Identifying and carrying out these incredibly difficult attacks was an important contribution to ensure a safe mainnet beta launch.</p><p>Chorus One is quickly growing into one of the most well-known validators in the space and Solana Labs is excited they have decided to invest so much time and energy into helping us grow the Solana network.</p><p><strong>About Chorus One</strong></p><h3><strong>This section is written from the voice of Chorus&nbsp;One</strong></h3><p><a href=\"https://chorus.one/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Chorus One</a>&nbsp;is a Swiss AG and was co-founded in 2018 by&nbsp;<a href=\"https://epicenter.tv/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Epicenter podcast</a>&nbsp;hosts Brian Crain and Meher Roy. We are running Proof-of-Stake infrastructure, develop interoperability solutions, and offer staking services to crypto token holders. We started out on Cosmos and have been growing our involvement with other projects with the ultimate goal to help fulfill the vision of an Internet of Blockchains.It has been a pleasure to be a part of Solana’s community and to be able to contribute our expertise to this ambitious project. The Solana team and their outstanding engineering capabilities have continuously impressed us since we first learned about the project. Collectively, we spent countless hours to understand the innovations that make Solana tick faster than its competitors.</p><p>Our journey with Solana started based on one of our earliests engineer’s fascination with the project. Since then, we met the team on many different occasions and had fruitful discussions around bottlenecks in blockchain scalability and other relevant topics in decentralized Proof-of-Stake networks. We soon found ourselves getting more involved in Solana’s codebase and became active as a validator on their testnets.</p><p>Our efforts so far include building a high-availability failover solution that enables validators to continuously operate their infrastructure, even in the presence of node failures. You can learn more about this protocol titled StrongGate&nbsp;<a href=\"https://medium.com/chorus-one/introducing-solana-stronggate-c0a76e563b9?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>. Another cool extension of this failover protocol could be helping Solana validators save on cost by allowing them to autoscale their infrastructure to meet demand in the network, an idea that Anatoly described here:</p><p><a href=\"https://twitter.com/aeyakovenko/status/1195528357376479233?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://twitter.com/aeyakovenko/status/1195528357376479233</a></p><p>Finally, our in-house Solana expert Reisen managed to pull off a couple of interesting attacks over the course of the Tour de Sol incentivized testnet. A remarkable one that we also wrote about was an elaborate SOL heist that we pulled off with support from our colleagues at Certus One. Make sure to check out the tale of Reisen Hood&nbsp;<a href=\"https://blog.chorus.one/reisen-hood-prince-of-crypto-thieves/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">in this blog post</a>.</p><p>We are looking forward to growing the Solana community of validators, developers, and enthusiasts in the coming years! To learn more about Chorus One visit our&nbsp;<a href=\"https://chorus.one/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">website</a>, try out our staking platform&nbsp;<a href=\"https://anthem.chorus.one/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Anthem</a>, and check out the content we produce, e.g.&nbsp;<a href=\"https://chorusone.libsyn.com/16-solana-composability-and-scale-with-anatoly-yakovenko-and-eric-williams?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">our interview with Anatoly and Eric</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f45a7b2c48344a8681784035abf47b26",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4fc98bafa384a899665810c9af73960?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4fc98bafa384a899665810c9af73960?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4fc98bafa384a899665810c9af73960?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4fc98bafa384a899665810c9af73960?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4fc98bafa384a899665810c9af73960?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4fc98bafa384a899665810c9af73960?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4fc98bafa384a899665810c9af73960?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4fc98bafa384a899665810c9af73960?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4fc98bafa384a899665810c9af73960?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4fc98bafa384a899665810c9af73960?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c2b549dd11c14fc39ff2c08f9d72e17d",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This week we are highlighting another one of the validator teams who have been critical to our success — Chainode Tech</p><p>Within the Validator ecosystem it can be difficult for smaller teams to grow their brand and attract delegators to stake with them. This is particularly true for newly formed validator businesses. However this hasn’t dampened the consistent passion and energy the Chainode team have brought to the Solana community. From the day they’ve joined Solana’s incentivized testnet Tour de SOL they’ve been consistently involved in the community. This includes simple things like remaining curious and always asking questions to better understand the technology and the team’s vision, through proactively sharing their knowledge with other validators to help resolve issues. It’s also a likely reason for the growth of their brand within their first year of operations.</p><p>Being actively involved is a characteristic that is increasingly important and commonly overlooked as one of the most valuable things in incentivized testnets. Since the proliferation of incentivized networks, many have seen it as an opportunity to get early access to tokens or investment in newer protocols. As a result, it’s not uncommon for participants to simply deliver the bare minimum to be eligible for rewards. So a big shout out to the Chainode Tech team for not taking the opportunity for granted.</p><p><strong>About Chainode Tech</strong></p><h3><strong>This section is written from the voice of&nbsp;Chainode</strong></h3><p>Founded in early 2019, Chainode Tech is a young, extremely motivated and experienced team based in Zug, Switzerland, that is focused on providing staking and validator services on cutting edge Distributed Ledger Technology (DLT) protocols. Driven by our motivation to bring decentralization in the real world and with the experience of getting to know the blockchain space since 2014, we decided that it is time to get actively involved in the space as Chainode Tech and to vote with our knowledge and services projects that we believe in and see as technically pertinent of growing the decentralized space.Despite the fact that we are a small team, we cover multiple disciplines that we are passionate about, like security in blockchain, project growth, distributed networks, validator infrastructure and security, integration, and blockchain solution architecture due to the multiple years of experience that our core team members, Ionut Scirlet and Ilinca Alexiuc, gathered within projects headquartered in Europe and Asia.</p><p>We had our eyes on the Solana project since we first heard about it back in 2018, when we were not active as a validator group yet. Due to the innovative and challenging tech, the extremely skillful team, and architectural choices, we saw Solana as one of the few projects that were actually bringing completely new tech approaches and viable solutions to the decentralized space in recent time. Therefore, the decision to join Solana as a validator was not one hard to make for our team, knowing that it will be a challenging journey with a lot to be learned, tested, and achieved.</p><p>One of the major innovations of Solana, which attracted our attention, is the<a href=\"https://solana.com/proof-of-history/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;Proof of History</a>&nbsp;approach. This proof of historical events uses a recursive verifiable delay function (VDF) to hash all incoming events and transactions. By doing this every event and transaction has a unique hash and count as a function of real-time and provides information of what event and transaction has to come ahead of the other — thus providing a verifiable order of events in relation to time. By giving this cryptographic clock to each node in a distributed network, it is possible to have an agreement of time and event order in the network without having validators to wait to hear from other nodes. The concept of Proof of History represents a novel idea in the blockchain space which can really help Solana scale and we feel very excited to be part of this journey.</p><p>Staking is not the purpose but rather the beginning of every decentralized network. Although our team tests multiple blockchain protocol architectures and testnets like Harmony Protocol, Lisk, ICON Network, Kava, Akash or other Tendermint based blockchains, we are very selective when curating the projects that we want to support both as a validator and contributor in the long run. As with all the other projects that we joined until now as a validator, our intention regarding Solana is to get involved as much as possible in its ecosystem development and adoption. By this, we mean being proactive and contributing to its brand awareness, marketing efforts, tool development around the community in order to enhance the experience of its users and validators, providing educational content, etc.</p><p>Even though it feels like a very long time has passed since we joined Solana as a validator, our work is only getting started. Chainode Tech is looking forward to continuing building side by side with the Solana team as well as with our fellow validators that helped bring the Solana Network at its current success rate. Our ultimate goal as part of this ecosystem is to see real-world and useful applications on top of the Solana Network.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-820ff7750de84303b9451b32d8a51954",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9b6efcb368534129b9e8cfef8b19123f?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9b6efcb368534129b9e8cfef8b19123f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9b6efcb368534129b9e8cfef8b19123f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9b6efcb368534129b9e8cfef8b19123f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9b6efcb368534129b9e8cfef8b19123f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9b6efcb368534129b9e8cfef8b19123f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9b6efcb368534129b9e8cfef8b19123f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9b6efcb368534129b9e8cfef8b19123f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9b6efcb368534129b9e8cfef8b19123f?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9b6efcb368534129b9e8cfef8b19123f?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4e54d2fc8699407fa921fa79b07050a3",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Two years ago Solana didn’t exist. We simply had an idea for a trustless clock and our founders had a desire to build something big in rust, and so Proof of History was born. We assembled, and day after day, week after week, month after month, rebuilt blockchain from the ground up for scale. Now, we’re at a point where we’ve been able to prove the performance of the network in real-world conditions and are imminently ready to launch. However, the credit for being able to get to where we are sits not only with our engineering team, but also our validator community. Those who have spent their resources, time, and effort working with us tirelessly to help us identify issues and stress-test our network. This week we’d love to highlight one of the teams who have been critical to our success — Cryptium Labs.</p><p>We’re extremely fortunate to have Cryptium Labs as part of our validator community. They exist at an extremely niche intersection where they not only run highly secure and performant infrastructure as validators but also boast an extremely competent technical team and have been driving the validator industry forward with their leadership. Throughout the past several months, beyond their participation in the incentivized testnets, they’ve been extremely helpful as we worked to finalize our design for the Tour de SOL by sharing their experiences from other testnets. Their feedback and input were particularly important to ensure that we were not only designing incentives to generate the right outcome for the Solana network but to also ensure it holistically captured the pain points and considerations of the broader validator community.</p><p><strong>About Cryptium Labs</strong></p><p>Written by Cryptium Labs</p><p><a href=\"https://twitter.com/cryptiumlabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cryptium Labs</a>&nbsp;was founded in summer 2018 in Switzerland by&nbsp;<a href=\"http://twitter.com/adrian_brink?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Adrian Brink</a>,&nbsp;<a href=\"https://twitter.com/awasunyin?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Awa Sun Yin</a>, and&nbsp;<a href=\"https://twitter.com/cwgoes?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Christopher Goes</a>. Cryptium Labs’ purpose extends beyond participating in the staking economy for the sole pursuit of profit: we regard operating validators as a straightforward way of supporting Proof-of-Stake protocols at the deployment and infrastructure layer.</p><p>Our vision is to not only provide a robust security architecture, but also a deep understanding of the design, technical, and economic models of decentralized protocols. Furthermore, we deem our validator’s role in governance crucial for the long term success of decentralized networks. Thus, Cryptium Labs participates as an active governance steward with the aim to not only contribute to the evolution of protocols,&nbsp;<a href=\"https://medium.com/cryptium/a-letter-to-current-and-future-delegators-11e7dbac60b9?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">but also of their communities</a>.</p><p>In alignment with our goals as a multi-network research team, Cryptium Labs only participates in&nbsp;<a href=\"https://cryptium.ch/validation?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">protocols that have made technical contributions to the broader space of decentralized networks</a>, such as by deploying novel consensus algorithms, sybil resistance mechanisms, novel protocol architectures or groundbreaking cryptographic schemes.</p><p>Solana has brought many innovative concepts to the realm of decentralized protocols. Notably, their approach to scalability by a design of a single state machine, which is starkly optimized for transactional throughput. Presently, we operate validators on both Tour de Sol and Solana betanet. Our experience so far with the Solana technological stack has reminded us of the Solana team’s extensive experience in engineering –which results in not only a high quality protocol codebase, but also in developer-friendly deployment tools.</p><p>To stay up-to-date with Cryptium Labs’ activities, make sure you follow us on&nbsp;<a href=\"https://twitter.com/cryptiumlabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>. Finally, find all the staking-relevant information of our Solana validator on our&nbsp;<a href=\"https://cryptium.ch/networks/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana portal</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ab60dab6beb1441b9c6226b665a2b992",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcc53428d2764fe782ffcad36b2e6895?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcc53428d2764fe782ffcad36b2e6895?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcc53428d2764fe782ffcad36b2e6895?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcc53428d2764fe782ffcad36b2e6895?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcc53428d2764fe782ffcad36b2e6895?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcc53428d2764fe782ffcad36b2e6895?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcc53428d2764fe782ffcad36b2e6895?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcc53428d2764fe782ffcad36b2e6895?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcc53428d2764fe782ffcad36b2e6895?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdcc53428d2764fe782ffcad36b2e6895?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4cd9f0ec7ea84d53b2c654a1c3ab4a67",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This week we’d love to highlight one of the validator teams who have been critical to our success — <a href=\"https://www.stake.capital/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Stake Capital</a>.</p><p>Founded by Julien Bouteloup, Stake Capital is actively advancing the DeFi movement alongside validating. At Solana, one of the big questions we have to ask ourselves was what do we do with our high-performance chain, how do we add value to the overall ecosystem, and where do we see our protocol continuing to do so in 5 years time. The answer amongst other things was becoming the ultimate protocol for price discovery of digital assets. Therefore we see our partnership with Stake Capital as a critical first step in a bigger vision. In the long term, we believe the work they’re doing within DeFi, such as the exploration of staking derivatives, will be invaluable in unlocking immense value for Solana’s validator ecosystem and will undoubtedly lead to broader net-positive effects to the general community as well.</p><p><strong>About Stake Capital</strong></p><p>Stake Capital is one of the leading service providers of the emerging digital economy. Stake Capital services include a variety of financial instruments and services from the liquidity providers, market maker to advanced and complex arbitrages built on top of the leading DeFi and proof-of-stake networks. Stake Capital also launched Stake DAO, a revenue-sharing DAO that tokenizes DeFi services. Stake DAO distributes value generated by a basket of DeFi services to stakeholders (e.g. delegators). The DAO functions as a cooperative, whereby stakeholders earn Stake DAO tokens for providing collateral and, via a staking mechanism, receive a share of the fee revenues generated by supported DeFi services. The Stake DAO token effectively encapsulates the intrinsic value of the DeFi services basket. The Stake DAO token also grants pro-rata governance rights over all operation concerns of the DeFi services’ provision. Staking derivatives are also enabled via locked pools on top of the supported DeFi protocols.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9a4407ecf0574d8f88f602d998c03414",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7433d0c355d840deaa72a86951b9e7aa?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7433d0c355d840deaa72a86951b9e7aa?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7433d0c355d840deaa72a86951b9e7aa?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7433d0c355d840deaa72a86951b9e7aa?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7433d0c355d840deaa72a86951b9e7aa?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7433d0c355d840deaa72a86951b9e7aa?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7433d0c355d840deaa72a86951b9e7aa?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7433d0c355d840deaa72a86951b9e7aa?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7433d0c355d840deaa72a86951b9e7aa?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7433d0c355d840deaa72a86951b9e7aa?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cd5adc73f27a48ec8edda2598e432dab",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Two years ago Solana didn’t exist, we simply had an idea for a trustless clock. Our founders had a desire to build something in Rust, and so&nbsp;<a href=\"https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Proof of History</a>&nbsp;was born. We assembled, and day after day, week after week, month after month, rebuilt blockchain from the ground up for scale. Now, we’re at a point where we’ve been able to prove the performance of the network in real-world conditions and are imminently ready to launch. However, the credit for being able to get to where we are sits not only with our engineering team, but also our growing validator community. Those who have spent their resources, time, and effort working with us tirelessly to help us identify issues and stress-test our network. This week we’d love to highlight one of the teams who have been critical to our success — <a href=\"https://chainflow.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Chainflow</a>.</p><p>To date, we have highlighted some of the larger projects and teams who are the torchbearers advancing the Proof-of-Stake ecosystem. However, it’s important for us to retain perspective, and appreciate that blockchain is a tool for us to realize digital equality and decentralization. Therefore we need to recognize that mid-to-small size validators play an equally important role within the ecosystem. Chainflow is one of the great examples of an individually-operated validator that falls within this category.</p><p>Chainflow, founded by Chris Remus, recognized early on the challenges and importance of developing a sustainable ecosystem for validators of various backgrounds and resources. This understanding drove Chris to start the&nbsp;<a href=\"https://forum.stakingdefense.org/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Staking Defenders</a>&nbsp;initiative with the goal of bringing together the community to be more open about the issues smaller validators were facing and to encourage discussion on ways in which they could be addressed. Sitting at the protocol level it can sometimes be easy for us to become detached from the day-to-day problems that validators are facing. Without Chainflow, and other similar validators we believe that we would not have been able to iterate as quickly as we have to create the inclusive and active incentivized testnet we have today.</p><p>Especially now, with demand for validator attention at an all-time high, these conversations are an important reminder for us all that every validator is a critical stakeholder in the ecosystem and critical for us to realize a permissionless, decentralized, and censorship-resistant network.</p><p><strong>About Chainflow</strong></p><p>I’m&nbsp;<a href=\"http://twitter.com/cjremus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Chris</a>. I caught the blockchain brain virus in early 2016. I’ve become deeply involved in the crypto and blockchain community since then. I’ve been operating validators since joining as one of the first members of the Cosmos Validator Working Group in October 2017. My background is heavy on telecom and IT infrastructure. My first job was as a self-taught UNIX system administrator. Those systems ran Sprint’s first IP-based Cisco Router network.</p><p>In my pre-crypto life, I worked on large, mission-critical data center and networking projects. My clients were some of the largest financial, government and telecom institutions in the world. I worked on data center projects for banks, credit card processors, defense and homeland security agencies as well as global telecom providers. As you can imagine, they all operated under strict and unforgiving up-time and security metrics.</p><p>I feel hopeful and optimistic about a decentralized future. I’m optimistic that decentralization will decentralize power. It’s my belief that the centralization of power causes many of the world’s biggest problems.</p><p>My intention is for the Chainflow Staking Systems to be inclusive, not exclusive. This means any stake amount is welcome, no matter how big or small. There’s no minimum staking requirement. There are also no preferential terms or treatment for one delegate over another. Big stakes and small stakes get the same attention. The smallest stakeholder is as important as the largest.</p><p>My hope is that decentralization results in a fairer distribution of power, wealth, and opportunity.</p><p>The&nbsp;<a href=\"http://chainflow.io/staking?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Chainflow Staking Systems</a>&nbsp;are one of my contributions toward manifesting a decentralized future.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-71df137e06334749ae398ce8e608d643",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff029b0e9d1c6440a898f86b6b575e93d?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff029b0e9d1c6440a898f86b6b575e93d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff029b0e9d1c6440a898f86b6b575e93d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff029b0e9d1c6440a898f86b6b575e93d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff029b0e9d1c6440a898f86b6b575e93d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff029b0e9d1c6440a898f86b6b575e93d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff029b0e9d1c6440a898f86b6b575e93d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff029b0e9d1c6440a898f86b6b575e93d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff029b0e9d1c6440a898f86b6b575e93d?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff029b0e9d1c6440a898f86b6b575e93d?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6c7b97c4f7694e68a9e8804049e24116",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Two years ago Solana didn’t exist. We simply had an idea for a trustless clock and our founders had a desire to build something big in rust, and so Proof of History was born. We assembled, and day after day, week after week, month after month, rebuilt blockchain from the ground up for scale. Now, we’re at a point where we’ve been able to prove the performance of the network in real-world conditions and are imminently ready to launch. However, the credit for being able to get to where we are sits not only with our engineering team, but also our validator community. Those who have spent their resources, time and effort working with us tirelessly to help us identify issues and stress-test our network. This week we’d love to highlight one of the teams who have been critical to our success — stakefish.</p><p>stakefish have been an instrumental driving force of the Proof of Stake ecosystem with a storied history. With a notorious rise to fame after successfully executing a large-scale sybil attack on the first-ever incentivized testnet — Game of Stakes — hosted by the team at Cosmos. More recently launching grant.fish, an innovative way to sustainably fund new project teams to contribute to the blockchain ecosystem.</p><p>They were one of the earlier participants that supported our goal of delivering a novel scalability solution and helped us get off the ground once our incentivized testnet first launched in 2019, and plan to continue that effort well into the future. Aside from having an extremely talented team delivering enterprise-grade security who are passionate about the future of decentralized networks, they also have deep knowledge of the commercials of staking. Knowledge which has been cemented through experience, that we’ve drawn on time and time again when designing our incentivized testnet, when we’re looking to identify what we can be doing better to have a healthy and sustainable validator ecosystem.</p><p><strong>About stakefish</strong></p><p>stakefish is the leading staking service provider for blockchain projects. stakefish’s founder Wang Chun has previously co-founded F2Pool, the biggest Bitcoin and Ethereum mining pool. He recognized the importance of strong infrastructure for blockchains and wanted to support all networks leveraging his expertise in the field. He has gathered team members from different industries with deep expertise in their respective fields. They practice decentralization by being a globally distributed team from day one.</p><p>stakefish’s journey started with winning the Game of Stakes (the first major incentivized testnet conducted for Cosmos). Since then, they have expanded to support Tezos, Cosmos, Chainlink, Algorand, Kusama, Loom Network, The OAN, Kava, IRIS Network, Edgeware, Storj and Band Protocol. Their primary focus is to provide fair opportunities for everyone who wants to participate in the staking economy. Additionally, they are actively creating tools, building up the community and providing educational content for stakers.</p><p>The stakefish team was excited with Solana’s novel approach to creating a high-performance blockchain. They have introduced multiple innovations, with Proof of History being the most notable, which speaks to the team’s technical prowess. They are also kind-hearted and mindful of community members, taking the extra step to make sure to respect and reward all contributors to Solana.</p><p>If you are a validator looking to be featured in our weekly series, please contact austin@solana.com</p><p><strong>Links</strong></p><ul><li><a href=\"https://twitter.com/Node_Ateam?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li><li><a href=\"https://nodeateam.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Website</a></li><li><a href=\"https://medium.com/node-a-team?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d4420c8adc734a799e41388de8edea81",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39f0b0cea9b64cf4a5b515e77115c35c?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.7041,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39f0b0cea9b64cf4a5b515e77115c35c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39f0b0cea9b64cf4a5b515e77115c35c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39f0b0cea9b64cf4a5b515e77115c35c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39f0b0cea9b64cf4a5b515e77115c35c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39f0b0cea9b64cf4a5b515e77115c35c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39f0b0cea9b64cf4a5b515e77115c35c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39f0b0cea9b64cf4a5b515e77115c35c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39f0b0cea9b64cf4a5b515e77115c35c?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F39f0b0cea9b64cf4a5b515e77115c35c?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d296e606f2b0472d83e237c32d03cd11",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Two years ago Solana didn’t exist. We simply had an idea for a trustless clock and our founders had a desire to build something big in rust, and so Proof of History was born. We assembled, and day after day, week after week, month after month, rebuilt blockchain from the ground up for scale. Now, we’re at a point where we’ve been able to prove out the performance of the network in real-world conditions and are imminently ready to launch. However, the credit for being able to get to where we are sits not only with our engineering team, but also our validator community. Those who have spent their resources, time and effort working with us tirelessly to help us identify issues and stress-test our network. This week we’d love to highlight one of the teams who have been critical to our success — Node-A-Team.</p><p>Based out of Korea, the Node-A-Team had been interested in getting involved in Solana for quite some time, and finally managed to get a hold of us when we were in Korea in late 2019. Since then they’ve been proactively contributing not only to the Solana ecosystem across our various testnets, but by also building some amazing tooling. One of the key challenges in gearing up for mainnet was ensuring that validators understood the responsibilities of validating on a network, and being responsive against any issues that arise. So they developed a telegram bot that actively tracked the status of every validator on the network, monitoring critical details, and even open-sourced it to our entire community.</p><p>For some, it may not be that surprising that they managed to bring this together that quickly. Why? Well that’s because Node-A-Team are also the ones that won the Cosmos Seoul #HackATOM back in 2019. They’ve also been securely running a validator with not just Cosmos but also for Irisnet and Terra for quite some time now. As a result we’re extremely excited to have them so deeply involved with Solana as well, and that they’ll be part of the validator set supporting Solana’s recent Mainnet Beta launch.</p><p><strong>About Node-A Team</strong></p><p><a href=\"https://nodeateam.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Node A-Team</a>&nbsp;is a Proof of Stake validator service based in South Korea. They have been a participant as a POS validator since 2018, during Cosmos testnet days. Ever since those days, the team has been focused on creating the most efficient and secure infrastructure, where anyone could safely delegate their crypto assets without the risk of downtime or slashing.</p><p>For Node A-Team, choosing a blockchain to participate as a validator is a meticulous task. From technical aspects to token economy, the team studies all possible aspects of each blockchain before deciding to join as a validator. As a result, Node A-Team chooses only about 1 out of 10 blockchain that they research.</p><p>Encountering Solana was an extraordinary event for the team, as Solana seemed like a more than just qualified blockchain. CEO of Node A-Team, Michael Kim thinks of Solana as below:</p><p>“Many projects that we have experienced as a validator are in progress of a greater achievement. But, it is difficult to numerically measure these progress and achievements. Solana team has been one of the best teams in making this extremely transparent by actively communicating with the network participants to tackle problems and enhance features more quickly to deliver the most performant blockchain. “&nbsp;</p><p>- Michael Kim, CEO of Node A-Team</p><p>Currently, Node A-Team is a validator for 8 live networks, including Solana, Cosmos Hub, IRISnet, Terra, Kava, IOV, E-Money and Orbit Chain. For these networks, the team has delivered tools to enable secure monitoring and validator node operations, such as<a href=\"https://t.me/solana_info_beta?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;Telegram Alarm for Solana.</a></p><p>The journey of Node A-Team is still on-going to explore the unexplored areas of Proof of Stake blockchains. They plan to participate in more networks as a validator to help them build a secure network, where anyone can safely delegate their crypto assets without any concerns.</p><p><strong>Links</strong></p><ul><li><a href=\"https://twitter.com/Node_Ateam?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li><li><a href=\"https://nodeateam.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Website</a></li><li><a href=\"https://medium.com/node-a-team?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7c6af87f1a0148c28c908650c9b083e6",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5a39c82de2d4fb68a8f603f789e90d1?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5a39c82de2d4fb68a8f603f789e90d1?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5a39c82de2d4fb68a8f603f789e90d1?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5a39c82de2d4fb68a8f603f789e90d1?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5a39c82de2d4fb68a8f603f789e90d1?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5a39c82de2d4fb68a8f603f789e90d1?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5a39c82de2d4fb68a8f603f789e90d1?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5a39c82de2d4fb68a8f603f789e90d1?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5a39c82de2d4fb68a8f603f789e90d1?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc5a39c82de2d4fb68a8f603f789e90d1?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a23cfa7f7d0940688c7918a7604c8758",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Bison Trails</strong></h2><p>Two years ago Solana didn’t exist. We simply had an idea for a trustless clock and a desire to build something big in rust; from that, Proof of History was born. We worked — day after day, week after week, month after month — and rebuilt blockchain from the ground up for scale. We’ve been able to prove the performance of the network in real-world conditions and our launch is imminent.</p><p>Getting to this point was not only due to our tremendous engineering team but also to our validator community. Those teams who have spent their resources, time, and effort working with us to identify issues and stress-test our network. This week we’re highlighting one team who has been critical to our success: Bison Trails.</p><p>Solana’s scaling solution for blockchain capitalizes on improvements in hardware and bandwidth. Because of our unique approach, the upfront and on-going resources required to participate as a validator in the Solana network can be more demanding than other protocols. Bison Trails’ enterprise-grade infrastructure is up to the task. And while the infrastructure is complex, the process is not. Bison Trails has built a platform focused on allowing anyone to easily spin up a secure, enterprise-grade validator. Our teams’ connection, however, goes beyond infrastructure. We are both determined to do everything we can to expand the blockchain ecosystem as a whole. We’re engaged in opportunities such as the Libra Association, where Bison Trails is one of the founding members, and Solana is one of the first teams to integrate Libra’s Move VM.</p><p>If you’re a Solana token holder, you can run your own validators or delegate to the Bison Trails validator at mainnet launch. As additional features like archiver clients and storage rent come online, Bison Trails customers will be able to run additional infrastructure to secure the network and earn participatory rewards.</p><p>Bison Trails has worked with Solana for over a year, from running one of the first nodes in all testnets and incentivized testnets to deploying infrastructure on both physical hardware and in the cloud. Bison Trails is thrilled to provide a platform that runs enterprise-grade infrastructure and is uniquely positioned to support Solana’s token holders and network participants in running nodes.</p><p>“The Solana team has been ruthlessly executing against their roadmap over the past few months and it’s truly impressive! We’re looking forward to the high transaction chain and new products and services it will unlock for the future of blockchain technology” — JoeLallouz, CEO of Bison Trails</p><h3><strong>Bison Trails: Pioneering Blockchain Infrastructure™</strong></h3><p><a href=\"https://bisontrails.co/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bison Trails</a>&nbsp;is an Infrastructure-as-a-Service company, based in New York City, specifically focused on blockchain participation. They built a platform for anyone who wants to participate in new chains effortlessly without having to invest time and resources into developing any of the engineering, protocol, dev ops, or security competencies in-house. Bison Trails’ goal is for the entire blockchain ecosystem to flourish by providing robust infrastructure for the pioneers of tomorrow.</p><p><a href=\"http://bisontrails.co/contact?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Contact</a>&nbsp;Bison Trails to learn more about their enterprise-grade blockchain infrastructure or running Solana Nodes on the Bison Trails platform.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c5887440a0d246c1b768dcf8375e6020",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc80b329ee9b44bdeab68ecbf82f85b3d?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc80b329ee9b44bdeab68ecbf82f85b3d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc80b329ee9b44bdeab68ecbf82f85b3d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc80b329ee9b44bdeab68ecbf82f85b3d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc80b329ee9b44bdeab68ecbf82f85b3d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc80b329ee9b44bdeab68ecbf82f85b3d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc80b329ee9b44bdeab68ecbf82f85b3d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc80b329ee9b44bdeab68ecbf82f85b3d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc80b329ee9b44bdeab68ecbf82f85b3d?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc80b329ee9b44bdeab68ecbf82f85b3d?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5f104a95f28e4bb0bea5734022e8d80b",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Figment Networks</strong></h2><p>Two years ago Solana didn’t exist. We simply had an idea for a trust-less clock and our founders had a desire to build something big in rust, and so Proof of History was born. We assembled, and day after day, week after week, month after month, rebuilt blockchain from the ground up for scale. Now, we’re at a point where we’ve been able to prove the performance of the network in real-world conditions and are imminently ready to launch. However, the credit for being able to get to where we are sits not only with our engineering team, but also our validator community. They have spent their resources, time and effort working with us tirelessly to help us identify issues and stress-test our network. This week we’d love to highlight one of the teams who have been critical to our success — <a href=\"https://figment.network/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Figment Networks</a>.</p><p>Figment Networks is now a household name in the validator ecosystem, having been actively involved within the Cosmos ecosystem, rapidly expanding to support a large swath of other protocols, and most recently being the recipient of a grant from the Web3 Foundation. We’re humbled to have had them actively participate in the Solana network over the past several months. Their involvement has enabled us to quickly iterate on the protocol and simulate real-world conditions post-launch. They also bring to the table:</p><ul><li>Their experience in governance in various other protocols and passion for decentralization which we believe will help steer the Solana community during its critical phases post-launch</li><li>Their expertise and knowledge in developing tooling and infrastructure for validators, token holders and developers alike, exemplified through the success of the&nbsp;<a href=\"https://hubble.figment.network/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Hubble</a>.</li></ul><p>If you’d like to learn more, we were recently hosted by their team to conduct an AMA together with our CEO Anatoly Yakovenko&nbsp;<a href=\"https://figment.network/resources/staking-hub-solana-ama/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p><strong>About Figment Networks</strong></p><p><a href=\"https://figment.network/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Figment Networks</a>&nbsp;provides infrastructure, software, and governance solutions for Proof of Stake Networks. Co-founders Matt Harrop, Lorien Gabel, and Andrew Cronk have 25+ years of experience building and scaling internet infrastructure. Figment Networks currently provides enterprise-grade delegation services on 12 live networks and is actively participating in a variety of testnets, including Solana.</p><p>“We’ve been impressed with Solana’s ability to tackle hard problems and bounce back when facing previously unforeseen challenges. The design and results of Solana’s adversarial testnet has enabled the Solana team to methodically ramp up the quality and security of their upcoming mainnet.”Yannick Folla, Business Development Manager at Figment Networks</p><p>Figment Networks is also a leader in software development for Proof of Stake protocols. Their staking platform,&nbsp;<a href=\"https://figment.network/solutions/hubble/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Hubble</a>, is utilized by a multitude of networks, including Tezos, Cosmos, and Kava.</p><p>Figment Networks also understands the importance of governance within these networks. They launched the&nbsp;<a href=\"https://figment.network/resources/introducing-the-cosmos-governance-working-group/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cosmos Governance Working Group</a>&nbsp;in December and will be leading a governance community education campaign with Livepeer.</p><p>Figment Networks exists within the entire lifecycle of Proof of Stake networks. They help in the testing process, they secure networks via their infrastructure, they build software tools to increase adoption and usability of networks, and they are active participants in network governance.</p><h3><strong>Important Links</strong></h3><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></p><p><a href=\"https://forums.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Validator Forums</a></p><p><a href=\"https://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Website</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F73128bafb3db49a1802e11ecdcc62f6c",
+  "lastUpdated": 1694189899359,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5ff720b1d4bc431c9b64d4f03f5c027a",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687519365893,
+  "@originId": "5ff720b1d4bc431c9b64d4f03f5c027a",
+  "testRatio": 1,
+  "createdDate": 1687362725232,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=5ff720b1d4bc431c9b64d4f03f5c027a&builder.overrides.5ff720b1d4bc431c9b64d4f03f5c027a=5ff720b1d4bc431c9b64d4f03f5c027a&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Validator Feature Series",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

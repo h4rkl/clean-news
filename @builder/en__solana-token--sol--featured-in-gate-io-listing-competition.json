@@ -1,0 +1,247 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1592377200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7330ebba0f2b4f50b43b77e885da5bd0",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nSolana Labs is excited to share that Solana will be featured in the upcoming Gate.io listing competition.\n",
+    "publishedDate": "Wed Jun 17 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Solana Token (SOL) Featured In Gate.io Listing Competition",
+      "noFollow": false,
+      "seoDescription": "\nSolana Labs is excited to share that Solana will be featured in the upcoming Gate.io listing competition.\n",
+      "seoTitle": "Solana Token (SOL) Featured In Gate.io Listing Competition",
+      "noIndex": false
+    },
+    "title": "Solana Token (SOL) Featured In Gate.io Listing Competition",
+    "openGraph": {
+      "ogTitle": "Solana Token (SOL) Featured In Gate.io Listing Competition",
+      "ogUrl": "https://www.solana.com/blog/solana-token--sol--featured-in-gate-io-listing-competition",
+      "ogDescription": "\nSolana Labs is excited to share that Solana will be featured in the upcoming Gate.io listing competition.\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Solana-Token--SOL--Featured-In-Gate-io-Listing-Competition/1-pa4V8K7f4avglb6hjHYWRQ-3.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Solana Token (SOL) Featured In Gate.io Listing Competition",
+      "twitterDescription": "\nSolana Labs is excited to share that Solana will be featured in the upcoming Gate.io listing competition.\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Solana-Token--SOL--Featured-In-Gate-io-Listing-Competition/1-pa4V8K7f4avglb6hjHYWRQ-3.png"
+    },
+    "slug": "solana-token--sol--featured-in-gate-io-listing-competition",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc162926a1c34884938092e2be078099"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e3b1cc9c0e41498f813cef2258d81647"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_26d82f99d5744feb910cc6ec78116e0f"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-9d66fd67b226453f85048379656dc58a",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e7fecd26fc9440a7bac76cb2c539af7b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b1048f7a9514999baf2e5d980d1c62b?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.523,
+                "lockAspectRatio": false,
+                "height": 628,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b1048f7a9514999baf2e5d980d1c62b?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b1048f7a9514999baf2e5d980d1c62b?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b1048f7a9514999baf2e5d980d1c62b?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b1048f7a9514999baf2e5d980d1c62b?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b1048f7a9514999baf2e5d980d1c62b?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b1048f7a9514999baf2e5d980d1c62b?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b1048f7a9514999baf2e5d980d1c62b?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b1048f7a9514999baf2e5d980d1c62b?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3b1048f7a9514999baf2e5d980d1c62b?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b0f7a2face5a4ce19340819569120429",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Voting Competition: June 22nd, 9 PM PST — June 23rd, 9 PM PST</p><p>The Solana Foundation is proud to announce that the SOL token will be featured in the upcoming&nbsp;<a href=\"https://www.gate.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gate.io</a>&nbsp;listing competition. The&nbsp;<a href=\"https://www.gate.io/poll/votelist/20?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">voting competition&nbsp;</a>will start on Monday, June 22nd at 9 PM PST and last 24 hours. You can read Gate.io’s official&nbsp;<a href=\"https://www.gate.io/en/article/17567?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announcement here</a>.</p><p>Gate.io is considered to be one of the most active and well-known exchanges in China. Gate.io is a trading platform with no listing fees, quality projects, and a mission to provide users with a variety of blockchain assets trading services. To involve a broader range of users in the process of expanding their list of coins, Gate.io has implemented a new feature called “listing vote”, offering expanded opportunities to launch high-quality projects.</p><p>📊 Log into your&nbsp;<a href=\"https://www.gate.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gate.io</a>&nbsp;(or create an account if you don’t have one)</p><p>💰 Acquire or continue holding Gatechain Tokens (GT)</p><p>☑️ Vote on&nbsp;<a href=\"https://www.gate.io/poll/votelist/20?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gate.io</a>&nbsp;for Solana</p><p>$75,000 USD (~◎125,000) will be allocated for Solana voters.</p><p><strong>VOTING COMPETITION RULES:</strong></p><ol><li>Log into your Gate account — <a href=\"https://www.gate.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.gate.io/</a></li><li>Hold or acquire Gatechain Token (GT). The number of votes you can have equals the average 14-day GT holding. The user’s votes will be calculated based on the average 14-day GT holding within two hours after the listing vote. *Be sure to not make any changes to your GT holding before votes are counted.</li><li>Visit Gate.io and vote for Solana (SOL):&nbsp;<a href=\"https://www.gate.io/poll/votelist/20?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.gate.io/poll/votelist/20</a></li></ol><p><strong>Voting Terms &amp; Conditions</strong></p><ol><li>Participants: All Gatechain Token (GT) holders on&nbsp;<a href=\"https://www.gate.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gate.io</a>. Each GT gives you 1 vote. Example: 1 GT = 1 vote.</li><li>Vote allocation: For every participant, their vote equals the average 14-day GT holding (including assets in Lending/Borrowing Market, and GT bought with USDT borrowed from Margin Trading; however, GT borrowed from* Margin Trading is not allowed). The user’s votes will be calculated based on the average 14-day GT holding within two hours after the listing vote. Make sure not to make any changes to your GT holding before votes are counted. For example, Bob is a new GT holder, and he buys and holds 14000GT one day before the sale. Therefore, his average 14-day GT holding will be 1000GT (14000GT/14 days), and he will have 1000 votes.</li><li>All participants must be KYC verified.</li><li>The project with the most votes will win the contest and be listed on Gate.io.</li><li>After the listing vote concludes, all voters will be rewarded with an airdrop of the token of the corresponding winning project.</li><li>All GT participants have used to vote will be returned to their account after the competition. The GT holding of the voter should be higher than the number of his votes within two hours after the activity. Otherwise, the number of the votes will be counted based on the real-time GT holding when the vote counting begins.</li></ol><p><strong>Solana’s Official&nbsp;</strong><a href=\"https://solana.com/gate-airdrop?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Educational Airdrop Campaign</strong></a></p><p><strong>(Additional $25,000 Available)</strong></p><p>In addition to the ◎83,836.36 (Roughly $50k USD) for voters, Solana will distribute an airdrop of up to ◎41,918.18 (roughly $25k USD). The rules are as follows:</p><p>1. The campaign is hosted on Solana’s website at&nbsp;<a href=\"https://solana.com/gate-airdrop?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://solana.com/gate-airdrop</a></p><p>2. Solana offers a SOL airdrop for Gate.io users that complete a quiz, follow Solana’s twitter, join the telegram group, and for referring new users to join the campaign. Airdrops will be larger for Gate.io token holders who participate in voting.</p><p>3. Users submit a form with all of the information once having completed the above steps, and also provide the Gate.io user ID to Solana.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a19533fc3f73405cbb4abae082927dc7",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7edba3a39dcd47b3b0061e986fe82a93?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.366,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 234,
+                "width": 639,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7edba3a39dcd47b3b0061e986fe82a93?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7edba3a39dcd47b3b0061e986fe82a93?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7edba3a39dcd47b3b0061e986fe82a93?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7edba3a39dcd47b3b0061e986fe82a93?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7edba3a39dcd47b3b0061e986fe82a93?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7edba3a39dcd47b3b0061e986fe82a93?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7edba3a39dcd47b3b0061e986fe82a93?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7edba3a39dcd47b3b0061e986fe82a93?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7edba3a39dcd47b3b0061e986fe82a93?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2866b39e60934125b7703918abbab413",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Thank you for your continued support!</p><p>Important Links:</p><p><a href=\"http://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Website</a></p><p><a href=\"http://solana.com/telegram?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a></p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></p><p><a href=\"https://www.gate.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gate Exchange</a></p><p><a href=\"https://www.gate.io/poll/votelist/20?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Voting</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7949ce8443e24ec2abd96bab53b6c3ed",
+  "lastUpdated": 1694189884606,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_120d56c7171845c9adbe53fda3fe1481",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687531137235,
+  "@originId": "120d56c7171845c9adbe53fda3fe1481",
+  "testRatio": 1,
+  "createdDate": 1687362699506,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=120d56c7171845c9adbe53fda3fe1481&builder.overrides.120d56c7171845c9adbe53fda3fe1481=120d56c7171845c9adbe53fda3fe1481&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Token (SOL) Featured In Gate.io Listing Competition",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

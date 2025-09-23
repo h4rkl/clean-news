@@ -1,0 +1,124 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1671476400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4bf2502a8bb24a3cba998741cc2c3f5a",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Credix is using decentralized finance to expand access to credit in Brazil.",
+    "publishedDate": "Tue Dec 20 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Case Study: Credix and credit",
+      "ogUrl": "",
+      "ogDescription": "Credix is using decentralized finance to expand access to credit in Brazil.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Case Study: Credix and credit",
+      "noFollow": false,
+      "seoDescription": "Credix is using decentralized finance to expand access to credit in Brazil.",
+      "seoTitle": "Case Study: Credix and credit",
+      "noIndex": false
+    },
+    "title": "Case Study: Credix and credit",
+    "twitterMeta": {
+      "twitterTitle": "Case Study: Credix and credit",
+      "twitterDescription": "Credix is using decentralized finance to expand access to credit in Brazil."
+    },
+    "slug": "case-study-credix",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-f6171e04de7b45a9a15663e27532f07b",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7136454f0b3146f28ce6d1279d6a342e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This is one of a series of case studies produced for the Solana Foundation that showcases individual, independent projects in the Solana ecosystem. Being featured in a case study does not constitute an endorsement from the Solana Foundation.</p><p>Brazil has a massive credit problem. Its overall GDP growth is&nbsp;<a href=\"https://www.oecd.org/economy/brazil-economic-snapshot/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">expected</a>&nbsp;to slow this year — undermined by rising inflation, spillover effects from the Russia-Ukraine War, and other financial constraints — and the situation for Brazilian consumers isn’t any better.</p><p>Brazilians have some of the&nbsp;<a href=\"https://www.americasquarterly.org/article/four-reasons-for-brazils-credit-dysfunction-and-how-to-fix-it-2/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">costliest loans</a>&nbsp;in the world, and on top of that, commercial Brazilian banks don’t issue credit in ways that match demand. A 2021 study&nbsp;<a href=\"https://www.sciencedirect.com/science/article/pii/S2214635021000046?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">found</a>&nbsp;that Brazil’s Central Bank has not properly accounted for the amount of credit card debt held by consumers (to the tune of&nbsp;<a href=\"https://www.wsj.com/articles/brazils-central-bank-intensifies-battle-against-sky-high-borrowing-costs-11651051801?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">hundreds</a>&nbsp;of&nbsp;<a href=\"https://brazilian.report/liveblog/2022/02/09/revolving-credit-card-debt/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">billions</a>&nbsp;of US dollars). Meanwhile, the average interest rate for Brazilians with unpaid credit card balances, Bloomberg recently&nbsp;<a href=\"https://www.bloomberg.com/news/articles/2022-03-11/in-brazil-346-credit-card-rates-are-choking-the-economy?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">reported</a>, is astronomical to the point of disbelief: 346 percent.</p><p>This is the problem co-founders Thomas Bohner, Maxim Piessen, and Chaim Finizola set out to solve with Credix.&nbsp;<a href=\"https://credix.finance/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Credix</a>&nbsp;is a decentralized credit marketplace that links investors with FinTech companies in emerging markets. And their goal is to tackle these credit challenges head-on.</p><p><a href=\"https://open.substack.com/pub/brazilcrypto/p/bcr-podcast-24-maxim-piessen-on-how?utm_campaign=post&amp;utm_medium=web&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Listen to Credix Co-Founder Maxim Piessen on the Brazil Crypto Report Podcast</a></p><p>“The idea really started with bringing real-world assets onto the blockchain,” says Thomas. Much institutional investing still occurs through traditional means, like investing in banks who then make loans. But a combination of&nbsp;<a href=\"https://docs.credix.finance/general/abstract-and-thesis?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">high interest rates</a>, legacy technology, and a cumbersome regulatory environment often slows the process of actually getting those loans to individuals.</p><p>Making private credit investments is a potential solution for those investors — they just&nbsp;<a href=\"https://www.institutionalinvestor.com/article/b1sh429dtz72v1/Private-Credit-The-1-Trillion-New-40-Opportunity?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">need</a>&nbsp;to find the companies to dispense their capital. This is where Credix steps in. The platform helps local borrowers get money at attractive interest rates, and it enables investors to access those opportunities through the platform. “We’ve built a marketplace where we’re connecting institutional investors — whether hedge funds, family offices, asset managers, and accredited investors like high net-worth individuals — and we’re giving them the opportunity to invest in FinTech credits,” Thomas says. In essence, these investors are “sourcing a credit facility through Credix.”</p><p>Brazilian FinTech company Tecredi is one such company working to lend money to consumers. Tecredi&nbsp;<a href=\"https://www.tecredi.com.br/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">uses</a>&nbsp;a mobile app to enable auto loans with zero physical paperwork (everything is online), and it boasts that it has rates rivaling those in the broader market. However, “because it is a non-bank lender,” Thomas explains, Tecredi “cannot lend from its balance sheets, so it has to go to the capital markets to lend capital.” In other words, the company is reliant on larger, outside forces to provide Brazilians with the loans that they need — in the face of a continually growing credit crisis.</p><p>With Credix, Tecredi can tokenize the company’s existing loan portfolios and borrow against that in USD Coin. This expedites the loan process for Tecredi and the individuals it helps.</p><p><a href=\"https://blockworks.co/what-is-defi-credit-the-evolution-of-on-chain-lending/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Read more about the evolution of DeFi Credit</a></p><p>Solana, Maxim says, has been a fast and cheap means of scaling this kind of credit access platform. An investor can put $5 million through the Credix system, for example, and see confirmation in a matter of milliseconds rather than minutes. Because the Solana chain separates state and logic — within a programming model where machines transition between states in a logical flow — it’s also easier to code the logic once and then just open new accounts for companies on top of that, Maxim adds. The web3 ecosystem has enabled fast transactions and accelerated scale than more traditional, often technologically outdated investment channels.</p><p>In Brazil, Credix has&nbsp;<a href=\"https://www.axios.com/pro/fintech-deals/2022/09/06/credix-finance-raise-11-25m?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">helped get over $25 million in loans</a>&nbsp;to small- and medium-sized enterprises and individuals, passing through Brazilian FinTech companies like Tecredi, A55, Divibank, and Adiante. But Thomas, Maxim, and the rest of the team have no intentions of stopping in Brazil. They’ve&nbsp;<a href=\"https://www.coindesk.com/business/2022/11/01/defi-debt-marketplace-credix-to-open-a-150m-stablecoin-credit-pool-to-digital-lender-clave/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">recently announced plans</a>&nbsp;to open a $150m credit facility in Colombia in 2023.</p><p>“Credit is a fuel for growth,” Thomas says. “By opening up borders to bring liquidity into countries like Brazil — and by creating more efficiencies through technologies and smart contracts — we’ll be able to bring down the cost of funding for FinTechs, and they will be able to bring down the cost of funding for the consumers and the small- and medium-sized enterprises locally.” He says that’s what decentralized finance should be about: improving the financial wellness of the end consumer.</p><p>Credix sees a multi-billion opportunity, from potential relationships with some of the largest Brazilian agricultural farms to consumer FinTech giants in India. Last month, Roberto Campos Neto, president of the Central Bank of Brazil, himself said that he believes that credit cards will soon cease to exist given the growth of the open finance system. For now, Credix is growing — and with credit moving into the web3 ecosystem, the team sees the future borders as limitless.</p><p>The information contained in this case study, either pertaining to the Solana Foundation (“Foundation”) or otherwise (together, the “Information”), is for general informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities, options, futures, or other derivatives related to securities in any jurisdiction, nor should not be relied upon as advice to buy, sell or hold any of the foregoing. The Information is not and does not contain tax, legal or investment advice or opinion. Foundation and its agents, advisors, council members, officers and employees (the “Foundation Parties”) make no representation or warranties, expressed or implied, as to the accuracy of the Information and Foundation expressly disclaims any and all liability that may be based on such Information or any errors or omissions therein. This email and the Information is intended only for the persons to whom it is transmitted. The Foundation Parties shall have no liability whatsoever, under contract, tort, trust or otherwise, to any person arising from or related to the Information or any use of the Information by you or any of your representatives.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd5577d984b99400bad1f41018d826dce",
+  "lastUpdated": 1696412914742,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_1b6f75ed59fa41b38fce1ca378db6572",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687588956334,
+  "@originId": "1b6f75ed59fa41b38fce1ca378db6572",
+  "testRatio": 1,
+  "createdDate": 1687362429820,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=1b6f75ed59fa41b38fce1ca378db6572&builder.overrides.1b6f75ed59fa41b38fce1ca378db6572=1b6f75ed59fa41b38fce1ca378db6572&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: Credix and credit",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

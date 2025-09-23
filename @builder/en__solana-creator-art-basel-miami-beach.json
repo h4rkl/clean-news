@@ -1,0 +1,478 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-creator-art-basel-miami-beach",
+  "data": {
+    "datePublished": 1702656000826,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c1d61c8c4ad4a72833e0e8a9d9a253e",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "'Artists in Residence' introduced over 3000 attendees to the Solana community of artists for the first time.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7c1d61c8c4ad4a72833e0e8a9d9a253e",
+      "seoDescription": "'Artists in Residence' introduced over 3000 attendees to the Solana community of artists for the first time.",
+      "seoTitle": "Solana | Solana creator community thrives at Art Basel Miami Beach"
+    },
+    "title": "Solana creator community thrives at Art Basel Miami Beach",
+    "slug": "solana-creator-art-basel-miami-beach",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_d7664ab5344b428d8d628809aa7f60c1"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-b5309912d32f4881bd60a2fb26855810",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0096cc5b2fe146b58e5d87eae8b283e6",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The Solana community is still buzzing from its debut at <a href=\"https://www.artbasel.com/miami-beach\" rel=\"noopener noreferrer\" target=\"_blank\">Art Basel Miami Beach</a>, the leading international art fair, which took place Dec. 6-10, 2023. The Solana exhibition, entitled <em>Artists in Residence</em>, not only showcased the diverse creativity of Solana artists from around the globe, but also engaged attendees with&nbsp; the chance to meet artists in person, as well as with interactive experiences supported by teams within the Solana ecosystem. For many attendees, including collectors and artists from the traditional art world, this was their first experience interacting with blockchain technology and learning how it can support artists.&nbsp;</p><p>Over the course of the five-day show, over 3000 attendees made their way through the exhibition and experienced how Solana’s capabilities enhance ownership, earning, audience engagement, and more, for artists of all kinds. <a href=\"https://solana.com/art-basel\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b8f388eb9dbe4e3cb8f644495680c996",
+            "component": {
+              "name": "Youtube",
+              "options": {
+                "url": "https://youtu.be/HssYExTzoUs?feature=shared"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2b9e3210c2614c1d92db772c203df171",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>An unforgettable experience powered by Solana teams</h2><p>Attendees who visited the <em>Artists in Residence</em> exhibition were invited to engage with Solana-powered products, art-exchange platforms, and curated creator experiences&nbsp;throughout the event. Here’s a look at the various teams that helped enrich the Solana exhibition at Art Basel:</p><ul><li><a href=\"https://my.meural.netgear.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Meural</a>, powered by NetGear, provided the screens in the exhibition, which allowed even the smallest detail of each showcased work&nbsp;to be seen in clear, high definition.</li><li><a href=\"https://primitives.xyz/landing?redirectTo=%2Fhome\" rel=\"noopener noreferrer\" target=\"_blank\">Primitives</a> showed attendees how to easily mint,collect, and start building their digital galleries on Solana at a dedicated on-screen minting station within the exhibition with easy-to-follow steps for getting started.</li><li><a href=\"https://www.sosleek.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Sleek</a> provided a custom NFC card with a curated selection of resources to help artists and creatives get started on Solana.</li><li><a href=\"https://tiplink.io/\" rel=\"noopener noreferrer\" target=\"_blank\">TipLink</a> powered an experience that enabled attendees to claim limited edition artworks onsite from artists Lisanne Haack, Eko33, and Sleepr.&nbsp;</li></ul><p>The exhibition was curated in collaboration with the teams from <a href=\"https://primitives.xyz/home\" rel=\"noopener noreferrer\" target=\"_blank\">Primitives</a>, <a href=\"https://collector.sh/\" rel=\"noopener noreferrer\" target=\"_blank\">Collector</a>, <a href=\"https://www.pengulove.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Pengu Love</a>, and input from the broader Solana community. For audiences not onsite at Art Basel, the team at <a href=\"https://3.land/\" rel=\"noopener noreferrer\" target=\"_blank\">3.land</a> built <a href=\"https://3.land/world/9RidDab8FHCfTLVSkXadKpQ5JMnenqx6EJBw5eRZPc6Q\" rel=\"noopener noreferrer\" target=\"_blank\">a virtual representation</a> of the <em>Artists in Residence</em> exhibition in the metaverse for anyone to get a glimpse of the experience.</p><p>The experiences powered by Solana teams resulted in 400+ new Solana wallets opened, 750+ pieces of artwork claimed, and 200+ new pieces minted onchain over the course of the event.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1f6ff701e05145648c0a7cc93793c516",
+            "component": {
+              "name": "Youtube",
+              "options": {
+                "url": "https://youtu.be/IEFFOHeWAFY?feature=shared"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7a6bdb336e5a48d3b6ebf1ab2cd7a5ca",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Solana artists create masterpieces live at Art Basel</h2><p>With <em>Artists in Residence</em>, the Solana ecosystem brought a first-of-its-kind exhibition to Art Basel Miami Beach — live studios featuring three artists creating work in real-time. Attendees had the chance to interact with the artists, observe their process, and learn about their journey into the Solana ecosystem and how web3 enhances their creative practice. Here’s a look at the final works created by the artists during the event, and glimpse into their Art Basel experience.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d063ca75f43549dcac5c85aa4d4c5774",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-f2c4616c914040faaa8d3e9e22b06d1f",
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<h3>Jean-Jacques Duclaux (Eko33)</h3><p>Eko33 invited attendees to interact with his custom-made theremin device, which transformed physical inputs into code that manipulated a live generative art piece featured in the studio.</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-df71506047c644e29de7c024c8a25678",
+                        "component": {
+                          "name": "Youtube",
+                          "options": {
+                            "url": "https://youtu.be/YHilyEoAPgI?feature=shared"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3aedd153801d4e6aaec2a82db208829b",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-0388451a45ba4d408ef9d625c3c7ac14",
+                        "component": {
+                          "name": "Youtube",
+                          "options": {
+                            "url": "https://youtu.be/pZ1q-ZG8Z-U?feature=shared"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-e9d2bf4f79e64fb3b577103c29e61797",
+                        "meta": {
+                          "previousId": "builder-e4aa6f5bff7647ea808b6bdaaa9fdff5"
+                        },
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<h3><strong>Lisanne Haack</strong></h3><p>Lisanne showcased her process of combining traditional and digital mediums, sketching concepts digitally on a tablet and translating these into large-scale oil paintings on canvas.&nbsp;</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a3b97f315ebd4ff79fb11ff2bc8c3c32",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-e4aa6f5bff7647ea808b6bdaaa9fdff5",
+                        "meta": {
+                          "previousId": "builder-4da446e31e3247e68350afd3199fbba4"
+                        },
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<h3><strong>Sleepr</strong></h3><p>Sleepr demonstrated how anonymity can foster deeper connection, inviting attendees to speak to him 1:1 on the phone. Over 500 patrons took part in these private phone conversations.</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-20b04415cb4c43ca9a80f3f43d112187",
+                        "component": {
+                          "name": "Youtube",
+                          "options": {
+                            "url": "https://youtu.be/FYL4cZruID4?feature=shared"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ca239f467196428db09fcc56e43509c2",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>In addition to the live art created onsite, artwork from Solana artists around the world was displayed on the walls of the exhibition. The exhibition featured the works of <a href=\"https://exchange.art/single/7mkMux4Coj5CiyMfqqFodGiwixVJCA7BuNy6C7aVdkFP\" rel=\"noopener noreferrer\" target=\"_blank\">Anthony Azekwoh</a>, <a href=\"https://exchange.art/single/AQx5HVGkm8KE21xkgpMP8wcwaF4frSftGdhKWnoqCxTW\" rel=\"noopener noreferrer\" target=\"_blank\">Apah Benson</a>, <a href=\"https://exchange.art/single/EH9YcvkT2ZacjQqYveUGYEu1U73R4duUwR9QLBg3KsyG\" rel=\"noopener noreferrer\" target=\"_blank\">Laurence Antony</a>, <a href=\"https://exchange.art/single/2VefdmJTFAZBfUrfWuf6A2bxnN33EPjJbbJeakPUtrfh\" rel=\"noopener noreferrer\" target=\"_blank\">Peanug</a>, <a href=\"https://twitter.com/RuptureNFT\" rel=\"noopener noreferrer\" target=\"_blank\">Rupture</a>, <a href=\"https://exchange.art/single/GT7AjiBwBXHwFAULoqg8kQhP6b3Fzgb91cxtc64e1sUT\" rel=\"noopener noreferrer\" target=\"_blank\">Ryland Close</a>, and <a href=\"https://www.victoriarickards.studio/\" rel=\"noopener noreferrer\" target=\"_blank\">Victoria Rickards</a>, most of which were featured via <a href=\"https://exchange.art/\" rel=\"noopener noreferrer\" target=\"_blank\">Exchange.Art</a>.&nbsp;</p><h2>Inspiring artists and creatives is just the beginning</h2><p>Not only did the Solana community inspire thousands of artists and creatives at Art Basel and showcase that blockchain technology adds texture and definition to existing traditional are processes, but the Solana ecosystem teams and community members left the event equally inspired to continue supporting creativity of all kinds. Get ready for 2024, where the Solana community will continue to build out more tools, products, and capabilities that support artists and creators.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0205032021994db1b280c5180a50cfd9",
+            "meta": {
+              "previousId": "builder-edc70af5c55945fc93559f2dc11bbf46",
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "newsLetter": true,
+                "formId": "94b90b1b-b29a-4ad7-9b3b-87331601d030",
+                "image": {
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2260199a596e480cab04bc09a9862213",
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Join the new art world."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Hear about the latest news, tools, and events for creatives using Solana.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Thanks for joining this email list!"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2183899dd45e4108b040848baf2edb15",
+  "lastUpdated": 1718291753731,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f3607b1df4bc494183e6a9888c2abb3c",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1702656820580,
+  "@originId": "f3607b1df4bc494183e6a9888c2abb3c",
+  "testRatio": 1,
+  "createdDate": 1702585081597,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-creator-art-basel-miami-beach?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2CeditLayouts%2CeditLayers&builder.user.role.name=Developer&builder.user.role.id=developer&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=f3607b1df4bc494183e6a9888c2abb3c&builder.overrides.f3607b1df4bc494183e6a9888c2abb3c=f3607b1df4bc494183e6a9888c2abb3c&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 7,
+      "Youtube": 5,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": " Solana creator community thrives at Art Basel Miami Beach",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

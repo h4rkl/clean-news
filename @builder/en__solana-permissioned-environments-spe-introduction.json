@@ -1,0 +1,174 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-permissioned-environments-spe-introduction",
+  "data": {
+    "datePublished": 1695308400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35cec05443bb4af0983785dd1e0b8ec6",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a33a87d837e401da5dfb4ca7c1ca0b2"
+    },
+    "intro": "SPEs will allow enterprises and other institutions to build customizable Solana Virtual Machine environments.",
+    "publishedDate": null,
+    "openGraph": {
+      "ogTitle": "Solana Permissioned Environments brings Solana tech to internal infrastructure",
+      "ogDescription": "SPEs will allow enterprises and other institutions to build customizable Solana Virtual Machine environments.",
+      "ogImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35cec05443bb4af0983785dd1e0b8ec6",
+      "ogType": "article"
+    },
+    "seo": {
+      "seoDescription": "SPEs will allow enterprises and other institutions to build customizable Solana Virtual Machine environments.",
+      "seoTitle": "Solana Permissioned Environments brings Solana Tech to Internal Infrastructure | Solana"
+    },
+    "title": "Solana Permissioned Environments brings Solana Tech to Internal Infrastructure",
+    "twitterMeta": {
+      "twitterTitle": "Solana Permissioned Environments brings Solana tech to internal infrastructure",
+      "twitterDescription": "SPEs will allow enterprises and other institutions to build customizable Solana Virtual Machine environments.",
+      "twitterImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F35cec05443bb4af0983785dd1e0b8ec6"
+    },
+    "slug": "solana-permissioned-environments-spe-introduction",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a70200e65d34494b65f9e04c0727a14"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-d6f4ea352b0c4bbe935fea95bafb4078",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-872a5f3386f84982b989062c48bb90cb",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><em>Matt Sorg is the head of product at the Solana Foundation</em></p><p>The Solana Foundation is pleased to introduce Solana Permissioned Environments, or SPEs, for the Solana protocol — customizable Solana Virtual Machine private instances for enterprise.</p><p>The Solana protocol is one of the leading protocols when it comes to scalability. The protocol’s fast settlement times, unparalleled transaction speed, affordable fees, and minimal environmental impact have made it an attractive place for enterprise businesses to build their web3 projects, from <a href=\"https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html\" rel=\"noopener noreferrer\" target=\"_blank\">Visa</a> to <a href=\"https://solana.com/news/case-study-asics-solana-pay\" rel=\"noopener noreferrer\" target=\"_blank\">ASICS</a> to <a href=\"https://decrypt.co/113632/google-cloud-just-became-a-solana-validator\" rel=\"noopener noreferrer\" target=\"_blank\">Google Cloud</a>.</p><p>Solana Permissioned Environments enable a category of products in the Solana ecosystem that combines the Solana protocol’s unparalleled blockchain technology with the high customizability required for large scale businesses. A permissioned Solana Virtual Machine environment allows enterprises to use the protocol to power their own internal infrastructure or collaboration with a partner network.</p><p>By creating an SPE, enterprises can:</p><ul><li><strong>Create a customized experience. </strong>Build directly to your custom requirements, from creating a geofenced node network to ensuring specific regulatory compliance.</li><li><strong>Retain ultimate control. </strong>SPEs are Solana environments in which enterprises are the highest authority, acting independelty of Solana mainnet-beta.</li><li><strong>Build with the Solana tech stack.</strong> All SPEs can potentially use the same innovative ecosystem-based tools as the rest of the Solana network, from saving costs by using <a href=\"https://solana.com/news/state-compression-compressed-nfts-solana\" rel=\"noopener noreferrer\" target=\"_blank\">state compression</a>, <a href=\"https://solana.com/news/solang-solana-solidity-evm\" rel=\"noopener noreferrer\" target=\"_blank\">Solidity language support</a>, and a new enterprise-friendly <a href=\"https://solana.com/solutions/token22\" rel=\"noopener noreferrer\" target=\"_blank\">token standard</a>.</li><li><strong>Build for scale. </strong>Take advantage of high throughput, parallelization, fast settlement time, affordable fees, and low environmental impact.</li></ul><p>Learn more about how Solana Permissioned Environments work and can be customized <a href=\"https://solana.com/solutions/solana-permissioned-environments\" rel=\"noopener noreferrer\" target=\"_blank\">here.</a></p><p><strong>Notably, SPEs are not connected to Solana mainnet-beta</strong> — which means they lack the advantage of interoperability with the greater Solana ecosystem. While it will be possible to bridge SPEs to mainnet beta, it introduces additional considerations and security risks. SPEs are best suited for specific use cases that require customizable environments.</p><p>Decide if you need an SPE or should deploy on mainnet-beta:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-17371c38dc3a4943b5209835b16eb125",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fcf47bb0c70e74ae0b5919c277e0cc644?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.705,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 1409,
+                "width": 2000
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-613d3e652b164a4196d7f3f1d4ee5947",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Unsure if an SPE is right for you? <a href=\"https://solanafoundation.typeform.com/to/EVODonPw\" rel=\"noopener noreferrer\">Reach out here.</a></p><p>If you're ready to start building, contact <a href=\"mailto:product@solana.org\" rel=\"noopener noreferrer\">the Solana Foundation’s ecosystem engineering team</a> to start building your own Solana Permissioned Environment.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingBottom": "0px",
+                "marginBottom": "-4px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F61caf4f67b36490b80352fb2c2e0c91c",
+  "lastUpdated": 1719938613879,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5659c32827fc4ac680edc27e47226cc7",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1695343356321,
+  "@originId": "5659c32827fc4ac680edc27e47226cc7",
+  "testRatio": 1,
+  "createdDate": 1695308477330,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-permissioned-environments-spe-introduction?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=5659c32827fc4ac680edc27e47226cc7&builder.overrides.5659c32827fc4ac680edc27e47226cc7=5659c32827fc4ac680edc27e47226cc7&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 2,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Permissioned Environments brings Solana tech to internal infrastructure",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

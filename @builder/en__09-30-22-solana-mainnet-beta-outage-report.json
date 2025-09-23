@@ -1,0 +1,130 @@
+{
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "createdDate": 1687362452981,
+  "data": {
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153",
+      "model": "author"
+    },
+    "datePublished": 1665082800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6b652d0a46c54efcbbc6e7b071e58ee4",
+    "intro": "At approximately 22:41 UTC on Friday, Sep. 30, the Solana Mainnet Beta cluster\nhalted when the network was unable to recover from a fork caused by a bug in the\nconsensus algorithm implementation. Block production resumed at approximately\n6:57 UTC on Saturday after a coordinated restart, and network operators\ncontinued to restore client services over the next several hours.\n\nWhat caused the outage?\n * Due to a validator operator’s malfunctioning hot-spare node, which the\n   operator had deployed ",
+    "openGraph": {
+      "ogDescription": "At approximately 22:41 UTC on Friday, Sep. 30, the Solana Mainnet Beta cluster\nhalted when the network was unable to recover from a fork caused by a bug in the\nconsensus algorithm implementation. Block production resumed at approximately\n6:57 UTC on Saturday after a coordinated restart, and network operators\ncontinued to restore client services over the next several hours.\n\nWhat caused the outage?\n * Due to a validator operator’s malfunctioning hot-spare node, which the\n   operator had deployed ",
+      "ogTitle": "09-30-22 Solana Mainnet Beta Outage Report",
+      "ogType": [
+        "article"
+      ],
+      "ogUrl": ""
+    },
+    "publishedDate": "Fri Oct 07 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "seo": {
+      "internalName": "09-30-22 Solana Mainnet Beta Outage Report",
+      "noFollow": false,
+      "noIndex": false,
+      "seoDescription": "At approximately 22:41 UTC on Friday, Sep. 30, the Solana Mainnet Beta cluster\nhalted when the network was unable to recover from a fork caused by a bug in the\nconsensus algorithm implementation. Block production resumed at approximately\n6:57 UTC on Saturday after a coordinated restart, and network operators\ncontinued to restore client services over the next several hours.\n\nWhat caused the outage?\n * Due to a validator operator’s malfunctioning hot-spare node, which the\n   operator had deployed ",
+      "seoTitle": "09-30-22 Solana Mainnet Beta Outage Report"
+    },
+    "slug": "09-30-22-solana-mainnet-beta-outage-report",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb",
+          "model": "entity-blog-tags"
+        }
+      }
+    ],
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "09-30-22 Solana Mainnet Beta Outage Report"
+    },
+    "twitterMeta": {
+      "twitterDescription": "At approximately 22:41 UTC on Friday, Sep. 30, the Solana Mainnet Beta cluster\nhalted when the network was unable to recover from a fork caused by a bug in the\nconsensus algorithm implementation. Block production resumed at approximately\n6:57 UTC on Saturday after a coordinated restart, and network operators\ncontinued to restore client services over the next several hours.\n\nWhat caused the outage?\n * Due to a validator operator’s malfunctioning hot-spare node, which the\n   operator had deployed ",
+      "twitterTitle": "09-30-22 Solana Mainnet Beta Outage Report"
+    },
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-5f3d7fb8f11843ebb68d89f669c7b580",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          },
+          "isRSC": null
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ad5deb8fe47a49b9887857e97025d848",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>At approximately 22:41 UTC on Friday, Sep. 30, the Solana Mainnet Beta cluster halted when the network was unable to recover from a fork caused by a bug in the consensus algorithm implementation. Block production resumed at approximately 6:57 UTC on Saturday after a coordinated restart, and network operators continued to restore client services over the next several hours.</p><h2><strong>What caused the outage?</strong></h2><ul><li>Due to a validator operator’s malfunctioning hot-spare node, which the operator had deployed as part of a high-availability configuration, duplicate blocks were produced at the same slot height.</li><li>Both the primary and spare validators became active at the same time, operating with the same node identity, but proposed blocks of differing composition. This situation persisted for at least 24 hours prior to the outage, with most of the validator’s leader slots producing duplicate blocks which were handled safely by the cluster.</li><li>Initially, duplicate blocks were handled by the network as expected. For example, duplicate blocks were produced in slot 153139220 (220) and the cluster reached consensus on one of those blocks before it continued on to slot 153139221 (221), as should happen for duplicate block conflict resolution.</li><li>However, at the next slot, 221, duplicate blocks were observed again but an edge case was encountered. Even though the correct version of the block 221 was confirmed, a bug in the fork selection logic prevented block producers from building on top of 221 and prevented the cluster from achieving consensus.</li></ul><h2><strong>Timeline</strong></h2><ul><li>09-30-2022 21:46 UTC: Validators start reporting consensus failure. Voting is still occurring but roots are not advancing.</li><li>09-30-2022 22:00 UTC: Investigation commences to see if recovery is possible without a restart.</li><li>09-30-2022 22:41 UTC: the Solana Mainnet Beta cluster halted</li><li>09-30-2022 23:09 UTC: It is discovered that a validator had been producing duplicate blocks for its leader slots. Its operator is contacted and the validators taken offline.</li><li>10-01-2022 00:08 UTC: Attempts to recover the cluster fail. Restart planning begins.</li><li>10-01-2022 01:10 UTC: Restart instructions issued.</li><li>10-01-2022 06:57 UTC: 80% of stake-weight online, roots advancing and network online.</li><li>10-01-2022 07:30 UTC: The core team identified the likely bug that caused the consensus failure.</li><li>10-01-2022 09:30 UTC: A&nbsp;<a href=\"https://github.com/solana-labs/solana/pull/28172?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">fix was proposed</a>&nbsp;and a test was added to reproduce the edge-case bug.</li><li>10-03-2022 08:30 UTC: After review by the core team, the patch was merged into the master branch and backported to all release branches.</li><li>10-03-2022 15:00 - 20:00 UTC: New release binaries were built and deployed to canary nodes for testing.</li><li>10-04-2022 15:30 UTC: An announcement to upgrade was issued to validators, who then began actively upgrading their systems to version v1.10.40 and v1.13.2.</li><li>10-07-2022: 04:00 UTC: 90% of stake-weight applied the patch to fix the consensus bug and the core team determined the risk of the bug to the network to be sufficiently mitigated.</li></ul>"
+              },
+              "isRSC": null
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1687560229440,
+  "folders": [],
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_1837ed56d8124fb2b5f2aedf3e1639ad",
+  "lastUpdated": 1749844378097,
+  "lastUpdatedBy": "IsYMyhraRRSsIhQE3qs2nOc6KkV2",
+  "meta": {
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false,
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/09-30-22-solana-mainnet-beta-outage-report?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers%2CeditContentPriority%2CeditFolders&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=1837ed56d8124fb2b5f2aedf3e1639ad&builder.overrides.1837ed56d8124fb2b5f2aedf3e1639ad=1837ed56d8124fb2b5f2aedf3e1639ad&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default"
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "name": "09-30-22 Solana Mainnet Beta Outage Report",
+  "previewUrl": "https://solana.com/news/09-30-22-solana-mainnet-beta-outage-report",
+  "published": "published",
+  "query": [],
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F279f6b03fe5d4c398f83d5cca07113fd",
+  "testRatio": 1,
+  "variations": {},
+  "@originId": "1837ed56d8124fb2b5f2aedf3e1639ad",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@liveSyncEnabled": true,
+  "rev": "2oemt8k4o9i"
+}

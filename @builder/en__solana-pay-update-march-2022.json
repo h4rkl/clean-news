@@ -1,0 +1,180 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-pay-update-march-2022",
+  "data": {
+    "datePublished": 1648018800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F71ed2a21422d485bbbe5f8a0c46c1a61",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "The Solana ecosystem helps build new commerce capabilities",
+    "publishedDate": "Wed Mar 23 2022 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Solana Pay sparking activity to catalyze future of payments",
+      "ogUrl": "https://www.solana.com/blog/solana-pay-update-march-2022",
+      "ogDescription": "The Solana ecosystem helps build new commerce capabilities",
+      "ogImage": "https://solana.ghost.io/content/images/2022/03/solana-pay-update.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana Pay sparking activity to catalyze future of payments",
+      "noFollow": false,
+      "seoDescription": "The Solana ecosystem helps build new commerce capabilities",
+      "seoTitle": "Solana Pay sparking activity to catalyze future of payments",
+      "noIndex": false
+    },
+    "title": "Solana Pay sparking activity to catalyze future of payments",
+    "twitterMeta": {
+      "twitterTitle": "Solana Pay sparking activity to catalyze future of payments",
+      "twitterDescription": "The Solana ecosystem helps build new commerce capabilities",
+      "twitterImage": "https://solana.ghost.io/content/images/2022/03/solana-pay-update.png"
+    },
+    "slug": "solana-pay-update-march-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_29b188b21b454f448f5aa0d064429cce"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a70200e65d34494b65f9e04c0727a14"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-8df377a5badf4725bdff858151ff33fb",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9365baf4bc5a45249e50fa63d2dd338f",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>It’s been over a month since&nbsp;<a href=\"https://solana.com/news/solana-pay-announcement?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay debuted as the first decentralized permissionless payments rail</a>, making it easy for merchants to enable transactions in digital dollars, like USDC, for a fraction of a penny and without intermediaries at the point of sale.</p><p>More than 600 merchants have engaged with the Solana Pay ecosystem while others in the community are already incorporating Solana Pay into their payment flows.</p><p><a href=\"https://www.autonomous.ai/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Autonomous.ai</a>&nbsp;built an ecommerce experience, including escrow smart contract functionality and on-chain dispute resolution, using Solana Pay (<a href=\"https://solana.com/news/solana-pay-autonomous-case-study?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">read here about the integration</a>). They are passing along cost savings for customers using Solana Pay and they envision a longer roadmap of on-chain features.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dd77849768f24d0ead8e29792f0b2f4a",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/RepJohnCurtis/status/1494705551699292161?ref=solana.ghost.io</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-78427aebe2684c95ba47c5f2a88572b0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><a href=\"https://twitter.com/mtnPay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">MtnPay.so</a>&nbsp;debuted an iOS Point-of-Sale app which incorporates Solana Pay into Square point-of-sale software. mtnPay authenticates directly with a merchant’s Square store, keeping inventory and transactions in sync, while the transfer of assets between the customer and merchant is verified at the time of sale. Check out&nbsp;<a href=\"https://twitter.com/tj_littlejohn/status/1494465488218255364?s=21&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Rep. John Curtis making a purchase</a>&nbsp;with MtnPay!</p><p>Smaller merchants are also quickly implementing Solana Pay. The Feature boutique in the Wynn Las Vegas&nbsp;<a href=\"https://twitter.com/remilabs/status/1499813001381105667?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">logged its first transaction</a>&nbsp;recently — and it shows the&nbsp;<a href=\"https://solana.com/news/solana-pay-announcement?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">vision</a>&nbsp;for on-chain sneaker transactions is one step closer to reality! Wise BBQ down in LA looks even more tempting&nbsp;<a href=\"https://twitter.com/wisebarbecue/status/1494734068004519936?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">now that Solana Pay is a payment option</a>. Red Giant Coffee in the heart of Silicon Valley makes it easy to use Solana Pay for your morning boost (<a href=\"https://twitter.com/yswu/status/1490024971829071873?s=21&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here’s Circle’s Yongsheng Wu</a>&nbsp;putting it to the test, as does&nbsp;<a href=\"https://twitter.com/mccannatron/status/1488950039518928899?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Race Capital’s Chris McCann</a>). And now San Francisco mainstay&nbsp;<a href=\"https://twitter.com/atlascafe_sf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Atlas Cafe</a>&nbsp;accepts Solana Pay — expect something exciting soon involving the Atlas Cafe community and Solana Pay.</p><h2><strong>A new era of payments</strong></h2><p>The early implementations of Solana Pay demonstrate how easy it is to get started. And while a primary advantage of Solana Pay is the lack of intermediaries and near-zero fees, the future of payments has so much more in store.</p><p>The next batch of integrations will take advantage of the direct merchant-to-consumer communications channel that Solana Pay enables, such as what played out in the just-completed&nbsp;<a href=\"https://solana.com/riptide?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Riptide hackathon</a>&nbsp;and its 7,000 participants (such as Yami Finance’s&nbsp;<a href=\"https://twitter.com/888anonclub/status/1497243099201945602?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">debut ecosystem tool</a>&nbsp;with 888 Anon Club and Aten&nbsp;<a href=\"https://twitter.com/AtenSolana/status/1504672262397562880?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">running a demo</a>&nbsp;of a sample store transaction). For the first time, the global Solana hackathon featured a payments track with a $50,000 first prize. Expect highlights of some of the most interesting payments-related projects coming soon.</p><p>The first goal of Solana Pay is to replicate cash transactions digitally. Solving this “last mile problem,” as Circle CEO Jeremy Allaire&nbsp;<a href=\"https://twitter.com/solana/status/1491076892052824066?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">dubbed it in the Solana Podcast</a>&nbsp;with Solana Labs’ Sheraz Shere, does not happen overnight, but the ecosystem has spoken – consumers should be able to transact in a new way. Here’s&nbsp;<a href=\"https://twitter.com/michellelsun/status/1488922817588387840?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Serum’s Michelle Sun</a>,&nbsp;<a href=\"https://twitter.com/NFTtaylor/status/1488531945734746126?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">FTX’s Taylor Johnson</a>, and&nbsp;<a href=\"https://twitter.com/KentoInami/status/1488522380712595470?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">UXD Protocol’s Kento Inami</a>&nbsp;all advocating for Solana Pay.&nbsp;</p><p>On the protocol front, developers have been busy providing feedback and adding to the code. A new feature is coming to expand the capabilities of Solana Pay QR codes far beyond simple transfers. It allows an interactive request between a checkout app and a mobile wallet to power almost any transaction that’s possible on Solana, such as minting NFTs, dynamic discounts, and DeFi-powered loyalty programs.&nbsp;<a href=\"https://github.com/solana-labs/solana-pay/blob/link-request/SPEC.md?ref=solana.ghost.io#specification-transaction-request\" rel=\"noopener noreferrer\" target=\"_blank\">Check out the latest specification here.</a></p><p>A big thank you to all of the innovators, dreamers and builders taking up the mantle of Solana Pay early and often! The future of payments will be built by you, and the Solana Labs team is excited to be along for the ride.</p><p>If you want to learn more about Solana Pay, check out our these resources:</p><ul><li><a href=\"http://solana.com/solana-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay website for merchants</a></li><li><a href=\"http://solana.com/developers/payments?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay website for developers</a></li><li><a href=\"https://github.com/solana-labs/solana-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay documentation on Github</a></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0144564d8fff4b46bb3810f8cd181469",
+  "lastUpdated": 1704915695569,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_fc664da2cacd45feaabac07d14249eba",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687624507912,
+  "@originId": "fc664da2cacd45feaabac07d14249eba",
+  "testRatio": 1,
+  "createdDate": 1687362536111,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-pay-update-march-2022?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=fc664da2cacd45feaabac07d14249eba&builder.overrides.fc664da2cacd45feaabac07d14249eba=fc664da2cacd45feaabac07d14249eba&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Pay sparking activity to catalyze future of payments",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

@@ -1,0 +1,246 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1602486000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8579df1540d74fcfbb1af919307ca7be",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nDon’t choose between scale, security, and decentralization. Solana has solved the trilemma for you.\n",
+    "publishedDate": "Mon Oct 12 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "Why Solana?",
+    "seo": {
+      "internalName": "Why Solana?",
+      "noFollow": false,
+      "seoDescription": "\nDon’t choose between scale, security, and decentralization. Solana has solved the trilemma for you.\n",
+      "seoTitle": "Why Solana?",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Why Solana?",
+      "ogUrl": "https://www.solana.com/blog/why-solana-",
+      "ogDescription": "\nDon’t choose between scale, security, and decentralization. Solana has solved the trilemma for you.\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/Why-Solana-/1-waEQvGbvr356cP3IcZRHzg-3.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Why Solana?",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/Why-Solana-/1-waEQvGbvr356cP3IcZRHzg-3.png",
+      "twitterDescription": "\nDon’t choose between scale, security, and decentralization. Solana has solved the trilemma for you.\n"
+    },
+    "slug": "why-solana-",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_03e6904c00924a32b6187f46a5fa40d0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_90466976bf1d43af86d65b3d36afaacd"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_da46b7f8fbe44d9a809efa35e54ba8cc"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a08bdcb4a0ca4f81b00df16c8ca465ee"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-f522bd7d415e4396bdb595d49f3db184",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-29470f1a9b7c49debc5fbe473bbff7c8",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Febcc0f4ea7c4496887da734c6373c0d2?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Febcc0f4ea7c4496887da734c6373c0d2?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Febcc0f4ea7c4496887da734c6373c0d2?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Febcc0f4ea7c4496887da734c6373c0d2?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Febcc0f4ea7c4496887da734c6373c0d2?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Febcc0f4ea7c4496887da734c6373c0d2?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Febcc0f4ea7c4496887da734c6373c0d2?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Febcc0f4ea7c4496887da734c6373c0d2?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Febcc0f4ea7c4496887da734c6373c0d2?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Febcc0f4ea7c4496887da734c6373c0d2?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c94fe090ceb14bcd8ffe9daa16a07b97",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The web was designed to be a place for freedom, built on a vision of permissionless participation and distributed trust on a global scale. However, the team at Solana has gradually seen this become compromised over time as additional layers of complexity have extracted value from and fragmented the overall ecosystem.</p><p>Bitcoin and Ethereum showed us that it was possible to revitalize this vision through blockchains, allowing us to create an open financial ecosystem while empowering individuals to take ownership of their data.</p><p>The goal is to ensure that not only can it be accessible to everyone, but that it can also be scalable enough to support real-world demand. For Solana, that means providing the fastest, low-fee, censorship-resistant blockchain to enable high-growth applications to democratize the world’s financial system.</p><h2><strong>Focus on your vision, not your infrastructure.</strong></h2><p>Solana is a global, distributed network designed to scale natively, without sacrificing decentralization or security to support billions of users and devices.</p><p><strong>Never Worry About Dealing with Scale</strong></p><p>Solana scales natively with Moore’s Law. We don’t introduce any additional complexity through sharding or Layer 2 solutions.</p><p><strong>Don’t require your users to wait</strong></p><p>Blazing fast speeds and no mempool congestion. 400ms block times and sub-second confirmations allow for over 50,000 transactions per second. Web 3.0 with Web 2.0 speed.</p><p><strong>Forget about network fees</strong></p><p>With the ability to send 1 million transactions across the network for approximately $10 USD, users can forget about volatile and expensive transaction fees.</p><p><strong>Enterprise-grade security</strong></p><p>Audited by a Fortune 500-preferred security firm. Iron-clad immutability for global scale.</p><p><strong>Build-in your language</strong></p><p>Code in C, C++, Rust, and Move. Flexible virtual machine integrations, with more on the way.</p><h2><strong>Your users will never even&nbsp;notice.</strong></h2><p><a href=\"https://break.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana’s performance is unparalleled</a>&nbsp;and built explicitly for high-frequency and massive-scale applications.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-832b5b046b6448af96f4eb1b32df68ed",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/o/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb5437e81b2ce4af28982610cfb04a27f%2Fcompressed?apiKey=ce0c7323a97a4d91bd0baa7490ec9139&token=b5437e81b2ce4af28982610cfb04a27f&alt=media&optimized=true",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.698,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 279,
+                "width": 400
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6613573ec54b4bc68e25bfa0d921aeff",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Play Break&nbsp;Now</p><p>Don’t choose between scale, security, and decentralization. Solana has solved the trilemma for you. Here’s how:</p><ul><li><a href=\"https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Proof of History</a>&nbsp;(PoH) — A clock before consensus</li><li><a href=\"https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tower BFT</a> — A PoH-optimized version of PBFT</li><li><a href=\"https://medium.com/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Turbine</a> — A block propagation protocol</li><li><a href=\"https://medium.com/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gulf Stream</a> — Mempool-less transaction forwarding protocol</li><li><a href=\"https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sealevel</a> — World’s first parallel smart contracts run-time</li><li><a href=\"https://medium.com/solana-labs/pipelining-in-solana-the-transaction-processing-unit-2bb01dbd2d8f?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Pipeline</a> — Transaction processing unit for validation</li><li><a href=\"https://medium.com/solana-labs/cloudbreak-solanas-horizontally-scaled-state-architecture-9a86679dcbb1?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Cloudbreak</a> — Horizontally scaled accounts database</li><li><a href=\"https://medium.com/solana-labs/replicators-solanas-solution-to-petabytes-of-blockchain-data-storage-ef79db053fa1?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Archivers</a> — Distributed ledger storage</li></ul><h2><strong>Join the fastest growing ecosystem in&nbsp;crypto.</strong></h2><p>Regardless of your background and skill-set, you can get involved today.</p><p><strong>Developers</strong></p><ul><li><a href=\"https://docs.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Documentation</a></li><li><a href=\"https://docs.solana.com/apps/hello-world?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Examples</a></li><li><a href=\"https://serum-academy.com/en/developer-resources/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Building on Solana using the Serum DEX</a></li><li><a href=\"https://serum-academy.com/en/dex-list/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Run your own DEX</a></li><li><a href=\"https://serum-academy.com/en/add-market/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">List tokens on the Serum DEX</a></li><li><a href=\"https://forums.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Forums</a></li></ul><p><strong>Researchers</strong></p><p>Are you a cybersecurity researcher that thrives on finding exploits and pentesting? We’ve got bug bounty programs running here:</p><ul><li><a href=\"https://hackerone.com/solana-bbp?type=team&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Hacker One</a></li><li><a href=\"https://forums.solana.com/t/tour-de-sol-stage-8-details/825/3?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Incentivised Testnet</a></li></ul><p><strong>Community</strong></p><ul><li><a href=\"https://solana.com/community?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Join the Solana Collective</a></li></ul><p><strong>Validators</strong></p><p>Anyone can be a validator on Solana. If you’re interested in helping secure the network and get rewarded for doing so, register for our incentivized validator program&nbsp;<a href=\"https://solana.com/validators?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F81da5fef91ed4d3a9a6e93c0a367a928",
+  "lastUpdated": 1694189914348,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_b134e6690fae4668940668cf6b070828",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687550154418,
+  "@originId": "b134e6690fae4668940668cf6b070828",
+  "testRatio": 1,
+  "createdDate": 1687362669906,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=b134e6690fae4668940668cf6b070828&builder.overrides.b134e6690fae4668940668cf6b070828=b134e6690fae4668940668cf6b070828&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Why Solana?",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

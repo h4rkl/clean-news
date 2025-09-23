@@ -1,0 +1,316 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/solana-art-basel-artists-in-residence",
+  "data": {
+    "datePublished": 1700492400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9233a02641b34deabe79535a7441da34",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "The exhibition will feature artists creating with Solana, as well as ecosystem resources.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9233a02641b34deabe79535a7441da34",
+      "seoDescription": "The exhibition will feature artists creating with Solana, as well as ecosystem resources.",
+      "seoTitle": "Solana at Art Basel Miami Beach: Introducing Artists in Residence"
+    },
+    "title": "Solana at Art Basel Miami Beach: Introducing Artists in Residence",
+    "slug": "solana-art-basel-artists-in-residence",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_d7664ab5344b428d8d628809aa7f60c1"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-c603beffaf834ed6bbb217cef1b66b56",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cb1711144bf541998b600cf4bc45df87",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>The Solana community is making its debut at <a href=\"https://www.artbasel.com/miami-beach\" rel=\"noopener noreferrer\" target=\"_blank\">Art Basel Miami Beach</a>, the leading international art fair, taking place Dec. 8-10, 2023, with VIP preview days on Dec. 6-7. The Solana exhibition, entitled <em>Artists in Residence</em>, will showcase a new fusion of traditional art and technology. The exhibition will host experiences powered by teams and artists working in the Solana ecosystem, showing attendees firsthand how Solana provides a platform to push the boundaries of creativity. This event will allow the traditional art world and forward-thinking artists to explore how blockchain technology – and Solana’s unique capabilities in particular – unlock new possibilities for ownership, earning, audience engagement, and more.&nbsp;</p><p><a href=\"https://solana.com/art-basel\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-37912787018b452fa0b774dba4088ec3",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2><strong><em>Artists in Residence</em>: A living studio</strong></h2><p>Art Basel attendees are accustomed to seeing art on walls, but they don’t typically get to witness artists in action. With <em>Artists in Residence</em>, the Solana ecosystem is bringing a first-of-its-kind exhibition to Art Basel Miami Beach as three artists building with Solana will create works live in the space in real-time. <em>Artists in Residence</em> will be more than an exhibition — it will be a living studio that celebrates the process of creation, while also highlighting the intimate relationship between artists, their medium, and their audiences. Over the course of the week, the three artists on display will engage attendees in their work and take them on the transformative journey from concept to completion.</p><p>The artists on-site who will demonstrate how they incorporate Solana technology into their creative process, include:</p><h3>Jean-Jacques Duclaux (Eko33)</h3><p><em>\"Solana and web3 have not just been platforms or tools — they have been catalysts, unlocking avenues, capabilities, and potential I hadn't foreseen. They have intertwined deeply with my artistic narrative, propelling me into a new era of digital artistry.\"</em></p><p>A pioneer of digital and generative art for decades, Jean-Jacques Duclaux (<a href=\"https://www.eko33.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Eko33</a>) uses custom software and a variety of coding languages to transform physical sketches into beautiful, algorithmically generated digital artworks. His distinctive creative process blurs the boundaries of the physical and digital art worlds, bringing together computer science and traditional artistic concepts. Each generated piece is completely unique, and his artwork has found critical acclaim around the world.</p><h3>Lisanne Haack</h3><p><em>\"Solana has enabled me to look over the horizon, learn about new technologies faster and more efficiently, using them in my own work. The Solana community (has) welcomed abstract, and fine art in general, in an incredibly genuine way.\"</em></p><p>A gifted visual abstract painter, <a href=\"https://www.lisannehaack.art/\" rel=\"noopener noreferrer\" target=\"_blank\">Lisanne Haack</a> uses multiple mediums and techniques to bring her inner thoughts and ideas to the viewer. She continuously blends the traditional and digital fields and evolves her craft, exploring how mediums and technologies interact with each other. She has brought her abstract expressionist oil paintings to another level by incorporating technology like VR and AI software.&nbsp;</p><h3>Sleepr</h3><p><em>\"Solana has truly changed my life. I was represented as an artist in fine art galleries in Australia for years and really struggled to find authentic connections. I had minted work on other chains but found no user base who were interested in more than just a transaction. On Solana, I found this thriving community of artists, collectors, innovators, rulebreakers who were all feeding off each other's energy in this beautiful way. It became such an engaging experience to be part of it. I felt completely free to express myself in my own way.\"</em></p><p><a href=\"https://www.sleepr.art/\" rel=\"noopener noreferrer\" target=\"_blank\">Sleepr</a>&nbsp;is an anonymous digital artist who challenges the art world to question the role of the artist in their work. An accomplished academic with PhD research, Sleepr combines art and science to create intriguing digital works of art. For Sleepr, anonymity is a means for exploring artistic expression in an uninhibited way and providing authenticity to collectors.</p><p>Each artist above brings a unique perspective on what led them to work on Solana and the value it has brought to their art and career. Art Basel attendees can interact directly with the artists, hear what drew them to the Solana community, and collect limited edition works minted on Solana.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-486e41e51952410299bdc8654fa786aa",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbebd38dd27b747ea9e3326e3b113cbe3?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.5233,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 675,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbebd38dd27b747ea9e3326e3b113cbe3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbebd38dd27b747ea9e3326e3b113cbe3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbebd38dd27b747ea9e3326e3b113cbe3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbebd38dd27b747ea9e3326e3b113cbe3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbebd38dd27b747ea9e3326e3b113cbe3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbebd38dd27b747ea9e3326e3b113cbe3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbebd38dd27b747ea9e3326e3b113cbe3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbebd38dd27b747ea9e3326e3b113cbe3?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbebd38dd27b747ea9e3326e3b113cbe3?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbebd38dd27b747ea9e3326e3b113cbe3?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f1742b193c234b0b9c73b92222e8b452",
+            "meta": {
+              "previousId": "builder-35640e605f7140188c5b95c48c6cf5db"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Showcasing creativity in the Solana ecosystem</h2><p>In addition to the live art created onsite, artwork from several additional artists in the Solana ecosystem will be displayed on the walls of the exhibition space. Featured artists include: Anthony Azekwoh, Apah Benson, Laurence Antony, Peanug, Rupture, Ryland Close, and Victoria Rickards. </p><h3>Anthony Azekwoh</h3><p>Anthony Azekwoh is a contemporary artist and author based in Lagos, Nigeria. His work primarily focuses on African folklore and mythology, using these themes and figures to tell stories of his country, transformation, and change. Anthony is a self-taught artist and has explored diverse subjects and mediums across his career, working between digital and traditional, painting and sculpting.</p><h3>Apah Benson</h3><p>Apah Benson is a poet and conceptual photographer from Delta State, Nigeria. His work blurs the lines between light, shadow, and color. His photography is a testament to the art of storytelling, focusing on African culture and enthralling visual representations of what is true and closest to his heritage.</p><h3>Laurence Antony</h3><p>Laurence Antony is a Canadian contemporary painter whose style morphs to the realities and subjects depicted in portraiture and landscape painting. Using 3D design, found photos, and digital paintings as source material, Antony creates images that combine multiple perspectives into unique and surreal images.</p><h3>Peanug</h3><p>Peanug is a multidisciplinary artist who creates within virtual reality. Working across wearables, digital sculpture, and illustration, their work has been collected worldwide.&nbsp;</p><p>They use web3 to share their work, which enables them to build an authentic and one-of-a-kind audience.</p><h3>Rupture</h3><p>Morris Vogel, aka Rupture, is a self-taught artist from Switzerland. He works primarily on washi paper and canvas, using a meticulous black-and-white drawing style to depict harrowing portraits of humanity’s darker facets. Morris uses web3 as another medium in his artistry, experimenting within this space to be challenged.&nbsp;</p><h3>Ryland Close&nbsp;</h3><p>Ryland Close is a digital abstract artist seeking to explore shared human experience and connectivity through a digital lens. Ryland began creating digital art on Solana in 2021 under the pseudonym FALLEN. He aims to utilize blockchain technology to develop a body of work that can be seen as a work of art when viewed as a whole.&nbsp;</p><h3>Victoria Rickards</h3><p>Victoria, a Miami Native abstract artist, imbues her art with wonder and enchantment. Her paintings are deeply personal and universal, exploring themes of growth, transformation, and the interconnectivity of all things.&nbsp;</p><p>Victoria's colorful paintings pay accolades to her homeland and ancestral lineage. A unique composition of cultures is identifiable in her artwork. Victoria has always felt a deep connection to the ocean and the vibrancy of her Caribbean Heritage. Her art reflects this connection with bold, vivid palettes that bring her messages to life.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "15px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-9ab66d3126124f59a2be52068047f97e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ccf237a75b4f6b9459e4a87f951696?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.563,
+                "lockAspectRatio": false,
+                "height": 675,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ccf237a75b4f6b9459e4a87f951696?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ccf237a75b4f6b9459e4a87f951696?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ccf237a75b4f6b9459e4a87f951696?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ccf237a75b4f6b9459e4a87f951696?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ccf237a75b4f6b9459e4a87f951696?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ccf237a75b4f6b9459e4a87f951696?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ccf237a75b4f6b9459e4a87f951696?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ccf237a75b4f6b9459e4a87f951696?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ccf237a75b4f6b9459e4a87f951696?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F93ccf237a75b4f6b9459e4a87f951696?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4855be5659674b5a814b09e6ef4083e3",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Resources curated for artistic success</h2><p>Attendees who visit <em>Artists in Residence</em> will also be able to engage with Solana-powered products, art-exchange platforms, and curated creator experiences at the event. Art Basel show-goers can collect limited edition artworks onsite, learn how to easily mint on Solana, and interact directly with artists building onchain.</p><p>The Solana ecosystem teams supporting the <em>Artists in Residence </em>activation who will be highlighted onsite for attendees to learn more about include:</p><ul><li><strong>Primitives:</strong> An art collective and social platform that allows anyone to see, share, and collect artwork with friends.</li><li><strong>Collector:</strong> A curation-first digital platform focused on discovering artists through digital galleries.</li><li><strong>Pengu Love: </strong>An art collective, organized through NFTs, that promotes new artists emerging in the Solana ecosystem.</li><li><strong>TipLink:</strong> A tool that makes collecting digital assets as easy as clicking a link, allowing even non-web3 native audiences to become collectors.</li><li><strong>Sleek:</strong> An NFC-powered card creator that helps upgrade interpersonal interactions.</li></ul><p>The Solana Foundation is proud to be a show partner at Art Basel Miami Beach and showcase how creativity thrives in the Solana ecosystem. For artists and creators, Solana is a platform where they can create art in new and exciting ways, find more ways to earn, unlock new audiences, and connect with a vibrant community of like-minded innovators. <a href=\"https://solana.com/solutions/artists-creators\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more</a> about resources for artists and creators on Solana.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "15px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-df83923fc4934a27860f809a7e731d05",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ]
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "newsLetter": true,
+                "formId": "94b90b1b-b29a-4ad7-9b3b-87331601d030",
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  }
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Join the new art world."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Hear about the latest news, tools, and events for creatives using Solana.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Thanks for joining this email list!"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffa44d27a978c418cb532b4d0166a7e36",
+  "lastUpdated": 1718291778685,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_936bbf03c08b40ccbada51d4e962e3ea",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1700506578454,
+  "@originId": "936bbf03c08b40ccbada51d4e962e3ea",
+  "testRatio": 1,
+  "createdDate": 1700502818803,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/solana-art-basel-artists-in-residence?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2CeditLayouts%2CeditLayers&builder.user.role.name=Developer&builder.user.role.id=developer&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=936bbf03c08b40ccbada51d4e962e3ea&builder.overrides.936bbf03c08b40ccbada51d4e962e3ea=936bbf03c08b40ccbada51d4e962e3ea&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Copy": 4,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana at Art Basel Miami Beach: Introducing Artists in Residence",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

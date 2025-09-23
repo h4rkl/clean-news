@@ -1,0 +1,340 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1576656000000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nIt’s been a hell of a year. As we prepare for the next decade, we want to recap the amazing progress Solana made in 2019.\n",
+    "publishedDate": "Wed Dec 18 2019 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "title": "Solana in 2019: Growth, Development, and the Road to Mainnet",
+    "seo": {
+      "internalName": "Solana in 2019: Growth, Development, and the Road to Mainnet",
+      "noFollow": false,
+      "seoDescription": "\nIt’s been a hell of a year. As we prepare for the next decade, we want to recap the amazing progress Solana made in 2019.\n",
+      "seoTitle": "Solana in 2019: Growth, Development, and the Road to Mainnet",
+      "noIndex": false
+    },
+    "openGraph": {
+      "ogTitle": "Solana in 2019: Growth, Development, and the Road to Mainnet",
+      "ogUrl": "https://www.solana.com/blog/solana-in-2019--growth--development--and-the-road-to-mainnet",
+      "ogDescription": "\nIt’s been a hell of a year. As we prepare for the next decade, we want to recap the amazing progress Solana made in 2019.\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Solana in 2019: Growth, Development, and the Road to Mainnet",
+      "twitterImage": null,
+      "twitterDescription": "\nIt’s been a hell of a year. As we prepare for the next decade, we want to recap the amazing progress Solana made in 2019.\n"
+    },
+    "slug": "solana-in-2019--growth--development--and-the-road-to-mainnet",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3605291697f44b2189222e5f8b18c8b0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc162926a1c34884938092e2be078099"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6e486fb681614dda8835548c251fe8e7"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a08bdcb4a0ca4f81b00df16c8ca465ee"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-3d53262c9d824adaa3447fe8164ad26c",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f2078476ad4d489cba60d22e67259f5b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5347ae3932e0496d8e149e2e0c6af56c?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5347ae3932e0496d8e149e2e0c6af56c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5347ae3932e0496d8e149e2e0c6af56c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5347ae3932e0496d8e149e2e0c6af56c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5347ae3932e0496d8e149e2e0c6af56c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5347ae3932e0496d8e149e2e0c6af56c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5347ae3932e0496d8e149e2e0c6af56c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5347ae3932e0496d8e149e2e0c6af56c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5347ae3932e0496d8e149e2e0c6af56c?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5347ae3932e0496d8e149e2e0c6af56c?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4c0f6c8b48874846a31cf2ff5da4d630",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>It’s been a hell of a year. As we prepare for the next decade, we want to recap the amazing progress Solana made in 2019.</p><p>From intensive, heads down&nbsp;<a href=\"https://github.com/solana-labs?mc_cid=248ef50e44&amp;mc_eid=%5BUNIQID%5D&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">infrastructure work</a>&nbsp;to announcing our&nbsp;<a href=\"https://www.coindesk.com/multicoin-leads-20-million-round-for-speed-focused-solana-blockchain?mc_cid=248ef50e44&amp;mc_eid=%5BUNIQID%5D&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">$20m raise led by Multicoin Capital</a>, to the launch of our&nbsp;<a href=\"https://podcasts.apple.com/us/podcast/no-sharding-the-solana-podcast/id1476353378?mc_cid=248ef50e44&amp;mc_eid=%5BUNIQID%5D&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">No Sharding</a>&nbsp;podcast, it has been a very busy and rewarding year. We’ll have some major announcements in Q1, but for now, we’d like to take you on a journey through 2019, which was over half of Solana’s lifetime!</p><p>At the onset of 2019, Solana had already gained significant traction as a hyper-functional layer one blockchain network developing innovations like Proof of History and Tower BFT. Through these innovations, Solana was able to achieve industry-leading transactional throughput and usability. Building upon this, 2019 was characterized by feverish development by Solana devs, investment by leading blockchain venture capital firms, and a battery of audits and tests to ensure the Solana network’s release readiness.</p><p>Meanwhile, the Solana team has grown to accommodate tech, product, operations, and marketing needs for a successful launch. Accordingly, the infrastructure for Solana mainnet to roll out in early 2020 is now in place. As we gear up for a critical 2020, let’s take a look back at Solana’s achievements for 2019.</p><p><strong>Q1 &amp; Q2: Heads Down on Network Development</strong></p><p>The early phases of 2019 were marked by ‘heads down’ intensive developmental work on network infrastructure. In early January, the team produced the&nbsp;<a href=\"https://solana-labs.github.io/book/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Knowledge Base</a>&nbsp;alongside Release v0.11.0, Tabletops, which featured progress on Validators, Archivers, and a testnet iteration with 100 nodes. We managed to reach 436,523 max tps and 117,132 average tps.</p><p>April saw two releases, Grandview v0.13.0, and Ponto v0.14.0, the latter of which utilized a 200 node worldwide testnet alongside a&nbsp;<a href=\"https://github.com/solana-labs/solana/blob/v0.14.0/bench-exchange/README.md?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">demo</a>&nbsp;for a high transactions-per-second decentralized exchange. At 100 nodes the network managed to hit a max tps of 191,362 and average tps of 43,424.</p><p>In May, Solana Founder Anatoly Yakovenko appeared on the&nbsp;<a href=\"https://podcasts.apple.com/us/podcast/anatoly-yakovenko-ceo-co-founder-solana-what-sharding/id1434060078?i=1000439218245&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Off the Chain podcast</a>&nbsp;alongside Anthony Pompliano. The duo discussed an overview of high-performance blockchain networks, Proof of History, and the complexities of sharding.</p><p>This explainer video breaks down how Proof of History works:</p><p><a href=\"https://www.youtube.com/watch?v=7UE5UFd-b2c&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.youtube.com/watch?v=7UE5UFd-b2c</a></p><p>In June, the Solana team announced&nbsp;<a href=\"http://solana.com/tds?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tour de SOL</a>, an incentivized testnet event offering the validator community an opportunity to flex their validation skills, earn tokens, and help strengthen the Solana network as mainnet approaches by challenging the limits of the network.</p><p>Later that month, release Trestles v0.16.0 featured a functioning Proof of Replication methodology, the first instance of Archivers, and improved support for Rust and BPF. The release notes stated: “Together we see mainnet on the horizon!”</p><p>Rounding out June was the groundbreaking creation of the Solana Foundation. Based in Geneva Switzerland, this non-profit foundation was established to shepherd in the future of governance and coordination of the Solana protocol. We expect the Foundation’s activities to fully commence in Q1 2020.</p><p><strong>Q3: Unveiling our Hard Work and Supporters</strong></p><p>In July, Solana announced a $20 million funding raise led by&nbsp;<a href=\"https://multicoin.capital/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Multicoin Capital</a>, with participation from&nbsp;<a href=\"http://www.distributedglobal.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Distributed Global</a>,&nbsp;<a href=\"https://www.blocktower.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blocktower Capital</a>,&nbsp;<a href=\"https://foundationcapital.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Foundation Capital</a>,&nbsp;<a href=\"http://www.blockchange.vc/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockchange VC</a>,&nbsp;<a href=\"http://slow.co/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Slow Ventures</a>,&nbsp;<a href=\"https://www.ngc.fund/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">NEO Global Capital</a>,&nbsp;<a href=\"https://www.passportcapital.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Passport Capital</a>, and&nbsp;<a href=\"https://www.rockawaycapital.com/en/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Rockaway Ventures</a>.</p><p>“Solana is one of the most compelling layer 1 platforms we’ve evaluated to date,” stated Multicoin Managing Partner Kyle Samani. “We’re very proud to lead this round, and we encourage developers everywhere to take a serious look at Solana.”</p><p>The team followed up by releasing ‘<a href=\"https://solana.com/8-innovations-that-make-solana-the-first-web-scale-blockchain/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">The 8 Innovations that Make Solana the World’s First Blockchain</a>,’ offering a deep dive into the infrastructural elements including Proof of History, Tower BFT, Turbine, Gulf Stream, Sealevel, Pipelining, Cloudbreak, and Archivers.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6765e70b220443098e3253f078e7e71e",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4edbaf981df44607aba2d58be69782c6?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 1,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 600,
+                "width": 600,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4edbaf981df44607aba2d58be69782c6?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4edbaf981df44607aba2d58be69782c6?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4edbaf981df44607aba2d58be69782c6?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4edbaf981df44607aba2d58be69782c6?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4edbaf981df44607aba2d58be69782c6?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4edbaf981df44607aba2d58be69782c6?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4edbaf981df44607aba2d58be69782c6?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4edbaf981df44607aba2d58be69782c6?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4edbaf981df44607aba2d58be69782c6?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c00665aecf2945379d35ce9869317042",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>July also saw the launch of the&nbsp;<a href=\"https://solana.com/podcast?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">No Sharding — The Solana Podcast</a>, which has hosted industry leaders such as Brendan Eich of Brave, Emin Gün Sirer, Cornell Professor and Founder of AVA Labs, and Coinlist President Andy Bromberg to discuss the latest in decentralization.</p><p>Developmentally, July was capped off by the release of Waimea v0.17.0, which featured&nbsp;<a href=\"https://medium.com/solana-labs/solana-now-supports-libras-move-vm-f5fabaf3033c?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">support for Libra’s Move smart contract languages</a>, parallel execution regardless of Rust, C, or Move, and halved block generation size to 400ms.</p><p>In August, the Solana team ran a second internal scalability test meant to establish a lower performance baseline for the near-finalized version of the Solana network. The test was executed across 200 distributed nodes over 23 regions throughout the world, with the nodes online ranging across five continents. Over 3,266,989 transactions, the network powered an average of 29,171 transactions per second (TPS), with a maximum measured TPS of 44,838.</p><p>At the close of August, Solana released Mavericks v0.18.0, with a focus on third-party validator uptime and associated tooling ergonomics, while preparing for the first dry run of Tour de SOL. In September, this was followed up by the Jaws v.0.19.0, which celebrated 125,223 tps in a 25 node testnet with self-sovereign nodes — a huge achievement. Prior to v0.18, the network ran testnets using cloud services such as AWS and Google Cloud.</p><p><strong>Q4: The March to Mainnet</strong></p><p>In the midst of Devcon V in Osaka, Japan, Solana invited a selection of peers, technologists, validators, and supporters for the first-ever SOLCon. It was an opportunity for the wider blockchain world to discuss Solana face-to-face with the team and developers.</p><p>In late October, Cloud Nine v0.20.0 featured increased TPS performance twice over the prior release, while the team and over 30 3rd party volunteer validators performed the final dry runs approaching the incentivized validator competition&nbsp;<a href=\"https://solana.com/tds/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tour de SOL</a>.</p><p>As the blockchain industry descended on the Bay Area for&nbsp;<a href=\"https://sfblockchainweek.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">San Francisco Blockchain Week</a>&nbsp;in November, Solana HQ provided a welcome home for many of the world’s most innovative decentralized technology startups. Hosting and organizing three well-attended events that highlighted the latest in decentralized finance and scaling alongside leading voices from Chainlink, MakerDAO, 0x, and SKALE.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cdab83aacf01405da60c5d65f134f46b",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0825b46be3344a0abb53eb88d71756e?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "height": 400,
+                "width": 600,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0825b46be3344a0abb53eb88d71756e?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0825b46be3344a0abb53eb88d71756e?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0825b46be3344a0abb53eb88d71756e?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0825b46be3344a0abb53eb88d71756e?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0825b46be3344a0abb53eb88d71756e?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0825b46be3344a0abb53eb88d71756e?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0825b46be3344a0abb53eb88d71756e?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0825b46be3344a0abb53eb88d71756e?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc0825b46be3344a0abb53eb88d71756e?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4588597c8b4e4d2bb3bde340318075ef",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6917a442875e477499a21930844ce1f3?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.667,
+                "lockAspectRatio": false,
+                "height": 400,
+                "width": 600,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6917a442875e477499a21930844ce1f3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6917a442875e477499a21930844ce1f3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6917a442875e477499a21930844ce1f3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6917a442875e477499a21930844ce1f3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6917a442875e477499a21930844ce1f3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6917a442875e477499a21930844ce1f3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6917a442875e477499a21930844ce1f3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6917a442875e477499a21930844ce1f3?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6917a442875e477499a21930844ce1f3?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bb1d058ec7c74f098b1fea3ca6aff1c2",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Watch Solana Founder Anatoly Yakovenko in discussion with SKALE’s Jack O’Holleran for a live recording of No Sharding — The Solana Podcast, recorded during SFBW:</p><p><a href=\"https://www.youtube.com/watch?v=zQpdx1m0y0s&amp;feature=emb_logo&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.youtube.com/watch?v=zQpdx1m0y0s&amp;feature=emb_logo</a></p><p>Next, Solana released the&nbsp;<a href=\"https://medium.com/solana-labs/the-results-of-solanas-security-audit-b6d729b17321?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">results of an audi</a>t by world-renowned security firm Kudelski. “Solana has implemented a strategy for personnel which leverages individual talents to make leaps forward in technology, but with a constant attention towards backfill and knowledge transfer,” stated the report. “The team functioned as a true team, with each member able to comment and enrich the discussion regardless of the particular topic. This means that the key human resource structure of the Solana team is well-positioned for growth.”</p><p>You can read&nbsp;<a href=\"https://solana.com/solana-security-audit-2019.pdf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the whole report</a>&nbsp;here.</p><p>Late November — <a href=\"https://github.com/solana-labs/solana/releases/tag/v0.21.0?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">TPS Bursts over 100k</a> — Sultans v0.21.0</p><p>In early December, SLP 1 Launched, a late-stage test of the Solana network. Solana successfully initiated a Genesis Dry Run with 10, 3rd party validators. Although this was a test, it very closely mirrored what is expected for the official Solana mainnet Genesis release, and is a significant indication that the Solana Network is nearing feature completion</p><p>We intend to run this network through the end of the year to show network stability and practice network operations such as live software upgrades in an effort to ensure we’re ready to support a broader network.</p><p>It has been a year filled with tremendous community growth and technological breakthroughs. Thank you to everyone who has contributed to Solana and we look forward to what 2020 has to offer.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbf4f7b402c1742a1b9add683a2ef1d0e",
+  "lastUpdated": 1694189922721,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cb955a88cf6644f1847a867b942bb754",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687503567092,
+  "@originId": "cb955a88cf6644f1847a867b942bb754",
+  "testRatio": 1,
+  "createdDate": 1687362738103,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=cb955a88cf6644f1847a867b942bb754&builder.overrides.cb955a88cf6644f1847a867b942bb754=cb955a88cf6644f1847a867b942bb754&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana in 2019: Growth, Development, and the Road to Mainnet",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

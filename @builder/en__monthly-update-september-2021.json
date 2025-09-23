@@ -1,0 +1,183 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1633590000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fce0f864b24e241e7abe9be73476f1e15",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "The latest news from the Solana ecosystem — September 2021 edition!",
+    "publishedDate": "Thu Oct 07 2021 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Monthly community update | September 2021",
+      "noFollow": false,
+      "seoDescription": "The latest news from the Solana ecosystem — September 2021 edition!",
+      "seoTitle": "Monthly community update | September 2021",
+      "noIndex": false
+    },
+    "title": "Monthly community update | September 2021",
+    "openGraph": {
+      "ogTitle": "Solana Community Update | Sept. 2021",
+      "ogUrl": "https://www.solana.com/blog/monthly-update-september-2021",
+      "ogDescription": "Bridges, DAOs, and hackathons, oh my!",
+      "ogImage": "https://solana.ghost.io/content/images/2021/10/community-update-september-2021.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Solana Community Update | Sept. 2021",
+      "twitterDescription": "Bridges, DAOs, and hackathons, oh my!",
+      "twitterImage": "https://solana.ghost.io/content/images/2021/10/community-update-september-2021.png"
+    },
+    "slug": "monthly-update-september-2021",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-66f19a82aea446438a33295e4953f7d5",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1704fdf2cfdc441c838fc0ded97dfe87",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Get this monthly community update directly in your inbox!&nbsp;<a href=\"https://solana.com/newsletter?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up here.</a></p><p>🔥 IGNITION is still fired up</p><p>🥳 More than 1000 Solana validators!</p><p>🚃 Breakpoint is a month away!</p><p>🌉 Wormhole announces NFT bridge</p><p>👻 Phantom hits 500k+ users</p><p>🦍 DegenApesAcademy votes for student council, launches DAOO</p><p>🦔 Hedgehog becomes the first prediction market on Solana</p><p>🌊 Orca had an $18M funding round</p><h2><strong>🔥 IGNITION is still fired up</strong></h2><p>Well, there is definitely liftoff. Thousands have already joined in IGNITION, the latest Solana hackathon with millions in prizes and seed funding.</p><p>Since the last update, there's been some major news —&nbsp;<strong>due to popular demand, the hackathon has been extended! Projects are now due by October 15th.</strong>&nbsp;Don't forget that if you submit a project by then,&nbsp;<a href=\"https://twitter.com/solana/status/1436427005277483014?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">you'll get an exclusive NFT lighter</a>.</p><p>The Solana community has been celebrating all month long.&nbsp;<a href=\"https://www.youtube.com/playlist?list=PLilwLeBwGuK5Ufxsoo14bZ8sIby3ExgRx&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Check out all the virtual panels and workshops</a>&nbsp;and keep up with the latest&nbsp;<a href=\"https://ignition.devpost.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">over at Devpost</a>. Good luck!</p><h2><strong>🥳 More than 1000 Solana validators!</strong></h2><p>The Solana ecosystem is growing strong — and it just hit a big milestone. The Solana Mainnet Beta now has more than 1000 validators! They're spread around 111 cities and 28 countries around the world.</p><p><a href=\"https://twitter.com/SolanaFndn/status/1442523919198552081?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more from the Solana Foundation.</a></p><h2><strong>🚃 Breakpoint is a month away!</strong></h2><p>Are you ready for Lisbon? Breakpoint, the Solana Conference, starts on November 7th — and tickets are already going fast. More than 150+ speakers have been confirmed so far.</p><p>Come join thousands of your fellow Solanans for panels, workshops, parties... and a few surprises.&nbsp;<a href=\"https://solana.com/ignition?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Get your tickets now!</a></p><h2><strong>🌉 Wormhole announces NFT bridge</strong></h2><p>Big news: Wormhole has officially launched an NFT bridge between Ethereum and Solana. Now you can send your favorite NFTs (from Cryptopunks to DegenApes) cross chain!</p><p><a href=\"https://wormholebridge.com/?ref=solana.ghost.io#/nft\" rel=\"noopener noreferrer\" target=\"_blank\">Get started.</a></p><h2><strong>👻 Phantom hits 500k+ users</strong></h2><p>Is it getting crowded in here? Phantom, the friendly and easy Solana wallet, now has more than 500,000 active users. Well, 520,000 weekly active users, to be exact.</p><p>As Mike Dudas of The Block&nbsp;<a href=\"https://twitter.com/mdudas/status/1443405310698401798?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">points out</a>, MetaMask has 10 million&nbsp;monthly&nbsp;active users. Just saying.</p><p><a href=\"https://phantom.app/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more about Phantom.</a></p><h2><strong>🦍 DegenApesAcademy votes for student council, launches DAOO</strong></h2><p>The votes are in, and class is now in session. The Degenerate Ape Academy officially launched their DAOO — and with it, the inaugural members of their student council. They also announced they are minting NFgTs (Non-Fungible Governing Tokens) for every member of the DAOO that allow on-chain voting for any issue brought up to it.</p><p>Get your pen and paper.&nbsp;<a href=\"https://twitter.com/DegenApeAcademy/status/1442655810870550530?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here.</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b02dd9430f854329a20bfac3dc9a66fd",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/o/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7ab504b7e06542b18bb2199daad4316e%2Fcompressed?apiKey=ce0c7323a97a4d91bd0baa7490ec9139&token=7ab504b7e06542b18bb2199daad4316e&alt=media&optimized=true",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.72,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 252,
+                "width": 350
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-58977e8591b8439da957a101eea7613c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>🦔 Hedgehog becomes the first prediction market on Solana</strong></h2><p>Wanna bet? Hedgehog Markets launched their mainnet on September 22nd, making them the first prediction market built on Solana.</p><p>All you need is some SOL or USDC to get started.&nbsp;<a href=\"https://twitter.com/HedgehogMarket/status/1440797667957768196?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Better go fast.</a></p><h2><strong>🌊 Orca had an $18M funding round</strong></h2><p>Whale hello there! Orca, the user friendly Solana DEX, raised $18 million from numerous investors, including Polychain, Placeholder, and Three Arrows as principal investors and additional support from Jump Capital, Sino Global Capital, Collab &amp; Currency, DeFiance, Zee Prime, Coinbase Ventures, Solana Capital, and a number of angel investors.</p><p><a href=\"https://orca-so.medium.com/orca-raises-18m-from-polychain-placeholder-three-arrows-and-more-4e756dacf812?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here.</a></p><h2><strong>☀️ Solana Ecosystem News</strong></h2><ul><li><a href=\"https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Read and share</a>&nbsp;this brand new guide to Solana development from Nader Dabit!</li><li>Boys Noize&nbsp;<a href=\"https://twitter.com/boysnoize/status/1443043133848047619?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">dropped a Solana NFT</a>.</li><li>Metaplex&nbsp;<a href=\"https://twitter.com/metaplex/status/1443217940937986056?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announced their inaugural CEO</a>, Adam Jeffries.</li><li>Huobi now allows USDC-SOL&nbsp;<a href=\"https://twitter.com/HuobiGlobal/status/1443216073663279115?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">withdrawals and deposits</a>.</li><li>Serum&nbsp;<a href=\"https://twitter.com/ProjectSerum/status/1442564782155091969?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">launched a DAO</a>.</li><li><a href=\"https://twitter.com/TeamWumbo/status/1442552694833569793?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Wum.bo</a>&nbsp;is live.</li><li>Aurory released&nbsp;<a href=\"https://twitter.com/AuroryProject/status/1442499945412452359?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">new gameplay footage</a>.</li><li>Neopets —&nbsp;<a href=\"https://www.prnewswire.com/in/news-releases/neopets-launches-its-first-nft-collection-the-neopets-metaverse-collection-823127718.html?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">yes,&nbsp;those&nbsp;Neopets</a>&nbsp;— are coming to Solana.</li><li>MercurialFi teamed up with Wormhole to&nbsp;<a href=\"https://mercurial.finance/pools/wusd-4pool?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">launch</a>&nbsp;Solana's first 4Pool for wrapped wormhole tokens.</li><li>Solrise teamed up with Civic to launch Solrise DEX Pro,&nbsp;<a href=\"https://us17.admin.mailchimp.com/campaigns/show?id=527765&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana's first permissionless DEX</a>.</li><li>Mango Markets officially partnered with Slope for&nbsp;<a href=\"https://twitter.com/mangomarkets/status/1441081678257180676?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">some mobile Mango on the go</a>.</li><li>TRM is now&nbsp;<a href=\"https://www.trmlabs.com/post/solana-integrates-with-trm-labs-to-offer-enhanced-security-and-compliance-for-network-members?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">fully integrated</a>&nbsp;with Solana.</li><li>Saber launched its first&nbsp;<a href=\"https://blog.saber.so/saber-launches-first-celo-dollar-liquidity-pool-on-solana-with-allbridge-6a196d884d4b?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Celo Dollar liquidity pool</a>&nbsp;with Solana.</li></ul><p>As this mailing list continues to grow, it’s important that Solana is bringing only the highest quality emails to your inbox. If you have any comments, questions, or suggestions, please respond to&nbsp;<a href=\"mailto:hello@solana.com\" rel=\"noopener noreferrer\">this email</a>&nbsp;with your thoughts. We would love to hear from you!</p><p>We also provide more frequent updates via Blockfolio Signal. Only holders of SOL can receive these direct updates.</p><p>Lastly, follow us on our various social channels below to receive daily updates on what’s going on in the Solana ecosystem.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://solana.com/news?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blog</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockfolio</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0d99d1d400be458f9472fb326d74dca7",
+  "lastUpdated": 1694189927952,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_ea359febcc8a45d88c5937b491d15acc",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687614356362,
+  "@originId": "ea359febcc8a45d88c5937b491d15acc",
+  "testRatio": 1,
+  "createdDate": 1687362599212,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=ea359febcc8a45d88c5937b491d15acc&builder.overrides.ea359febcc8a45d88c5937b491d15acc=ea359febcc8a45d88c5937b491d15acc&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly community update | September 2021",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

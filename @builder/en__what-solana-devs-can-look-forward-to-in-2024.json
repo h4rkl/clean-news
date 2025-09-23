@@ -1,0 +1,272 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/what-solana-devs-can-look-forward-to-in-2024",
+  "data": {
+    "datePublished": 1704952800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1bf1a3176dc84992a4df42da1ff18b78",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "See what tools and features are coming.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F1bf1a3176dc84992a4df42da1ff18b78",
+      "seoDescription": "See what tools and features are coming.",
+      "seoTitle": "What Solana Devs Can Look Forward to in 2024"
+    },
+    "title": "What Solana Devs Can Look Forward to in 2024",
+    "slug": "what-solana-devs-can-look-forward-to-in-2024",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc2a090883fa483f851b95d82088edec"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-b66e88332f1844a995f0dd371a2eb10d",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-aa44704fa9074292a8900805a5dde8b8",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>If 2023 was the year of building foundations, <a href=\"https://solana.com/2024outlook\" rel=\"noopener noreferrer\" target=\"_blank\">2024</a> could be the year of Solana.</p><p>At least that’s what a series of reports that have come out over the last few months have said. And despite a worldwide industry downturn, developers have stuck around the Solana ecosystem throughout 2023 and stayed busy building. Now, businesses and users are starting to take notice.</p><ul><li>There are currently <strong>2,500+ developers</strong> in the Solana ecosystem, according to the Solana Foundation’s <a href=\"https://solana.com/news/2023-state-of-solana-developer-ecosystem\" rel=\"noopener noreferrer\" target=\"_blank\">open source service</a> measuring developer activity.</li><li>The same report found that of those 2,500+ devs, <strong>52.5% are more senior developers with more than three years of experience.</strong></li><li>According to Messari’s State of Solana report, there was <strong>an average of 40.7m daily user transactions</strong> in Q4 2023, with <strong>a high of 405k daily unique fee payers.</strong></li><li>An <a href=\"https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html\" rel=\"noopener noreferrer\" target=\"_blank\">external deep dive from Visa</a> found that “low and predictable costs helped drive payments efficiencies.”&nbsp;</li></ul><p>Developers from across the ecosystem and beyond have been working hard at building the foundations for the next generation of blockchain projects. The infrastructure is here, and devs have a lot to get excited about when it comes to new tooling.</p><p>Here’s just some of the things that developers can look forward to in the coming year.</p><h3>Token extensions</h3><p>The long wait is almost over! In early 2024, <a href=\"https://solana.com/solutions/token-extensions\" rel=\"noopener noreferrer\" target=\"_blank\">token extensions</a> will bring new features to make token creation on Solana more flexible.&nbsp;</p><p>Token extensions, which were built in collaboration with large institutions, bring functionality to the token program level, without having to use any third-party programs. This makes it much easier to build an open and customizable token program while maintaining compatibility. Some early token extensions you can look forward to:&nbsp;</p><ul><li><strong>Confidential transfers:</strong> Enable confidential token transfers on transparent blockchains, with opt-in confidentiality and optional auditability.</li><li><strong>Transfer hooks:</strong> Invoke custom programs to control token transfers.</li><li><strong>Metadata pointer: </strong>Designate canonical sources of truth for token metadata, which could allow for authoritative verification of genuine metadata</li></ul><p>Combined with future runtime upgrades, the Solana ecosystem is building an open and customizable token platform. Find more information in the documentation <a href=\"https://spl.solana.com/token-2022\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f4d7fc2be5d34fe39938819c119ee106",
+            "component": {
+              "name": "Youtube",
+              "options": {
+                "url": "https://www.youtube.com/watch?v=meV2PHBCxb4"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ddc8b5557bbe44458fbad83ed410cbb0",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h3>Firedancer and additional validator clients</h3><p>Hold me closer, Firedancer 🔥💃 At Breakpoint 2023, it was announced that the first version of the ground-up rebuild of the Solana validator client being built by Jump was<a href=\"https://www.youtube.com/watch?v=hEEWMiMuEF8\" rel=\"noopener noreferrer\" target=\"_blank\"> live on testnet</a>.</p><p>The complete code rewrite of a Solana validator optimizes networking, runtime, and consensus components. Early benchmarks show processing over 1 million TPS per core on commodity hardware in a test environment. Firedancer removes software bottlenecks so the Solana network can scale with future hardware advances.&nbsp;</p><p>Firedancer is one of several different validator clients being built as alternates to the original Solana Labs client:</p><ul><li>Jito-Solana: A forked update of the Solana Labs client, built by Jito Labs</li><li>Sig: A ground-up rewrite of a Solana validator client in Zig, by Syndica.</li><li>TinyDancer: A light client.</li></ul><p>Additional validator clients make the Solana network more resilient, stable, and secure. Learn more in the most recent <a href=\"https://solana.com/news/validator-health-report-october-2023\" rel=\"noopener noreferrer\" target=\"_blank\">Validator Health Report.</a></p><h3>Institutional support&nbsp;</h3><p>The last twelve months also saw a number of announcements from large, traditional institutions extending foundational support to the Solana ecosystem.</p><p>Solana blockchain node development blueprints became available on AWS. Enterprises looking to build on Solana will be able to deploy their own consensus and RPC nodes with minimal technological effort. <a href=\"https://solana.com/news/solana-blockchain-node-development-blueprints-available-on-aws\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here</a> and <a href=\"https://github.com/aws-samples/aws-blockchain-node-runners/blob/solana/lib/solana/doc/assets/Solana_on_AWS.md\" rel=\"noopener noreferrer\" target=\"_blank\">start building.</a></p><p>Additionally, Solana data is now live on Google Cloud’s BigQuery. See how Floor is <a href=\"https://solana.com/news/solana-data-live-on-google-cloud-bigquery\" rel=\"noopener noreferrer\" target=\"_blank\">using the data.</a></p><h3>A mature building ecosystem</h3><p>It's time for devs to build — the tooling is ready for them.</p><p>According to the recent <a href=\"https://solana.com/news/2023-state-of-solana-developer-ecosystem\" rel=\"noopener noreferrer\" target=\"_blank\">State of the Solana Developer Ecosystem report</a>, there has been a large influx of tools, educational courses, and documentation over the last twelve months. Some important things to keep in mind:</p><ul><li>Both in-person and online courses have proliferated, teaching new generations how to build on Solana.</li><li>Builders can now write in up to 12 programming languages through either SDKs or program frameworks, including Solidity, Python, and C++.</li><li>Tooling exists for EVM development, including Neon EVM and Hyperledger Solang.</li><li>For most tools in the EVM ecosystem, there exists a Solana equivalent.</li></ul><p>Beyond the foundational tooling for developers, there are also specific updates that are currently live or in development. Here’s a small sampling:</p><ul><li>Solana Labs launched <a href=\"https://gameshift.solanalabs.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Gameshift</a>, a new gaming API to easily integrate blockchain features into games — making it easy to build web2-friendly games on Solana without web3 development experience. Read the <a href=\"https://docs.gameshift.dev\" rel=\"noopener noreferrer\" target=\"_blank\">documentation</a>, and <a href=\"https://www.youtube.com/watch?v=vAEi0f1phsE\" rel=\"noopener noreferrer\" target=\"_blank\">get an overview</a> from Breakpoint 2023.</li><li>Armada Markets created a toolkit to improve token launches, liquidity, modular tokenomics, and staking for DAOs. See more at <a href=\"https://www.youtube.com/watch?v=BNFTTHE0myA\" rel=\"noopener noreferrer\" target=\"_blank\">their Breakpoint 2023 talk.</a></li><li>Solana Permissioned Environments, or SPEs, are customizable SVM instances for private enterprises — enabling large businesses to take advantage of Solana’s scalability in customized SVM instances. <a href=\"https://solana.com/news/case-study-pyth\" rel=\"noopener noreferrer\" target=\"_blank\">See how Pyth uses SPEs.</a></li><li>The new web3.js, a next generation library for bundling dApps on Solana, could reduce bundle size by 5x. <a href=\"https://www.youtube.com/watch?v=JUJtAPhES5g\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more</a> from Steven Luscher at Solana Labs.</li><li>The <a href=\"https://solana.com/news/solana-pay-shopify\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay x Shopify plugin</a> makes it easy for businesses to accept payments in USDC.</li><li><a href=\"https://www.youtube.com/watch?v=Hc45gUtVj20\" rel=\"noopener noreferrer\" target=\"_blank\">Runtime v2,</a> which is still in development, focuses on faster execution, simpler APIs, and native support for composability. Key additions include generic interfaces for inter-program communication, a unified VM, and enhanced type safety.&nbsp;</li></ul><p>The Solana ecosystem is ready for your new project — it’s time to get started.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8ee1fda950e94870954a2ed1f5ee55bf",
+            "meta": {
+              "previousId": "builder-d859d6ed10ea4df8be20bcfeeeefb904"
+            },
+            "component": {
+              "name": "Card Deck",
+              "options": {
+                "cards": [
+                  {
+                    "type": "image",
+                    "heading": "Intro to Solana Development",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers/guides/getstarted/hello-world-in-your-browser",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Development Course",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://www.soldev.app/course",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "Solana Bootcamp",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "https://youtu.be/0P8JeL3TURU?feature=shared",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  },
+                  {
+                    "type": "image",
+                    "heading": "More Solana Developer Tools",
+                    "backgroundImage": {
+                      "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdfb1773873354d118d134beca2334288"
+                    },
+                    "callToAction": {
+                      "url": "/developers",
+                      "endIcon": "arrow-right",
+                      "hierarchy": "outline"
+                    },
+                    "headingAs": "h3"
+                  }
+                ],
+                "featured": true,
+                "numCols": 3
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4450823799064648be0a5631d65c97d8",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Hello! Use the editor to add your copy!"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "tagName": "div",
+        "id": "builder-4f9b48ac0e694ed4bf1d34a9c6a84d49",
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "absolute",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "borderColor": "#999",
+            "backgroundColor": "white",
+            "top": "-171.999994913737px",
+            "left": "-1326.3333638509116px",
+            "width": "756.6666666666667px",
+            "height": "675px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6d05056c1aba4f2a97f63b34f1d991dc",
+  "lastUpdated": 1705007501295,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_376bfef54bcf4c6d8e5fc8119a37e49c",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1705007501223,
+  "@originId": "376bfef54bcf4c6d8e5fc8119a37e49c",
+  "testRatio": 1,
+  "createdDate": 1704924790066,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/what-solana-devs-can-look-forward-to-in-2024?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=376bfef54bcf4c6d8e5fc8119a37e49c&builder.overrides.376bfef54bcf4c6d8e5fc8119a37e49c=376bfef54bcf4c6d8e5fc8119a37e49c&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Card Deck": 1,
+      "Copy": 3,
+      "Youtube": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "What Solana Devs Can Look Forward to in 2024",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

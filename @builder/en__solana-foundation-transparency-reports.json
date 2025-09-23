@@ -1,0 +1,363 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1592463600000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nAs the Solana token user base continues to grow, it is of utmost importance for the Solana Foundation to maintain a high level of…\n",
+    "publishedDate": "Thu Jun 18 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Solana Foundation Transparency Reports",
+      "ogUrl": "",
+      "ogDescription": "\nAs the Solana token user base continues to grow, it is of utmost importance for the Solana Foundation to maintain a high level of…\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana Foundation Transparency Reports",
+      "noFollow": false,
+      "seoDescription": "\nAs the Solana token user base continues to grow, it is of utmost importance for the Solana Foundation to maintain a high level of…\n",
+      "seoTitle": "Solana Foundation Transparency Reports",
+      "noIndex": false
+    },
+    "title": "Solana Foundation Transparency Reports",
+    "twitterMeta": {
+      "twitterTitle": "Solana Foundation Transparency Reports",
+      "twitterDescription": "\nAs the Solana token user base continues to grow, it is of utmost importance for the Solana Foundation to maintain a high level of…\n",
+      "twitterImage": null
+    },
+    "slug": "solana-foundation-transparency-reports",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a903aab5e70849bb9af1d8e91f683c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a08bdcb4a0ca4f81b00df16c8ca465ee"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_26d82f99d5744feb910cc6ec78116e0f"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-823146e2c4f640499a198e034d790d51",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4a601192e86741d29935be445b4dc1fc",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2479c4a6e9a64e25863f681db3bf89e4?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2479c4a6e9a64e25863f681db3bf89e4?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2479c4a6e9a64e25863f681db3bf89e4?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2479c4a6e9a64e25863f681db3bf89e4?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2479c4a6e9a64e25863f681db3bf89e4?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2479c4a6e9a64e25863f681db3bf89e4?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2479c4a6e9a64e25863f681db3bf89e4?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2479c4a6e9a64e25863f681db3bf89e4?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2479c4a6e9a64e25863f681db3bf89e4?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2479c4a6e9a64e25863f681db3bf89e4?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F2479c4a6e9a64e25863f681db3bf89e4?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cc3b9626deb6407ea891d2980177120e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Solana Foundation issues transparency reports every month to shed light on the previous month’s token activity, expected token activity for the current month, and other updates in relation to the SOL token. The goal for these reports is simple: token activity transparency.</p><p>Anyone can view the network live at&nbsp;<a href=\"https://solanabeach.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Beach</a>&nbsp;(made by Staking Facilities), and use the&nbsp;<a href=\"https://explorer.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">native block explorer</a>&nbsp;to review transactions on both the Solana Mainnet Beta and Solana Testnet.</p><h2><strong>GLOSSARY</strong></h2><p><strong>Circulating Supply</strong>: The number of tokens that are currently unlocked and in accounts outside of the control of the Solana Foundation or Solana Labs.</p><p><strong>Total Supply</strong>: The total number of tokens in existence, including locked tokens</p><p><strong>Burned Tokens</strong>: Tokens that have been locked indefinitely and removed from the circulating and total supply, either manually or through transaction fees.</p><h2><strong>STATE OF THE SUPPLY AS OF AUGUST 4,&nbsp;2020</strong></h2><p>Current Total Supply: ◎488,624,574</p><p>Current Burned Tokens: ◎11,375,426</p><p>Current Circulating Supply: ◎24,444,413</p><p>Validators spend about 1 SOL per day in vote transaction fees, which are burnt and removed from supply. Since genesis, approximately ~6,000 SOL have been burnt and removed from circulating and total supply due to vote transaction fees.</p><p>Due to distributions of airdrops and validator fees, as well as transaction fee burning, the circulating supply as shown on CoinGecko, CoinMarketCap, other price references sites, and the Solana Explorer may differ slightly from the numbers reported here. The circulating supply as shown on CoinMarketCap is incorrect, and Solana team members are working with them to resolve this.</p><h2><strong>SUPPLY FORECAST FOR&nbsp;2020</strong></h2><p>From May 2020 through the end of 2020, the Solana Foundation is committed to introducing no more than ◎8,000,000 per month (separate from previously committed distributions) into the circulating supply through any of the following means:</p><ul><li>Conducting airdrops for the purpose of educating users and growing awareness of the project. “For example, the Solana Foundation conducted an airdrop in collaboration with Binance as part of its initial launch on the Exchange.”</li><li>Grant and delegation programs for research and development initiatives led by third parties that advance the growth and development of the ecosystem.</li><li>Selling tokens through primary sales on exchanges or elsewhere, or through an auction on a non-exchange platform such as CoinList</li></ul><p>The 8m per month limit only applies to the tokens held by the Foundation until Jan 7 2021.</p><h2><strong>UNLOCK SCHEDULE</strong></h2><p>By January 7th, 2021, the total unlocked supply will be approximately ◎457,384,933, excluding inflationary rewards. The exact number may vary as validators and service providers earn compensation, but the number is not expected to fluctuate by more than 5%. The exact time is determined by the stake-weighted average of dates submitted by validators. These tokens include:</p><p><strong>Employees and Service Providers:</strong>&nbsp;◎18,282,534 have been committed through contracts with service providers as part of ongoing or completed efforts. Many of the contracts specify a vesting schedule with various dates to consider. ◎7,172,862 are projected to have been earned and will unlock on January 7th, 2021.</p><p><strong>SAFT Investors:</strong>&nbsp;All of the SAFT investor tokens will be unlocked at the same time on approximately January 7th, 2021. The amount of SAFT investor tokens is ◎176,949,616.</p><p><strong>Founders:</strong>&nbsp;Half of the founders’ tokens will be unlocked. This amount of Founder tokens currently expected to be unlocked on January 7th, 2021 is ◎31,250,000. The remaining half of the founders’ tokens will unlock monthly over the following 24 months.</p><p><strong>Validators:</strong>&nbsp;◎3,271,751 have been committed through contracts with validators as part of ongoing or completed incentivized testnet events and work on mainnet beta as of May 1st, 2020. Not all of the SOL will be earned throughout the course of their service agreements. As of May 1st, 2020, ◎2,360,047 tokens were earned and set for distribution. On January 7th, 2021 a maximum of ◎300,000 will be fully unlocked. The remaining SOL that are earned will have various unlocking dates through May 2021.</p><p><strong>Community and Foundation:</strong>&nbsp;Remaining tokens are held by the Solana Foundation and Solana Labs. The Community Pool is not currently locked in a smart contract, as has been the case since the token generation event. However, as outlined above the Solana Foundation has committed to introducing no more than ◎8,000,000 into the circulating supply each calendar month through the end of 2020, and will, to the best of its ability, provide transparency into these activities through reports such as this one. The ◎8,000,000 per month applies only to tokens held by the Foundation or Solana Labs, including any inflationary rewards earned by either entity.</p><p><strong>CoinList Auction:</strong>&nbsp;No additional tokens will be unlocked. Auction tokens delivered to participants have been 100% unlocked since delivery in April 2020.</p><h2><strong>ACTIVITY IN THE MONTH OF&nbsp;JULY</strong></h2><p>In the month of July, the Solana Foundation added ◎8,000,000 tokens into circulation.</p><p><strong>Grants, Partnerships, and Fundraising</strong></p><p>◎7,906,876 were distributed for development grants, previously announced partnerships, unannounced partnerships, and fundraising activities. This includes ◎3,797,012 for exchange-related activities, ◎500,010 for capital markets services, ◎3,000,000 for partnership-related grants and purchases, and ◎609,854 for exchange sales.</p><p><strong>Community Airdrops</strong></p><p>◎71,124 were distributed for participants of the Solana Educational Event for MXC, Bithumb Global, and BitMax. Another ◎66,380 was distributed to help increase global community awareness through various events and campaigns.</p><p><strong>Validators</strong></p><p>◎22,000 unlocked tokens have been distributed to the validator community to support network fees. These validators are contractually bound to only use the tokens to pay for network fees.</p><p>In the month of July, Solana Labs distributed ◎42,153,641 in locked tokens to investors, validators and service providers. All tokens are locked until at least January 7, 2021 at which point they will enter the circulating supply.</p><p><strong>SAFT Tokens</strong></p><p>Solana Labs distributed ◎41,043,794 to SAFT investors. All SAFT tokens are distributed in the form of locked stake accounts.</p><p><strong>Service Providers &amp; Validators</strong></p><p>Solana Labs distributed ◎1,109,847 to service providers and validators in the form of locked stake accounts.</p><h2><strong>EXPECTED ACTIVITY IN THE MONTH OF&nbsp;AUGUST</strong></h2><p><strong>Unlocked Tokens</strong></p><p>During the month of August, The Solana Foundation expects to release up to ◎8,000,000 into circulation for various community, partnership, grant, exchange, and fundraising activities.</p><p><strong>SAFT Tokens</strong></p><p>The Solana Foundation hopes to distribute the remaining balance of ◎75,315,519 to SAFT investors. All SAFT tokens will be distributed in the form of locked stake accounts, which will unlock on January 7th, 2021.</p><h2><strong>EXCHANGE LISTINGS</strong></h2><p>On April 7th, 2020 the native Solana token (SOL, symbol ◎) was officially listed on<a href=\"https://research.binance.com/projects/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;Binance</a>&nbsp;with three trading pairs: SOL/BTC, SOL/BNB, and SOL/BUSD.</p><p>On June 25th, 2020 the native Solana token (SOL, symbol ◎) was officially listed on gate.io with one trading pair: SOL/USDT.</p><p>On July 7th, 2020 the native Solana token (SOL, symbol ◎) was officially listed on MXC with two trading pairs: SOL/BTC and SOL/USDT</p><p>On July 11th, 2020 the native Solana token (SOL, symbol ◎) was officially listed on Bithumb Global with two trading pairs SOL/BTC and SOL/USDT</p><p>On July 17th, 2020 the native Solana token (SOL, symbol ◎) was officially listed on BitMax with one trading pair SOL/USDT</p><p>On July 26th, 2020 the native Solana token (SOL, symbol ◎) was officially listed on FTX with three trading pairs SOL/BTC, SOL/USD, and SOL/USDT</p><p>Unofficial exchange listings include Hoo.com, Hotbit, CoinDCX, and Bilaxy. Current trading pairs: SOL/BTC, SOL/USDT, SOL/BNB, and SOL/BUSD.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-896afe3550a242e8b2bdd71c6f8279e4",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8cd9c1c073f43859b4691c17810fb1f?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8cd9c1c073f43859b4691c17810fb1f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8cd9c1c073f43859b4691c17810fb1f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8cd9c1c073f43859b4691c17810fb1f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8cd9c1c073f43859b4691c17810fb1f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8cd9c1c073f43859b4691c17810fb1f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8cd9c1c073f43859b4691c17810fb1f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8cd9c1c073f43859b4691c17810fb1f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8cd9c1c073f43859b4691c17810fb1f?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8cd9c1c073f43859b4691c17810fb1f?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb8cd9c1c073f43859b4691c17810fb1f?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-50308beee7c44c67902215ff2e5ddde1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>JULY 2020</strong></h2><p>The Solana Foundation issues transparency reports every month to shed light on the previous month’s token activity, expected token activity for the current month, and other updates in relation to the SOL token. The goal for these reports is simple: token activity transparency.</p><p>Anyone can view the network live at&nbsp;<a href=\"https://solanabeach.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Beach</a>&nbsp;(made by Staking Facilities), and use our&nbsp;<a href=\"https://explorer.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">native block explorer</a>&nbsp;to review transactions on both the Solana Mainnet Beta and Solana Testnet.</p><h2><strong>GLOSSARY</strong></h2><p>Circulating Supply: The number of tokens that are currently unlocked and in accounts outside of the control of the Solana Foundation or Solana Labs.</p><p>Total Supply: The total number of tokens in existence, including locked tokens</p><p>Burned Tokens: Tokens that have been locked indefinitely and removed from the circulating and total supply, either manually or through transaction fees.</p><h2><strong>STATE OF THE SUPPLY AS OF JUNE 16,&nbsp;2020</strong></h2><p>Current Total Supply: ◎488,628,352</p><p>Current Burned Tokens: ◎11,365,067</p><p>Current Circulating Supply: ◎16,509,843</p><p>As of July 1st, 2020, Solana’s Circulating Supply is composed of:</p><p>Coinlist Auction on March 24th, 2020 — ◎8,021,989</p><p>Market Maker Loan: ◎8,000,000</p><p>Community Airdrops: ◎425,854</p><p>Validator Fees: ◎62,000</p><p>Validators spend about 1 SOL per day in vote transaction fees, which are burnt and removed from supply. Since genesis, approximately ~6,000 SOL have been burnt and removed from circulating and total supply due to vote transaction fees.</p><p>Due to distributions of airdrops and validator fees, as well as transaction fee burning, the circulating supply as shown on CoinGecko, CoinMarketCap, other price references sites, and the Solana Explorer may differ slightly from the numbers reported here. The circulating supply as shown on CoinMarketCap is incorrect, and Solana team members are working with them to resolve this.</p><h2><strong>SUPPLY FORECAST FOR&nbsp;2020</strong></h2><p>From May 2020 through the end of the year, the Solana Foundation is committed to introducing no more than ◎8,000,000 per month (separate from previously committed distributions) into the circulating supply through any of the following means:</p><ul><li>Conducting airdrops for the purpose of educating users and growing awareness of the project. “For example, the Solana Foundation conducted an airdrop in collaboration with Binance as part of its initial launch on the Exchange.”</li><li>Grant and delegation programs for research and development initiatives led by third parties that advance the growth and development of the ecosystem.</li><li>Selling tokens through primary sales or through an auction on a non-exchange platform such as CoinList</li></ul><p>The 8m per month limit only applies to the tokens held by the Foundation until Jan 7 2021. As outlined below in the “Activity in the Month of June” section: During the month of June, the Solana Foundation will be adding between 175,000 and 350,000 SOL into circulation for various community initiatives, including airdrops.&nbsp;<strong>Otherwise, no large sales or distributions are planned for June.</strong></p><h2><strong>UNLOCK SCHEDULE</strong></h2><p>By January 7th, 2021, the total unlocked supply will be ◎457,384,933, excluding inflationary rewards. The exact time is determined by the stake-weighted average of dates submitted by validators. These tokens include:</p><p><strong>Employees and Service Providers:</strong>&nbsp;◎18,282,534 have been committed through contracts with service providers as part of ongoing or completed efforts. Many of the contracts specify a vesting schedule with various dates to consider. ◎7,172,862 will have been earned and will unlock on January 7th, 2021.</p><p><strong>SAFT Investors:</strong>&nbsp;All of the SAFT investor tokens will be unlocked at the same time on approximately January 7th, 2021. The amount of SAFT investor tokens is ◎176,949,616.</p><p><strong>Founders:</strong>&nbsp;Half of the founders’ tokens will be unlocked. This amount of Founder tokens currently expected to be unlocked on January 7th, 2021 is ◎31,250,000. The remaining half of the founders’ tokens will unlock monthly over the following 24 months.</p><p><strong>Validators:</strong>&nbsp;◎3,271,751 have been committed through contracts with validators as part of ongoing or completed incentivized testnet events and work on mainnet beta as of May 1st, 2020. Not all of the SOL will be earned throughout the course of their service agreements. As of May 1st, 2020, ◎2,360,047 tokens were earned and set for distribution. On January 7th, 2021 a maximum of ◎300,000 will be fully unlocked. The remaining SOL that is earned will have various unlocking dates through May 2021.</p><p><strong>Community and Foundation:</strong>&nbsp;Remaining tokens are held by the Solana Foundation and Solana Labs. The Community Pool is not currently locked in a smart contract, as has been the case since the token generation event. However, as outlined above the Solana Foundation has committed to introducing no more than ◎8,000,000 into the circulating supply each calendar month through the end of 2020, and will, to the best of its ability, provide transparency into these activities through reports such as this one. The ◎8,000,000 per month applies only to tokens held by the Foundation, including any inflationary rewards earned by the Foundation.</p><p><strong>CoinList Auction:</strong>&nbsp;No additional tokens will be unlocked. Auction tokens delivered to participants have been 100% unlocked since delivery in April 2020.</p><p><strong>Inflation:</strong>&nbsp;Inflation rewards have not yet been enabled by the Foundation. If inflation is enabled prior to Jan7 2021, tokens that are locked until Jan 7th, 2021 cannot withdraw inflationary rewards. Inflationary rewards are distributed automatically to stakes that are actively participating in consensus. The rewards that are distributed to unlocked stakes may be withdrawn and may enter circulation. The Foundation is limited to releasing no more than ◎8,000,000 per month until the end of 2020 including any earned inflationary rewards.</p><h2><strong>ACTIVITY IN THE MONTH OF&nbsp;JUNE</strong></h2><p>In the month of June, the Solana Foundation added ◎140,604 tokens into circulation.</p><p><strong>SAFT Tokens</strong></p><p>On June 10th, 2020 the Solana Foundation distributed ◎8,187,555 to 9 investors in the form of locked stake accounts. As of June 16th, 2020, there were a total of ◎116,359,311 yet to be distributed to SAFT investors.</p><p><strong>Community Airdrops</strong></p><p>◎125,754.530 was sent to gate.io for community airdrops. An additional ◎17,600 was distributed for various community efforts.</p><p><strong>Validators</strong></p><p>As of July 1st, ◎62,000 unlocked tokens have been distributed to the validator community to support network fees. These validators are contractually bound to only use the tokens to pay for network fees.</p><p>As of July 1st, ◎1,928,712 in locked tokens have been distributed to validators as compensation for participation in the Tour de SOL (Solana’s incentivized testnet), soft launch, and Mainnet Beta initiatives.</p><h2><strong>EXPECTED ACTIVITY IN THE MONTH OF&nbsp;JULY</strong></h2><p>During the month of July, The Solana Foundation expects to release up to ◎8,000,000 into circulation for various community, exchange, and fundraising activities.</p><p><strong>SAFT Tokens</strong></p><p>The Solana Foundation hopes to distribute the remaining balance of ◎116,359,311 to SAFT investors. All SAFT tokens will be distributed in the form of locked stake accounts, which will unlock on January 7th, 2021.</p><p><strong>Community Airdrops</strong></p><p>To support exchange listings The Solana Foundation is expected to add up to 1 million unlocked SOL into circulation.</p><p><strong>Validators</strong></p><p>The Solana Foundation plans to distribute ◎431,335 in locked tokens to validators as compensation for participation in the Tour de SOL (Solana’s incentivized testnet), soft launch, and Mainnet Beta initiatives.</p><p><strong>Fundraising</strong></p><p>During the month of July, the Solana Foundation is expected to add up to 7 million unlocked SOL into circulation to support fundraising efforts.</p><p>Between all efforts in July, including community airdrops, validator compensation, and fundraising, the number of tokens added into circulation will not exceed the 8 million SOL that the Solana Foundation can release into the market each month.</p><h2><strong>EXCHANGE LISTINGS</strong></h2><p>On April 7th, 2020 the native Solana token (SOL, symbol ◎) was officially listed on<a href=\"https://research.binance.com/projects/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;Binance</a>&nbsp;with three trading pairs: SOL/BTC, SOL/BNB, and SOL/BUSD.</p><p>On June 25th, 2020 the native Solana token (SOL, symbol ◎) was officially listed on gate.io with one trading pair: SOL/ USDT.</p><p>Unofficial exchange listings include Hoo.com, Hotbit, CoinDCX, and Bilaxy. Current trading pairs: SOL/BTC, SOL/USDT, SOL/BNB, and SOL/BUSD.&nbsp;<a href=\"https://coinmarketcap.com/currencies/solana/markets/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">CoinMarketCap’s market pair page</a>&nbsp;currently does not list the gate.io pair, but the Solana Foundation is working with CMC to correct this error.</p><h2><strong>STAKER PRICE GUARANTEE</strong></h2><p>Solana has implemented a Staker Price Guarantee for users who purchase SOL tokens in an auction or on an exchange, register them, and stake them to secure the network. The current price guarantee is $0.198 USD (90% of the CoinList auction reserve price of $0.220 USD, which was established on March 24th, 2020). This price guarantee is valid through April 7, 2021. The goal of this program is to incentivize staking on the network while providing a guaranteed price floor and potential loss limit against price fluctuations to those who choose to stake and participate in the program.</p><p><strong>Updates to the Staker Price Guarantee</strong></p><p>As of June 20th, 2020, Solana no longer accepts all wallet addresses to be registered for the Staker Price Guarantee, but requires that new registrants provide a stake account address in order to register. To be eligible for redemption, the original program rules for staking have not changed. A registered stake account must be continuously delegated for at least 48 hours from the time of registration to the time of redemption to be eligible for the guaranteed price.</p><p><strong>End of the Staker Price Guarantee Registration Period</strong></p><p>The registration period for the Staker Price Guarantee will end on July 7th, 2020. During the course of the 3 month registration period, there have been no additional sales of tokens from the Solana Foundation. There are no additional sales planned before July 7th, 2020.</p><h2><strong>A NOTE TO TOKEN&nbsp;HOLDERS</strong></h2><p>Thank you to everyone who has supported Solana over the past two years. The protocol depends on the support, evangelism, and adoption of users who care about the future of decentralized finance and marketplaces. Through the support of token holders and early adopters like Terra, Kin, Chainlink, and many others, the hope is to see this future play out as soon as possible. The performance and throughput of Solana are critical for the journey to be successful.</p><p>Solana and its various stakeholders will always strive for clarity, transparency, and fairness. There is always room to improve, and your feedback is greatly appreciated. This transparency report is one of many steps being taken to establish and maintain these values. Please stay tuned for more updates, and as always, thank you so much for your support.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8c02fbf544074509af88e5a963633993",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdeae042118cd46faaabe036967a94a89?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.52,
+                "lockAspectRatio": false,
+                "height": 416,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdeae042118cd46faaabe036967a94a89?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdeae042118cd46faaabe036967a94a89?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdeae042118cd46faaabe036967a94a89?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdeae042118cd46faaabe036967a94a89?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdeae042118cd46faaabe036967a94a89?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdeae042118cd46faaabe036967a94a89?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdeae042118cd46faaabe036967a94a89?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdeae042118cd46faaabe036967a94a89?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdeae042118cd46faaabe036967a94a89?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fdeae042118cd46faaabe036967a94a89?width=950 950w",
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2fdc82bf086147509d803b39c2077e53",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>JUNE 2020</strong></h2><p>As the Solana token user base continues to grow, it is of utmost importance for the Solana Foundation to maintain a high level of transparency with regards to the SOL token. Moving forward, the Solana Foundation will be releasing a monthly transparency report to cover the previous month’s token activity, expected token activity for the current month, and other updates in relation to the SOL token. The goal for these reports is simple: token activity transparency.</p><p>On April 7th, 2020 the native Solana token (SOL, symbol ◎) was officially listed on<a href=\"https://research.binance.com/projects/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;Binance</a>&nbsp;with three trading pairs: SOL/BTC, SOL/BNB, and SOL/BUSD.</p><p>Anyone can view the network live at&nbsp;<a href=\"https://solanabeach.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Beach</a>&nbsp;(made by Staking Facilities), and use our&nbsp;<a href=\"https://explorer.solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">native block explorer</a>&nbsp;to review transactions on both the Solana Mainnet Beta and Solana Testnet.</p><h2><strong>GLOSSARY</strong></h2><p><strong>Circulating Supply</strong>: The number of tokens that are currently unlocked and in accounts outside of the control of the Solana Foundation or Solana Labs.</p><p><strong>Total Supply</strong>: The total number of tokens in existence, including locked tokens</p><p><strong>Burned Token</strong>s: Tokens that have been locked indefinitely and removed from the circulating and total supply, either manually or through transaction fees.</p><h2><strong>STATE OF THE SUPPLY AS OF JUNE 16,&nbsp;2020</strong></h2><p>Current Total Supply:&nbsp;◎488,634,933</p><p>Current Burned Tokens:&nbsp;◎11,365,067</p><p>Current Circulating Supply:&nbsp;◎16,348,889</p><p>As of June 16, 2020, Solana’s Circulating Supply is composed of:</p><p>CoinList Auction on March 24th, 2020 — ◎8,021,989</p><p>Market Maker Loan: ◎8,000,000</p><p>Airdrops: ◎283,400</p><p>Validator Fees: ◎43,500</p><p>Due to distributions of airdrops and validator fees, as well as transaction fee burning, the circulating supply as shown on CoinGecko, CoinMarketCap, other price references sites, and the Solana Explorer may differ slightly from the numbers reported here. The circulating supply as shown on CoinMarketCap is incorrect, and Solana team members are working with them to resolve this.</p><h2><strong>SUPPLY FORECAST FOR&nbsp;2020</strong></h2><p>From May 2020 through the end of the year, the Solana Foundation is committed to introducing no more than ◎8,000,000 per month (separate from previously committed distributions) into the circulating supply through any of the following means:</p><ul><li>Conducting airdrops for the purpose of educating users and growing awareness of the project. “For example, the Solana Foundation conducted an airdrop in collaboration with Binance as part of its initial launch on the Exchange.”</li><li>Grant and delegation programs for research and development initiatives led by third parties that advance the growth and development of the ecosystem.</li><li>Selling tokens through primary sales or through an auction on a non-exchange platform such as CoinList</li></ul><p>As outlined below in the “Activity in the Month of June” section: During the month of June, the Solana Foundation will be adding between 175,000 and 350,000 SOL into circulation for various community initiatives, including airdrops.&nbsp;<strong>Otherwise, no large sales or distributions are planned for June.</strong></p><h2><strong>UNLOCK SCHEDULE</strong></h2><p>By January 7th, 2021, the total unlocked supply will be ◎457,384,933, excluding inflationary rewards. The exact time is determined by the stake-weighted average of dates submitted by validators. These tokens include:</p><p><strong>Employees and Service Providers:</strong>&nbsp;◎18,282,534 have been committed through contracts with service providers as part of ongoing or completed efforts. Many of the contracts specify a vesting schedule with various dates to consider. ◎7,172,862 will have been earned and will unlock on January 7th, 2021.</p><p><strong>SAFT Investors:</strong>&nbsp;All of the SAFT investor tokens will be unlocked at the same time on approximately January 7th, 2021. The amount of SAFT investor tokens is ◎176,949,616.</p><p><strong>Founders:</strong>&nbsp;Half of the founders’ tokens will be unlocked. This amount of Founder tokens currently expected to be unlocked on January 7th, 2021 is ◎31,250,000. The remaining half of the founders’ tokens will unlock monthly over the following 24 months.</p><p><strong>Validators:</strong>&nbsp;◎3,271,751 have been committed through contracts with validators as part of ongoing or completed incentivized testnet events and work on mainnet beta as of May 1st, 2020. Not all of the SOL will be earned throughout the course of their service agreements. As of May 1st, 2020, ◎2,360,047 tokens were earned and set for distribution. On January 7th, 2021 a maximum of ◎300,000 will be fully unlocked. The remaining SOL that are earned will have various unlocking dates through May 2021.</p><p><strong>Community and Foundation:</strong>&nbsp;Remaining tokens are held by the Solana Foundation and Solana Labs. The Community Pool is not currently locked in a smart contract, as has been the case since the token generation event. However, as outlined above the Solana Foundation has committed to introducing no more than ◎8,000,000 into the circulating supply each calendar month through the end of 2020, and will, to the best of its ability, provide transparency into these activities through reports such as this one. The ◎8,000,000 per month applies only to tokens held by the Foundation, including any inflationary rewards earned by the Foundation.</p><p><strong>CoinList Auction:</strong>&nbsp;No additional tokens will be unlocked. Auction tokens delivered to participants have been 100% unlocked since delivery in April 2020.</p><p><strong>Inflation:</strong>&nbsp;Inflation rewards have not yet been enabled by the Foundation. If inflation is enabled prior to Jan7 2021, tokens that are locked until Jan 7th 2021 cannot withdraw inflationary rewards. Inflationary rewards are distributed automatically to stakes that are actively participating in consensus. The rewards that are distributed to unlocked stakes may be withdrawn and may enter circulation. The Foundation is limited to releasing no more than ◎8,000,000 per month until the end of 2020 including any earned inflationary rewards.</p><h2><strong>ACTIVITY IN THE MONTH OF APRIL/MAY</strong></h2><p>The primary token activities for the month of May were the token burn which has been disclosed and detailed in&nbsp;<a href=\"https://medium.com/solana-labs/solana-foundation-permanently-removes-11-365m-from-token-supply-dd58c8db8d0d?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">this post</a>, as well as deliveries of locked tokens to satisfy obligations for SAFT sales to date.&nbsp;<strong>Other than the distribution of tokens for community airdrops and validators, no major sales or distributions of unlocked tokens took place in the month of May.</strong></p><p><strong>Token Burn</strong></p><p>On May 23rd, 2020 the Solana Foundation successfully removed ◎11,365,067 (SOL) tokens from the token supply.</p><ul><li>The Solana Foundation received a total of ◎3,365,067 back from the market maker, which were transferred to a wallet directly controlled by the Solana Foundation. The transaction took place on May 11th and 12th across four transactions.</li><li>◎3,365,067 back from the market maker: Transaction&nbsp;<a href=\"https://explorer.solana.com/transactions/uQf4pS38FjRF294QFEXizhYkZFjSR9ZSBvvV6MV5b4VpdfRnK3PY9TWZ2qHMQKtte3XwKVLcWqsTF6wL9NEZMty?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">1</a>,&nbsp;<a href=\"https://explorer.solana.com/transactions/DYrfStEEzbV5sftX8LgUa54Nwnc5m5E1731cqBtiiC66TeXgKpfqZEQTuFY3vhHZ2K1BsaFM3X9FqisR28EtZr8?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">2</a>,&nbsp;<a href=\"https://explorer.solana.com/transactions/3bLx2PLpkxCxJA5P7HVe8asFdSWXVAh1DrxfkqWE9bWvPRxXE2hqwj1vuSC858fUw3XAGQcHbJknhtNdxY2sehab?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">3</a>,&nbsp;<a href=\"https://explorer.solana.com/transactions/3fE8xNgyxbwbvA5MX3wM87ahDDgCVEaaMMSa8UCWWNxojaRYBgrQyiKXLSxcryMWb7sEyVLBWyqUaRWnQCroSqjY?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">4</a></li><li>An additional ◎8,000,000 was&nbsp;<a href=\"https://explorer.solana.com/transactions/5PWymGjKV7T1oqeqGn139EHFyjNM2dnNhHCUcfD2bmdj8cfF95HpY1uJ84W89c4sJQnmyZxXcYrcjumx2jHUvxZQ?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">transferred</a>&nbsp;from the Foundation into the same wallet, on May 22nd. This corresponds to the expected maximum monthly issuance of Foundation tokens that was otherwise scheduled for May (as previously published in the SOL Token release schedule in the&nbsp;<a href=\"https://research.binance.com/projects/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Binance Research Report</a>). These two steps brought the total amount of SOL in this particular Foundation controlled wallet to ◎11,365,067.</li><li>The entire ◎11,365,067 was then removed from the supply by transferring the tokens to a&nbsp;<a href=\"https://github.com/solana-labs/solana/blob/b7a32f01c08dad2b0e0da770d4d0038c2bfc8762/core/src/non_circulating_supply.rs?ref=solana.ghost.io#L62-L77\" rel=\"noopener noreferrer\" target=\"_blank\">white-listed wallet</a>&nbsp;of non-circulating supply addresses.</li><li>On May 25th, 2020 the entire ◎11,365,067 were sent to the Solana burn address: ‘<a href=\"https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">1nc1nerator1111111111111111111111111111111</a>’.</li></ul><p><strong>SAFT Tokens</strong></p><p>In May, the Solana Foundation delivered ◎52,402,755 out of the total of ◎176,949,621&nbsp;<strong>locked</strong>&nbsp;tokens that have been sold as part of various SAFT sales to date. This initial delivery of locked tokens included 35 out of the 69 investors in the form of locked stake accounts. Locked stake accounts can be delegated, and the owner of a locked stake account can be changed, but the tokens in a locked stake account cannot be withdrawn into a wallet address for sale on an exchange. After these locked token deliveries in May, there were a total of ◎124,546,866 yet to be distributed to SAFT investors. To reiterate, these tokens are all locked until January 7th, 2021. We expect to deliver the rest of the locked tokens in July.</p><p><strong>Community Airdrops</strong></p><p>Two community airdrops took place as part of the Binance listing. First, the Solana Foundation held a listing campaign in partnership with Binance, in which 70,149 people participated. Second, the Solana Foundation hosted several AMAs across ten different Binance regional groups. Each AMA was held in that native language of the group, with answers translated by the help of both Binance and Solana admins.</p><p>Listing campaign: ◎236,363</p><p>AMA campaigns: ◎24,832</p><p>Community campaigns: ◎8075</p><h2><strong>ACTIVITY IN THE MONTH OF&nbsp;JUNE</strong></h2><p>For the remainder of June, the Solana Foundation will be adding between 175,000 and 350,000 SOL into circulation for various community initiatives, primarily airdrops.&nbsp;<strong>Other than this small amount of community airdrops, no large sales or distributions are planned for June.</strong></p><p><strong>SAFT Tokens</strong></p><p>On June 10th, 2020 the Solana Foundation distributed ◎8,187,555 to 9 investors in the form of locked stake accounts. As of 16 June 2020, there were a total of ◎116,359,311 yet to be distributed to SAFT investors.</p><p><strong>Community Airdrops</strong></p><p>As mentioned above, during the month of June, the Solana Foundation will be adding between ◎175,000 and ◎350,000 SOL into circulation for various community initiatives.</p><p>As of June 17th, 2020 only ◎13,950 have been distributed for community efforts.</p><p><strong>Validators</strong></p><p>As of June 17th, ◎43,500 unlocked tokens have been distributed to the validator community to support network fees. These validators are contractually bound to only use the tokens to pay for network fees.</p><p>Solana Labs expects to distribute ◎2,360,047 in locked tokens in the month of June as compensation for participation in the Tour de SOL (Solana’s incentivized testnet), soft launch, and Mainnet Beta initiatives.</p><h2><strong>STAKER PRICE GUARANTEE</strong></h2><p>Solana has implemented a&nbsp;<a href=\"https://solana.com/priceguarantee?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Staker Price Guarantee</a>&nbsp;for users who purchase SOL tokens in an auction or on an exchange, register them, and stake them to secure the network. The current price guarantee is $0.198 USD (90% of the CoinList auction reserve price of $0.220 USD, which was established on March 24th, 2020). This price guarantee is valid through April 7, 2021. The goal of this program is to incentivize staking on the network while providing a guaranteed price floor and potential loss limit against price fluctuations to those who choose to stake and participate in the program.</p><p><strong>End of the Staker Price Guarantee Registration Period</strong></p><p>The registration period for the Staker Price Guarantee will end on July 7th, 2020. During the course of the 3 month registration period, there have been no additional sales of tokens from the Solana Foundation. There are no additional sales planned before July 7th, 2020.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b4ccc73923704e29beed24878e3763f6",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0314a959ec584ebd8c12706c9b08ba8e?width=1216",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.331,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 95vw, (max-width: 998px) 96vw, 87vw",
+                "height": 265,
+                "width": 800,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0314a959ec584ebd8c12706c9b08ba8e?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0314a959ec584ebd8c12706c9b08ba8e?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0314a959ec584ebd8c12706c9b08ba8e?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0314a959ec584ebd8c12706c9b08ba8e?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0314a959ec584ebd8c12706c9b08ba8e?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0314a959ec584ebd8c12706c9b08ba8e?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0314a959ec584ebd8c12706c9b08ba8e?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0314a959ec584ebd8c12706c9b08ba8e?width=1216 1216w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0314a959ec584ebd8c12706c9b08ba8e?width=606 606w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F0314a959ec584ebd8c12706c9b08ba8e?width=950 950w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fed69f34e1174460b7bc1d0916de944c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Updates to the Staker Price Guarantee</strong></p><p>The Staker Price Guarantee program is intended only to guarantee tokens held in delegated stake accounts. When a user receives SOL tokens from a trade, purchase, auction, or airdrop, the tokens are transferred to that user’s wallet address. Using some of these tokens, a user can choose to create and fund a separate stake account, which can then be delegated to a validator. This is known as a delegated stake account.</p><p>However, due to limited wallet support for managing stake accounts and delegations when the program was first created, Solana extended the price guarantee to any wallet address holding SOL tokens, provided that the tokens held at an address at the time of registration were not transferred to another address before redemption. As of June 11th, 2020, there were ◎268,923.29 registered and eligible for the price guarantee from participants who registered a wallet address.</p><p>Starting on June 20th, 2020, Solana will no longer accept all wallet addresses to be registered for the Staker Price Guarantee, but require that new registrants provide a stake account address in order to register. To be eligible for redemption, the original program rules for staking have not changed. A registered stake account must be continuously delegated for at least 48 hours from the time of registration to the time of redemption to be eligible for the guaranteed price.</p><h2><strong>A NOTE TO TOKEN&nbsp;HOLDERS</strong></h2><p>Thank you to everyone who has supported Solana over the past two years. The protocol depends on the support, evangelism, and adoption of users who care about the future of decentralized finance and marketplaces. Through the support of token holders and early adopters like Terra, Kin, Chainlink, and many others, the hope is to see this future play out as soon as possible. The performance and throughput of Solana is critical for the journey to be successful.</p><p>Solana and its various stakeholders will always strive for clarity, transparency, and fairness. There is always room to improve, and your feedback is greatly appreciated. This transparency report is one of many steps being taken to establish and maintain these values. Please stay tuned for more updates, and as always, thank you so much for your support.</p><p><strong>Corrections &amp; Updates</strong></p><p>6/22/2020: Unlock schedule was updated for greater clarity and to include a section on inflation.</p><p>DISCLAIMERThe information provided in this presentation pertaining to Solana Labs, Inc. (“Solana” or the “Company”), its business assets, strategy and operations is for general informational purposes only and is not a formal offer to sell or a solicitation of an offer to buy any securities, options, futures, or other derivatives related to securities in any jurisdiction and its content is not prescribed by securities laws. Information contained in this presentation should not be relied upon as advice to buy or sell or hold such securities or as an offer to sell such securities. This presentation does not take into account nor does it provide any tax, legal or investment advice or opinion regarding the specific investment objectives or financial situation of any person..</p><p>Solana and its agents, advisors, directors, officers, employees and shareholders make no representation or warranties, expressed or implied, as to the accuracy of such information and Solana expressly disclaims any and all liability that may be based on such information or errors or omissions thereof. Solana reserves the right to amend or replace the information contained herein, in part or entirely, at any time, and undertakes no obligation to provide the recipient with access to the amended information or to notify the recipient thereof.</p><p>The information contained in this presentation is intended only for the persons to whom it is transmitted for the purposes of evaluating the Company. The information contained in this presentation supersedes any prior presentation or conversation concerning the Company. Any information, representations or statements not contained herein shall not be relied upon for any purpose.</p><p>Neither we nor any of our representatives shall have any liability whatsoever, under contract, tort, trust or otherwise, to you or any person resulting from the use of the information in this presentation by you or any of your representatives or for omissions from the information in this presentation. Additionally, the Company undertakes no obligation to comment on the expectations of, or statements made by, third parties in respect of the matters discussed in this presentation.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "24px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F15858fc470144b4aa91ed8a9d492ccee",
+  "lastUpdated": 1696416661325,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e102bac14cf8481db6f54375191bfb57",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687532247121,
+  "@originId": "e102bac14cf8481db6f54375191bfb57",
+  "testRatio": 1,
+  "createdDate": 1687362697885,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=e102bac14cf8481db6f54375191bfb57&builder.overrides.e102bac14cf8481db6f54375191bfb57=e102bac14cf8481db6f54375191bfb57&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Foundation Transparency Reports",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

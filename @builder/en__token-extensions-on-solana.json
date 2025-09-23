@@ -1,0 +1,309 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/token-extensions-on-solana",
+  "data": {
+    "datePublished": 1706103900000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa898174340b34faeb6c95c40cfcaa4a0",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "The next-generation of SPL tokens unlock confidential transfers, transfer hooks, and other specialized tooling without the use of third parties. ",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa898174340b34faeb6c95c40cfcaa4a0",
+      "seoDescription": "The next-generation of SPL tokens unlock confidential transfers, transfer hooks, and other specialized tooling without the use of third parties. ",
+      "seoTitle": "Token Extensions Enable Native Support for Enterprise-Grade Use Cases"
+    },
+    "title": "Token Extensions Enable Native Support for Enterprise-Grade Use Cases",
+    "slug": "token-extensions-on-solana",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a70200e65d34494b65f9e04c0727a14"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-d19300476aad4a4ea30095fad7066dd3",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f3a17fb100d54fcf9cb36b543786f3b3",
+            "meta": {
+              "previousId": "builder-46f455ac574a4208a423078681907dd3"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  Introducing token extensions, the newest iteration of the Solana token\n  program. Built in collaboration with large, regulated institutions, token\n  extensions use a standard interface to connect to Solana applications,\n  allowing the creation of specialized tooling and functionality at the token\n  level. The result is plug-and-play, regulation-friendly, versatile token\n  functionality that significantly decreases engineering time and resources.</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a8f7976fa8b845478824d14270688880",
+            "component": {
+              "name": "Youtube",
+              "options": {
+                "url": "https://youtu.be/CEuKahqOYbs"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-46f455ac574a4208a423078681907dd3",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>\n  The first token extensions were included as part of\n  <a\n    href=\"https://solana.com/news/solana-validators-v1-17-update\"\n    rel=\"noopener noreferrer\"\n    target=\"_blank\"\n    >the v.1.17 release</a\n  >\n  of the Solana Labs validator client. Some of them include:</p>\n"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e8ab2c4c881b40fca075f871632b7caa",
+            "meta": {
+              "previousId": "builder-4f3431e74aee4677aa1bd2c9d8e656e8"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<style type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .gray{\n      background-color: #424242;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n</style>\n<table class=\"custom\">\n  <thead>\n    <tr>\n      <td>Extension</td>\n      <td>Description</td>\n      <td>Potential use cases</td>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Confidential transfers</td>\n      <td>\n        <p>\n          Protects the confidentiality of users balances within a transfer, as\n          well as hiding transaction amounts\n        </p>\n      </td>\n      <td><p>Onchain payroll, B2B payments, treasury management</p></td>\n    </tr>\n    <tr>\n      <td>Transfer hooks</td>\n      <td>\n        <p>\n          Gives the token issuer control over which wallets can interact with\n          their token and how tokens and users interact\n        </p>\n      </td>\n      <td><p>KYC verification, token- gated access, royalty enforcement</p></td>\n    </tr>\n    <tr>\n      <td>Transfer fees</td>\n      <td><p>The ability to charge fees at the protocol level</p></td>\n      <td><p>Permanent royalties, publisher fees, transaction fees</p></td>\n    </tr>\n    <tr>\n      <td>Permanent delegation</td>\n      <td><p>Allow a program to have irrevocable authority over a token</p></td>\n      <td>\n        <p>\n          Automatic subscription services, updating real world assets to reflect\n          reality, stablecoin regulatory compliance with freeze & seize orders\n        </p>\n      </td>\n    </tr>\n    <tr>\n      <td>Metadata pointer</td>\n      <td><p>Establish verifiable links between tokens and metadata</p></td>\n      <td><p>Token verification, accounts receivable attribution</p></td>\n    </tr>\n    <tr>\n      <td>Default account state</td>\n      <td><p>Configure and enforce token account permissions</p></td>\n      <td><p>KYC verification</p></td>\n    </tr>\n    <tr>\n      <td>Non-transferrable tokens</td>\n      <td>\n        <p>\n          Makes it impossible to reassign the owner of a token, except by issuer\n        </p>\n      </td>\n      <td>\n        <p>\n          Managing an external database, non-transferrable mints of NFTs or\n          other assets\n        </p>\n      </td>\n    </tr>\n  </tbody>\n</table>\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingRight": "50px",
+                "paddingLeft": "50px",
+                "paddingTop": "20px",
+                "width": "auto",
+                "alignSelf": "stretch"
+              },
+              "medium": {
+                "display": "flex"
+              },
+              "small": {
+                "display": "none"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e7cf1314771e46639cd3e0836350a406",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><strong>Confidential transfers</strong></p><ul><li>Protects the confidentiality of users balances within a transfer, as well as hiding transaction amounts</li><li><strong>Use cases:</strong> Onchain payroll, B2B payments, treasury management</li></ul><p><strong>Transfer hooks</strong></p><ul><li>Gives the token issuer control over which wallets can interact with their token and how tokens and users interact</li><li><strong>Use cases: </strong>KYC verification, token- gated access, royalty enforcement</li></ul><p><strong>Transfer fees</strong></p><ul><li>The ability to charge fees at the protocol level</li><li><strong>Use cases: </strong>Permanent royalties, publisher fees, transaction fees</li></ul><p><strong>Permanent delegation</strong></p><ul><li>Allow a program to have irrevocable authority over a token</li><li><strong>Use cases:</strong> Automatic subscription services, updating real world assets to reflect reality, stablecoin regulatory compliance with freeze &amp; seize orders</li></ul><p><strong>Metadata pointer</strong></p><ul><li>Establish verifiable links between tokens and metadata.</li><li><strong>Use cases:</strong> Token verification, accounts receivable attribution</li></ul><p><strong>Default account state</strong></p><ul><li>Configure and enforce token account permissions</li><li><strong>Use cases: </strong>KYC verification</li></ul><p><strong>Non-transferrable tokens</strong></p><ul><li>Makes it impossible to reassign the owner of a token, except by issuer</li><li><strong>Use cases: </strong>Managing an external database, non-transferrable mints of NFTs or other assets</li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "none",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              },
+              "medium": {
+                "display": "none"
+              },
+              "small": {
+                "display": "flex"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0790348e30aa47568a12cdd0e3480c01",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><em>Start digging into developer resources: </em><a href=\"https://spl.solana.com/token-2022\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Documentation</em></a>,<em> </em><a href=\"https://solana.com/developers/guides?tags=token+extensions\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Guides</em></a>,<em> </em><a href=\"https://www.youtube.com/playlist?list=PLilwLeBwGuK6imBuGLSLmzMEyj6yVHGDO\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Tutorial playlist</em></a><em>.&nbsp;</em></p><p>Some stablecoin issuers using Solana have already started implementing token extensions. Paxos, for example, recently leveraged permanent delegation, metadata pointer, transfer hooks, and more to <a href=\"https://paxos.com/2023/12/22/paxos-expands-to-the-solana-blockchain/\" rel=\"noopener noreferrer\" target=\"_blank\">launch their USDP stablecoin</a>. GMO Trust announced the first regulated Japanese yen stablecoin as well as their own U.S. dollar stablecoin on the Solana network, which uses permanent delegation, default account state, and the metadata pointer.&nbsp;</p><p>Solana, already a leading blockchain network due the protocol’s scalability-focused design and ecosystem-wide innovations such as <a href=\"https://solana.com/news/state-compression-compressed-nfts-solana\" rel=\"noopener noreferrer\" target=\"_blank\">state compression</a>, has become the place for developers to innovate and build businesses using blockchain technology. <a href=\"https://solana.com/2024outlook\" rel=\"noopener noreferrer\" target=\"_blank\">Recent reports noted</a> that the Solana network processed 40.7m daily user transactions in Q4 2023, and Solana was the top non-EVM chain for new developers. The last twelve months have seen payments giants <a href=\"https://fortune.com/crypto/2023/09/05/visa-stablecoin-usdc-solana-worldpay-nuvei-merchants-payments/\" rel=\"noopener noreferrer\" target=\"_blank\">Visa</a> and <a href=\"https://www.theblock.co/post/228809/mastercard-crypto-credential-standards\" rel=\"noopener noreferrer\" target=\"_blank\">Mastercard</a> choose to build with Solana, the launch of new stablecoins like <a href=\"https://fortune.com/crypto/2023/12/22/paxos-solana-ethereum-department-financial-services-stablecoin-circle-tether/\" rel=\"noopener noreferrer\" target=\"_blank\">Paxos</a>, and the rise of new business use cases from <a href=\"https://blog.helium.com/a-new-era-for-helium-begins-with-upgrade-to-solana-blockchain-88b742276ec1\" rel=\"noopener noreferrer\" target=\"_blank\">Helium’s decentralized sensor network</a> to real-life tea house company Boba Guys’ <a href=\"https://blockster.com/introducing-boba-guys-passport-a-new-loyalty-program-powered-by-hang\" rel=\"noopener noreferrer\" target=\"_blank\">Solana-powered loyalty program</a>.</p><p>Interested in building with token extensions? Developers can learn <a href=\"https://solana.com/news/token-extensions-developer-guide\" rel=\"noopener noreferrer\" target=\"_blank\">how to set up token extensions here</a>, or <a href=\"https://solanafoundation.typeform.com/to/ST7YdGSz\" rel=\"noopener noreferrer\" target=\"_blank\">reach out</a> to set up a call with the Solana Foundation to learn more.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-79849c1414f346eaa6f755c93e408f2b",
+            "meta": {
+              "transformed.heading": "localized",
+              "transformed.body": "localized",
+              "localizedTextInputs": [
+                "heading",
+                "body"
+              ],
+              "transformed.buttons.0.label": "localized",
+              "translated": true,
+              "previousId": "builder-675d05d46a14459189c31072b25403dc"
+            },
+            "component": {
+              "name": "Conversion Panel",
+              "options": {
+                "variant": "centered",
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "lg",
+                    "url": "https://solanafoundation.typeform.com/to/ST7YdGSz",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Contact US"
+                    },
+                    "endIcon": "arrow-up-right"
+                  },
+                  {
+                    "hierarchy": "outline",
+                    "size": "lg",
+                    "url": "https://solana.com/developers/guides/token-extensions/getting-started",
+                    "label": "See the Docs"
+                  }
+                ],
+                "heading": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Token extensions unlocks new business standards and use cases on the Solana blockchain.",
+                  "ar": "",
+                  "it": "",
+                  "nl": "",
+                  "zh": "",
+                  "hi": "",
+                  "fi": "",
+                  "ru": "",
+                  "fr": ""
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Want to build? Get in touch.",
+                  "ar": "",
+                  "it": "",
+                  "nl": "",
+                  "zh": "",
+                  "hi": "",
+                  "fi": "",
+                  "ru": "",
+                  "fr": ""
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4cf7be4def7b47a3b93f3dc577a021c1",
+  "lastUpdated": 1706627407887,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_d0edf376d26a4fbd88052493cdc5d786",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1706104908088,
+  "@originId": "d0edf376d26a4fbd88052493cdc5d786",
+  "testRatio": 1,
+  "createdDate": 1706046113871,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/token-extensions-on-solana?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=d0edf376d26a4fbd88052493cdc5d786&builder.overrides.d0edf376d26a4fbd88052493cdc5d786=d0edf376d26a4fbd88052493cdc5d786&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Conversion Panel": 1,
+      "Copy": 4,
+      "Youtube": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Token extensions enable native support for enterprise-grade use cases",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

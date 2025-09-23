@@ -1,0 +1,196 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1601708400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ff118bc0c7ca64f688c9014ce30ba0e26",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nTether to bring USDT to the Solana Network, Solana Ecosystem Growth,OKEx Lists SOL, and more.\n",
+    "publishedDate": "Sat Oct 03 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "title": "September Newsletter",
+    "openGraph": {
+      "ogTitle": "September Newsletter",
+      "ogUrl": "https://www.solana.com/blog/september-newsletter",
+      "ogDescription": "\nTether to bring USDT to the Solana Network, Solana Ecosystem Growth,OKEx Lists SOL, and more.\n",
+      "ogImage": "https://solana.ghost.io/content/images/downloaded_images/September-Newsletter/1-XZx6aMnl5GmS_VYtrCEqVw-3.png",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "September Newsletter",
+      "noFollow": false,
+      "seoDescription": "\nTether to bring USDT to the Solana Network, Solana Ecosystem Growth,OKEx Lists SOL, and more.\n",
+      "seoTitle": "September Newsletter",
+      "noIndex": false
+    },
+    "twitterMeta": {
+      "twitterTitle": "September Newsletter",
+      "twitterDescription": "\nTether to bring USDT to the Solana Network, Solana Ecosystem Growth,OKEx Lists SOL, and more.\n",
+      "twitterImage": "https://solana.ghost.io/content/images/downloaded_images/September-Newsletter/1-XZx6aMnl5GmS_VYtrCEqVw-3.png"
+    },
+    "slug": "september-newsletter",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_03e6904c00924a32b6187f46a5fa40d0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c3121fe9ca9d4e90840697944b153676"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6e486fb681614dda8835548c251fe8e7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-28687acded0449a0a8f57a347017bdad",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a33aa1be822e4ddd94f0e93cefdbaf67",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F25ec296f65184fb3a18927191721e652?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F25ec296f65184fb3a18927191721e652?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F25ec296f65184fb3a18927191721e652?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F25ec296f65184fb3a18927191721e652?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F25ec296f65184fb3a18927191721e652?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F25ec296f65184fb3a18927191721e652?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F25ec296f65184fb3a18927191721e652?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F25ec296f65184fb3a18927191721e652?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F25ec296f65184fb3a18927191721e652?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F25ec296f65184fb3a18927191721e652?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2cdaf0edbf64406b96559fe55b0d2ee3",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<ul><li>💲 Tether to bring USDT to the Solana Network</li><li>🌲 Solana Ecosystem Growth</li><li>🏙 Blockchain Service Network</li><li>💸 Wallet Updates — ERC-20 support, web-browser support and more</li><li>💻 Network Decentralization</li><li>🎧 The Solana Podcast</li><li>🛠 181 Validators</li><li>Engineering Update</li></ul><h2><strong>USDT Announces Solana Integration</strong></h2><p>USDt is the largest stablecoin by market capitalization and is one of the most widely used stablecoins across both CeFi and DeFi. After the technical integration is complete, USDt holders will be able to exchange tethers at speeds greater than 50,000 transactions per second — often for less than $0.00001 per transaction — using the Solana network.</p><p><a href=\"https://medium.com/solana-labs/tether-to-bring-usdt-to-the-solana-network-77864184b20?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Tether to bring USDt to the Solana Network</strong></a></p><p><a href=\"https://medium.com/solana-labs/tether-to-bring-usdt-to-the-solana-network-77864184b20?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Today, the Solana Foundation is excited to announce a new technical integration with Tether to bring the USDt…medium.com</a></p><h2><strong>Solana Ecosystem Growth</strong></h2><p>Five new projects announced they were integrating with Solana in September.</p><p>-&nbsp;<a href=\"https://medium.com/rampdefi/ramp-defi-empowering-sol-users-with-staked-liquidity-and-cross-chain-defi-farming-8861af6a6e62?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ramp Defi</a> — Cross-chain DeFi protocol. Unlock liquid capital from your staked digital assets. Earn enhanced yield from multiple revenue streams</p><p>-&nbsp;<a href=\"https://twitter.com/lunadex_com?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Luna DEX</a> — A Decentralized Exchange built on Serum and Solana</p><p>-&nbsp;<a href=\"https://twitter.com/PredixNetwork?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Predix Network</a> — A prediction-based reward system powered</p><p>-&nbsp;<a href=\"https://twitter.com/AleaG_Official?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Alea</a> — A Solana-based gaming hub dapp.</p><ul><li><a href=\"https://twitter.com/cryptolocally?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Crypto Locally</a> — Fiat Gateway</li></ul><h2><strong>Blockchain Service&nbsp;Network</strong></h2><p>China’s Blockchain-based Service Network (BSN), a cross-cloud and cross-framework global public infrastructure network, has integrated with Solana. This integration is another step toward continued adoption and use cases on the Solana network.</p><p><a href=\"https://cointelegraph.com/news/chinas-blockchain-service-network-integrates-three-more-public-chains?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://cointelegraph.com/news/chinas-blockchain-service-network-integrates-three-more-public-chains</a></p><h2><strong>Wallet Updates — ERC-20 support, web-browser support and&nbsp;more</strong></h2><p>- Swipe Wallet — Instant Swap and Buy</p><p>- Coin98 — SPL integration</p><p>- Math Wallet — SOL Chrome Extension</p><p>- Ledger Hardware Wallet Supports SOL on Ledger Nano S and X</p><p>- Sollet support for ERC-20 ↔SPL swap</p><h2><strong>Network Decentralization</strong></h2><p>The Solana Foundation continues to increase network decentralization. During the month of September, the Solana Foundation introduced two proposals.</p><p><a href=\"https://forums.solana.com/t/validator-yield-throttling-proposal-discussion/855?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Validator Yield Throttling</a> — Yield throttling is the programmatic reduction of staking rewards (validator-level yield) for all stake above a threshold stake amount which is determined by a target amount of censorship resistance on the network.</p><p><a href=\"https://forums.solana.com/t/stake-o-matic-delegation-matching-program/790?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Stake-o-Matic</a> — Delegation token matching program.</p><h2><strong>The Solana&nbsp;Podcast</strong></h2><p>The Solana Podcast released three new episodes in September!</p><p><a href=\"https://podcasts.apple.com/us/podcast/kain-warwick-synthetix-founder-ep-26/id1476353378?i=1000490014952&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Kain Warwick — Synthetix Founder</a></p><p><a href=\"https://podcasts.apple.com/us/podcast/clint-ehrlich-ceo-krnc-nsf-funded-computer-scientist/id1476353378?i=1000491701810&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Clint Ehrlich — CEO of KRNC / NSF Funded Computer Scientist</a></p><p><a href=\"https://podcasts.apple.com/us/podcast/balaji-srinivasan-angel-investor-entrepreneur-formerly/id1476353378?i=1000492294671&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Balaji Srinivasan — Angel Investor/Entrepreneur, Formerly the CTO of Coinbase and General Partner at a16z</a></p><h2><strong>181 Validators</strong></h2><p>The Solana Mainnet Beta is now up to 181 validators. Solana Beach now shows stake weighted skip rate and stake weighted node versions.</p><p><a href=\"https://solanabeach.io/?ref=solana.ghost.io#/validators\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Solana Beach</strong></a></p><p><a href=\"https://solanabeach.io/?ref=solana.ghost.io#/validators\" rel=\"noopener noreferrer\" target=\"_blank\">Explore the Solana blockchain: statistics, validators, token metrics and news about the overall ecosystemsolanabeach.io</a></p><h2><strong>Engineering Update</strong></h2><p>The engineering team welcomed a few new faces to the team this month, and with the energy from the new hires, facilitated an exceptional amount of progress during the month of September. From a rapid sprint to the 1.3 network upgrade to the continued iteration on RPC functionality, we’ve continued our steadfast pace and look to make significant updates to the network in Q4 of 2020.</p><p><strong>✨ The Highlights</strong></p><ul><li><strong>A March Towards 1.3:</strong>&nbsp;Solana Labs, Inc will propose a network upgrade to the 1.3 software line in early October. Major changes include improvements to cross-program invocation (CPI) and program address derivation, various performance optimizations to the BPF Loader, feature activation framework for a smoother online activation of new features and built-in support for Secp256k1 signature verification in transactions. Keep your eyes on the forum for more information regarding this upgrade.</li><li><strong>RPC Improvements:&nbsp;</strong>The RPC simulateTransaction commitment parameter is now consistent with all other RPC methods; the RPC send transaction call now returns transaction logs when simulation fails; and other RPC stability improvements and bug fixes were completed.</li><li><strong>Ledger History Cataloguing:&nbsp;</strong>Capitalization (total-supply) is periodically checked by summing all account balances to ensure ledger integrity.</li></ul><p>Take a look at our&nbsp;<a href=\"https://github.com/solana-labs/solana/labels/good%20first%20issue?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">introductory issues in GitHub</a>,&nbsp;<a href=\"https://github.com/solana-labs/solana/pulls?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">peruse our current pull requests</a>, and&nbsp;<a href=\"https://solana.com/discord?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">get in touch with the engineering team on Discord</a>.</p><h2><strong>Closing notes</strong></h2><p>September was an exciting month for the Solana Community. Several new projects started integrating with Solana, wallet options continue to increase, and the decentralization of the network has never been stronger.</p><p>As this mailing list continues to grow it’s important Solana is bringing only the highest quality emails to your inbox. If you have any comments or questions please respond to this email.</p><p>We provide more frequent updates via Blockfolio Signal</p><p>Make sure to follow us on our various social channels to get daily updates on what’s going on in the Solana ecosystem.</p><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockfolio</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb72b2f76a999420291bef714e425304b",
+  "lastUpdated": 1694189886419,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_1f1e12b1e96444109137fc7d38ac7782",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687548742712,
+  "@originId": "1f1e12b1e96444109137fc7d38ac7782",
+  "testRatio": 1,
+  "createdDate": 1687362673181,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=1f1e12b1e96444109137fc7d38ac7782&builder.overrides.1f1e12b1e96444109137fc7d38ac7782=1f1e12b1e96444109137fc7d38ac7782&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "September Newsletter",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

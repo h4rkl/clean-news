@@ -1,0 +1,169 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1648839600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe53d99e7a21f4484be14750e6409b8d9",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Is a Solana Hacker House happening in your city?",
+    "publishedDate": "Sat Apr 02 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Ready for Round 2? More Solana Hacker Houses are coming soon",
+      "ogUrl": "",
+      "ogDescription": "Is a Solana Hacker House happening in your city?",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Ready for Round 2? More Solana Hacker Houses are coming soon",
+      "noFollow": false,
+      "seoDescription": "Is a Solana Hacker House happening in your city?",
+      "seoTitle": "Ready for Round 2? More Solana Hacker Houses are coming soon",
+      "noIndex": false
+    },
+    "title": "Ready for Round 2? More Solana Hacker Houses are coming soon",
+    "twitterMeta": {
+      "twitterTitle": "Ready for Round 2? More Solana Hacker Houses are coming soon",
+      "twitterDescription": "Is a Solana Hacker House happening in your city?"
+    },
+    "slug": "ready-for-round-2-more-solana-hacker-houses-are-coming-soon",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-f23c944d6602415d91b9d0982e646f79",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5977b88b572e4ce0806681e6a240a6a3",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Something big has been happening around the world — and now, there’s more coming.</p><p>The Solana Foundation Hacker Houses have come to cities across the globe to give the Solana community a place to build, meet, and show their projects. Now, the team is heading back out on the road for a slate of new, official Solana Hacker Houses as the community gets ready for&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint</a>, the annual Solana conference (more details coming soon!). It’s your chance to capture the magic.</p><p>Each Solana Hacker House gives builders a place to build, find collaborators, demo their work, and learn from some of the greats in the Solana ecosystem. The Solana Hacker Houses also feature everything you need to do your best work: Good WiFi, food, power, and (of course) swag.</p><p>If you’re interested in joining a Solana Hacker House, you must register ahead of time. Each house has limited capacity, so submit your application early!</p><p>Coming up on the road to Breakpoint:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-faae355847e542959bec27eacc81e4ad",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"width: 90%\">\n<tbody>\n<tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Miami, Florida, USA</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>5-10 April 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://solana.com/events/miami-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n    <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Crypto Bahamas</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>24-29 April 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://solana.com/events/bahamas-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n    <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Bengaluru, India</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>10-15 May 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/bengaluru-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n    <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Tokyo, Japan</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>25-29 May 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/tokyo-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n      <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Austin, Texas, USA</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>4-9 June 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/austin-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n    <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>London, United Kingdom</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>14-18 June 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/london-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n    <tr>\n    <td style=\"width: 45%; vertical-align: middle; padding:10px;\"><p>Barcelona, Spain</p></td>\n    <td style=\"width: 35%; vertical-align: middle; padding:10px;\"><p>22-26 June 2022</p></td>\n    <td style=\"width: 20%; vertical-align: middle; padding:10px;\"><p><a href=\"https://lu.ma/barcelona-hacker-house?ref=solana.ghost.io\">Learn more</a></p></td>\n</tr>\n    </tbody>\n</table>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bc304cbcd31340cba941bed238734fba",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Learn more about additional events from the Solana ecosystem&nbsp;<a href=\"https://solana.com/events?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">at the Solana events directory</a>.</p><p>If there's not a Solana Hacker House coming to your city, stay tuned — more events are coming soon. See you there!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4f2041e8191b4bfc9c9fc9e08a548e0c",
+  "lastUpdated": 1696415434354,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bd755ee716c94c3cb963e1890d7efd06",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687624975112,
+  "@originId": "bd755ee716c94c3cb963e1890d7efd06",
+  "testRatio": 1,
+  "createdDate": 1687362527212,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=bd755ee716c94c3cb963e1890d7efd06&builder.overrides.bd755ee716c94c3cb963e1890d7efd06=bd755ee716c94c3cb963e1890d7efd06&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Ready for Round 2? More Solana Hacker Houses are coming soon",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

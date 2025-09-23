@@ -1,0 +1,238 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1583222400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6040809f26e54859ac7fa74d4bd25abb",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nCongratulations to the team at Chorus One, who successfully executed the largest attack yet in Tour de SOL!\n",
+    "publishedDate": "Tue Mar 03 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "openGraph": {
+      "ogTitle": "SOL Bandits On The Run",
+      "ogUrl": "",
+      "ogDescription": "\nCongratulations to the team at Chorus One, who successfully executed the largest attack yet in Tour de SOL!\n",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "SOL Bandits On The Run",
+      "noFollow": false,
+      "seoDescription": "\nCongratulations to the team at Chorus One, who successfully executed the largest attack yet in Tour de SOL!\n",
+      "seoTitle": "SOL Bandits On The Run",
+      "noIndex": false
+    },
+    "title": "SOL Bandits On The Run",
+    "twitterMeta": {
+      "twitterTitle": "SOL Bandits On The Run",
+      "twitterDescription": "\nCongratulations to the team at Chorus One, who successfully executed the largest attack yet in Tour de SOL!\n"
+    },
+    "slug": "sol-bandits-on-the-run",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_03e6904c00924a32b6187f46a5fa40d0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6e486fb681614dda8835548c251fe8e7"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a08bdcb4a0ca4f81b00df16c8ca465ee"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-c156dfba2613473f8759a1064512319d",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-498aeda0b69140d999d4ad08b7c85f7d",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7ac00520de44244a1521899d53cdf7f?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7ac00520de44244a1521899d53cdf7f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7ac00520de44244a1521899d53cdf7f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7ac00520de44244a1521899d53cdf7f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7ac00520de44244a1521899d53cdf7f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7ac00520de44244a1521899d53cdf7f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7ac00520de44244a1521899d53cdf7f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7ac00520de44244a1521899d53cdf7f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7ac00520de44244a1521899d53cdf7f?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd7ac00520de44244a1521899d53cdf7f?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-477e93a9db8e41f99529366a7e90a7ba",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Congratulations to the team at Chorus One, who successfully executed the largest attack yet in Tour de SOL!</p><p>This week they managed to identify an attack vector allowing them to steal&nbsp;<strong>500 million SOL tokens</strong>&nbsp;from the Tour de SOL test network. To understand how they managed to pull off this incredible attack there are a few things you need to know first:</p><ul><li>When we’ve booted up any of our clusters, whether it be for a Dry Run or Stage 1 in Tour de SOL we run several nodes ourselves, before inviting external Validators to jump in</li><li>These nodes that we run, we call&nbsp;<strong>bootstrap validators</strong>&nbsp;and they start with&nbsp;<strong>all of the stakes</strong>&nbsp;in the network</li><li>As external Validators join the network, the stake is gradually distributed to them over a period of time which we call epochs, and the duration of each epoch can be up to several days long</li><li>As a result of this large amount of stake typically stays with the bootstrap validator for some time</li></ul><p>With the above in mind, the team at Chorus One identified that when it’s a Validators turn to be a leader in the network, and broadcast their transactions to the rest of the network, they can invent any valid transaction they want. Which in itself is not a major issue, so long as the other Validators in the network are honest and will verify the signatures, identify that there is an issue, and then reject the block.</p><p>However, Chorus One cheekily sent transactions created a block with&nbsp;<strong>bogus signatures</strong>&nbsp;and broadcast them to the rest of the network, because they figured out that the code designed to verify transaction signatures was not implemented. other Validators were not verifying the transaction signatures as they should have been. Using this strategy they convinced the network that the 10 SOL tokens were transferred from the Bootstrap Validator to their Validator node instead.</p><p>Below is a dump of the first block that Chorus One injected bogus transactions into before they went on to steal the total 500 million SOL:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e48bb2ad99cd460888801f8c1d164173",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4bb2061a10f45c09524705d4ba6634c?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.184,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 221,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4bb2061a10f45c09524705d4ba6634c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4bb2061a10f45c09524705d4ba6634c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4bb2061a10f45c09524705d4ba6634c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4bb2061a10f45c09524705d4ba6634c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4bb2061a10f45c09524705d4ba6634c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4bb2061a10f45c09524705d4ba6634c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4bb2061a10f45c09524705d4ba6634c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4bb2061a10f45c09524705d4ba6634c?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb4bb2061a10f45c09524705d4ba6634c?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3bbca7486578499bab8e570ab7c6b868",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Bogus Transaction</p><p>Where Account 0 is our Solana Bootstrap Validator, and Account 1 is Chorus One’s Validator. Notice also the transaction signature of almost all 1’s (format is in Base58) which almost never happens and is highly irregular. And of course, the last line, which highlights the bogus transaction of 10 SOL (or 10 billion lamports) from one to the other.</p><p>Had the team at Chorus One not identified this, we would’ve left ourselves open to a major hack if it was exploited after our Mainnet Beta launch. Therefore we want to a&nbsp;<strong>massive</strong>&nbsp;thanks to Chorus One and&nbsp;@Reisen | chorus.one&nbsp;in particular for not only successfully executing the attack, but also the amount of incredible time and effort they’ve invested in thoroughly researching our codebase in preparing for this attack.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fde79ebc21fbf4b34869732e9545423ee",
+  "lastUpdated": 1696416873441,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_66d2a734816044f8a79205c18eda28ee",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687505139396,
+  "@originId": "66d2a734816044f8a79205c18eda28ee",
+  "testRatio": 1,
+  "createdDate": 1687362736444,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=66d2a734816044f8a79205c18eda28ee&builder.overrides.66d2a734816044f8a79205c18eda28ee=66d2a734816044f8a79205c18eda28ee&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "SOL Bandits On The Run",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

@@ -1,0 +1,205 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1663095600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffa43d59e8e154670944fcd6407d1ad9b",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Open to teams globally, Solana Summer Camp saw nearly 18,000 participants submit 750 final projects to the judges.",
+    "publishedDate": "Wed Sep 14 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Meet the winners of the Solana Summer Camp Hackathon",
+      "ogUrl": "",
+      "ogDescription": "Open to teams globally, Solana Summer Camp saw nearly 18,000 participants submit 750 final projects to the judges.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Meet the winners of the Solana Summer Camp Hackathon",
+      "noFollow": false,
+      "seoDescription": "Open to teams globally, Solana Summer Camp saw nearly 18,000 participants submit 750 final projects to the judges.",
+      "seoTitle": "Meet the winners of the Solana Summer Camp Hackathon",
+      "noIndex": false
+    },
+    "title": "Meet the winners of the Solana Summer Camp Hackathon",
+    "twitterMeta": {
+      "twitterTitle": "Meet the winners of the Solana Summer Camp Hackathon",
+      "twitterDescription": "Open to teams globally, Solana Summer Camp saw nearly 18,000 participants submit 750 final projects to the judges."
+    },
+    "slug": "solana-summer-camp-winners",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bec3d03a15a94e16b13707bd0f0163b2"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-ba34bf5feb94421dafd9a4376e47c322",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-834159c58e894ab8a1ec9e1d42ebde79",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">The Solana Foundation is pleased to announce the results of the&nbsp;</span><a href=\"https://solana.com/summercamp?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 20px;\">Solana Summer Camp Hackathon</a><span style=\"font-size: 20px;\">, a global competition focused on bringing the next wave of high-impact projects into the Solana ecosystem. Solana Summer Camp is the sixth Solana hackathon, and while it was primarily an online event, ecosystem teams across the world hosted thousands of participants at offline events in San Francisco, Chicago, Salt Lake City, New York City, London, Lisbon, Amsterdam, Prague, Berlin, Belgrade, and Singapore. The hackathon brought together crypto pioneers and developers from around the world to launch projects on the Solana blockchain spanning Payments, DeFi, Mobile, Gaming, DAOs, and everything in-between.</span></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-968d3e2f0e164dbaa6241d164d0d7f31",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faac45773389b43dbbfa4f3da3a6a98fa?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 1,
+                "lockAspectRatio": false,
+                "height": 1080,
+                "width": 1080,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faac45773389b43dbbfa4f3da3a6a98fa?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faac45773389b43dbbfa4f3da3a6a98fa?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faac45773389b43dbbfa4f3da3a6a98fa?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faac45773389b43dbbfa4f3da3a6a98fa?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faac45773389b43dbbfa4f3da3a6a98fa?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faac45773389b43dbbfa4f3da3a6a98fa?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faac45773389b43dbbfa4f3da3a6a98fa?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faac45773389b43dbbfa4f3da3a6a98fa?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Faac45773389b43dbbfa4f3da3a6a98fa?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7ac10adf8b7a4d8f9b426acdc213c7da",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>[L-R] Some of the Solana Summer Camp events in Berlin, Prague, Belgrade, and Singapore.</p><p>Open to teams globally, Solana Summer Camp saw nearly 18,000 participants submit 750 final projects to the judges. Stripe, Orca, Grape, Solana Mobile, Fractal, and Brave joined the Solana Foundation as category sponsors for the hackathon, offering participants a global prize pool of up to $5 million in prizes and seed funding.&nbsp;</p><p>“I’m thrilled to see the projects that have launched on Solana during Summer Camp,” said Anatoly Yakovenko, co-founder of Solana Labs. “From payments to governance, games to finance to mobile, the builders in the Solana ecosystem are paving the way for mass adoption of blockchain technology.”</p><p>Browse through all the project submissions in&nbsp;<a href=\"https://solana.com/summercamp/voting?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the Solana Summer Camp public directory</a>.</p><p>Without further ado, here are your winners:</p><h2><strong>Grand Champion</strong></h2><p><a href=\"https://solana.com/summercamp/voting/ironforge?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">IronForge</a>, a platform that includes automated deployments, program previews, auto-generated APIs, monitoring and more, received the Grand Champion prize of $65,000 in USDC, along with passes to attend&nbsp;<a href=\"https://solana.com/breakpoint?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Breakpoint</a>, the annual Solana conference in Lisbon Nov. 4-7, 2022, where they will present their project.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-27fb86e6262546d3a0d1a2d3af7ed029",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Payments Track</strong></h2><p>For the Payments track, first place went to&nbsp;<a href=\"https://solana.com/summercamp/voting/sphere?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sphere</a>, which offers custodial and non-custodial payments solutions to help SMB owners, NFT creators, and companies seamlessly accept Solana payments, increase customer engagement, and manage their online crypto store, securing a prize of $50,000 in USDC.</p><p>Additional prizes went to:</p><ul><li><strong>Second:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/stellar-sol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">StellarSOL</a>, which allows users to buy from Amazon and others with USDC via Solana Pay.</li><li><strong>Third:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/solfront?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solfront</a>, a no-code way for merchants to accept crypto payment links and receive USD.</li><li><strong>Fourth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/candy-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">CandyPay</a>, a no-code builder powering mobile NFT experiences.</li><li><strong>Fifth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/monstre?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Monstre</a>, which enables easy access to crypto payments via NFT gift cards.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/summercamp/voting/decaf-wallet?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Decaf</a></li><li><a href=\"https://solana.com/summercamp/voting/helio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Helio</a></li><li><a href=\"https://solana.com/summercamp/voting/maki-vending-experiences?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Maki</a></li><li><a href=\"https://solana.com/summercamp/voting/maius-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Maius Pay</a></li><li><a href=\"https://solana.com/summercamp/voting/gotok?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gotok</a></li></ul><h2><strong>Gaming Track</strong></h2><p>The $50,000 USDC Gaming track award went to&nbsp;<a href=\"https://solana.com/summercamp/voting/solana-rpg-dungeon-quest-metaplex-multicharacter-integration?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">RPG Quest</a>, a lightweight, pixel multicharacter, play-to-earn dungeon game built using Phaser, powered by Metaplex.</p><p>Additional prizes went to:</p><ul><li><strong>Second:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/debeats-make-music-nf-ts-playable?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DeBeats</a>, a decentralized music NFT game built on Solana where you can play, create and earn.</li><li><strong>Third:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/artemi?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Artemi</a>, a GPS-based gamified launchpad that lets creators distribute their NFTs in real-life locations.</li><li><strong>Fourth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/dream-os?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DreamOS</a>, which turns web3 into an extension of your Mac or PC, which enables users to manage gaming and other assets across dApps.</li><li><strong>Fifth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/aimdrop?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Aimdrop</a>, an on-chain wallet analysis solution for Web3 marketing with Semi-Fungible Tokens, especially applicable for Web3 gaming projects.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/summercamp/voting/sgn?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">SGN</a></li><li><a href=\"https://solana.com/summercamp/voting/chain-myth?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Chainmyth</a></li><li><a href=\"https://solana.com/summercamp/voting/gyris?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Gyris</a></li></ul><h2><strong>DAOs Track</strong></h2><p>For the DAOs track, first place went to&nbsp;<a href=\"https://solana.com/summercamp/voting/bastion-community?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bastion</a>, which allows a DAO to become a wallet that transacts across Solana dApps and signs governance proposals, which secured a prize of $50,000 in USDC.</p><p>Additional prizes went to:</p><ul><li><strong>Second:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/xpipe?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Xpipe</a>, which brings real-world financial rails to DAOs.</li><li><strong>Third:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/da-onetes?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Daonetes</a>, which is system that gives developers a decentralized way to run workloads and deploy software.</li><li><strong>Fourth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/dao-chat?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">DAO Chat</a>, a decentralized mobile chat app and chrome extension allowing easy, secure communication between members of DAOs.</li><li><strong>Fifth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/epics-dao?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Epics DAO</a>, a decentralized crowdsourcing platform for open-source software development.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/summercamp/voting/neo-jetty-the-ultimate-web3-community-network?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Neojetty</a></li><li><a href=\"https://solana.com/summercamp/voting/slipstream?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Slipstream</a></li><li><a href=\"https://solana.com/summercamp/voting/validator-dao?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Validator DAO</a></li></ul><h2><strong>DeFi Track</strong></h2><p>For the DeFi track, first place went to&nbsp;<a href=\"https://solana.com/summercamp/voting/dual-finance-risk-manager?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Dual Finance</a>, which provides automated risk management of structured products via gamma scalping, securing a prize of $50,000 in USDC.</p><p>Additional prizes went to:</p><ul><li><strong>Second:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/tensor-trade?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tensor Trade</a>, a high performance NFT marketplace that provides pro traders advanced features.</li><li><strong>Third:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/lulo-finance?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Lulo</a>, a decentralized order book lending protocol.</li><li><strong>Fourth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/props?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Props</a>, a decentralized sports exchange using liquidity pools on Solana.</li><li><strong>Fifth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/ona?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ona</a>, a social trading platform on Solana that allows you to create or invest in perp trades with friends.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/summercamp/voting/de-books?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Debooks</a></li><li><a href=\"https://solana.com/summercamp/voting/sure-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sure Protocol</a></li><li><a href=\"https://solana.com/summercamp/voting/bermuda?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bermuda</a></li><li><a href=\"https://solana.com/summercamp/voting/vyper-vaults-by-vyper-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Vyper Vaults</a></li></ul><h2><strong>Web3 Track</strong></h2><p>For the Web3&nbsp;track, first place went to&nbsp;<a href=\"https://solana.com/summercamp/voting/ora?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Ora</a>, a search engine for blockchain data using AI for human-readable queries, securing a prize of $50,000 in USDC.</p><p>Additional prizes went to:</p><ul><li><strong>Second:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/spling-social-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Spling</a>, an open, composable protocol for social media apps on Solana.</li><li><strong>Third:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/the100?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the100</a>, a TV channel system built on Solana.</li><li><strong>Fourth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/seahorse?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Seahorse</a>, a system for writing Solana programs in python, built on anchor.</li><li><strong>Fifth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/better-call-sol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Better Call Sol</a>, the missing Solana client.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/summercamp/voting/raid?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Raid</a></li><li><a href=\"https://solana.com/summercamp/voting/raid?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Hera Health</a></li><li><a href=\"https://solana.com/summercamp/voting/tokr-labs-real-estate-unbanked?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tokr Real Estate</a></li><li><a href=\"https://solana.com/summercamp/voting/solpipe?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solpipe</a></li></ul><h2><strong>Mobile Track</strong></h2><p>For the Mobile track, first place went to&nbsp;<a href=\"https://solana.com/summercamp/voting/block-live?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">BlockLive</a>, a fast, easy, and transparent event management and ticketing app built on Solana, securing a prize of $50,000 in USDC.</p><p>Additional prizes went to:</p><ul><li><strong>Second:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/cini?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">CINI</a>, a next generation film camera ready to revolutionize the photo space with a capture and earn model.</li><li><strong>Third:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/effisend?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Effisend</a>, a mobile-first wallet, cash out ramp and point of sale super app.</li><li><strong>Fourth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/k-sol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">kSol</a>, a native Android library for everything needed to interact with Solana blockchain, as well as a wallet built on top with Mobile-Wallet-Adapter support.</li><li><strong>Fifth:</strong>&nbsp;<a href=\"https://solana.com/summercamp/voting/chataverse?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Chataverse</a>, an NFT-gated community social app.</li></ul><p>Although they did not win any prizes, the judges would also like to recognize, in no particular order, the work of the following honorable mentions:</p><ul><li><a href=\"https://solana.com/summercamp/voting/collect-ar?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">CollectAR</a></li><li><a href=\"https://solana.com/summercamp/voting/unity-game-mobile-and-web-gl-deeplinks?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Unity Game Mobile</a></li><li><a href=\"https://solana.com/summercamp/voting/solana-mobile-x-capacitor-js?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Capacitor</a></li></ul><h2><strong>University Award</strong></h2><p>The University Award, which recognizes excellence from a project led by university students, went to&nbsp;<a href=\"https://solana.com/summercamp/voting/sol-stamps?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solstamps</a>, software designed to solve email phishing by linking user identities to Solana wallets, receiving a $30k USDC prize for the project.</p><h2><strong>Community Choice Award</strong></h2><p>The Community Choice Award, voted on by the larger Solana community, went to&nbsp;<a href=\"https://solana.com/summercamp/voting/beluga-protocol?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Beluga</a>, a stableswap AMM that enables lower slippage and creation of permissionless pools, receiving a $10k USDC prize for the project.</p><h2><strong>Climate Award</strong></h2><p>The Climate Award, recognizing projects that are built with climate change and sustainability to mind, went to&nbsp;<a href=\"https://solana.com/summercamp/voting/wi-hi?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">WiHi</a>, a decentralized weather forecasting and climate monitoring solution that issues tokens as a reward to weather stations providing accurate data to the network, receiving a $10k USDC prize for the project.</p><p>Thank you to all who submitted a project, judged, and voted. Solana Summer Camp was a rousing success and it could not have been done without your support.</p><p><a href=\"https://solana.com/summercamp/voting?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Check out all the submissions.</a>&nbsp;Congratulations, everyone!</p><p><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd90e3522952246ccb784535a288b344c",
+  "lastUpdated": 1696413620386,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_0685ba8a9c2a450faadfefb7db3ca668",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687558765073,
+  "@originId": "0685ba8a9c2a450faadfefb7db3ca668",
+  "testRatio": 1,
+  "createdDate": 1687362466219,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=0685ba8a9c2a450faadfefb7db3ca668&builder.overrides.0685ba8a9c2a450faadfefb7db3ca668=0685ba8a9c2a450faadfefb7db3ca668&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Meet the winners of the Solana Summer Camp Hackathon",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

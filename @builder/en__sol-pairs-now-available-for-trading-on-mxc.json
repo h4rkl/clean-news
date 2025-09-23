@@ -1,0 +1,247 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1594105200000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nThe Solana Foundation is excited to share that the SOL token will be listed on MXC\n",
+    "publishedDate": "Tue Jul 07 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "SOL Pairs Now Available For Trading On MXC",
+      "ogUrl": "https://www.solana.com/blog/sol-pairs-now-available-for-trading-on-mxc",
+      "ogDescription": "\nThe Solana Foundation is excited to share that the SOL token will be listed on MXC\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "title": "SOL Pairs Now Available For Trading On MXC",
+    "seo": {
+      "internalName": "SOL Pairs Now Available For Trading On MXC",
+      "noFollow": false,
+      "seoDescription": "\nThe Solana Foundation is excited to share that the SOL token will be listed on MXC\n",
+      "seoTitle": "SOL Pairs Now Available For Trading On MXC",
+      "noIndex": false
+    },
+    "twitterMeta": {
+      "twitterTitle": "SOL Pairs Now Available For Trading On MXC",
+      "twitterDescription": "\nThe Solana Foundation is excited to share that the SOL token will be listed on MXC\n",
+      "twitterImage": null
+    },
+    "slug": "sol-pairs-now-available-for-trading-on-mxc",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_03e6904c00924a32b6187f46a5fa40d0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e3b1cc9c0e41498f813cef2258d81647"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2f3a618701124521874730783ed79998"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-5c26eeaf8f82424dab413635a66d8388",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dbbfad06a7524007acb80cfa6290d9b9",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135de7461d4d4925ad24a53fa7aed069?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.523,
+                "lockAspectRatio": false,
+                "height": 628,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135de7461d4d4925ad24a53fa7aed069?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135de7461d4d4925ad24a53fa7aed069?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135de7461d4d4925ad24a53fa7aed069?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135de7461d4d4925ad24a53fa7aed069?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135de7461d4d4925ad24a53fa7aed069?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135de7461d4d4925ad24a53fa7aed069?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135de7461d4d4925ad24a53fa7aed069?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135de7461d4d4925ad24a53fa7aed069?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F135de7461d4d4925ad24a53fa7aed069?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fc11c274d7cc4ed69b3c6e9cbb7c83f5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Trading: July 8th, 3 AM UTCPairs:&nbsp;<a href=\"https://www.mxc.com/trade/easy?ref=solana.ghost.io#SOL_BTC\" rel=\"noopener noreferrer\" target=\"_blank\">SOL/BTC</a>&nbsp;&amp;&nbsp;<a href=\"https://www.mxc.com/trade/easy?ref=solana.ghost.io#MX_USDT\" rel=\"noopener noreferrer\" target=\"_blank\">SOL/USDT</a></p><p>The Solana Foundation is excited to share that the SOL token will be listed on MXC at 3 AM UTC on Wednesday, July 8th! The initial trading pairs will be SOL/BTC and SOL/USDT. To thank our growing global community, Solana will be giving away ◎26,666.67 (roughly worth 20K USD).</p><p>Deposits will be available immediately upon listing with withdraws available 72 hours after listing.</p><p>The $20,000 USD worth of SOL will be split between an Educational Campaign, an AMA in the MXC English Telegram, and an MXC Deposit Campaign.</p><p><strong>Solana’s Official&nbsp;</strong><a href=\"https://solana.com/earn/mxc?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Educational Earn Campaign</strong></a></p><p><strong>(Additional&nbsp;</strong>◎<strong>16,025 Available)</strong></p><p>The rules are as follows:</p><ol><li>The campaign is hosted on Solana’s website at&nbsp;<a href=\"https://solana.com/airdrop/mxc?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">https://solana.com/earn/mxc</a></li><li>The Solana Foundation is offering a SOL giveaway for MXC users that complete a&nbsp;<a href=\"https://solana.com/primer?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">quiz</a>, follow Solana’s&nbsp;<a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>, join the Solana&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">English Telegram</a>&nbsp;group, and for referring new users to join the campaign. The giveaway will be larger for those who refer more people.</li></ol><p>3. Users submit a form with all of the information once having completed the above steps, and also provide the MXC user ID to Solana.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6a0c2902b9f545f8b5255dc12b52af26",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63a844610be14afe98f2a857ca2549f3?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.611,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 303,
+                "width": 496,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63a844610be14afe98f2a857ca2549f3?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63a844610be14afe98f2a857ca2549f3?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63a844610be14afe98f2a857ca2549f3?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63a844610be14afe98f2a857ca2549f3?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63a844610be14afe98f2a857ca2549f3?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63a844610be14afe98f2a857ca2549f3?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63a844610be14afe98f2a857ca2549f3?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63a844610be14afe98f2a857ca2549f3?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F63a844610be14afe98f2a857ca2549f3?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8903a5b972b14b4883f12872cf0a6cf7",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>MXC Deposit Campaign</strong></p><p><strong>(Additional ◎7000 SOL Available)</strong></p><p>Activity Duration: July 8th, 2 AM UTC — July 11th, 2 AM UTC</p><p>Users who deposit SOL on MXC with net deposit amount no less than 100 SOL during the activity duration can share the 7,000 SOL prize pool in proportion to their net deposit amount respectively.</p><h3><strong>You can read the official announcement from MXC&nbsp;</strong><a href=\"https://mxc-exchange.zendesk.com/hc/en-001/articles/360045961031-MXC-Will-List-Solana-SOL-in-Assessment-Zone-and-Hold-Deposit-Activity-With-7-000-SOL-Giveaway?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>here</strong></a><strong>.</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F48415a054df64561a412b42cc5cb7f72",
+  "lastUpdated": 1694189913427,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a9e9b39678fe46319d9c17300308576b",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687536240204,
+  "@originId": "a9e9b39678fe46319d9c17300308576b",
+  "testRatio": 1,
+  "createdDate": 1687362693106,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=a9e9b39678fe46319d9c17300308576b&builder.overrides.a9e9b39678fe46319d9c17300308576b=a9e9b39678fe46319d9c17300308576b&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "SOL Pairs Now Available For Trading On MXC",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

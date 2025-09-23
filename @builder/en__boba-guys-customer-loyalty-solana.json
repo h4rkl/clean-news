@@ -1,0 +1,125 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1681455600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F391b3a598e5348a58cb69aa4f8bd9756",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Boba Guys seeks to enhance and scale customer experience with new program.",
+    "publishedDate": "Fri Apr 14 2023 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Boba Guys building customer loyalty program on Solana",
+      "ogUrl": "",
+      "ogDescription": "Boba Guys seeks to enhance and scale customer experience with new program.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Boba Guys building customer loyalty program on Solana",
+      "noFollow": false,
+      "seoDescription": "Boba Guys seeks to enhance and scale customer experience with new program.",
+      "seoTitle": "Boba Guys building customer loyalty program on Solana",
+      "noIndex": false
+    },
+    "title": "Boba Guys building customer loyalty program on Solana",
+    "twitterMeta": {
+      "twitterTitle": "Boba Guys building customer loyalty program on Solana",
+      "twitterDescription": "Boba Guys seeks to enhance and scale customer experience with new program."
+    },
+    "slug": "boba-guys-customer-loyalty-solana",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_29b188b21b454f448f5aa0d064429cce"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-ab9bb52842ce465fb16a75f388a5a279",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-83388898e9d243f98af841d3cd109633",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Everything Bin Chen and Andrew Chau do for their wildly popular&nbsp;<a href=\"https://www.bobaguys.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Boba Guys</a>&nbsp;cafe chain is about creating an amazing experience for their customers: from their commitment to using premium, real ingredients to providing exceptional customer service.</p><p>When Bin and Andrew envisioned a better loyalty program for their customers, they knew it would have to provide an amazing experience. They wanted a program that would scale with them – Boba Guys has two dozen locations in San Francisco, Los Angeles and New York but with plans for more – and they knew they wanted it to truly reward their amazing supporters, many of whom have been fans for years.&nbsp;</p><p>Today, Boba Guys announced it will build a new next-generation customer loyalty program on Solana (sign-up&nbsp;<a href=\"http://passport.bobaguys.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>&nbsp;to find out more). By collaborating with the Solana Foundation and leveraging the Solana network’s incredible speed, near-zero transaction costs, and its energy efficiency, the cafe chain will be able to offer real-time rewards and perks to customers, making their experience even more personalized and engaging.</p><p>“Integrating with Solana is a game-changer for us,” Bin says. “We’ve always been focused on creating a memorable experience for our customers, and leveraging Solana’s blockchain technology in our loyalty program allows us to do that in a way that’s never been done before.”</p><p>Boba Guys has long been a beloved fixture in the California and New York cafe scene, known for its high-quality boba tea, open and fresh retail spaces, and their vertical integration: owning their own tea company (<a href=\"https://teapeople.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Tea People</a>) and building the first tapioca ball factory in the United States with&nbsp;<a href=\"https://www.usbobaco.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">US Boba Co</a>.</p><p>Today’s announcement is not just about the future of retail loyalty programs. The Solana Foundation has invested $100,000 in the form of a convertible grant into Boba Guys.&nbsp;<a href=\"https://solana.com/news/solana-foundation-convertible-grants-investments?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Read more</a>&nbsp;about Solana Foundation’s grants and investments.</p><p>“Boba Guys’ commitment to providing high-quality, innovative products and services aligns perfectly with our mission to build an inclusive, decentralized future,” said Josh Fried, head of commerce business development at Solana Foundation. “Their vision for the future of cafes and retail is a model that could become the standard in the years to come. This collaboration will show how loyalty programs can be improved for both customers and retailers, and create a path for other organizations to follow.”</p><p>Boba Guys is just the latest in growing businesses exploring the potential of blockchain technology to improve customer experiences and streamline operations.&nbsp;<a href=\"https://solana.com/news/case-study-asics-solana-pay?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">ASICS reached customers in 62 countries</a>&nbsp;last fall with a limited-edition shoe paired with an NFT loyalty badge on Solana.</p><p>Commerce is changing, and Boba Guys is the latest to see how the customer experience can be improved with the power of Solana. Look for more from Boba Guys as this loyalty program takes shape.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F011ae3523f5e48ecb52fc15d8290a41d",
+  "lastUpdated": 1696410755323,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c810a585fb8a4924b0515e5be32b95e3",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687593932236,
+  "@originId": "c810a585fb8a4924b0515e5be32b95e3",
+  "testRatio": 1,
+  "createdDate": 1687362385781,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=c810a585fb8a4924b0515e5be32b95e3&builder.overrides.c810a585fb8a4924b0515e5be32b95e3=c810a585fb8a4924b0515e5be32b95e3&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Boba Guys building customer loyalty program on Solana",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

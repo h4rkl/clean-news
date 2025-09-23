@@ -1,0 +1,275 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1607328000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F25a9f4eb8c874764ab1b3cee3456e471",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Bridging Solana ledger data onto Arweave’s Permanent Network\n",
+    "publishedDate": "Mon Dec 07 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "openGraph": {
+      "ogTitle": "Announcing The SOLAR Bridge",
+      "ogUrl": "",
+      "ogDescription": "\nBridging Solana ledger data onto Arweave’s Permanent Network\n",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Announcing The SOLAR Bridge",
+      "noFollow": false,
+      "seoDescription": "Bridging Solana ledger data onto Arweave’s Permanent Network\n",
+      "seoTitle": "Announcing The SOLAR Bridge",
+      "noIndex": false
+    },
+    "title": "Announcing The SOLAR Bridge",
+    "twitterMeta": {
+      "twitterTitle": "Announcing The SOLAR Bridge",
+      "twitterDescription": "\nBridging Solana ledger data onto Arweave’s Permanent Network\n"
+    },
+    "slug": "announcing-the-solar-bridge",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_205cccdde5d34cf38e80d65b04d53116"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_45c40f68c2a745fb8b921acb45bf6c4c"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3b951e35e2884ba7a783e84bf1c5db64"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dcf4cf851a1a46c4b82062f56a003c18"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_772659bf47bf4a3b91a1cf2d7e0c1bc7"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a08bdcb4a0ca4f81b00df16c8ca465ee"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-37e06e54d8f846e1a49a5e600b13d94d",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-663908ee33a34e00a231bb378f6e9cb7",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h3><strong>Bridging Solana ledger data onto Arweave’s Permanent Network</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-74fc275a78c64abf9eddc1ce45658df6",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96abb688070d42e7adca9e892c1beeec?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.617,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 740,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96abb688070d42e7adca9e892c1beeec?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96abb688070d42e7adca9e892c1beeec?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96abb688070d42e7adca9e892c1beeec?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96abb688070d42e7adca9e892c1beeec?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96abb688070d42e7adca9e892c1beeec?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96abb688070d42e7adca9e892c1beeec?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96abb688070d42e7adca9e892c1beeec?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96abb688070d42e7adca9e892c1beeec?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F96abb688070d42e7adca9e892c1beeec?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3fa05633cfc24bb3a197ece66c9d453c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Today,&nbsp;<a href=\"https://beringwaters.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Bering Waters</a>, a leading OTC, venture, and technology group based in Hong Kong, announced the “SOLAR Bridge,” a first-of-its-kind bridge linking&nbsp;<a href=\"https://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana</a>&nbsp;and&nbsp;<a href=\"https://www.arweave.org/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Arweave</a>. The bridge is now live and was entirely designed, built, and funded as part of Bering Waters commitment to the Solana and Arweave ecosystems. This bridge is a significant development in Solana’s continued growth, making it the first blockchain to move and store its transaction history on a dedicated storage network.</p><p>High-performance blockchains like Solana create an immense amount of data due to the increased amount of block production. Censorship resistant availability of the entire ledger history is necessary for allowing network participants to audit the current state.</p><p>Solana produces blocks every 400 milliseconds, and the network recently passed 50 million cumulative blocks since its inception in March 2020. Currently, Solana can support up to 50,000 transactions per second and is averaging around 80,000,000 transactions per day. This is only the beginning as the network ecosystem continues to grow at lightning speed. To put these numbers in perspective, the Solana blockchain has produced more than two times the number of blocks as Ethereum, Bitcoin, Polkadot, Algorand, and Cosmos blockchains combined.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-47681517f9df45b2ae3bc7733875ccf7",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa54bf05a6e794180afc6f70751708965?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.514,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 288,
+                "width": 560,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa54bf05a6e794180afc6f70751708965?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa54bf05a6e794180afc6f70751708965?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa54bf05a6e794180afc6f70751708965?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa54bf05a6e794180afc6f70751708965?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa54bf05a6e794180afc6f70751708965?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa54bf05a6e794180afc6f70751708965?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa54bf05a6e794180afc6f70751708965?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa54bf05a6e794180afc6f70751708965?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa54bf05a6e794180afc6f70751708965?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3105653ca6564c788d109aa9908dbcc5",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Arweave is a powerful new protocol that runs a decentralized, permanent network to store data&nbsp;permanently,&nbsp;immutably,&nbsp;and&nbsp;reliably. Similar in concept to Proof-of-Work, permanent data storage is made possible by Arweave’s economic model that effectively creates an “endowment” for each piece of stored data, rewarding those who store and recall it the longest. Therefore, paying to store data on Arweave is a one-time transaction — with no recurring costs, fees, or technical maintenance — that stores data forever.</p><p>It’s important to note that Arweave is not expensive; it’s more costly to store data short-term — this is because when you store data on Arweave, it’s permanent. Ledger transition data and indexing from the Solana network will be entirely stored on Arweave with future development efforts to support richer indexes.</p><p>While Arweave is in use today as a tool&nbsp;<a href=\"https://techcrunch.com/2020/03/05/coronavirus-censorship-arweave/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">against censorship</a>&nbsp;and a vital component of the&nbsp;<a href=\"https://arweave.medium.com/arweave-the-internet-archive-building-a-verifiable-record-of-history-9787ba018020?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Internet Archive</a>, it was initially designed for blockchain data. This is one of the primary reasons why a16z crypto, Multicoin Capital, Coinbase Ventures, and Union Square Ventures all&nbsp;<a href=\"https://arweave.medium.com/welcoming-a16z-crypto-union-square-ventures-and-multicoin-capital-to-the-arweave-community-56ccc9f98ff3?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">invested</a>&nbsp;in the project. While Solana is the first network to deploy a bridge to Arweave, other prominent projects have decided to follow this approach. Inspiration for this storage approach dates back to July 2019 when Vitalik first&nbsp;<a href=\"https://ethresear.ch/t/bitcoin-cash-a-short-term-data-availability-layer-for-ethereum/5735?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">suggested</a>&nbsp;using bitcoin cash’s blockchain as a “data availability layer.”</p><p>“Many highly scalable blockchain solutions require large amounts of data to be stored for indefinite periods of time. Arweave is a perfect solution to this problem. We have been very excited to see the recent rapid adoption of Arweave to solve these problems for Solana,” said Sam Williams, Arweave, Co-Founder.</p><p>Bering Waters Tech validated the bridge using a rigorous set of benchmarks, including historical and synthetic data sets, to stress test the technology in both standard and extreme scenarios while maintaining cost and efficiency thresholds.</p><p>“One of the challenges with building a high-performance smart contract platform is ensuring that the ledger data has a highly fault-tolerant, decentralized storage solution,” said Anatoly Yakovenko, Co-Founder, Solana. “I believe in a multi-chain future where chains can and should specialize and interoperate. It doesn’t make sense to build a dedicated storage network and force that burden on validators when a perfectly amazing solution already exists and is more economically rational than anything we could build.”</p><p>In the short term, Arweave will be funded by a grant with the long term goal of paying for Arweave with payout rewards for light client proofs of storage of Solana blocks.</p><p>With the integration of Arweave, Solana will no longer be pursuing replicators as a means for storage. Arweave is a better alternative because Solana does not have to worry about it. This allows the Solana team to focus on what they are great at, high-performance replicated state machines, and Arweave can focus on decentralized storage solutions.</p><p>Solana, Arweave, and Bering Waters are all committed to making stored data public, available, and queryable, now and forever.</p><h3><strong>Follow Solana on the channels below for daily&nbsp;updates!</strong></h3><p><a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>&nbsp;|&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>&nbsp;|&nbsp;<a href=\"https://www.reddit.com/r/solana/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>&nbsp;|&nbsp;<a href=\"https://www.youtube.com/c/solanalabs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>&nbsp;|&nbsp;<a href=\"https://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a>&nbsp;|&nbsp;<a href=\"https://vk.com/solanarus?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">VK</a>&nbsp;|&nbsp;<a href=\"https://www.weibo.com/SolanaNews?is_all=1&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Weibo</a>&nbsp;|&nbsp;<a href=\"https://blockfolio.com/coin/SOL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Blockfolio</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffc52a5a56279413cb912ce7449ae8f9b",
+  "lastUpdated": 1696416522311,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_92d0a1fce7f542cab262162c2d532655",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687593315030,
+  "@originId": "92d0a1fce7f542cab262162c2d532655",
+  "testRatio": 1,
+  "createdDate": 1687362655208,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=92d0a1fce7f542cab262162c2d532655&builder.overrides.92d0a1fce7f542cab262162c2d532655=92d0a1fce7f542cab262162c2d532655&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Announcing The SOLAR Bridge",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

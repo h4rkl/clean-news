@@ -1,0 +1,117 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1587970800000,
+    "image": "",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nOver the course of the day, there was some confusion about how a single account could have a balance of 13+ million SOL. The confusion…\n",
+    "publishedDate": "Mon Apr 27 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "seo": {
+      "internalName": "Solana Will Reduce Its Token Supply to Account for Market Making Allocation",
+      "noFollow": false,
+      "seoDescription": "\nOver the course of the day, there was some confusion about how a single account could have a balance of 13+ million SOL. The confusion…\n",
+      "seoTitle": "Solana Will Reduce Its Token Supply to Account for Market Making Allocation",
+      "noIndex": false
+    },
+    "title": "Solana Will Reduce Its Token Supply to Account for Market Making Allocation",
+    "openGraph": {
+      "ogTitle": "Solana Will Reduce Its Token Supply to Account for Market Making Allocation",
+      "ogUrl": "https://www.solana.com/blog/solana-will-reduce-its-token-supply-to-account-for-market-making-allocation",
+      "ogDescription": "\nOver the course of the day, there was some confusion about how a single account could have a balance of 13+ million SOL. The confusion…\n",
+      "ogImage": null,
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "Solana Will Reduce Its Token Supply to Account for Market Making Allocation",
+      "twitterDescription": "\nOver the course of the day, there was some confusion about how a single account could have a balance of 13+ million SOL. The confusion…\n",
+      "twitterImage": null
+    },
+    "slug": "solana-will-reduce-its-token-supply-to-account-for-market-making-allocation",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-c129a6225ce54ad4af73d931aa99a640",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-00a1721db36249709b0ce98e60272517",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>This Statement is subject to change based on new developments. Please check back here for the latest information.</p><p>Over the course of the day, there was some confusion about how a single account could have a balance of 13+ million SOL. The confusion stemmed from the fact that Solana’s stated initial circulating supply would be equal to the amount of tokens distributed through its CoinList auction in late March, plus a small amount distributed as part of a series of airdrop campaigns on Binance, which was around 8m tokens. Some members of our community did great work building tools to view token balances, and found an account totalling ◎13,527,651 tokens.</p><p>The end result:&nbsp;<a href=\"https://t.me/solanaannouncements/45?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">we made an announcement</a>&nbsp;at 6:25pm PST about this. The tl;dr is that per standard industry practice, the Solana Foundation contracted a market maker to provide liquidity in the aftermarket and ensure that buy and sell orders always get met, regardless of macro conditions, seasonality, or daily fluctuations in trading volume. Market makers are standard for any listed token project, as well as in traditional financial markets for meeting liquidity requirements, and play an important role in our goal to reduce friction, facilitating growth for the SOL token ecosystem, and bringing Solana to every wallet in the world. As part of this agreement, the Solana Foundation agreed to lend the market maker ◎11,365,067 tokens for a 6 month period. The problem: we did not disclose this information to the public, as well as the size and nature of the loan, during the CoinList auction and subsequent Binance listing.</p><p><strong>We apologize deeply for any confusion this may have caused. It pains us greatly to see the discord and distraction this oversight has caused to our community of over 150,000 members globally. The Solana community has held strong through 2 years of painstaking development to get to this point, so transparency and respect for that community is our highest priority.</strong></p><p>To make things right, we’re taking two steps toward ensuring full transparency into past and future token releases.</p><h2><strong>First off, we’re setting the record straight on what happened.</strong></h2><p>The following represent ALL of the unlocked tokens not in the direct control of Solana Labs or the Solana Foundation:</p><p><strong>◎8,261,584 have been distributed through the CoinList auction and the Binance airdrops</strong></p><ul><li>◎8,000,000 were initially distributed through the CoinList auction</li><li>◎19,721 were distributed to CoinList auction participants whose bids were dropped due to a glitch in the CoinList dutch auction clearing mechanism</li><li>◎236,363 were distributed as part of&nbsp;<a href=\"https://twitter.com/binance/status/1247393036083974144?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the initial Binance airdrop campaign</a></li><li>◎5,464 were distributed as part of AMA campaigns in Binance’s international communities.</li></ul><p><strong>◎11,365,067 are on loan (from the Foundation) to a market making firm for liquidity provisioning.</strong></p><ul><li>Market makers provide liquidity by quoting bid/ask spreads in pairs such as SOL/BTC, SOL/BUSD, and SOL/BNB (and future pairs on other exchanges); this ensures that there is always a price at which market participants can buy and sell tokens at any time in both small and large sizes</li><li>Market makers are non-directional and make markets more efficient by reducing price volatility, assisting with fair price discovery, and preventing market manipulation</li><li>Nothing has changed since the CoinList auction and Binance listing.</li></ul><p><strong>Besides the above, the Foundation has not released or sold any additional tokens into the market. The above tokens are NOT from the Solana team, or from Solana investors.</strong></p><ul><li>The team’s and investors’ tokens are all 100% locked up.</li><li>Neither the Solana team nor Solana Foundation profit from the sale of these tokens.</li><li>As of April 27, the Foundation does not have any plans to introduce more tokens to the market. Any plans to do so will be disclosed publicly beforehand.</li><li>There will not be any additional tokens allocated for liquidity provisioning without public disclosure.</li></ul><p>Given recent feedback, we will always include the loan for market making when discussing circulating supply. These tokens are unlocked and not under Foundation control while on loan to the market maker, but it is important to note that no employee or officer of Solana Labs or the Solana Foundation have or will profit from the sale of these tokens.</p><h2><strong>Second, we’re reducing the supply in circulation.</strong></h2><p>After speaking with Binance and our market maker, we plan to reduce the circulating supply by&nbsp;<strong>removing the ◎11,365,067 supply from the market within the next 30 days. After removing the supply, we aim to burn the tokens.</strong></p><p>In addition, $100,000 in BNB will be airdropped to users who have traded SOL on Binance proportionally based on their total number of trading volume between 2020/04/09 4:00AM (UTC) and 2020/04/28 4:00 AM (UTC). All these actions will be audited by Binance. We’re continuing to discuss and form steps for this plan of action alongside Binance’s team.</p><p>We will also restructure the market making agreement in a more transparent way. To stay updated on the execution of this plan, please be sure to join the&nbsp;<a href=\"http://t.me/solanaannouncements?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announcements Telegram</a>. We will issue updates there, as well as issue updates on all of our usual channels, as the plan unfolds.</p><p>— -</p><p>To stay updated on the execution of this plan, please be sure to join the&nbsp;<a href=\"http://t.me/solanaannouncements?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announcements Telegram</a>. We will issue updates there, as well as issue updates on all of our usual channels, as the plan unfolds. For further questions,&nbsp;<a href=\"http://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">please message us</a>&nbsp;on our Telegram chat. We are always available to chat and clarify any confusion.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F9f30cf60d2f44390af1d1800b2fc0e07",
+  "lastUpdated": 1694189894722,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3bbcfe2e89f74977a92cf9278047ad20",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687529195998,
+  "@originId": "3bbcfe2e89f74977a92cf9278047ad20",
+  "testRatio": 1,
+  "createdDate": 1687362706426,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=3bbcfe2e89f74977a92cf9278047ad20&builder.overrides.3bbcfe2e89f74977a92cf9278047ad20=3bbcfe2e89f74977a92cf9278047ad20&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Will Reduce Its Token Supply to Account for Market Making Allocation",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}

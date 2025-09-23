@@ -1,0 +1,274 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1652900400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d8c16af2a6f44d49089f5f675cac515",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Powerful purchases with transaction requests, plus other news and headlines from the Solana ecosystem.",
+    "publishedDate": "Thu May 19 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Monthly Community Update | April/May 2022",
+      "ogUrl": "",
+      "ogDescription": "Powerful purchases with transaction requests, plus other news and headlines from the Solana ecosystem.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Monthly Community Update | April/May 2022",
+      "noFollow": false,
+      "seoDescription": "Powerful purchases with transaction requests, plus other news and headlines from the Solana ecosystem.",
+      "seoTitle": "Monthly Community Update | April/May 2022",
+      "noIndex": false
+    },
+    "title": "Monthly Community Update | April/May 2022",
+    "twitterMeta": {
+      "twitterTitle": "Monthly Community Update | April/May 2022",
+      "twitterDescription": "Powerful purchases with transaction requests, plus other news and headlines from the Solana ecosystem."
+    },
+    "slug": "monthly-community-update-april-may-2022-2",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_579594b35d834021ba8f47acd12c3592"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-70f4fde4dff84a949d46a443624c72ad",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e56b56aa483d46478029e3621af87363",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Get this update first.&nbsp;<a href=\"http://eepurl.com/gOcpoL?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up for the Solana Community Update newsletter!</a></p><h2><strong>Transaction Requests: Bringing smart purchases to Solana Pay</strong></h2><p>It was a packed house at San Francisco’s Atlas Cafe on May 5th, 2022. The Solana Pay team had taken the iconic coffeehouse to show the world its latest innovation — transaction requests.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-987d33945dff4a57a9bfbc67d12c5a5e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/solana/status/1522597374559981570?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1522597374559981570%7Ctwgr%5Eb4a37fbd75ba95dd0197302d1e978c86e2cdecdb%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fmonthly-community-update-april-may-2022-2</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7ca2d42598dc41149c225d66a0a419cc",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>“What transaction requests do is allow any NFT to act as a loyalty token,” said Sheraz Shere, head of payments for Solana Labs, in a video from the event. People at the event received a special NFT, which automatically generated a 20% discount when using Solana Pay. “NFT loyalty, in a box,” he said.</p><p>When it was introduced in February 2022, the Solana Pay protocol acted as a one-way payments rail that allowed people to easily transfer tokens using a QR code, making it easy to connect wallets for IRL purchases.</p><p>“But with transaction requests,” writes Solana Labs engineer Jordan Sexton, “it’s now possible to bring any Solana transaction into the real world through an interactive request between a checkout app and a mobile wallet, enabling NFT minting, dynamic discounts, tokenized loyalty programs, and so much more.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ee8b2c97e2f94d62b5e3b7651a9192ba",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0171067cfca4fe5a1869bede8fb6edc?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.487,
+                "lockAspectRatio": false,
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw",
+                "height": 487,
+                "width": 1000,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0171067cfca4fe5a1869bede8fb6edc?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0171067cfca4fe5a1869bede8fb6edc?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0171067cfca4fe5a1869bede8fb6edc?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0171067cfca4fe5a1869bede8fb6edc?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0171067cfca4fe5a1869bede8fb6edc?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0171067cfca4fe5a1869bede8fb6edc?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0171067cfca4fe5a1869bede8fb6edc?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0171067cfca4fe5a1869bede8fb6edc?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fb0171067cfca4fe5a1869bede8fb6edc?width=542 542w"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a4b74ff4006f425580d934429dfe9c86",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><span style=\"font-size: 20px;\">That means that purchases can become much more than a single, one way transaction — they can become conversations. Taking the dynamic experience of Solana transactions IRL means that consumers and merchants can both benefit more meaningfully from a commerce transaction.</span>At Atlas Cafe, more than 400 attendees received the NFT loyalty token establishing a lasting, direct connection between the cafe and its customers, many of whom had never used a crypto wallet before attending. That’s something to celebrate!</p><p><a href=\"https://solana.com/news/solana-pay-transaction-requests-bring-on-chain-interactivity-to-the-off-chain-world?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here.</a></p><h2><strong>Top Solana News</strong></h2><h3><strong>Solana NFTs are coming to Instagram</strong></h3><p>This is big. Instagram announced it would be integrating NFTs on Solana and several other chains!</p><p>Head of Instagram Adam Mosseri announced that Instatgram would allow people to display the NFTs they either made or bought&nbsp;<a href=\"https://twitter.com/mosseri/status/1523655590672695296?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">in a tweet</a>. The initial rollout will go to a small test group. \"We wanted to start small and learn from the community,\" he said.</p><p><a href=\"https://www.coindesk.com/business/2022/05/08/metas-instagram-to-support-nfts-from-ethereum-polygon-solana-flow/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more at Coinbase.</a></p><h3><strong>Major League Hacking hacks on Solana</strong></h3><p>Good news, students and people new to the Solana ecosystem! Major League Hacking, a global community for student builders, is teaming up with Solana Labs for a new summer fellowship program. Fellows will team up with a mentor, receive a stipend, and get a chance to interview for roles in the ecosystem.&nbsp;<a href=\"https://fellowship.mlh.io/?utm_campaign=fellowship-hackers-solana_labs_social_post_april_15&amp;utm_medium=social&amp;utm_source=twitter\" rel=\"noopener noreferrer\" target=\"_blank\">Find out more.</a></p><h3><strong>DeGods DAO buys a basketball team</strong></h3>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-563172739c814a7c850383576d90520c",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>https://twitter.com/DeGodsNFT/status/1519672039962935297?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1519672039962935297%7Ctwgr%5Eb4a37fbd75ba95dd0197302d1e978c86e2cdecdb%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fsolana.com%2Fnews%2Fmonthly-community-update-april-may-2022-2</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-37e0e53646ce43dfb9b4b7807f7d4998",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Score. DeGods DAO, the decentralized organization that came out of the Solana NFT project, has purchased a professional basketball team.</p><p>The Killer 3s are part of Ice Cube's Big3 League. The DAO has announced they plan to offer tickets, merch, and \"part-ownership.\"&nbsp;<a href=\"https://finance.yahoo.com/news/degods-dao-buys-big3-league-034614159.html?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here.</a></p><h2><strong>Ecosystem Headlines</strong></h2><p>Here's what's new this month:</p><ul><li>Phantom wallet is officially&nbsp;<a href=\"https://twitter.com/phantom/status/1517187083621781506?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">live on Android</a>.</li><li><a href=\"https://twitter.com/everlendfinance/status/1522232994357985280?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Everlend</a>, a decentralized meta lending protocol with a built-in money market and yield/loan aggregator, is now live on Solana mainnet.</li><li>Glow Wallet, a wallet to store, send, receive, stake and swap tokens on the Solana blockchain,&nbsp;<a href=\"https://twitter.com/solblaze_org/status/1522595345896669185?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">has integrated Solana Pay SDK</a>.</li><li><a href=\"https://twitter.com/Releap_IO/status/1511071563986386944?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Releap</a>, a platform for Musicians and music NFTs built on Solana, launched the beta version of their app.</li><li>Zebec Protocol&nbsp;<a href=\"https://twitter.com/Zebec_HQ/status/1518759263534940160?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">brings customizable multisig</a>&nbsp;to the Solana ecosystem.</li><li><a href=\"https://twitter.com/UmbNetwork/status/1519403029807747072?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Umbrella Network</a>, a decentralized community owned layer 2 oracle, launched on Solana mainnet.</li><li>Bridgesplit&nbsp;<a href=\"https://twitter.com/DefiVaults/status/1515444847812915202?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">is bridging the gap</a>&nbsp;between NFTs and DeFi on Solana.</li></ul><p><br></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F7a00c970d6bf4adb80f443a55e04dafc",
+  "lastUpdated": 1696414739606,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_117d4341983a42139e749fb68af874e0",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687551760285,
+  "@originId": "117d4341983a42139e749fb68af874e0",
+  "testRatio": 1,
+  "createdDate": 1687362504227,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=117d4341983a42139e749fb68af874e0&builder.overrides.117d4341983a42139e749fb68af874e0=117d4341983a42139e749fb68af874e0&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Monthly Community Update | April/May 2022",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

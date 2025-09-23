@@ -1,0 +1,909 @@
+{
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "createdDate": 1753727133161,
+  "data": {
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e",
+      "model": "author"
+    },
+    "datePublished": 1753891200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4428accb508b40b39b81dad081cf30b2",
+    "intro": "Helium's decentralized wireless network powered by Solana is creating more affordable internet for all. Learn how they built it in this technical deep dive.",
+    "seo": {
+      "metaType": "article",
+      "seoDescription": "Learn how to scale your hardware and physical infrastructure faster on Solana in this technical deep dive on Helium, a decentralized wireless network.",
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F4428accb508b40b39b81dad081cf30b2",
+      "seoTitle": "Case Study: A Technical Deep Dive on Helium, Decentralized Wireless Provider"
+    },
+    "slug": "case-study-helium-technical-guide",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5",
+          "model": "entity-blog-tags"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a06f417c4cb24d50b4ca8ca34a2230a7",
+          "model": "entity-blog-tags"
+        }
+      }
+    ],
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Case Study: A Technical Deep Dive on Helium"
+    },
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-851f677adefd49519fd6c9b101aef7a1",
+        "meta": {
+          "previousId": "builder-4fbfe92876804762b8dfc8f82b084eb0"
+        },
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          },
+          "isRSC": null
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f30652921a544f34a7cea9227868732c",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline",
+                "callToAction.eyebrow",
+                "callToAction.headline",
+                "callToAction.description",
+                "callToAction.button.label"
+              ],
+              "previousId": "builder-7dd875cdd740431ebccc08eabeef0ae3"
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Learn More"
+                    },
+                    "hierarchy": "outline",
+                    "url": "https://solana.com/solutions/depin"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Decentralized Physical Infrastructure Networks (DePIN)"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Learn how Solana can help scale your physical infrastructure or hardware products."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In this article"
+                }
+              },
+              "isRSC": null
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-9472d3f0e0b0446fad20efffbfbfb79e",
+                "meta": {
+                  "previousId": "builder-a8c4d78b848d4352a8b966cfcd838b96",
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong>Highlights</strong></p><ul><li><strong>Massive Scale:</strong> Helium operates 400,000+ active hotspots across 80 countries, processing 576TB of data in Q4 2024 alone (555% quarter-over-quarter growth) while serving 124,000+ mobile users with real consumer demand</li><li><strong>\"Lazy Claiming\" Architecture:</strong> Instead of expensive daily blockchain payouts, Helium's oracles track earnings off-chain while users claim rewards on-demand, reducing transaction costs to just $0.07 per year for daily claims</li><li><strong>Enterprise-Grade Anti-Gaming System:</strong> Helium's Proof of Coverage requires hotspots to beacon every 6 hours with cryptographic verification from ~12 nearby witnesses, plus hardware authentication with embedded ECC/RSA keys to prevent location spoofing and device clustering</li><li><strong>Solana Migration Benefits:</strong> Moving from 10 TPS to 1,600+ TPS unlocked massive scalability, with hotspots minted as compressed NFTs at ~$0.50-$1.00 each (1000x cheaper than traditional NFTs) and seamless composability with Solana DeFi protocols. Transactions on Helium's previously operated chain cost $0.30 on average vs. Solana's average fee of ~$0.01 and ~$0.001 median fee (<a href=\"https://blockworks.co/analytics/solana/solana-onchain-activity/solana-transaction-fees\" rel=\"noopener noreferrer\" target=\"_blank\">source</a>)</li><li>If you prefer a video, you can watch the full <a href=\"https://www.youtube.com/watch?v=TJNXM9xVZo8\" rel=\"noopener noreferrer\" target=\"_blank\">Helium DePIN Case Study interview here</a></li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                    "paddingTop": "20px",
+                    "paddingLeft": "20px",
+                    "paddingRight": "20px",
+                    "paddingBottom": "20px",
+                    "opacity": "1",
+                    "borderRadius": "20px",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-4a5d5c9c97f04083a309354cf7c78811",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-2646b26f2a254dd88ac825d40c2f4672"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2><strong>Helium at a Glance</strong></h2><p>Launched in 2019 by Amir Haleem,<a href=\"https://www.helium.com/\" rel=\"noopener noreferrer\" target=\"_blank\"> Helium</a> set out to build a decentralised wireless network for IoT devices. The vision: Anyone can buy a hotspot. Plug it in. Earn tokens for providing coverage. The reality? Anything but simple.</p><p>By 2024, Helium had:</p><ul><li>Over 400,000 active hotspots. 1 million on-chain. 32,900 new IoT hotspots and 24,800 new 5G mobile hotspots added in Q4 2024</li><li>Offloaded more than 576 TB of data traffic for operators in Q4 2024. A 555% quarter-over-quarter increase</li><li>Surpassed 124,000 cumulative<a href=\"https://www.helium.com/mobile\" rel=\"noopener noreferrer\" target=\"_blank\"> Helium Mobile</a> users, with real consumer demand finally materialising</li><li>Expanded from IoT to 5G mobile, and has become the backbone for other DePIN projects, such as mapping</li><li><a href=\"https://docs.helium.com/solana/\" rel=\"noopener noreferrer\" target=\"_blank\">Migrated from its blockchain to Solana</a> on April 18, 2023, enabling true global scale and composability</li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-2f17c9d9e9eb4936a9f61262c26ad60a",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-3414af4a0711496c9624ca55a33d9ca9"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2><strong>Hardware Evolution From Raspberry Pi to Enterprise-Grade Devices</strong></h2>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-128f9f1743364254bd258286e88f5bc2",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fde552564d11d45e580e8ac81cd87a1df?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.49,
+                    "lockAspectRatio": false,
+                    "height": 951,
+                    "width": 1940,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-79066a449fba4c21b945ad69c9c97354",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-2f17c9d9e9eb4936a9f61262c26ad60a"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Helium’s journey began with a grassroots approach: the original blockchain ran on Raspberry Pi devices, making it accessible for hobbyists and early adopters. As the network scaled, the hardware evolved to support more robust, enterprise-grade deployments.</p><ul><li>Early Days: Raspberry Pi-based hotspots, easy for individuals to deploy.</li><li>Scaling Up: Transition to custom hardware and integration with existing devices (e.g., Ubiquiti, Eero).</li><li>Enterprise Deployments: Large-scale rollouts in retail and enterprise environments, leveraging existing infrastructure for rapid expansion.</li></ul><p>A key growth lever for Helium has been converting existing WiFi and networking hardware into Helium-compatible hotspots. In fact, 60,000 of 100,000 mobile hotspots are converted devices (e.g., Ubiquiti routers), accelerating growth and reducing deployment costs.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-cd28fee9c01249e9a6de4915942e6e43",
+                "meta": {
+                  "previousId": "builder-747ca978cbe44652b20a3844b80c596f"
+                },
+                "component": {
+                  "name": "Embed",
+                  "options": {
+                    "url": "https://www.youtube.com/watch?v=TJNXM9xVZo8",
+                    "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/TJNXM9xVZo8?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;\"></iframe></div>"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-541999bed9e0443881d8826e5612203b",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-b0dae85cc2e64873b3941d1fc7721c6b"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>How Helium is Built</h2><h3>Distribution: Why Lazy Claiming Wins at Scale</h3><p>Helium uses a<a href=\"https://docs.helium.com/oracles/rewards-oracles/\" rel=\"noopener noreferrer\" target=\"_blank\"> lazy claim-based rewards system</a>, not a push-based one.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-7d23df8aca2643feb66ea1c21cf3894d",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6efabeaad6cc41f7ab5db5551bb679e0?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.094,
+                    "lockAspectRatio": false,
+                    "height": 183,
+                    "width": 1939,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-fdbeee829f0b475596c9b1bd415f1162",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-541999bed9e0443881d8826e5612203b"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong>What is lazy claiming?</strong> In traditional \"push-based\" systems, the blockchain automatically distributes rewards to every participant on a fixed schedule, like sending paychecks every Friday. For Helium, this would mean hundreds of thousands of daily on-chain transactions leading to massive congestion and expensive fees.</p><p>Instead, Helium's system works more like a bank account:<a href=\"https://docs.helium.com/oracles/rewards-oracles/\" rel=\"noopener noreferrer\" target=\"_blank\"> oracles track each hotspot's lifetime earnings off-chain</a>, but the blockchain only records what users have withdrawn. When a hotspot owner wants to access their rewards (to stake, sell, or use), they \"claim\" the difference between their total earned amount and what they've previously claimed.</p><p>A Concrete Example:</p><ul><li>Day 1: Hotspot earns 5 HNT, claimed = 0 → User can claim 5 HNT.</li><li>Day 2: Hotspot earns 5 more HNT (total = 10 HNT), claimed = 5 → User can claim 5 more HNT.</li><li>On-Chain State: Only the difference between total earned and previously claimed is processed, minimising blockchain transactions.</li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-21fb6b127f744657b92d8813a17c4c7d",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-7cc7c55aa3b7475fb9998d7938292d63"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h3><strong>Anti-Spam &amp; Gaming</strong></h3><p>Helium's early days were the wild west. Some users spoofed locations, clustered devices, or gamed the system for rewards. The team responded with a multi-layered defense:</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-913078e31be2485787a560d8a82c1bd5",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc61ed9ebaae34c549c0154ea6706d976?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.412,
+                    "lockAspectRatio": false,
+                    "height": 798,
+                    "width": 1939,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-bd2416b52acd45f0898bc5e5cffda316",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-21fb6b127f744657b92d8813a17c4c7d"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong>a)</strong> <strong>Proof of Coverage:</strong><a href=\"https://docs.helium.com/iot/proof-of-coverage/\" rel=\"noopener noreferrer\" target=\"_blank\"> Cryptographic verification system</a> to ensure hotspots are actually where they claim to be. Hotspots self-beacon every 6 hours, though this time window may change, with each beacon being witnessed by approximately 12 other nearby hotspots. This creates a web of cryptographic proof that devices are providing real coverage in real locations.</p><p>Think of it like a neighbourhood watch system where each house (hotspot) periodically calls out, \"I'm here and working!\" and nearby houses confirm they heard the call. If someone tries to fake their location or cluster multiple devices, the geometric patterns of these confirmations expose the fraud.</p><p><strong>b) Ban Lists &amp; Custom Detection:</strong> Algorithms to spot and exclude cheaters, with industry-specific anti-gaming logic that evolves based on new attack vectors.</p><p><strong>c) Hardware Authentication:</strong> ECC and RSA keys embedded in hardware, with factory pre-signing to prevent onboarding fraud. The move from WiFi-based onboarding to factory pre-signing and QR codes has dramatically reduced attack surfaces.</p><p><strong>d) ECC Verifier:</strong> Rust Service for Key Validation</p><ul><li>Solana can’t natively verify some hardware keys, so Helium built an external verifier.</li><li>The ECC verifier is a Rust service that validates ECC keys, bridging the gap between hardware and blockchain.</li><li>This ensures only genuine, factory-authorized devices can join the network.</li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-3712a05a10704c988d3f5e71c219e59c",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-bd2416b52acd45f0898bc5e5cffda316"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h3><strong>Scale &amp; Performance</strong></h3><p>Helium has expanded to over 350,000 hotspots across 80 countries as of Q4 2024. The network structure includes:</p><ul><li><strong>IoT Hotspots</strong>: Provide LoRaWAN coverage for IoT devices</li><li><strong>Mobile Hotspots</strong>: Support 5G/WiFi coverage, with hundreds of thousands of Hotspots deployed by a global community</li><li><strong>Organisational Users (OUIs)</strong>: Over 100 organisations running applications and solutions on the Helium IOT Network</li></ul><p>Their original chain capacity was around 10 transactions per second, which was insufficient for a network where hundreds of thousands of devices needed to transact daily. But the <a href=\"https://docs.helium.com/solana/\" rel=\"noopener noreferrer\" target=\"_blank\">migration to Solana</a> in April 2023 unlocked massive scalability improvements.</p><p>Today, Helium processes terabytes of data daily, with public S3 data buckets for transparency and oracles for attestation while leveraging Solana’s TPS of over 1600. In Q4 2024 alone, Helium offloaded more than<a href=\"https://messari.io/report/state-of-helium-q4-2024\" rel=\"noopener noreferrer\" target=\"_blank\"> 576 TB of data for operators&nbsp; –&nbsp; a 555% increase over the previous quarter</a>.</p><h4><strong>Now, the costs are insignificant.&nbsp;</strong></h4><p>Every new Helium Hotspot owner is gifted enough SOL to cover 100 standard transactions. At a base transaction fee of 0.000005 SOL per transaction, this is approximately 0.00139 SOL (roughly $0.035). Fun fact: a Hotspot owner could claim rewards every day of the year and only spend $0.07.</p><p>For Helium, each hotspot is minted as a<a href=\"https://docs.helium.com/solana/rewardable-entites/\" rel=\"noopener noreferrer\" target=\"_blank\"> compressed NFT on Solana</a>. This reduces the cost of on-chain representation up to 1000x (Minting 1 million cNFTs costs only a few hundred dollars in SOL, compared to millions on other chains). That’s at a rate of&nbsp; ~$0.50–$1.00 per Hotspot</p><p>This is because Traditional NFTs store all metadata directly on the blockchain (expensive), while cNFTs use cryptographic compression to store data more efficiently. This breakthrough made it economically feasible to represent every hotspot as a unique, tradeable asset.</p><p>Noah also added that, if building today, Helium would consider <a href=\"https://developers.metaplex.com/core\" rel=\"noopener noreferrer\" target=\"_blank\">Metaplex Core</a> or <a href=\"https://lightprotocol.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Light Protocol</a> for even more efficient compression and key management.</p><h4><strong>On Zero-Knowledge Proofs</strong></h4><p>Helium explored using zero-knowledge (ZK) proofs for data attestation, but current technology proved too slow (\"ZK is too slow by 100x for this\"). This is why they are reverting to <a href=\"https://docs.helium.com/oracles/rewards-oracles/\" rel=\"noopener noreferrer\" target=\"_blank\">Off-chain oracles</a> and public data buckets without the computational overhead of ZK.</p><h3><strong>Reward Cadence</strong></h3><p>Helium's rewards run on daily epochs, meaning rewards are calculated every 24 hours.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-0d8ca5df36834267a263c5d97a7101e6",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa073df52f39940028cdacb413e4f43c9?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.107,
+                    "lockAspectRatio": false,
+                    "height": 207,
+                    "width": 1941,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-3070f8fb33ef4f0f814f7d795cf7991e",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-98b4ed8afb434afa955a0aa08276767a"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong>Why 24 hours specifically?</strong> This interval strikes a careful balance between multiple constraints:</p><ul><li><strong>User expectations</strong>: People expect regular updates, and daily feels natural (like checking your bank balance)</li><li><strong>Computational overhead</strong>: More frequent calculations would exponentially increase oracle processing costs and complexity</li><li><strong>Network stability</strong>: Shorter epochs would create more blockchain congestion; longer ones would frustrate users waiting for rewards</li><li><strong>Oracle coordination</strong>: Off-chain Oracles distribute PoC rewards to rewardable assets, and daily synchronisation allows multiple oracles to stay coordinated without overwhelming the system</li></ul><p>For Helium, reward calculations are incredibly complex, factoring in coverage quality, witness validity, network demand, and anti-gaming measures across hundreds of thousands of devices.&nbsp;</p><p>Daily epochs give the system enough time to process this data thoroughly while keeping users engaged. By decoupling reward calculation from reward claiming, Helium made the system robust to spikes, outages, and user behaviour.&nbsp;</p><p>Users can claim rewards whenever they want, regardless of when the calculation happened. It's a subtle shift, but one that makes the network feel \"always on\" – even when the blockchain isn't.</p><h3><strong>User Experience</strong></h3><p>Helium's onboarding has evolved from WiFi-based device setup (painful) to factory pre-signing and QR codes (plug-and-play). Today, users can scan a code, get a wallet, and start earning – no crypto expertise required.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-ac5d930311ef4c2991332de31ad8c461",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fac9d64ced9544c1c8308b270cf5f6f23?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.616,
+                    "lockAspectRatio": false,
+                    "height": 1231,
+                    "width": 2000,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-51c0370219b944999f8b375575433f07",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-3070f8fb33ef4f0f814f7d795cf7991e"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><strong>Onboarding costs breakdown</strong>:</p><ul><li>IoT hotspot onboarding: $10 in Data Credits (DC) + ~$0.0037 SOL</li><li>Mobile hotspot onboarding: $40 in Data Credits (DC) + ~$0.0053 SOL</li><li>Total cost for users: $0 (these fees are built into the device purchase price)</li></ul><p>Why these fees? The Data Credits (DC) pay for Helium network usage and device registration.&nbsp;</p><p>The small amount of SOL covers the cost of creating new accounts and assets (like wallets and cNFTs) on the Solana blockchain. Solana requires a minimal fee to initialise and store each new account, which keeps the network efficient and prevents spam. These blockchain fees are standard for onboarding any new asset or user, and are bundled into the device price so users never have to think about them.</p><p>However, do note that the $10-40 onboarding fee isn't an additional cost to users – instead, it's bundled into the retail price of hotspot devices ($200-$500, depending on hardware specs). This means users experience a simple \"buy device, plug in, earn tokens\" flow without worrying about blockchain fees or technical complexity.</p><p><strong>Current UX improvements</strong>: The team is integrating with email-login solutions like <a href=\"https://www.privy.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Privy</a> for a true \"Web2 feel,\" removing the last barriers for mainstream users.</p><p><strong>\"Welcome Pack\" System (In Development)</strong>:</p><ul><li>Scan QR code → receives hotspot CNFT + small SOL amount for transactions</li><li>Integration with email-login wallets (Privy)</li><li>Goal: \"Feels like web2 company\" experience</li></ul><p>As Helium's network effects depend on mass adoption, making onboarding as simple as setting up a WiFi router became an existential necessity.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e5961fb3ba8b4cb29d3ff014a2ce118c",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-51c0370219b944999f8b375575433f07"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h3><strong>Why Solana?</strong></h3><p>Most people see Helium's migration to Solana as just about speed or cost. The lower fees and higher throughput were a key consideration, but perhaps more importantly, was the opportunity to join an ecosystem – one that offers composability, developer tools, and a thriving community that Helium could plug into and build upon.</p><p>By moving to Solana, Helium could tap into a composable network where its hotspots, tokens, and data could interact with DeFi protocols, NFT marketplaces, and new consumer apps. This opened the door to integrations, partnerships, use cases, and revenue streams that simply weren't possible on a standalone blockchain beyond basic wireless coverage.</p><h3><strong>Governance Architecture</strong></h3><p>Helium’s governance isn’t just a checkbox on an evolving system that blends representative democracy with the unique needs of a decentralised network.</p><p>Helium’s model allows users to stake their tokens with named representatives, who then vote on proposals on their behalf. This proxy voting system is designed for both scale and accountability: representatives have public profiles and transparent voting histories, all visible at<a href=\"http://heliumvote.com\" rel=\"noopener noreferrer\" target=\"_blank\"> heliumvote.com</a>. Participation is real and measurable – each major vote sees around 12,000 positions cast from 4,000 wallets, a testament to the community’s engagement.</p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-110e3386749249a48c7db041fd7720f0",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Ffd3754b2dfef4f6a99da6a48eb241e75?width=902",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.646,
+                    "lockAspectRatio": false,
+                    "height": 1252,
+                    "width": 1939,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw"
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-17f31aab2956489cbc5f02497b7f4284",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-e5961fb3ba8b4cb29d3ff014a2ce118c"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Unlike some other projects, users aren’t locked into their representative’s choices. If a proposal comes up that a user feels strongly about, they can override their proxy’s vote and make their own decision. This hybrid approach – delegation with the option for direct action – keeps power in the hands of the community, not just a handful of insiders.</p><p>Governance is only as effective as the incentives behind it.</p><p>Here, Helium faces a real-world challenge: only 6% of token emissions are allocated to stakers and governance participants, with the lion’s share (94%) going to network deployers. This is a sharp contrast to models like Solana, where stakers receive 100% of emissions.</p><p>The result? Helium’s DAO operates with lean resources, forcing a focus on efficiency and real-world value creation. Yet, the system has proven its worth. The community points to its ability to steer the project wisely:</p><ul><li><strong>Checks and Balances</strong>: The governance process is “really good at stopping us from doing stupid things,” as one participant put it.</li><li><strong>Pragmatic Direction</strong>: The community pushed back against over-engineering the oracle system, favouring practical solutions over unnecessary complexity.</li><li><strong>Grassroots Proposals</strong>: Some of the most impactful changes – like the successful return to a single HNT token – originated from community members, not just core developers.</li><li><strong>Clear Roles</strong>: Representatives propose, but the community always has the final say.</li></ul>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-76c6d109abbd40379307c4867d9ede6d",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-17f31aab2956489cbc5f02497b7f4284"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h3>Resources and Further Reading</h3><ul><li><a href=\"https://solana.com/developers/guides/depin/getting-started\" rel=\"noopener noreferrer\" target=\"_blank\">Solana DePIN Quick Start Guide</a></li><li><a href=\"https://www.helium.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Helium Official Website</a></li><li><a href=\"https://docs.helium.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Helium Documentation</a></li><li><a href=\"https://docs.helium.com/iot/\" rel=\"noopener noreferrer\" target=\"_blank\">Helium IoT Network Guide</a></li><li><a href=\"https://docs.helium.com/mobile/5g-on-helium/\" rel=\"noopener noreferrer\" target=\"_blank\">Helium Mobile Network</a></li><li><a href=\"https://github.com/helium/HIP\" rel=\"noopener noreferrer\" target=\"_blank\">Helium Improvement Proposals (HIPs)</a></li><li><a href=\"https://www.helium.foundation/\" rel=\"noopener noreferrer\" target=\"_blank\">Helium Foundation</a></li></ul><p><em>Want to see more case studies or contribute your own? The DePIN space is rapidly evolving, and documenting these lessons helps the entire ecosystem learn faster.</em></p>"
+                    }
+                  },
+                  "isRSC": null
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2b8f1872b0c841b8824403780f80d3a5",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge",
+                "buttons.0.label",
+                "image.alt"
+              ],
+              "previousId": "builder-406d31219e114ded9a98f714bde1f8b4"
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8c9b0aed53ff44ff999d1cdf5be3b943"
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Build Physically. Distribute Digitally."
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p><span style=\"font-size: 20px;\">Scale fast by decentralizing your physical infrastructure or hardware. Lower your costs, serve more people, and access robust capital markets.</span></p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Get the Solana DePIN 2025 Report"
+                    },
+                    "url": "https://solana.com/solutions/depin"
+                  }
+                ]
+              },
+              "isRSC": null
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "folders": [],
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_ce0f860b682549caac7bbb8492b390dd",
+  "lastUpdated": 1753909240895,
+  "lastUpdatedBy": "rfkJKsR9FxTVJ7ts7qFHGvOaibA3",
+  "meta": {
+    "breakpoints": {
+      "medium": 991,
+      "small": 640,
+      "xsmall": 320
+    },
+    "componentsUsed": {
+      "Content Editor": 1,
+      "Copy": 14,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false,
+    "kind": "component",
+    "lastPreviewUrl": "https://staging.solana.com/news/case-study-helium-technical-guide?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditLayouts%2CeditLayers%2CeditContentPriority%2CeditFolders%2CcreateProjects&builder.user.role.name=Editor&builder.user.role.id=editor&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_ce0f860b682549caac7bbb8492b390dd&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_ce0f860b682549caac7bbb8492b390dd=983ae1dad0ba4ca4ac6dd4ac310edee1_ce0f860b682549caac7bbb8492b390dd&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "originalContentId": "a323e7a4deb2425e98a11d0236f7fa7d",
+    "winningTest": null
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "name": "Technical Case Study: Helium Technical DePIN Guide ",
+  "previewUrl": "https://staging.solana.com/news/case-study-helium-technical-guide",
+  "published": "published",
+  "query": [],
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F893699d277214acda43d159fd717ee69",
+  "testRatio": 1,
+  "variations": {},
+  "@originId": "ce0f860b682549caac7bbb8492b390dd",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@liveSyncEnabled": true,
+  "rev": "l9w1e2t4y1"
+}

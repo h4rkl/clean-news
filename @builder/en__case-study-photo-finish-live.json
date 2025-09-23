@@ -1,0 +1,486 @@
+{
+  "@liveSyncEnabled": false,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/case-study-photo-finish-live",
+  "data": {
+    "datePublished": 1714788000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa376bcc8a0cb4e48bb1ee147c5e48b87",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "The game uses Solana to power real-life virtual racing and user ecosystem.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa376bcc8a0cb4e48bb1ee147c5e48b87",
+      "seoDescription": "The game uses Solana to power real-life virtual racing and user ecosystem.",
+      "seoTitle": "How Photo Finish LIVE Leverages Solana for an Onchain Kentucky Derby Experience"
+    },
+    "title": "Case Study: How Photo Finish LIVE Use Solana for an Onchain Kentucky Derby Experience",
+    "slug": "case-study-photo-finish-live",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9687f359460a46d5bc32a40d446b0cb7"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-7c6c4a86847746d69a69ef1a82d866ba",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3389744af1ef4af1a7b555449391c143",
+            "meta": {
+              "previousId": "builder-5df3c7c89c504e12aa0909f7c8137c4d"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><strong>Highlights</strong></p><ul><li><em>Photo Finish™ LIVE is a blockchain-based horse racing game that utilizes the Solana blockchain to facilitate fast, low-cost transactions.&nbsp;</em></li><li><em>The game offers real-time virtual racing and real money experiences, along with a user-driven ecosystem that fuels exciting horse breeding mechanics and an innovative economic model.&nbsp;</em></li><li><em>In 2023, the company launched a multi-year partnership with Churchill Downs and The Kentucky Derby.</em></li><li><em>Utilizing blockchain, players can earn and spend both in-game currency and real money.</em></li><li><em>These achievements underscore the economic viability and player appeal of blockchain gaming on a frictionless network like Solana.<span class=\"ql-cursor\">﻿</span></em></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                "paddingTop": "20px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingBottom": "20px",
+                "opacity": "1",
+                "borderRadius": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-416a15518e164ec9b3723b164c373b3f",
+            "meta": {
+              "previousId": "builder-8634f98d75c64e1c96e85584bd3f71a4"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Step into the digital stirrups of <a href=\"https://photofinish.live/\" rel=\"noopener noreferrer\" target=\"_blank\">Photo Finish™ LIVE</a>, where Ian Cummings' background in AAA game development and prior work experience at EA combines with blockchain technology to redefine horse racing in the virtual world.&nbsp;&nbsp;</p><p>As the founder and CEO of Third Time Entertainment, the company behind Photo Finish™ LIVE, Cummings first conceptualized the game a decade ago after observing a gap in the market for engaging horse racing games and set out to fill this void.</p><p>\"My thesis back then was that there's a big hole here; horse racing is an unusually popular sport for a wide audience, yet there were no fun horse racing games,\" Cummings said. This early realization led to the unexpected success of his venture into horse racing games.</p><p>First founded in 2014, the Photo Finish™ LIVE franchise offered a distinctive horse racing game experience that extends beyond conventional gaming. Today, Photo Finish™ LIVE has undergone a transition to blockchain, which has already begun to unlock exciting new possibilities.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f3574d94b6c747e7969065080797d04c",
+            "meta": {
+              "previousId": "builder-2d0769a3ce28428ba40003e8ba9c2465"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-2c8769a5925e4ade93ccd1023f76c067",
+                "meta": {
+                  "previousId": "builder-8ad52c3eec004e2da4b2273fe1f83d7d"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe72a9e52213e4ab69dd4790248a8fa95?width=1176",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.557,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 89vw, (max-width: 998px) 92vw, 84vw",
+                    "height": 1114,
+                    "width": 2000,
+                    "altText": "A screenshot of a virtual horse racing game, Photo Finish Live. Computer-generated horses are running on a virtual version of Victoria Raceway.",
+                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe72a9e52213e4ab69dd4790248a8fa95?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe72a9e52213e4ab69dd4790248a8fa95?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe72a9e52213e4ab69dd4790248a8fa95?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe72a9e52213e4ab69dd4790248a8fa95?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe72a9e52213e4ab69dd4790248a8fa95?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe72a9e52213e4ab69dd4790248a8fa95?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe72a9e52213e4ab69dd4790248a8fa95?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe72a9e52213e4ab69dd4790248a8fa95?width=1176 1176w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe72a9e52213e4ab69dd4790248a8fa95?width=566 566w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe72a9e52213e4ab69dd4790248a8fa95?width=910 910w"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-cf99ec177ca54bfc9c68276d035356bd",
+                "meta": {
+                  "previousId": "builder-827b694ec56c4746b42dfb22ec8d0dd0"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p><em>A race on Photo Finish™ LIVE. Courtesy Photo Finish™ LIVE.</em></p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "fontSize": "16px",
+                    "color": "rgba(155, 155, 155, 1)"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "20px",
+                "paddingBottom": "20px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cf8d4fd112be4f63b15f0f6d1d90cee2",
+            "meta": {
+              "previousId": "builder-8634f98d75c64e1c96e85584bd3f71a4"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Where Blockchain Improves Skill-Based Virtual Games</h2><p>Cummings’ encounter with blockchain — particularly the Solana network’s fast, affordable version of it — marked a turning point in the development of Photo Finish™ LIVE. In 2021, he noticed a rise in popularity of games that use non-fungible tokens (NFTs) to reward players and provide digital ownership provenance, such as <a href=\"https://nbatopshot.com/\" rel=\"noopener noreferrer\" target=\"_blank\">NBA Top Shot</a>. He predicted (accurately, he’d learn) that there was also a market for skill-based games like horse racing.&nbsp;</p><p>“I thought, ‘maybe crypto games are ready,’” he recalled. “And so I started to do a lot of analysis on blockchain.”</p><p>Instantly, he noticed too much friction and fee structures that disincentivized users from taking advantage of blockchain’s power to realistically tokenize digital objects into tradable items with immutable provenance.</p><p>“I thought, ‘This stuff is too clunky,’” said Cummings. \"Who's going to pay $50 to transfer $50 worth of items?” he asked, referencing the often-steep and unpredictable gas (service) fees to make small transactions on the Ethereum network.</p><p>Cummings sought a blockchain solution that was fast, cheap, and trustworthy, essential for a game involving real money transactions. The Solana protocol offered his team the perfect combination of speed, low cost and security — making it the ideal platform for Photo Finish™ LIVE.</p><p>\"When I started to talk with [Solana Foundation], I started to see, ‘Wow, this really could be the unlock that is needed,’” Cummings remembers. His goal was to not just allow users to mint and breed horses onchain, but to also create an open, user-controlled ecosystem for horse racing and real money — something not possible on centralized platforms like Apple and Google, and often too expensive on other blockchain solutions like Ethereum.</p><p>\"Solana's efficiency and cost-effectiveness are critical for the seamless experience of live events like the Kentucky Derby in our game,” he added.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4f07f946c5644989ac9ac84ed4d9a59f",
+            "meta": {
+              "previousId": "builder-8634f98d75c64e1c96e85584bd3f71a4"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>How Token Extensions Can Enable Photo Finish™ LIVE</h2><p>Using the Solana protocol was not just a technical choice but a strategic necessity for Photo Finish™ LIVE. The introduction of <a href=\"https://solana.com/tokenextensions\" rel=\"noopener noreferrer\" target=\"_blank\">token extensions</a>, a next-generation token program, will be crucial for stabilizing the game's internal currency, $DERBY, says Cummings.&nbsp;</p><p>As he describes, using token extensions will ensure that the token is not subject to external market volatility. \"Token extensions are going to be pivotal in maintaining the economic integrity of $DERBY, providing a stable, trustworthy environment for our players,” he told us.</p><p>The introduction of token extensions on the Solana blockchain allows for the locking of the token within the ecosystem of \"Photo Finish™ LIVE.\" This means players cannot take the currency outside the game to trade or speculate, thus maintaining its stability and integrity.</p><p>Finally, token extensions will ensure onchain transparency. Players can see the transactions, understand where their currency is, and trust in the safety of their digital assets. This transparency and trust are crucial in a game where real money horse racing and wagering are central elements.</p><p>\"You can go to a Dune analytics dashboard and see the actual volume of deposits,” Cummings explained. \"You can track every single transaction and watch the growth of our game. You can see that there's no funny business.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2fbaa7ef906d41c5a8c3ce823ae1de97",
+            "meta": {
+              "previousId": "builder-8634f98d75c64e1c96e85584bd3f71a4"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Branching Out from In-Game Currency to Utility Tokens</h2><p>In April 2023, the game introduced the $CROWN token as its official utility token and reward for winning races. Owning $CROWN comes with a host of privileges, including the ability to acquire operator licenses for race tracks within the game, as well as unlock benefits like scratches and renames. Major track license owners also enjoy benefits like naming rights, track customization options, advanced reporting and analytics, and future VIP programs.&nbsp;</p><p>By the time of publication, Photo Finish™ LIVE <a href=\"https://photofinish.live/crown\" rel=\"noopener noreferrer\" target=\"_blank\">has achieved</a> over $20 million in in-game marketplace horse sales, $5 million in track earnings, over $12 million in race entry fees, and over $3 million in stud fees. There were also nearly 70 million $CROWN tokens staked.</p><p>The token operates on the Solana blockchain, using a <a href=\"https://spl.solana.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Program Library (SPL) token standard</a>. The use of SPL on Solana helps bring peace of mind by ensuring high-speed transactions, low fees, scalability and robust security—considerations every game developer must keep in mind.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-099f22a56beb4d009ec9e3fdd3a6bf90",
+            "meta": {
+              "previousId": "builder-8634f98d75c64e1c96e85584bd3f71a4"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>A User-Driven Ecosystem and Genetic Pool</h2><p>Photo Finish™ LIVE is set in what Cummings describes as an alternate version of Earth, operating in a parallel universe distinct from real life. The gaming universe is basically a virtual twin of the real-life Kentucky Derby (designed with permission under official licenses), but at a significantly accelerated pace. In the game’s parallel timezone, one year passes every month, resulting in a monthly Kentucky Derby. Horses age a year each month, and if they need to enter retirement to have offspring, they are out of commission from racing forever, never returning to the track.</p><p>This approach stimulates competition and keeps things interesting, says Cummings. It ensures that new players always have a chance to breed their way to the top, as horses always age out of the racing economy. The game's developers have also created a detailed genetic system, allowing players to have input in the breeding process and subsequent bloodlines. The initial set of horses, bred by players and known affectionately as the “Adam and Eve” pair, formed the genetic foundation for all future bloodlines, evolving organically without developer intervention. The game's genetic and breeding system is therefore quite complex and unpredictable.</p><p>“We almost can’t intervene at this point,” Cummings said. “It's all very <em>Jurassic Park </em>now. Stuff's just going to happen, and we don't really know, and we can't wait to see. Even the way the horses look, the way their coats blend with each other—all of that is genetics.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8634f98d75c64e1c96e85584bd3f71a4",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Integrating Into Real-World Events</h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d9072e73f58148ae97464d7e15f5a555",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-afebbeb756ea467088042eea863b74be",
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<p>In 2023, Photo Finish™ LIVE <a href=\"https://photofinish.live/news/article/lets-ride-the-past-present-and-future-of-photo-finish\" rel=\"noopener noreferrer\" target=\"_blank\">took a major step forward</a> in bringing their blockchain game to the real world.</p><p>The game announced a historic multi-year partnership with the Kentucky-based legacy racing brands, Churchill Downs and The Kentucky Derby. For three days in a row, the game was featured at the 149th Kentucky Derby infield in 2023, and Photo Finish™ LIVE’s live 3D simulation of the derby was featured on NBC Sports.</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "auto",
+                            "marginBottom": "auto"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-7f5155c885634892bac95f5fec6211f9",
+                        "component": {
+                          "name": "Youtube",
+                          "options": {
+                            "url": "https://youtu.be/eRpKkvH7YWA?si=3cpljS8vImK2an8A"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginBottom": "20px",
+                            "marginTop": "auto"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b89e55f694b440e7809feac76f166ea9",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Photo Finish™ LIVE’s integration of Solana blockchain technology is a testament to the potential of decentralized technology in enhancing traditional gaming experiences. Solana’s high-speed transactions and low-cost operations are perfectly aligned with the real-time nature of horse racing for real money in the game. This choice allows for a seamless and efficient gaming experience, crucial for real-time sporting events like a virtual Kentucky Derby.&nbsp;</p><p>\"Solana's capabilities in fast, low-cost transactions were a game-changer for Photo Finish™ LIVE, making real-time racing and wagering possible,” Cummings said.</p><p>As it continues to evolve, Photo Finish™ LIVE will set a precedent for future blockchain-based games, particularly those seeking to blend real-world events with digital innovation.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e97cb162fe7f44c3a212f69978dc5ab9",
+            "meta": {
+              "previousId": "builder-33a54d140de74676963eb078ad3e8f9b"
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "eyebrow": "",
+                "headline": "Redefine how gamers play.",
+                "body": "Enjoy single state brilliance. Learn how games can take advantage of the Solana tech stack to build scalable, player-driven worlds. ",
+                "buttons": [
+                  {
+                    "label": "LEARN MORE",
+                    "hierarchy": "secondary",
+                    "size": "xl",
+                    "iconSize": "md",
+                    "url": "https://solana.com/solutions/gaming-and-entertainment"
+                  }
+                ],
+                "image": {
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fc78a3ad482b04046937e69793765f789"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6ae74b4a5b2f4ab48e6366ca1b52e823",
+  "lastUpdated": 1715287000065,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6c0fa072b4e64b5388db6b824d5e14e9",
+  "lastUpdatedBy": "7WFNVFm3m0RF5jIk530p4Nmqx8o1",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1714752107363,
+  "@originId": "6c0fa072b4e64b5388db6b824d5e14e9",
+  "testRatio": 1,
+  "createdDate": 1714745842957,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "lastPreviewUrl": "https://builder-staging.solana.com/news/case-study-photo-finish-live?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_6c0fa072b4e64b5388db6b824d5e14e9&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_6c0fa072b4e64b5388db6b824d5e14e9=983ae1dad0ba4ca4ac6dd4ac310edee1_6c0fa072b4e64b5388db6b824d5e14e9&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Copy": 9,
+      "Youtube": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: Photo Finish LIVE",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

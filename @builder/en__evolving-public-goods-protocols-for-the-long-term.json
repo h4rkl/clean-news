@@ -1,0 +1,125 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1684782000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8ea267d469854fcfbb9bdcb54db91164",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "Metaplex is taking steps to ensure its NFT standards on Solana remain decentralized, immutable, and sustainable for years to come.",
+    "publishedDate": "Tue May 23 2023 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Evolving Public Goods Protocols for the Long Term",
+      "ogUrl": "",
+      "ogDescription": "Metaplex is taking steps to ensure its NFT standards on Solana remain decentralized, immutable, and sustainable for years to come.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Evolving Public Goods Protocols for the Long Term",
+      "noFollow": false,
+      "seoDescription": "Metaplex is taking steps to ensure its NFT standards on Solana remain decentralized, immutable, and sustainable for years to come.",
+      "seoTitle": "Evolving Public Goods Protocols for the Long Term",
+      "noIndex": false
+    },
+    "title": "Evolving Public Goods Protocols for the Long Term",
+    "twitterMeta": {
+      "twitterTitle": "Evolving Public Goods Protocols for the Long Term",
+      "twitterDescription": "Metaplex is taking steps to ensure its NFT standards on Solana remain decentralized, immutable, and sustainable for years to come."
+    },
+    "slug": "evolving-public-goods-protocols-for-the-long-term",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_b1d9f9c3192e47c78288a9d9c534a4e5"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-e6a310803af74069ab3e135326a6ac81",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c54e1a1a6f934847bc98dcb9a33aa28e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Solana, as an open-source network, is a collective effort by a community of developers from around the world to build a global state machine that can process thousands of transactions per second with sub-second confirmation times. Anyone can launch new tooling or protocols that find new uses for the Solana network and inspire projects, businesses, and even entire industries.</p><p>It’s important to celebrate the work these independent tools and protocols do to improve decentralization, immutability, and sustainability. It makes them safer, more secure, increases developer and user confidence, and paves the way for institutional adoption. Metaplex’s&nbsp;<a href=\"https://www.metaplex.com/posts/token-metadata-immutability?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announcement</a>&nbsp;today about Token Metadata, the on-chain program that is used to build, manage, and update NFTs on Solana, is just the latest example of a protocol embracing these values.</p><p>One of the best parts of open-source software is the ability for anyone, anywhere in the world, to define the future of the protocol. This culture of open source development has made crypto what it is today; however the industry still struggles with sustainable revenue models that don’t rely on token sales or outlandish capital raises. As open source, non-monetizable tooling matures, the hope is that more protocols will look to donation and neutral fee-supported models to achieve this sustainability.</p><h2><strong>Security through decentralization</strong></h2><p>When people in web3 talk about decentralization, they’re usually referring to the&nbsp;<a href=\"https://solana.com/news/validator-health-report-march-2023?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">underlying infrastructure</a>&nbsp;of a layer 1 or layer 2 network — the number of validators, the Nakamoto coefficient, and so on. But decentralization should also be strongly considered for the infrastructure protocols built on top of blockchains.</p><p>One of the best and simplest ways to decentralize a protocol is through the use of multi-signature security, with tools like&nbsp;<a href=\"https://squads.so/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Squads</a>. Multisigs require authorization from multiple, independent wallets in order to perform actions like transfer funds, or upgrade an on-chain program — similar to a launch key for a missile that must be turned at the same time from multiple locations. The chance that any one bad actor (or hacker) can take control goes down significantly when a project uses multisigs.</p><p>Metaplex announced they’re taking this a step further, and will be moving towards program immutability. In the interim, Metaplex will be handing over control of Token Metadata to a number of independent security firms, forming a multisig which will govern Token Metadata. When they take this step, which Metaplex has committed to doing in the next 18 months, Token Metadata will not be changed without a quorum of entities on the multisig agreeing to those changes — decentralizing the control of this important infrastructure tool while an extensive security review is conducted.</p><h2><strong>Immutability and verification</strong></h2><p>The next level beyond securing the upgrade authority is to formally verify a program, and then lock (freeze) the program in its current state, forever. Formal verification is a process of mathematically proving a program’s instruction set can only do what is intended, as defined by the specification — which brings a greater sense of security to the use of a program and ensures it remains a public good for years, and even decades, to come.</p><p>Once programs are in a state where their core functions have been determined, and the code has been sufficiently audited, projects can move towards immutability. Immutability involves restricting the upgrade authority of a program and burning the upgrade keys, effectively freezing the program in its current state on the blockchain. Immutability, after extensive audits and threat analysis has been performed, is the gold standard for on-chain program security.</p><p>Metaplex is taking the first step towards immutability with these recent changes, and the hope is that more protocols move to immutability after sufficient battletesting on mainnet.</p><h2><strong>Building financially sustainable infrastructure</strong></h2><p>To date, DeFi protocols are largely the only class of infrastructure protocols that have achieved ways to develop sustainable public goods for the long-term, usually through tokens, or percent fees generated by the nature of the protocol’s construction.</p><p>Sustainability can come in many forms. Linux has achieved sustainability by becoming fundamental to the very fabric of the internet, and as such receives substantial donations from companies that depend upon it. In web3, this sustainability can take the form of ‘endowment’ grants — grants substantial enough that earned staking rewards are sufficient to support the protocol’s long-term development. However, non-DeFi protocols are beginning to explore a third option, a fixed-fee model.</p><p>In order for a fixed-fee model to work, the fees must be credibly neutral, and apply evenly to all users of a piece of infrastructure. At its simplest form, this is the United States Postal Service. It costs exactly the same amount to send a letter anywhere in the United States, regardless of if that letter is a certified check for $1m, or a letter from a friend.</p><p>Metaplex’s neutral and non-discriminatory fees will help ensure the sustainability of Token Metadata. These fees will also go to support the long list of open-source tooling developed by the Metaplex Foundation, which is not subject to fees.</p><p>I expect to see more diversity to fee models beyond token sales with the upcoming implementation of Token-2022, which will give developers even more options for building sustainable public goods.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fbfac4d4fd79b481590c30c61861ea9b1",
+  "lastUpdated": 1696408825057,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3e1e478c47aa4680a03758abb621d696",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687594766381,
+  "@originId": "3e1e478c47aa4680a03758abb621d696",
+  "testRatio": 1,
+  "createdDate": 1687362372318,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=3e1e478c47aa4680a03758abb621d696&builder.overrides.3e1e478c47aa4680a03758abb621d696=3e1e478c47aa4680a03758abb621d696&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Evolving Public Goods Protocols for the Long Term",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

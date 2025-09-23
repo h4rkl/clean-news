@@ -1,0 +1,187 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1587970800000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F08041ced41f8418ba6f6475cc4f644fe",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "\nWe are excited to announce a technical partnership with dfuse, the blockchain API company. Following the recent announcement of the…\n",
+    "publishedDate": "Mon Apr 27 2020 00:00:00 GMT-0700 (Pacific Daylight Time)",
+    "openGraph": {
+      "ogTitle": "Solana Announces a Partnership With dfuse to Collaborate on a Powerful Data Solution for Its…",
+      "ogUrl": "",
+      "ogDescription": "\nWe are excited to announce a technical partnership with dfuse, the blockchain API company. Following the recent announcement of the…\n",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Solana Announces a Partnership With dfuse to Collaborate on a Powerful Data Solution for Its…",
+      "noFollow": false,
+      "seoDescription": "\nWe are excited to announce a technical partnership with dfuse, the blockchain API company. Following the recent announcement of the…\n",
+      "seoTitle": "Solana Announces a Partnership With dfuse to Collaborate on a Powerful Data Solution for Its…",
+      "noIndex": false
+    },
+    "title": "Solana Announces a Partnership With dfuse to Collaborate on a Powerful Data Solution for Its…",
+    "twitterMeta": {
+      "twitterTitle": "Solana Announces a Partnership With dfuse to Collaborate on a Powerful Data Solution for Its…",
+      "twitterDescription": "\nWe are excited to announce a technical partnership with dfuse, the blockchain API company. Following the recent announcement of the…\n"
+    },
+    "slug": "solana-announces-a-partnership-with-dfuse-to-collaborate-on-a-powerful-data-solution-for-its-",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_26229da4af824004b9dfea37d3a8cfa1"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_03e6904c00924a32b6187f46a5fa40d0"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_cc162926a1c34884938092e2be078099"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_6e486fb681614dda8835548c251fe8e7"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a08bdcb4a0ca4f81b00df16c8ca465ee"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-c170a998624d49718e476dd6046afa4f",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5fd19f20955c44788fcbaa2027fbd095",
+            "component": {
+              "name": "Image",
+              "options": {
+                "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe84ad9d51bf3417abcebdbbc5aac3d54?width=680",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "lazy": false,
+                "fitContent": true,
+                "aspectRatio": 0.521,
+                "lockAspectRatio": false,
+                "height": 625,
+                "width": 1200,
+                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe84ad9d51bf3417abcebdbbc5aac3d54?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe84ad9d51bf3417abcebdbbc5aac3d54?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe84ad9d51bf3417abcebdbbc5aac3d54?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe84ad9d51bf3417abcebdbbc5aac3d54?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe84ad9d51bf3417abcebdbbc5aac3d54?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe84ad9d51bf3417abcebdbbc5aac3d54?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe84ad9d51bf3417abcebdbbc5aac3d54?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe84ad9d51bf3417abcebdbbc5aac3d54?width=680 680w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe84ad9d51bf3417abcebdbbc5aac3d54?width=542 542w",
+                "sizes": "(max-width: 638px) 85vw, (max-width: 998px) 69vw, 49vw"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "minHeight": "20px",
+                "minWidth": "20px",
+                "overflow": "hidden"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6dab1c9720094af39f630694277fdd23",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Solana Foundation is excited to announce a technical partnership with&nbsp;<a href=\"https://www.dfuse.io/en?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">dfuse</a>, the blockchain API company. Following the recent&nbsp;<a href=\"https://www.dfuse.io/en/blog/dfuse-open-sources-its-blockchain-development-stack?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">announcement</a>&nbsp;of the open-sourcing of the dfuse blockchain data stack, Solana Foundation is today announcing that it will collaborate with dfuse on the technical integration to provide a powerful data solution for Solana’s high-throughput blockchain.</p><p>dfuse has been building high-throughput blockchain data solutions for the past two years, and is currently deployed on many EOSIO and Ethereum chains, with other protocols under active development. We believe their solution will be critical to enabling a web-scale infrastructure capable of supporting hundreds of public and private deployments, including exchanges, trading operations, interactive games, social media platforms, supply chain solutions, and high throughput regulated environments.</p><p>By collaborating with Solana to integrate with its blockchain, dfuse will be contributing dfuse Search, its real-time, historical and fork-aware search engine as well as many more foundational building blocks to the Solana ecosystem. Enabled by dfuse, developers will not only be able to build high-performance applications on top of a public blockchain that are only possible with the Solana protocol but also deliver the best historical and real-time user experiences.</p><p>“We have decided to collaborate with Solana because of its unique approach at solving many of the challenges encountered in the blockchain space, enabling the protocol to support 50K+ transactions per second at the first layer,” said Alexandre Bourget, co-founder and CTO at dfuse. “By pushing the limits of networks and hardware, they will be a driving force in making our products even more powerful and performant.”</p><p>“We are excited to partner with dfuse as the team is at another level when it comes to serving blockchain data,” said Anatoly Yakovenko, President of the Solana Foundation&nbsp;,“They have a history of shipping non-stop, a very deep understanding of the protocols they integrate, and high standards in terms of reliability, performance and innovation with the data services they bring about. Having dfuse on Solana will tremendously accelerate the onboarding of new projects to Solana.”</p><p>Once integrated, dfuse will be offering Solana developers data services fulfilling the needs of applications to access transaction history, past state and traces of execution, in its beautiful streaming fashion, with the same reliability dfuse customers have become accustomed to.</p><p><strong>About Solana</strong></p><p><a href=\"https://solana.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana</a>&nbsp;is a high-throughput blockchain that is currently supporting 50–65k transactions per second and 400ms block times, without complex solutions like sharding or layer-two. As the world’s first web-scale blockchain, Solana will unlock a whole new class of performant applications and facilitate larger scale blockchain adoption. Utilizing a&nbsp;<a href=\"https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">revolutionary innovation</a>&nbsp;called Proof of History, Solana is drastically able to outperform any other existing layer 1 and provide fees at $0.00001 per transaction.</p><p><strong>About dfuse</strong></p><p>dfuse, the blockchain API company, helps developers build performant applications by organizing the world’s decentralized data.</p><p>Powered by its low-latency, open-source architecture, dfuse’s robust APIs make it possible to stream real-time state updates, conduct lightning-fast searches and provide irreversible transaction guarantees, all for the first time using a simple API call. The company’s flagship products, dfuse Search, dfuse Lifecycle, dfuse State and dfuse On-Demand Networks offer a suite of powerful features that make it easy for developers to customize and deliver first-rate user experiences.</p><p>To sign up for free and start building, visit&nbsp;<a href=\"https://www.dfuse.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">dfuse.io</a>.</p><p>Subscribe to our&nbsp;<a href=\"http://medium.com/solana-labs?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Medium</a></p><p>Follow us on&nbsp;<a href=\"https://twitter.com/solana?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></p><p>Join our&nbsp;<a href=\"https://t.me/solanaio?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F864d100f9826440cbc4244fea9154cb9",
+  "lastUpdated": 1696416775494,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_bb3000d28de847349c1f01cd4a8514ed",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687528954455,
+  "@originId": "bb3000d28de847349c1f01cd4a8514ed",
+  "testRatio": 1,
+  "createdDate": 1687362708214,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=bb3000d28de847349c1f01cd4a8514ed&builder.overrides.bb3000d28de847349c1f01cd4a8514ed=bb3000d28de847349c1f01cd4a8514ed&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Solana Announces a Partnership With dfuse to Collaborate on a Powerful Data Solution for Its…",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "2oemt8k4o9i"
+}

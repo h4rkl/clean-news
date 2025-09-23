@@ -1,0 +1,238 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1668711600000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F489369be209548e8aaa21eb1a33268a6",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "A snapshot of the performance of the Solana network as of Nov. 17, 2022.",
+    "publishedDate": "Fri Nov 18 2022 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "openGraph": {
+      "ogTitle": "Snapshot: State of the Network",
+      "ogUrl": "",
+      "ogDescription": "A snapshot of the performance of the Solana network as of Nov. 17, 2022.",
+      "ogType": [
+        "article"
+      ]
+    },
+    "seo": {
+      "internalName": "Snapshot: State of the Network",
+      "noFollow": false,
+      "seoDescription": "A snapshot of the performance of the Solana network as of Nov. 17, 2022.",
+      "seoTitle": "Snapshot: State of the Network",
+      "noIndex": false
+    },
+    "title": "Snapshot: State of the Network",
+    "twitterMeta": {
+      "twitterTitle": "Snapshot: State of the Network",
+      "twitterDescription": "A snapshot of the performance of the Solana network as of Nov. 17, 2022."
+    },
+    "slug": "snapshot-state-of-the-network-nov-17-2022",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-b132833801b84fbda504a2341b9c51a1",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7e68ba67f4204dfa91f36108a105d004",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>The Solana Foundation is committed to transparency. To advance&nbsp;this goal, the Foundation has regularly released updates on the state of the network, including&nbsp;<a href=\"https://solana.com/news/validator-health-report-august-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the validator health report,</a>&nbsp;<a href=\"https://solana.com/news/solanas-energy-use-report-september-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the energy use report,</a>&nbsp;<a href=\"https://solana.com/news/network-performance-report-october-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the network performance report,</a>&nbsp;and a presentation on&nbsp;<a href=\"https://www.youtube.com/watch?v=5NDs3Il2J3Q&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the state of the network</a>&nbsp;at Breakpoint 2022.</p><p>In the wake of FTX’s collapse, many community members have asked about the state of the network and how it’s faring. We’ve answered specific questions related to the network’s exposure to FTX&nbsp;<a href=\"https://solana.com/news/solana-facts-ftx-bankruptcy?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">in a previous post.</a>&nbsp;&nbsp;This post is a snapshot of a few key metrics on the health of the network in the days and weeks surrounding FTX's collapse.</p><h2><strong>Overall</strong></h2><p>Despite dealing with more complex transactions than normal and being under stress, the network continues to perform well.&nbsp;<a href=\"https://dune.com/dsaber/solana-network-health-report?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">This Dune dashboard</a>&nbsp;showcases various metrics of network performance. Below, we’ve included block time, transactions per second, compute units per block, and daily programs used.</p><h2><strong>Transactions per Second</strong></h2><p>Average transactions per second have averaged over 2,000 TPS since Nov. 8. Additionally, bump fees paid increased throughput over the past week, indicating that prioritization fees served their intended purpose during a time of high activity.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f9e6647410cd47fa85e320a786cda305",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Average Block Time</strong></h2><p>Block time measures how quickly the network adds more “blocks” to the blockchain, giving us another perspective of the network’s throughput. Average time to produce a block increased to .61ms since Nov. 8, but remained below historical average.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2dfcd8c19e4245089713b49c7fb233a7",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<h2><strong>Compute Units Per Block</strong></h2><p>Some transactions are more demanding than others. Compute units help us understand how hard validators are working, which isn’t always clear when examining transactions per second. Compute units per block spiked 180% around Nov. 8th. This is likely due to an increase in trading opportunities, fueled by market volatility in response to news about FTX.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2e0b9817ba424581923d93624fb0bb6f",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Screenshot taken from Solana Compass on Nov. 17, 2022 at approx. 22:10 UTC.&nbsp;<a href=\"https://solanacompass.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Click here for live data.</a></p><p>The x axis in the above graph indicates Epoch performance data.</p><ul><li>Epoch 326 spanned from July 9 - 12, 2022</li><li>Epoch 370 (when compute units spiked) spanned from Nov.&nbsp;7 - 10, 2022</li><li>Epoch 372 spanned from Nov.&nbsp;12 - 15, 2022</li></ul><h2><strong>Daily Programs Used</strong></h2><p>Usage on the network is down modestly, but that is to be expected in extreme times. Daily programs used is down 5%, but in line with recent months.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-394e2948c7c2472092beae2c01afc196",
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<table style=\"width: 90%; border: 1\">\n<tbody>\n<tr>\n    <td style=\"width: 25%; vertical-align: middle; padding:10px;\"><p> </p></td>\n    <td style=\"width: 25%; background-color:#231733; vertical-align: middle; padding:10px;\"><p><i>Sept. 14, 2022</i></p></td>\n    <td style=\"width: 25%; background-color:#231733; vertical-align: middle; padding:10px;\"><p><i>Oct. 14, 2022</i></p></td>\n    <td style=\"width: 25%; background-color:#231733; vertical-align: middle; padding:10px;\"><p><i>Nov. 14, 2022</i></p></td>\n    </tr>\n<tr>\n    <td style=\"width: 25%; background-color:#231733; vertical-align: middle; padding:10px;\"><p><i>Daily Programs Used</i></p></td>\n    <td style=\"width: 25%; vertical-align: middle; padding:10px;\"><p>1,126</p></td>\n    <td style=\"width: 25%; vertical-align: middle; padding:10px;\"><p>1,105</p></td>\n    <td style=\"width: 25%; vertical-align: middle; padding:10px;\"><p>1,075</p></td>\n    </tr>\n</tbody>\n</table>",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d95e36b45c3441828448091ea9cabf70",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>Source:&nbsp;<a href=\"https://dashboard.chaincrunch.cc/public/dashboard/cc7a0d94-7f70-46f4-aae4-2f8810430931?date_filter=past30days&amp;ref=solana.ghost.io#theme=night\" rel=\"noopener noreferrer\" target=\"_blank\">Chaincrunch</a></p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F5f2ebf8ed7d64b02ab37356e117c9d42",
+  "lastUpdated": 1696413226537,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2414edabab8645a4a718e0be3366ab00",
+  "lastUpdatedBy": "x6heNxGbEBcCzeok2E9roscQus12",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687588468003,
+  "@originId": "2414edabab8645a4a718e0be3366ab00",
+  "testRatio": 1,
+  "createdDate": 1687362443522,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/api/preview/news/?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.post=2414edabab8645a4a718e0be3366ab00&builder.overrides.2414edabab8645a4a718e0be3366ab00=2414edabab8645a4a718e0be3366ab00&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Snapshot: State of the Network",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "onaw8wpsk8o"
+}

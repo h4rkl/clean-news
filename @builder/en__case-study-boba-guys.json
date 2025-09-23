@@ -1,0 +1,599 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/case-study-boba-guys",
+  "data": {
+    "datePublished": 1708610400859,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6225b5423aa493893522ac30496fce7",
+    "inputs": [],
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "Passport, a loyalty program built on the Solana network from Boba Guys, saw an 800% return on investment.",
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa6225b5423aa493893522ac30496fce7",
+      "seoDescription": "Passport, a loyalty program built on the Solana network from Boba Guys, saw an 800% return on investment.",
+      "seoTitle": "Case Study: Boba Guys Build Loyalty with Blockchain"
+    },
+    "title": "Case Study: How Boba Guys Revamped Its Rewards Program With Solana",
+    "slug": "case-study-boba-guys",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_01a18ddc59664e8c87fe7d0af4de43b5"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-f51163689ddb4f4c9c6b564c7a02d968",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-fe8ad0026ea543d7b5146e658e208c4a",
+            "meta": {
+              "previousId": "builder-5df3c7c89c504e12aa0909f7c8137c4d"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p><strong>Highlights</strong></p><ul><li><em>In 2023, tea retailer Boba Guys developed \"Passport,\" a blockchain-based loyalty program that goes beyond traditional models, featuring gamification, exclusive rewards and digital collectibles.</em></li><li><em>The Passport program relies on Solana’s fast transaction-processing capabilities, which enable it to manage high-volume, small-scale transactions in retail settings.</em></li><li><em>The Passport program saw 15,000 users join in its first 80 days, with at least one Boba Guys location now reporting as many as 70% of orders made through the program since its launch.</em></li><li><em>A pilot of the program was a success for Boba Guys — a 67% increase in monthly visits, a 65% increase in monthly spending, and an 800% return on investment.</em></li></ul>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "backgroundColor": "rgba(20, 203, 241, 0.17)",
+                "paddingTop": "20px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingBottom": "20px",
+                "opacity": "1",
+                "borderRadius": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-0206766aac274034a53d0b2eef53ed60",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>When you think of retail rewards programs, you might envision stale punch cards or confusing airline points lacking in real incentives. However, the innovative approach taken by Boba Guys with the Solana blockchain paints a different picture of what’s possible.</p><p>Founded 12 years ago, <a href=\"https://www.bobaguys.com/our-story\" rel=\"noopener noreferrer\" target=\"_blank\">Boba Guys</a> is a primarily brick-and-mortar business with 20 locations across the Bay Area, Los Angeles and New York. The company is known for its innovation and customer-focused approach in the industry — so when it was time for the company to launch a loyalty program in 2023, founders Bin Chen and Andrew Chau wanted to transcend the conventional models they were tired of seeing.&nbsp;</p><p>\"We always felt like the traditional loyalty programs out there were just basically glorified digital punch cards,” said Chen.&nbsp;</p><p>By building on&nbsp; Solana, the Boba Guys Passport program can do a lot more. The program rewards participating customers in interactive ways, earning them points for every visit, along with gamified features like loot boxes and loyalty tiers that unlock secret menu items — all improved by using blockchain technology.</p><h2>Improving the retail rewards experience with Solana</h2>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d0e60dcf66b640b29ad9cced3e17dcae",
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-752683f69a444bc3ab6f14e712c97688",
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-f0c2f7fb9d0649808b770ef5fdcf9070",
+                    "component": {
+                      "name": "Columns",
+                      "options": {
+                        "space": 30,
+                        "columns": [
+                          {
+                            "blocks": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-7c779937d6474b0ea713c33e54a10a1b",
+                                "meta": {
+                                  "previousId": "builder-9a5fb81f60f84ee688219fd257afa6dc"
+                                },
+                                "component": {
+                                  "name": "Copy",
+                                  "options": {
+                                    "rawHtml": "<p>While traditional loyalty programs unlock rewards for frequent customers, doing so on the blockchain gives users an advantage. Rewards that a customer earns are first and foremost owned by the customer themselves — no need to worry about lost physical cards or an app shutting down. This also means that users can do what they want with their rewards — they can redeem them, hold onto them, or even sell them on the open market.</p><p>Building on the blockchain could also unlock <strong>interoperability,</strong> or the ability for users to interact with other programs using the same chain without any friction — eventually opening up new benefits for Boba Guys customers beyond a free drink. But while interoperability as a concept exists across blockchain networks, Solana has an advantage in that it operates in a single, global state — not as separate layers or networks. That means that any loyalty program built on Solana has a much broader ecosystem to interact with, from NFT projects to real world infrastructure and more. The opportunities are endless.</p>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box"
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "blocks": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-6cc98acf91e24bb3893318da9c9190d0",
+                                "meta": {
+                                  "previousId": "builder-b0ee117e171249c3badceaf772b21181"
+                                },
+                                "component": {
+                                  "name": "Image",
+                                  "options": {
+                                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe5e3ee93559f43288dad93976e53b826?width=498",
+                                    "backgroundSize": "cover",
+                                    "backgroundPosition": "center",
+                                    "lazy": false,
+                                    "fitContent": true,
+                                    "aspectRatio": 0.667,
+                                    "lockAspectRatio": false,
+                                    "sizes": "(max-width: 638px) 79vw, (max-width: 998px) 47vw, 36vw",
+                                    "height": 1333,
+                                    "width": 2000,
+                                    "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe5e3ee93559f43288dad93976e53b826?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe5e3ee93559f43288dad93976e53b826?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe5e3ee93559f43288dad93976e53b826?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe5e3ee93559f43288dad93976e53b826?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe5e3ee93559f43288dad93976e53b826?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe5e3ee93559f43288dad93976e53b826?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe5e3ee93559f43288dad93976e53b826?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe5e3ee93559f43288dad93976e53b826?width=498 498w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fe5e3ee93559f43288dad93976e53b826?width=460 460w"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "width": "100%",
+                                    "minHeight": "20px",
+                                    "minWidth": "20px",
+                                    "overflow": "hidden",
+                                    "maxWidth": "498px",
+                                    "marginLeft": "auto",
+                                    "marginRight": "auto",
+                                    "marginTop": "auto"
+                                  }
+                                }
+                              },
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-203fdf9b2c754573b9e7aa5e1f3dd998",
+                                "meta": {
+                                  "previousId": "builder-29d26c70b0f541cfa709e5bbe412c9fe"
+                                },
+                                "component": {
+                                  "name": "Copy",
+                                  "options": {
+                                    "rawHtml": "<p>\n  <em style=\"color: rgb(155, 155, 155);\"\n    >Drinks from Boba Guys at an event during NFT NYC, 2023. Photo courtesy of\n    the Solana Foundation.</em\n  >\n</p>\n"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "marginBottom": "auto",
+                                    "marginLeft": "auto",
+                                    "marginRight": "auto",
+                                    "paddingTop": "20px",
+                                    "paddingLeft": "20px",
+                                    "paddingRight": "20px"
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "stackColumnsAt": "tablet"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-6670ea93d76142368b79e9154d20dc3a"
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "row",
+                "flexWrap": "wrap"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-40e812ef57b64f0286fedbfb3bb9d528",
+            "meta": {
+              "transformed.rawHtml": "localized",
+              "localizedTextInputs": [
+                "rawHtml"
+              ],
+              "previousId": "builder-07ed64768d584f029a8d79f7f85ab1e6"
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>“What’s particularly powerful is Solana’s interoperability and composability. Systems can talk and settle seamlessly, enabling collaboration and sharing benefits across various platforms,\" said Chen. “To me, the hallmark of any good ecosystem is not just excitement but actual building and shipping.”</p><p>That, alongside the Solana network’s ability to quickly and reliably process transactions and low transaction fees make it a viable choice for the numerous small-scale transactions typical in a cafe setting. \"The transaction fees with Solana are just a fraction of a fraction,” said Chen. “This is crucial, especially when you consider our level of activity. Solana stands out because other ecosystems were just too expensive for real-time, high-frequency business use cases like ours. We needed something with low latency that is cost-effective, and that's where Solana excelled.”</p><h2>Integrating blockchain with point-of-sale retail technology</h2><p>To make Passport a success, Chen and Chau knew the team’s choice of blockchain would have to seamlessly integrate with Boba Guys' existing POS system and enhance customer checkout flow.&nbsp;</p>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-e654811f5834403b8d73c4ead43d2287",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "space": 30,
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-829e4e89e098468ab07d5ebb7165e56a",
+                        "meta": {
+                          "transformed.rawHtml": "localized",
+                          "localizedTextInputs": [
+                            "rawHtml"
+                          ],
+                          "previousId": "builder-07ed64768d584f029a8d79f7f85ab1e6"
+                        },
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": {
+                              "@type": "@builder.io/core:LocalizedValue",
+                              "Default": "<p>“Because we built a Square integration, we were able to onboard customers right at the register,” Chen said in a recent interview with the Solana Foundation. Rather than asking users to navigate an unwieldy, modern web3 onboarding process, customers can join the program with a simple QR code scan during their transaction.&nbsp;</p><p>Surprisingly, Chen reports this approach appeals to customers of all ages and is not exclusive to digitally native Gen Z shoppers.&nbsp;</p><p>\"The most eye-opening thing for us has been successfully attracting guests of all ages,” he said. “It's one thing to engage with Gen Z, who intuitively understand technology, but we're a cafe serving a diverse clientele. Some are tech-savvy, others are not. The real test was introducing blockchain technology in a way that's almost invisible to our customers.”</p>"
+                            }
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "paddingTop": "20px"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-89fc669198ca40bdaf2e670bfc0da6e0",
+                        "meta": {
+                          "previousId": "builder-b0ee117e171249c3badceaf772b21181"
+                        },
+                        "component": {
+                          "name": "Image",
+                          "options": {
+                            "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F20ed872d52c34771af9e4fede0a3621c?width=498",
+                            "backgroundSize": "cover",
+                            "backgroundPosition": "center",
+                            "lazy": false,
+                            "fitContent": true,
+                            "aspectRatio": 0.667,
+                            "lockAspectRatio": false,
+                            "sizes": "(max-width: 638px) 79vw, (max-width: 998px) 47vw, 36vw",
+                            "height": 1333,
+                            "width": 2000,
+                            "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F20ed872d52c34771af9e4fede0a3621c?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F20ed872d52c34771af9e4fede0a3621c?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F20ed872d52c34771af9e4fede0a3621c?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F20ed872d52c34771af9e4fede0a3621c?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F20ed872d52c34771af9e4fede0a3621c?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F20ed872d52c34771af9e4fede0a3621c?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F20ed872d52c34771af9e4fede0a3621c?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F20ed872d52c34771af9e4fede0a3621c?width=498 498w, https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F20ed872d52c34771af9e4fede0a3621c?width=460 460w"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "width": "100%",
+                            "minHeight": "20px",
+                            "minWidth": "20px",
+                            "overflow": "hidden",
+                            "maxWidth": "498px",
+                            "marginLeft": "auto",
+                            "marginRight": "auto",
+                            "marginTop": "auto"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-5af25f73574945a09e4a3027b2873add",
+                        "meta": {
+                          "previousId": "builder-606d2630135f4d37997b8e27eec15b4e"
+                        },
+                        "component": {
+                          "name": "Copy",
+                          "options": {
+                            "rawHtml": "<p>\n  <em style=\"color: rgb(155, 155, 155);\"\n    >A customer using a QR code to purchase drinks from Boba Guys at an NFT NYC\n    event, 2023. Photo courtesy of the Solana Foundation.</em\n  >\n</p>\n"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginBottom": "auto",
+                            "marginLeft": "auto",
+                            "marginRight": "auto",
+                            "paddingTop": "20px",
+                            "paddingLeft": "20px",
+                            "paddingRight": "20px"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "stackColumnsAt": "tablet"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-07ed64768d584f029a8d79f7f85ab1e6",
+            "meta": {
+              "transformed.rawHtml": "localized",
+              "localizedTextInputs": [
+                "rawHtml"
+              ]
+            },
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>The rewards are immediate upon signing up, Chen notes: \"Customers can sign up very, very quickly and verify with their phone. Immediately they get a welcome reward.”</p><p>Passport can be added to a person’s Apple Wallet, making it effortless to both pay and accrue rewards with a smartphone through tap-to-pay.&nbsp;</p><p>\"We basically live on a lot of people's Apple Wallets,\" Chen states, emphasizing the strategic placement.&nbsp;</p><h2>Rapid adoption and an increase in user engagement</h2><p>The Passport program saw rapid adoption with significant user engagement, with 15,000 new users onboarded in the first 80 days. The first 10,000 Passport users received a digital collectible as a thank-you, with more benefits to follow in future collaborations. As a brick-and-mortar store, Chen says it can be challenging for Boba Guys to reach guests tangibly, but with the Passport program, the team has a method to deliver items and incentives directly to their customers on demand.&nbsp;</p><p>And it seems to be working: At Boba Guys’ most popular location in Oakland, CA, Chen notes that 70% of orders were made through the Passport program in 2023. The added user engagement also led to higher sales, with Boba Guys seeing significant increases in purchases per month, higher average order values and monthly spends among loyalty program members, as seen in the results of a 2023 pilot program.</p>"
+                }
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-931339c9a1ff418aa474e52ab6c2a7c1",
+            "component": {
+              "name": "Feature Highlight",
+              "options": {
+                "eyebrow": "",
+                "headline": "Boba Guys 'Passport' Pilot Program Results",
+                "body": "As of Nov. 1, 2023:",
+                "cards": [
+                  {
+                    "feature": "67%",
+                    "body": "Increase in monthly visits, per customer"
+                  },
+                  {
+                    "feature": "65%",
+                    "body": "Increase in monthly spending, per customer"
+                  },
+                  {
+                    "feature": "800%",
+                    "body": "ROI"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-300ba446a31f4cb5a5ae39dc28f8f147",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<p>Looking ahead, there seems to be an even greater appetite among customers to advance in loyalty tiers, Chen says, with many customers aiming for the highest reward level.</p><p>\"The excitement in our program really peaks with the Boba Connoisseur level,” he said. “To qualify, customers need to spend about $400 at Boba Guys annually.”</p><p>According to Chen, there’s already a “double-digit” number of customers who have reached this coveted status. “For them, we offer secret menus, exclusive merch and air-dropped digital collectibles,” he said.</p><p>This immensely powerful approach is what Chen considers to be a key factor in mainstreaming web3 and blockchain technology.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8721c0403c5541ffb1070496e8cd3506",
+            "meta": {
+              "previousId": "builder-c4d576806a524c648f03b3cff758c4d5"
+            },
+            "component": {
+              "name": "Youtube",
+              "options": {
+                "url": "https://youtu.be/yoZ2eF6Na7w?feature=shared"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-7d9004c564c447da965c0aee6a70bd6c",
+            "component": {
+              "name": "Copy",
+              "options": {
+                "rawHtml": "<h2>Looking towards the future of retail with blockchain</h2><p>So what are the implications for brick-and-mortar retail establishments across the nation? Chen sees them leveraging the blockchain for even more decentralized infrastructure solutions in the future.&nbsp;</p><p>Chen views the Passport program as both a loyalty program and a stepping stone towards normalizing blockchain technology as a standard item in the retail owner’s toolkit. He also mentions the potential future benefits of blockchain technology, like decentralization, which could offer solutions to common retail problems, such as POS system downtimes.</p><p>“I think there's something to be said about this idea of decentralization,” he said, alluding to the imperfect nature of centralized financial service providers. “We've had Square go down in the past, and it's extremely disruptive to not be able to take a transaction in our stores and be held kind of hostage to that.”</p><p>He adds that he doesn’t think web3 payments is “a world that we're going to jump into immediately,” but that it's “prudential” for retail companies to “at least know what's out there.”</p><p>“Own your own destiny and protect yourself,” he advises.</p><p>For businesses considering a blockchain rewards program, Chen recommends giving Solana a hard look due to its speed, composability and active ecosystem. He emphasizes the importance of shipping real, usable products rather than getting caught in hype cycles.</p><p>“Solana's ecosystem is deep and broad, with new products and projects launching almost every week that are genuinely useful in real-world settings,” said Chen. “This constant development is what makes Solana stand out.”</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "paddingTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-3a6b4cd7d1c44c7f85dfda8b8a700926",
+            "component": {
+              "name": "Conversion Panel",
+              "options": {
+                "variant": "centered",
+                "heading": "Frictionless — and permissionless.",
+                "body": "Take advantage of the suite of Solana tooling to build better payments rails.",
+                "buttons": [
+                  {
+                    "label": "Learn more",
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "url": "https://solana.com/solutions/payments-tooling"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3ab1935f0303417bb0a38c533521a0d8",
+  "lastUpdated": 1715696249631,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_dd7fba721da24f5596653a6d00007e42",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1708638110490,
+  "@originId": "dd7fba721da24f5596653a6d00007e42",
+  "testRatio": 1,
+  "createdDate": 1708614617667,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/case-study-boba-guys?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=dd7fba721da24f5596653a6d00007e42&builder.overrides.dd7fba721da24f5596653a6d00007e42=dd7fba721da24f5596653a6d00007e42&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Conversion Panel": 1,
+      "Copy": 10,
+      "Feature Highlight": 1,
+      "Youtube": 1,
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Case Study: How Boba Guys Revamped Its Rewards Program With Solana ",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

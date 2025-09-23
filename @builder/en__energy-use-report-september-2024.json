@@ -1,0 +1,706 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://staging.solana.com/news/energy-use-report-september-2024",
+  "data": {
+    "datePublished": 1726063200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F33eed86d6ba3487095b9c712e9866d8e",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "A look at the impact of the Solana ecosystem on the environment, and how the Solana Foundation and ecosystem teams are working to mitigate it.",
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Energy Impact Report: September 2024"
+    },
+    "seo": {
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F33eed86d6ba3487095b9c712e9866d8e",
+      "seoDescription": "Carbon credits and biodiversity credits are among the steps the Solana Foundation is taking to offset impact.",
+      "seoTitle": "How the Solana Ecosystem is Offsetting Its Energy Impact: September 2024"
+    },
+    "slug": "energy-use-report-september-2024",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_5eb418bdd493453f837c77bd06fbeaaa"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_35de643c099d4efca470ba6ebd2547fb"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-b7b80c16cf054f8e81c93072756269a6",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-4efa4344d27a49859b5155b8ffeaecd2",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline"
+              ]
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "LEARN MORE"
+                    },
+                    "hierarchy": "outline",
+                    "url": "https://solanaclimate.com"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "ENERGY IMPACT"
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "See the  Dashboard"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Dig into the data yourself."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "In this article"
+                }
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-f5c05fd1a64443fd8eee8a9866daa471",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-20b60c40516b4d5ca2597d2329b20b22"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Summary</h2><p>As a proof-of-stake blockchain, Solana uses less energy than conventional proof-of-work networks. Less energy consumption means lower carbon emissions. Since the last Energy Use report in December 2023, the Solana network has reduced its carbon footprint by 69% through onchain purchase of carbon credits and innovative biodiversity credits.&nbsp;</p><p>Users can observe the network’s energy performance directly through a real-time emissions dashboard, recently updated to comply with new <a href=\"https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica\" rel=\"noopener noreferrer\" target=\"_blank\">Markets in Crypto Assets (MiCA)</a> regulations. These efficiencies, coupled with the Solana Foundation’s dedication to sustainability and a burgeoning decentralized environmental sector, make Solana a popular solution for environmental projects.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-20b60c40516b4d5ca2597d2329b20b22",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Introduction: Understanding Blockchain Energy Use</h2><p>Despite the industry’s rumored reputation for high energy usage, not all blockchain networks are created equal, and the stereotype is generally not accurate.&nbsp;While an individual blockchain network’s energy impact can depend on a variety of factors — including size of the network, location of validators, and more — the one that most affects a blockchain’s impact is which consensus method it uses to maintain its ledger: proof-of-work or proof-of-stake. <a href=\"https://solana.com/news/energy-impact-report-2024#footnotes\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super; font-size: smaller;\">1</sup></a></p><p>Proof-of-work networks make participating computers compete to solve math puzzles. The winner updates the block and receives cryptocurrency as a reward. “Miners” use high-powered computers to outperform others, consuming massive amounts of resources. The network most famous for using proof-of-work is Bitcoin. From 2020 to 2021, Bitcoin mining used 173.42 terawatt hours (TWh) of energy, emitted more than 85.89 Mt of CO2, and used more water than the 300 million people living in rural Sub-Saharan Africa. <a href=\"https://solana.com/news/energy-impact-report-2024#footnotes\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super; font-size: smaller;\">2</sup></a></p><p>Proof-of-stake, a newer mechanism, avoids this resource-intensive competition by choosing a validator at random. Each validator stakes cryptocurrency as collateral for its performance. Quick, accurate block validation earns tokens. Computers can validate these kinds of transactions with little RAM. Some examples of proof-of-stake networks include Solana and Ethereum v2.</p><p>Solana takes this efficiency even further, pioneering several innovative mechanisms to process more transactions with less information. One of these is <a href=\"https://unchainedcrypto.com/solana-proof-of-history/\" rel=\"noopener noreferrer\" target=\"_blank\">proof-of-history</a><em> </em>(PoH)<em>. </em>Each block carries a timestamp—a hash of the current and previous block—that arranges blocks in chronological order. A computation called a Verifiable Delay Function confirms that the stamps reflect expected timeframes for addition to the chain. This allows validators to approve a transaction without re-verifying the entire block, reducing processing time and power.&nbsp;</p><p>Proof-of-history, alongside other innovations such as <a href=\"https://www.helius.dev/blog/turbine-block-propagation-on-solana\" rel=\"noopener noreferrer\" target=\"_blank\">Turbine block propagation</a>, allow Solana to process transactions <em>in parallel</em>, or processing multiple transactions at once — a unique design that means expending less resources per transaction. The Solana network can process <a href=\"https://unchainedcrypto.com/solana-proof-of-history/\" rel=\"noopener noreferrer\" target=\"_blank\">more than 50,000 transactions per second</a> in an energy-efficient way.</p><p>Energy usage can be measured in:</p><ul><li>A kilowatt hour (KWh) represents one Kilowatt of electricity expended for one hour. For example, a 100-watt light bulb would take 10 hours to use one kilowatt-hour of energy. The average dishwasher, a 1000-watt appliance, uses about a kilowatt per hour. <a href=\"https://solana.com/news/energy-impact-report-2024#footnotes\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super; font-size: smaller;\">3</sup></a></li><li>A megawatt (MW) equals one million watts, enough to power about 330 homes for one hour. Producing enough energy for a MWH takes approximately 1,100 pounds of coal, or a wind turbine spinning for 30 minutes.&nbsp;<a href=\"https://solana.com/news/energy-impact-report-2024#footnotes\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super; font-size: smaller;\">4</sup></a></li><li>A gigawatt (GW) equals one billion watts, and a terawatt one trillion watts.</li></ul>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-dd7d18d8e72d4686947fb1257b1043ad",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Evaluating the Solana Network’s Energy Use</h2><p>As part of its commitment to the strength and resiliency of the Solana network, the Solana Foundation tracks the energy usage of the network. Most recently, this data has been shared more broadly in <a href=\"https://climate.solana.com\" rel=\"noopener noreferrer\" target=\"_blank\">a publicly-accessible dashboard</a>. The dashboard is currently maintained by the <a href=\"https://climate.solana.com/methodology\" rel=\"noopener noreferrer\" target=\"_blank\">Crypto Carbon Ratings Institute</a>, a research-driven company that tracks this data for several blockchain ecosystems.</p><p>As of a snapshot on 4 Sept. 2024, the Solana network’s energy consumption in 2024 is projected to total 8,755 megawatt hours (MWh), about the same as the electricity used in 833 American homes. <a href=\"https://solana.com/news/energy-impact-report-2024#footnotes\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super; font-size: smaller;\">5</sup></a> The average energy usage per transaction is 0.00412 watt hours (Wh). (For comparison, Bitcoin uses about the same amount of electricity as 15,219,047 American homes).</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-b89f742c46274f06985a6bd4e6669eb7",
+                "meta": {
+                  "previousId": "builder-07a6b7958b644613802d574f4a62e13d"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F163b2ba6a60a4d0291b6b1158b009e20?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.455,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 558,
+                    "width": 1226
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c4550961c1ef4caa88067d31e33e22dc",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-e81dd017ba8b4ee08173a677b252afd1"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><em>Source: </em><a href=\"https://solanaclimate.com\" rel=\"noopener noreferrer\" target=\"_blank\"><em>climate.solana.com</em></a></p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "textAlign": "center"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c41ced62261a4526bf74816ca545cc04",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>If we are to compare the energy consumption of a Solana transaction to other energy uses, such as using an LED lightbulb or central air conditioning, there is a clear view of how little energy each transaction uses. A single transaction on Solana requires about the same power as a single search engine query.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-980e95d9883b4334928f9baf47117071",
+                "meta": {
+                  "previousId": "builder-07a6b7958b644613802d574f4a62e13d"
+                },
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F13e52c7ab81d4249b980f922f19c6590?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.541,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 888,
+                    "width": 1640
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e81dd017ba8b4ee08173a677b252afd1",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><em>Source: </em><a href=\"https://solanaclimate.com\" rel=\"noopener noreferrer\" target=\"_blank\"><em>climate.solana.com</em></a></p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "textAlign": "center"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-0329cd4a484a4474afc5d5542086c90f",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>The table below compares the energy use of popular blockchains. <a href=\"https://solana.com/news/energy-impact-report-2024#footnotes\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">6</sup></a></p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-a1a65fe4009c43e499d096437329bc6a",
+                "meta": {
+                  "previousId": "builder-59b16eca1ad44d9e81b267adf7f66b4a"
+                },
+                "component": {
+                  "name": "Custom Code",
+                  "options": {
+                    "code": "<style type=\"text/css\">\n  table.custom{\n      width: 100%;\n  }\n  table.custom thead td{\n      font-weight: 600;\n  }\n  table.custom td{\n      padding: 8px 10px;\n      border: 1px solid #414141;\n  }\n  table.custom .gray{\n      background-color: #424242;\n  }\n  table.custom .green{\n      background-color: rgba(180, 251, 221, 0.7);\n\n  }\n  table.custom .red{\n      background-color: rgba(255, 117, 74, 0.7);\n  }\n  table.custom .yellow{\n      background-color: rgba(232, 241, 128, 0.7)\n  }\n    table.custom .purple{\n      background-color: #9945FF;\n  }\n</style>\n<table class=\"custom\">\n  <thead>\n    <tr>\n      <td>Blockchain Network</td>\n      <td>Annual Energy Consumption</td>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td class=\"purple\">Solana (PoS)</td>\n      <td class=\"purple\">8,483,906 kWh (8.482 mWh)</td>\n    </tr>\n    <tr>\n      <td>Bitcoin (PoW)</td>\n      <td>159,800,000,000 kWh (159.8 TWh)</td>\n    </tr>\n    <tr>\n      <td>Filecoin (PoS)</td>\n      <td>12,267,154.8 kWh (12.267 mWh)</td>\n    </tr>\n    <tr>\n      <td>Ethereum (PoS)</td>\n      <td>5,024,983.6 kWh (5.024 mWh)</td>\n    </tr>\n    <tr>\n      <td>Dogecoin (PoW)</td>\n      <td>3,800,000,000 kWh (3.8 TWh)</td>\n    </tr>\n    <tr>\n      <td>Avalanche (PoS)</td>\n      <td>563,917.9 kWh</td>\n    </tr>\n    <tr>\n      <td>Polygon (PoS)</td>\n      <td>121,536.9 kWh</td>\n    </tr>\n  </tbody>\n</table>\n",
+                    "scriptsClientOnly": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "paddingRight": "50px",
+                    "paddingLeft": "50px",
+                    "paddingTop": "20px",
+                    "marginBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-1a593580c08541d184c6143839a91f24",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Solana’s Carbon Footprint</h2><p>Since the last Energy Use report in December 2023, the Solana network reduced its&nbsp;carbon footprint 69%, from approximately 8,786 tCO2 in 2023 to an estimated 2,671 tCO.2 in 2024. That’s roughly equivalent to the annual carbon production of 167 Americans, who each produce about 16 tons of carbon dioxide each year. <a href=\"https://solana.com/news/energy-impact-report-2024#footnotes\" rel=\"noopener noreferrer\" target=\"_blank\"><sup style=\"vertical-align: super;\">7</sup></a>&nbsp;The figures below detail the Solana network’s carbon impact.</p><p>While carbon footprint provides a snapshot of a company’s overall environmental impact, more detailed insights come from <em>carbon intensity</em>, <a href=\"https://carbonbetter.com/story/carbon-emissions-intensity/\" rel=\"noopener noreferrer\" target=\"_blank\">the amount of emissions per unit of economic output</a>. This figure allows comparison of different activities within an industry. One common measure of carbon intensity calculates the amount of carbon generated per kWh.&nbsp;</p><p>Processes powered by cleaner energy sources like wind and solar energy will have a lower carbon intensity value than those reliant on fossil fuels. Examining emissions at this level helps the Solana Foundation make smart decisions about efficiency, scale, and carbon offsets. The graphic below captures the Solana network’s carbon impact.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-07a6b7958b644613802d574f4a62e13d",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F92a52bccea1940c4bace8c7f71df15ab?width=902",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.47,
+                    "lockAspectRatio": false,
+                    "sizes": "(max-width: 638px) 90vw, (max-width: 998px) 91vw, 62vw",
+                    "height": 590,
+                    "width": 1254
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e6cba50099bc4e399b408084f3a4a97f",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ],
+                  "previousId": "builder-e81dd017ba8b4ee08173a677b252afd1"
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><em>Source: </em><a href=\"https://solanaclimate.com\" rel=\"noopener noreferrer\" target=\"_blank\"><em>climate.solana.com</em></a></p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "textAlign": "center"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-7290ae8ae89a4e6ebdda8dd2e83717a4",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2>Offsetting the Network’s Impact</h2><p>In order to make the Solana network sustainable and minimize stress on the environment, the Solana Foundation takes a number of steps to offset the network’s impact.&nbsp;</p><p>For 2023, the Solana Foundation achieved these footprint reductions with <a href=\"https://solana.com/news/solana-energy-use-report-december-2023\" rel=\"noopener noreferrer\" target=\"_blank\">blockchain-based carbon offsets </a>through <a href=\"https://ecotoken.earth\" rel=\"noopener noreferrer\" target=\"_blank\">EcoToken</a>, a platform that helps make small environmental projects economically viable. For 2023, the offsets the Foundation purchased are being used to support planting trees in urban areas in North America.</p><p>In addition to carbon credits — a well-known offset option — the Solana Foundation is also working with <a href=\"https://en.terrasos.co/sobre-terrasos\" rel=\"noopener noreferrer\" target=\"_blank\">Terrasos</a> to experiment with a new form of offsets called <a href=\"https://en.terrasos.co/nota-biodiversity-credits\" rel=\"noopener noreferrer\" target=\"_blank\">biodiversity credits</a>. These credits preserve one square meter of ecologically sensitive land for up to 30 years. Terrasos uses Solana to integrate program governance, asset management, and ecological data onchain. <a href=\"https://medium.com/regen-network/regen-network-and-ecotoken-support-solana-foundation-in-maintaining-carbon-neutrality-9c24118de87b\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more here.</a></p><p>In addition, the Solana network’s public dashboard has undergone updates to reflect new <a href=\"https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica\" rel=\"noopener noreferrer\" target=\"_blank\">Markets in Crypto Assets (MiCA)</a> regulations, including <a href=\"https://climate.solana.com/mica-compliance\" rel=\"noopener noreferrer\" target=\"_blank\">a dedicated page to the data.</a> MiCA, a regulatory framework developed by the European Union, becomes fully applicable in December 2024.</p><p>Beyond the work of the Foundation, the Solana ecosystem has become a decentralized network of choice for environmental projects and has a thriving ReFi (regenerative finance) ecosystem. Some projects include:</p><ul><li><a href=\"https://gainforest.earth/\" rel=\"noopener noreferrer\" target=\"_blank\">GainForest</a>, a Swiss tech non-profit organization dedicated to reforestation efforts that uses Solana to manage and track donations;</li><li><a href=\"https://www.sunrisestake.com\" rel=\"noopener noreferrer\" target=\"_blank\">Sunrise Staking</a>, which allows users to donate staking rewards as carbon offsets;</li><li><a href=\"https://www.outside.io\" rel=\"noopener noreferrer\" target=\"_blank\">Outerverse</a>, an outdoor-themed NFT marketplace; and</li><li><a href=\"https://www.noetika.tech/weather\" rel=\"noopener noreferrer\" target=\"_blank\">WiHi</a>, Winner of the 2022 Solana Summer Camp Hackathon Climate Award, offers decentralized enhancement for weather forecasting and climate monitoring by incentivizing users to provide sensor data.</li></ul><p>The Solana Foundation will continue to report on the impact of the Solana network. <a href=\"mailto:climate@solana.org\" rel=\"noopener noreferrer\">Feedback is welcome here.</a></p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-82f746ec946c4aec9774923cdeab33bd",
+                "meta": {
+                  "previousId": "builder-33f3afdba9db42d58e9c7f9c15e10758"
+                },
+                "component": {
+                  "name": "Custom Code",
+                  "options": {
+                    "code": "<br />\n<hr />\n<br />\n",
+                    "scriptsClientOnly": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e156f7443a2640ee916982ee8be025a5",
+                "properties": {
+                  "id": "footnotes"
+                },
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p><em>Footnotes</em></p><ol><li><a href=\"https://www.bitwave.io/blog/explained-proof-of-work-vs-proof-of-stake-carbon-footprint\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bitwave.io/blog/explained-proof-of-work-vs-proof-of-stake-carbon-footprint</a></li><li><a href=\"https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003871\" rel=\"noopener noreferrer\" target=\"_blank\">https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003871</a></li><li><a href=\"https://electricityplans.com/kwh-kilowatt-hour-can-power/\" rel=\"noopener noreferrer\" target=\"_blank\">https://electricityplans.com/kwh-kilowatt-hour-can-power/</a></li><li><a href=\"https://www.carboncollective.co/sustainable-investing/megawatt-hour-mwh\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.carboncollective.co/sustainable-investing/megawatt-hour-mwh</a></li><li>The average U.S. household consumes about 10,500 kilowatthours (kWh) of electricity per year, according to the U.S. Energy Information Administration. Source: <a href=\"https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php</a></li><li>Source: <a href=\"https://indices.carbon-ratings.com/\" rel=\"noopener noreferrer\" target=\"_blank\">https://indices.carbon-ratings.com/</a></li><li><a href=\"https://scied.ucar.edu/learning-zone/climate-solutions/carbon-footprint\" rel=\"noopener noreferrer\" target=\"_blank\">https://scied.ucar.edu/learning-zone/climate-solutions/carbon-footprint</a></li></ol>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-08aeaf2b924f40e8bdbea39590ce4fb2",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge"
+              ],
+              "previousId": "builder-a2b52f7c5eec487cad96baeca523f1b4"
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8394a7c13a8b4714a3df212f0799b409"
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Unchain Crypto with Blinks and Solana Actions"
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Mint, swap, sell, vote, and process any Solana transaction — from anywhere. Start building blockchain links and Solana Actions today.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Read the docs"
+                    },
+                    "url": "https://solana.com/docs/advanced/actions"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba5366444d75412fb91aafd56fac6d00",
+  "lastUpdated": 1726066162103,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_81ef8cd1312a47b298c6eff26305b77d",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1725975908067,
+  "@originId": "81ef8cd1312a47b298c6eff26305b77d",
+  "testRatio": 1,
+  "createdDate": 1725972227452,
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "lastPreviewUrl": "https://staging.solana.com/news/energy-use-report-september-2024?builder.space=983ae1dad0ba4ca4ac6dd4ac310edee1&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=983ae1dad0ba4ca4ac6dd4ac310edee1_81ef8cd1312a47b298c6eff26305b77d&builder.overrides.983ae1dad0ba4ca4ac6dd4ac310edee1_81ef8cd1312a47b298c6eff26305b77d=983ae1dad0ba4ca4ac6dd4ac310edee1_81ef8cd1312a47b298c6eff26305b77d&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Copy": 11,
+      "Content Editor": 1,
+      "Section Molecule": 1,
+      "Switchback": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Energy Use Report: September 2024",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "l9w1e2t4y1"
+}

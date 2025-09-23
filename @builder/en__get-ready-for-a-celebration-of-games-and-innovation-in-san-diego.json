@@ -1,0 +1,385 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "previewUrl": "https://solana.com/news/get-ready-for-a-celebration-of-games-and-innovation-in-san-diego",
+  "data": {
+    "datePublished": 1689138000000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd4f45949befb44eeadca8cbdb75b7000",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e"
+    },
+    "intro": "PlayGG will debut exciting new mobile and PC games ",
+    "publishedDate": "Wed Jul 12 2023 00:00:00 GMT-0500 (Central Daylight Time)",
+    "seo": {
+      "seoTitle": "Get ready for a celebration of games and innovation in San Diego"
+    },
+    "title": "Get ready for a celebration of games and innovation in San Diego",
+    "slug": "get-ready-for-a-celebration-of-games-and-innovation-in-san-diego",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9687f359460a46d5bc32a40d446b0cb7"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_019fb8631ae5437da54e49db3d1ccf91"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-a5c98a45e9d243799399877409e2203e",
+        "component": {
+          "name": "Section Molecule",
+          "options": {}
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2a28bec04b2e4cb5bcc6f13eba03ae39",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>We are less than a week away from <a href=\"http://solana.com/playgg\" rel=\"noopener noreferrer\" target=\"_blank\">PlayGG</a>, happening July 18 and 19, at the JULEP Venue in San Diego. The Solana Foundation is excited to highlight another seven games that attendees will have the opportunity to experience during the marquee event. This is a free event and all ages are welcome — bring your family, friends, and teammates to experience the world of blockchain gaming. <a href=\"https://lu.ma/playgg\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Register HERE</strong></a></p><p><br></p><p>In our previous posts for this series (<a href=\"https://solana.com/news/check-out-games-you-can-experience-at-playgg\" rel=\"noopener noreferrer\" target=\"_blank\">here</a> and <a href=\"https://solana.com/news/from-racing-to-strategy-playgg-hosts-a-wide-variety-of-game-types-and-experiences\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>), we highlighted BR1, Honeyland, MixMob, Eternal Dragons, Tinies, Monkey League, ev.io, Alpha League Racing, Photo Finish Live, and StepN. In this spotlight, we are highlighting Vital XP, Portals, Chronos, Laddercaster, MegaRoad, Alchemy: Battle for Ankhos, and DripDrop Arena.</p><p>Come join us for two days filled with:</p><ul><li>Exciting on-stage demos from mobile, browser, and PC games</li><li>An interactive panel led by Magic Eden and featuring game developers</li><li>“Play with the Pros” with <a href=\"https://na.g2esports.com/\" rel=\"noopener noreferrer\" target=\"_blank\">G2 Esports</a> talent</li><li>A fun scavenger hunt featuring prizes from limited edition merch to a <a href=\"https://solanamobile.com/hardware\" rel=\"noopener noreferrer\" target=\"_blank\">Saga </a>phone!</li><li>Delicious food from local San Diego food trucks featuring <a href=\"http://www.zsbuddies.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Zs Buddies Sushi</a>, <a href=\"https://criscitopizza.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Criscito Pizza</a>, <a href=\"https://www.corazondetortatruck.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Corazon de Torta</a>, and <a href=\"https://sweettreatstruck.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sweet Treats</a></li></ul><p><br></p><p><strong>Alchemy: Battle for Ankhos</strong></p><p>Do you have what it takes to survive the Enchanted Forest at PlayGG? The fate of Ankhos is in your hands. <a href=\"https://discord.gg/D6HYr8BCDs\" rel=\"noopener noreferrer\" target=\"_blank\">Alchemy</a>: Battle for Ankhos is a turn-based RPG played entirely in Discord and powered by AI. Battle your team of Descendants against friends in the Colosseum or quest to fulfill your personal legend in a rich, alchemy-themed universe.</p><p>Play the alpha now <a href=\"https://discord.gg/D6HYr8BCDs\" rel=\"noopener noreferrer\" target=\"_blank\">on Discord</a> and compete for prizes every week! At PlayGG, visit the Alchemy: Battle for Ankhos booth and challenge your turn-based combat skills for an exclusive free mint! Supply is limited.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8d7b8e366bd2460a9a59094c14f6484f",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/Ge06Mtjo2sc",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/Ge06Mtjo2sc?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f54aa75c81454fc0badb3f54857fc4dd",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Chronos</strong></p><p><a href=\"https://playchronos.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Chronos</a> is a free-to-play action-platformer for PC and mobile.</p><p>Explore procedurally generated dungeons, build your village, and engage in real-time PvP battles. Adventure mode immerses players in vast worlds to conquer solo or with friends, and the different PvP game modes come action-packed with a satisfying combat system and a tight parkour feel. The game also features a wide customization system with skill trees, weapons, armor, skins, and more. A player’s NFTs evolve as they progress inside the game.</p><p>At PlayGG, Chronos will showcase exclusive new features, with different new game modes and weapons a! Attendees may even get to see a sneak peek of the upcoming Chronos v2!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f4df02453fad428a94f9ad6115789fd3",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/29eyyJQl91o",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/29eyyJQl91o?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-bfef7044a050409bac09f7525c5f0844",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Laddercaster</strong></p><p><a href=\"https://www.laddercaster.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Laddercaster</a> is a mobile-first, ladder-ranking strategy game and NFT player-to-player market built on Solana. The goal of the game is for players to level up their spellcasters, from level 1 to level 30, before the next ladder (season) begins. Each character is an NFT, which can gain skills, find and equip items, or craft using materials gathered during each turn.</p><p>Check out the Laddercaster trailer <a href=\"https://twitter.com/LadderCaster/status/1520782700264800260\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-a0b48e3549bf4048b2c05131c458b1b0",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Mega Road</strong></p><p><a href=\"https://megaroad.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Mega Road</a> is the first game being released under <a href=\"https://fidelion.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Project Fidelion</a>, an NFT project focused on storytelling and art, set in a post-apocalyptic world. Project Fidelion revolves around a dystopian story based on the idea of \"One empire, Nine factions, and One story (\\191)\".</p><p>Mega Road is directed by Hokyo Lim, a founding member of Riot Games. The team is building a casual, mobile Rogue-like ARPG game with unique art and music and players at PlayGG can get free digital assets!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-74e1cd9f26db4c3397569484859cade6",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/pU2ENLVJrz0",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/pU2ENLVJrz0?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-db4fb27a992849fd80ae49f283cde04e",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Portals</strong></p><p><a href=\"https://theportal.to/\" rel=\"noopener noreferrer\" target=\"_blank\">Portals</a> is an ever-evolving games universe. In Story Mode, players move into a residence, earn coins, complete quests, collect items, craft, decorate, and expand their city. In Creative Mode, players can create and share worlds, games and experiences: theme parks, treasure islands, obstacle courses, RPGs, dungeon crawlers, or anything else they can imagine! All with an easy-to-use drag and drop interface.</p><p>Portals works in the browser, so you can just send a link to a friend and immediately collect, play and build together. In development since 2021, Portals is in early access, and playable in the browser now.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-dfca18c1a42548fd954a30f641256a12",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/ID9pIDEjowQ",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/ID9pIDEjowQ?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-181af5d36b3f4df98024ac77d281ce39",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Project Eluüne</strong></p><p><a href=\"https://www.projecteluune.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Project Eluüne’s StarGarden</a> is a team-based, auto-chess battler with RPG mechanics for PC and mobile.</p><p>In merging innovative play-and-own mechanics with the power of communal engagement, Project Eluüne is bringing players an opportunity to explore a tightly woven story-universe alongside a tribe of their closest friends. Players can claim one of 4,445 StarGardens, which serve as the home base and social hub for their tribe. Between completing quests and winning TvT battles, players strategize alongside their community to best optimize their creatures – all while unraveling the mysteries of Eleriah.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-f87a546023274f7ab199ad9220dffea1",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/5Gvk6GmY-aY",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/5Gvk6GmY-aY?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-1d4a18b50c5648808625b30e23eac4e1",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p><strong>Vital XP</strong></p><p><a href=\"https://www.vitalxp.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Lowlife Forms</a> is an evolutive, episodic and customizable web3 shooter that blends gunplay and magic. Set in a tongue-and-cheek universe at the intersection of science fantasy and the underground criminal world, LLF will take you on a journey from gladiator games to heroic heists, monster hunting and cosmic smuggling.</p><p>LLF’s first episode, The Can, is a PvPvE round-based arena shooter where each round differs from the previous through a groundbreaking NFT modding mechanic.</p><p>Built on Unreal 5 and Solana, and developed by Vital XP, a team of AAA-game veterans (Call of Duty, Ratchet &amp; Clank, Marvel, Quake, Wolfenstein, etc.), Lowlife Forms is a high-fidelity, narratively driven, action-packed game like web3 has never seen.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-70e1b5446d6b4afdba8c23c7e488bc74",
+            "component": {
+              "name": "Embed",
+              "options": {
+                "url": "https://www.youtube.com/embed/T_G0zCicae0",
+                "content": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\"><iframe src=\"https://www.youtube.com/embed/T_G0zCicae0?rel=0\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;\"></iframe></div>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fba977a367cd94b75bf8b2226d0034a0f",
+  "lastUpdated": 1704915529913,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_27c62e7ff1544bfe84e448a500b7f27b",
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1689544087729,
+  "@originId": "27c62e7ff1544bfe84e448a500b7f27b",
+  "testRatio": 1,
+  "createdDate": 1689543239045,
+  "createdBy": "Mnnh4caHZWRuAaMvVEyczaYFfA43",
+  "meta": {
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/get-ready-for-a-celebration-of-games-and-innovation-in-san-diego?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=27c62e7ff1544bfe84e448a500b7f27b&builder.overrides.27c62e7ff1544bfe84e448a500b7f27b=27c62e7ff1544bfe84e448a500b7f27b&builder.options.includeRefs=true&builder.options.locale=Default",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "Get ready for a celebration of games and innovation in San Diego",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "rev": "l9w1e2t4y1"
+}

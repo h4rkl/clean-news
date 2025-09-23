@@ -1,0 +1,469 @@
+{
+  "folders": [],
+  "query": [],
+  "createdBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "createdDate": 1733238278311,
+  "data": {
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_d77d440d611740938a437715cb680274",
+      "model": "author"
+    },
+    "datePublished": 1733414400000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6afb3436cb6d4b78819ad3f811e29815",
+    "intro": "A Solana-powered gift store is up and running for all your onchain shopping needs.",
+    "seo": {
+      "seoDescription": "A Solana-powered gift store is up and running for all your onchain shopping needs.",
+      "seoImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F6afb3436cb6d4b78819ad3f811e29815",
+      "seoTitle": "Spend Your Magical Internet Money During the Onchain Holiday"
+    },
+    "slug": "onchain-holiday",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_29b188b21b454f448f5aa0d064429cce",
+          "model": "entity-blog-tags"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_a06f417c4cb24d50b4ca8ca34a2230a7",
+          "model": "entity-blog-tags"
+        }
+      }
+    ],
+    "title": {
+      "@type": "@builder.io/core:LocalizedValue",
+      "Default": "Spend Your Magical Internet Money During the Onchain Holiday"
+    },
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-5c0f6baf80e748ea85fb69e0614530b5",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "none"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-8d113a50ebff45c8990515a68edc94f6",
+            "meta": {
+              "localizedTextInputs": [
+                "tocHeadline",
+                "callToAction.eyebrow",
+                "callToAction.headline",
+                "callToAction.description",
+                "callToAction.button.label"
+              ]
+            },
+            "component": {
+              "name": "Content Editor",
+              "options": {
+                "callToAction": {
+                  "button": {
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "LEARN MORE"
+                    },
+                    "hierarchy": "outline",
+                    "url": "https://solana.com/solutions/payments-tooling"
+                  },
+                  "eyebrow": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "ECOMMERCE"
+                  },
+                  "headline": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Solana is Built for Payments"
+                  },
+                  "description": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": "Learn how onchain primitives are fueling a revolution in ecommerce."
+                  }
+                },
+                "tocHeadline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                }
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-25a76611267041da874f6bad5d2dda14",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Your magic internet money is bored. It’s time to use it for real-world holiday gifts for you and your loved ones. ‘Tis the season!</p><p>We are pleased to announce <a href=\"https://onchain.holiday\" rel=\"noopener noreferrer\" target=\"_blank\">Onchain Holiday</a>: an online shopping event running from 5-12 December that allows users to spend their stablecoins and memecoins on merchandise from over a dozen brands and retailers. This catalog, powered by <a href=\"https://solana.com/solutions/actions\" rel=\"noopener noreferrer\" target=\"_blank\">blinks (blockchain links)</a> on Solana and <a href=\"https://apps.shopify.com/solana-pay-helio\" rel=\"noopener noreferrer\" target=\"_blank\">Helio’s Solana Pay x Shopify plugin</a>, will make it easy for crypto users to do their holiday shopping.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-c98ce592cf61464ea50e9014eeba76dc",
+                "component": {
+                  "name": "Video",
+                  "options": {
+                    "video": "https://cdn.builder.io/o/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fd44890f7edeb4010a55f069cd4bf7b68%2Fcompressed?apiKey=ce0c7323a97a4d91bd0baa7490ec9139&token=d44890f7edeb4010a55f069cd4bf7b68&alt=media&optimized=true",
+                    "autoPlay": true,
+                    "controls": false,
+                    "muted": true,
+                    "loop": true,
+                    "playsInline": true,
+                    "fit": "contain",
+                    "preload": "metadata",
+                    "fitContent": true,
+                    "position": "center",
+                    "aspectRatio": 0.7004048582995948,
+                    "lazyLoad": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "width": "100%",
+                    "paddingBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-aacda8a40c994c96b31537f38b8e16c9",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>Customers will be able to cop over 50+ products, including:</p><ul><li>Merchandise from Nike NOCTA</li><li>Kate Hudson’s Skincare Kit from Symbiome</li><li>Rugs from Babaee</li><li>Underwear from Culprit&nbsp;</li><li>Contemporary menswear from KROST</li><li>Sexual wellness and health from Playground, cofounded by Christina Aguilera&nbsp;</li><li>10% off preorders for Solana Mobile’s new device, Seeker&nbsp;</li><li>And more...</li></ul><p>Get your wallet ready. Onchain Holiday starts now!</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-3b838c97334c46f0be21b99c405a4685",
+                "meta": {
+                  "previousId": "builder-c98ce592cf61464ea50e9014eeba76dc"
+                },
+                "component": {
+                  "name": "Video",
+                  "options": {
+                    "video": "https://cdn.builder.io/o/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F547e240c763d4c0f9da48573b072eba2%2Fcompressed?apiKey=ce0c7323a97a4d91bd0baa7490ec9139&token=547e240c763d4c0f9da48573b072eba2&alt=media&optimized=true",
+                    "autoPlay": true,
+                    "controls": false,
+                    "muted": true,
+                    "loop": true,
+                    "playsInline": true,
+                    "fit": "contain",
+                    "preload": "metadata",
+                    "fitContent": true,
+                    "position": "center",
+                    "aspectRatio": 0.7004048582995948,
+                    "lazyLoad": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "width": "100%",
+                    "paddingBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-56f3c11fc8f84cf7babc520f73ed1eb0",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<h2><strong>Bringing Crypto Into the Real World</strong></h2>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-48b9e252199d483d8ee94044c661eb40",
+                "component": {
+                  "name": "Youtube",
+                  "options": {
+                    "url": "https://youtu.be/m_feBl0ROik?feature=shared"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "paddingBottom": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-3dc1fffe370a4898bcdb8e497c80aac3",
+                "meta": {
+                  "localizedTextInputs": [
+                    "rawHtml"
+                  ]
+                },
+                "component": {
+                  "name": "Copy",
+                  "options": {
+                    "rawHtml": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "<p>“Crypto has been ‘magical internet money’ for so long, it’s easy to forget how transformative it is,” said Josh Fried, Head of Loyalty at the Solana Foundation. “With Onchain Holiday, users will be able to spend money that has been sitting in their crypto wallets to purchase gifts for loved ones. On the flip side, retailers will experience the ease of accepting Solana-based payments and participate in the future of ecommerce.”</p><p>The Solana ecosystem has long been a home for real-world applications of decentralized technology, such as <a href=\"https://solana.com/news/case-study-helium\" rel=\"noopener noreferrer\" target=\"_blank\">decentralized infrastructure networks</a> or <a href=\"https://www.rollingstone.com/music/music-features/eric-church-nashville-bar-chiefs-1234980079/\" rel=\"noopener noreferrer\" target=\"_blank\">fan loyalty programs</a>. Onchain Holiday again shows just how close those connections between internet markets and the real world truly are.</p><p>The Solana network’s near-instant settlement and low fees are turbocharged by innovative, user-friendly primitives that simplify the process for taking action on the Solana network.&nbsp;</p><p>Onchain Holiday is made possible by <a href=\"https://solana.com/solutions/actions\" rel=\"noopener noreferrer\" target=\"_blank\">blinks and Solana Actions</a>, unique innovations made possible by teams in the Solana ecosystem. Solana Actions and blinks, developed by an ecosystem-wide team led by <a href=\"https://www.dialect.to/actions\" rel=\"noopener noreferrer\" target=\"_blank\">Dialect</a>. Using the APIs originally built to support Solana Pay, developers can connect hyperlinks, QR codes, push notifications, and more to allow any user to make a transaction on the Solana blockchain without having to go into their wallet. And with Helio’s <a href=\"https://www.hel.io/shopify-stores\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay x Shopify</a> plugin, retailers participating in Onchain Holiday can simply connect to their existing Shopify storefront and accept crypto payments. (Want to learn how to implement these primitives for your business? See the developer docs for <a href=\"https://docs.dialect.to/documentation/actions\" rel=\"noopener noreferrer\" target=\"_blank\">Actions</a>, <a href=\"https://docs.dialect.to/documentation/actions/blinks\" rel=\"noopener noreferrer\" target=\"_blank\">blinks</a>, and <a href=\"https://docs.hel.io/product-guides/solana-pay-shopify-plugin\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Pay x Shopify</a>.)</p><p>Get ready to experience some holiday internet magic this December! Onchain Holiday begins 5 December 2024.</p><p><em>Onchain Holidays is supported by the following merchants: </em><a href=\"https://us.foursigmatic.com/?srsltid=AfmBOoqQiki_ioPn-qOEcdBZaLE5pLm1uJNHwV4aHt4T7-b_o2uZEvhp\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Four Sigmatic</em></a>, <a href=\"https://thefocusfuel.com/?srsltid=AfmBOooHbmuEhwaRMFKuuNP-qI-1wDz2Dk1noYL4KAe0JZImgrzOzbts\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Focus Fuel</em></a>, <a href=\"https://www.nocta.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Nocta</em></a>, <a href=\"https://krostnewyork.com/?srsltid=AfmBOoqL2TPt59yxEbaM2M5r9e_9zcmgaH8M1fPS5w-fSvvX1chs7Fx6\" rel=\"noopener noreferrer\" target=\"_blank\"><em>KROST NY</em></a>, <a href=\"https://www.symbiome.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Symbiome</em></a>, <a href=\"https://www.octoskincare.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Octo Skincare</em></a>, <a href=\"https://artemisdefense.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Artemis</em></a>, <a href=\"https://helloplayground.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Playground</em></a>, <a href=\"https://us.sergedenimes.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Serge deNimes</em></a>, <a href=\"https://solanamobile.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Solana Mobile</em></a>, <a href=\"https://culpritunderwear.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Culprit Underwear</em></a>, <a href=\"https://babaeerugs.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Babaee Rugs</em></a>.</p>"
+                    }
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5a04f88b008b4159acc81dd4e111f2bc",
+            "meta": {
+              "previousId": "builder-e522857708bd472bbfb308e46f963ebe"
+            },
+            "component": {
+              "name": "Custom Code",
+              "options": {
+                "code": "<br />\n<hr />\n<br />\n",
+                "scriptsClientOnly": true
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-24cb363d6021463784d88e4c0f7a93c8",
+            "meta": {
+              "localizedTextInputs": [
+                "eyebrow",
+                "headline",
+                "body",
+                "placeholder",
+                "emailError",
+                "submitError",
+                "successMessge",
+                "buttons.0.label",
+                "image.alt"
+              ],
+              "previousId": "builder-af1434f489cc4d20865ca85d5b04407c"
+            },
+            "component": {
+              "name": "Switchback",
+              "options": {
+                "assetSide": "right",
+                "image": {
+                  "alt": {
+                    "@type": "@builder.io/core:LocalizedValue",
+                    "Default": ""
+                  },
+                  "src": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F8394a7c13a8b4714a3df212f0799b409"
+                },
+                "eyebrow": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "headline": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "Unchain Crypto with Blinks and Solana Actions"
+                },
+                "body": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": "<p>Mint, swap, sell, vote, and process any Solana transaction — from anywhere. Start building blockchain links and Solana Actions today.</p>"
+                },
+                "placeholder": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "emailError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "submitError": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "successMessge": {
+                  "@type": "@builder.io/core:LocalizedValue",
+                  "Default": ""
+                },
+                "buttons": [
+                  {
+                    "hierarchy": "primary",
+                    "size": "md",
+                    "iconSize": "md",
+                    "label": {
+                      "@type": "@builder.io/core:LocalizedValue",
+                      "Default": "Read the docs"
+                    },
+                    "url": "https://solana.com/docs/advanced/actions"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1733238483412,
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c87ef5d087774c6787f52417cf641bc1",
+  "lastUpdated": 1733419327995,
+  "lastUpdatedBy": "sYmy3Nz6iXT6gbZQB5Ti1iGBXml2",
+  "meta": {
+    "componentsUsed": {
+      "Content Editor": 1,
+      "Copy": 4,
+      "Section Molecule": 1,
+      "Switchback": 1,
+      "Youtube": 1
+    },
+    "hasLinks": false,
+    "kind": "component",
+    "lastPreviewUrl": "https://solana.com/news/onchain-holiday?builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers%2CeditContentPriority&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=c87ef5d087774c6787f52417cf641bc1&builder.overrides.c87ef5d087774c6787f52417cf641bc1=c87ef5d087774c6787f52417cf641bc1&builder.options.includeRefs=true&builder.options.enrich=true&builder.options.locale=Default"
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "name": "Spend Your Magical Internet Money During the Onchain Holiday",
+  "previewUrl": "https://solana.com/news/onchain-holiday",
+  "published": "published",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3f830dfd53634cc3aa16e709e4793acc",
+  "testRatio": 1,
+  "variations": {},
+  "@originId": "c87ef5d087774c6787f52417cf641bc1",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@liveSyncEnabled": true,
+  "rev": "l9w1e2t4y1"
+}

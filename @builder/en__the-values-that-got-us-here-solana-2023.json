@@ -1,0 +1,179 @@
+{
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "datePublished": 1675105200000,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2Fa5e99d41db0d4397871f9bfd6d15f034",
+    "author": {
+      "@type": "@builder.io/core:Reference",
+      "model": "author",
+      "id": "0fe0adbf9f1fc7f11a669e9e6b05ec533c948f70f16dc2807a1cc41f30073153"
+    },
+    "intro": "A letter from Anatoly Yakovenko and Raj Gokal.",
+    "publishedDate": "Tue Jan 31 2023 00:00:00 GMT+0500 (Pakistan Standard Time)",
+    "seo": {
+      "internalName": "The Values That Got Us Here",
+      "noFollow": false,
+      "seoDescription": "A letter from Anatoly Yakovenko and Raj Gokal.",
+      "seoTitle": "The Values That Got Us Here",
+      "noIndex": false
+    },
+    "title": "The Values That Got Us Here",
+    "openGraph": {
+      "ogTitle": "The Values That Got Us Here",
+      "ogUrl": "https://www.solana.com/blog/the-values-that-got-us-here-solana-2023",
+      "ogDescription": "A letter from Anatoly Yakovenko and Raj Gokal.",
+      "ogImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F076ce89ee80d4fd69694f5903c5febc1",
+      "ogType": [
+        "article"
+      ]
+    },
+    "twitterMeta": {
+      "twitterTitle": "The Values That Got Us Here",
+      "twitterDescription": "A letter from Anatoly Yakovenko and Raj Gokal.",
+      "twitterImage": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F076ce89ee80d4fd69694f5903c5febc1"
+    },
+    "slug": "the-values-that-got-us-here-solana-2023",
+    "tags": [
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_c938e5ec564046adae48f51adb931594"
+        }
+      },
+      {
+        "tag": {
+          "@type": "@builder.io/core:Reference",
+          "model": "entity-blog-tags",
+          "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_832fbf00c9cb4746a1eb7b6954ca2b93"
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-9699417c4d07457e948a008c31a1fddd",
+        "component": {
+          "name": "Section Molecule",
+          "options": {
+            "noPadding": "noPaddingY"
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-6d84411d1a884b12a7c11b558bda7b25",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<p>We’re only a month into 2023 and we can already tell that a special year lies ahead for the Solana Community. We are as energized and resolute as ever because it’s clear to us that the principles that define this ecosystem have never been stronger.</p><p>A&nbsp;<a href=\"http://llcoolj.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">wise man once said</a>, “Don’t call it a comeback.” That’s how we all should feel right now.</p><p>Despite the turbulent market and constant FUD,&nbsp;<a href=\"https://www.developerreport.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the recent Electric Capital Developer Report</a>&nbsp;confirmed that builders keep flocking to Solana. With 8% growth year-over-year for full-time developers in the broader crypto community, the developer numbers on Solana are up 83% as of Dec. 2022, from a year earlier. There are now more than 2,000 monthly active developers building on Solana — second in raw numbers only to Ethereum.</p><p>Nearly all of this is organic community growth. There are now&nbsp;<a href=\"https://solana.com/ecosystem?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">thousands of teams</a>&nbsp;building projects, dApps, and tools that can only be built using Solana’s high throughput and low fees. For us, it’s a vindication.</p><p>When the Solana whitepaper was published in late 2017, the vision was to build a future based on fair access to finance, freedom, and security. Ten, fifty, and one hundred years from now, we won’t need centralized financial authorities to decide who can do what in society, and blockchain technology will bring more prosperity and freedom to humanity.</p><p>It’s been less than three years since the Solana mainnet was launched in beta. Much has changed in the world and even more has changed in crypto — we believe these changes are positive ones overall that will lead the entire industry to realize its future vision. We have never felt more optimistic about this future.</p><h2><strong>How “the promise of web3” failed in 2022</strong></h2><p>If web1 was the internet web of individual static websites, and web2 was the internet of the centralized platform company, web3 is the promise of an internet where users are in control, true owners of the platforms and services they use. Blockchain is the truest expression of the web3 vision — a technology that holds up the principles of decentralization, self-sovereignty, fairness and freedom. But events of the last year have betrayed those tenets.</p><p>2022 saw perhaps the steepest decline ever in the general public's trust in crypto. Much of the decline can be attributed to companies that did not practice the ideals of web3, and the disastrous events that followed are a direct result of their betrayal of the values we hold dear. These centralized companies did not believe in an even financial playing field, self-custody, or even basic decentralization, and their collapse caused a great deal of damage. For many, the whole industry now has a reputation for being unreliable and untrustworthy.</p><p>While much of the crypto industry&nbsp;<a href=\"https://twitter.com/Austin_Federa/status/1613699456939036673?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">has bounced back quickly,</a>&nbsp;that reputational damage has been highly detrimental to those who have been legitimately building in the space for years and now see their names associated with what has really been “crypto-washed traditional finance”, or outright fraud.&nbsp;</p><p><strong>This is frustrating because Decentralized Finance is today disrupting existing, antiquated financial models at an incredibly fast pace. In fact, DeFi would have prevented most of these disastrous events from happening in the first place.</strong></p><p>Decentralization is the heart of web3 — and to truly embrace web3’s promise, it needs to be the uncompromising core of everything a project does. Fully open-sourced code. All activity on-chain. Self-custody. Community-owned. Trustless and permissionless systems that are specifically designed to prevent fraud and counterparty risk and ensure the highest levels of transparency and accountability for all parties involved. Virtually none of the players that melted down in 2022 valued those principles. The ecosystems that do are still alive and building a better future for us all — including Solana.</p><p>Solana is a decentralized ecosystem — so much so that when a big actor collapses in spectacular fashion, the community remains resilient, picks up the pieces (in some cases,&nbsp;<a href=\"https://decrypt.co/116652/ftx-solana-defi-serum-starting-over?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">reclaims the tools for the greater community</a>), and keeps working. The Solana community has seized — and will continue to seize — this opportunity to double down on its core tenets in the wake of the storm on the path to mass adoption.</p><h2><strong>A decentralized future</strong></h2><p>The concept of antifragility is perfectly embodied by the saying “what doesn’t kill you, makes you stronger.” Web3 is a great example of an antifragile ecosystem because most of the attacks against it (be it by speculators, the media, legacy systems, and bad actors) have the unintuitive effect of strengthening the community, security, decentralization, and popularity of the network.</p><p>Bear markets also produce a similar effect, despite the market downturn throughout 2022:</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-37a002fdbc544a63bc189e681d7c58fe",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<ul><li>The Solana network saw a massive increase in the number of validators. More and more people are investing in the network's security. Over&nbsp;<a href=\"https://solanabeach.io/validators?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">2,000 nodes</a>&nbsp;are running the blockchain, making Solana one of the world’s&nbsp;<a href=\"https://solana.com/news/validator-health-report-august-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">most decentralized blockchains</a>&nbsp;as measured by the&nbsp;<a href=\"https://twitter.com/SolanaFndn/status/1557410029241831424?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Nakamoto coefficient.</a></li><li>The network keeps getting more performant.&nbsp;<a href=\"https://solana.com/upgrades?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">A series of new upgrades</a>&nbsp;has stabilized and strengthened the Solana network (even in times of market volatility,&nbsp;<a href=\"https://solana.com/news/snapshot-state-of-the-network-nov-17-2022?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">like November 2022</a>&nbsp;or&nbsp;<a href=\"https://twitter.com/dunleavy89/status/1612809322119004160?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">the January 2023 Bonk craze</a>).</li><li>A second validator client created by a third party,&nbsp;<a href=\"https://jumpcrypto.com/firedancer/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Firedancer</a>&nbsp;— which can&nbsp;<a href=\"https://www.youtube.com/watch?v=YF-7duYCK54&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">process 0.6 million transactions per second</a>&nbsp;in a test environment— will make the risk of network outages magnitudes smaller than in the past and could help move the network out of beta.</li></ul><p>On top of its speed, reliability, and cost-effectiveness, using Solana is also&nbsp;easy&nbsp;and&nbsp;fun.</p><p>Transactions settle in the blink of an eye and fees are trivial, mimicking how consumers have expected the internet to work since broadband was introduced decades ago. The network has remained true to the central thesis outlined in the whitepaper, of throughput that matches the New York Stock Exchange or other centralized computer networks.</p><p><strong>We believe that Solana making blockspace abundant and cheap will leapfrog crypto into its full potential — as big of an opportunity as when Ethereum introduced smart contracts to crypto.</strong></p><p>Before the creation of smart contracts, it was impossible to conceive that crypto mainstays like NFTs and DAOs could even exist. High throughput making blockspace as cheap, easy to use, and decentralized as possible — could represent just as big, if not bigger, of a leap forward.</p><p>While it’s a cliche to say “we’re early,” it’s only in the last year or so that Solana’s promise has been vindicated. Projects have already started to unlock the power of high throughput:&nbsp;<a href=\"https://www.parcl.co/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Parcl,</a>&nbsp;a virtual real estate app;&nbsp;<a href=\"https://hivemapper.com/hivemapper-dashcam/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Hivemapper,</a>&nbsp;a decentralized map; permissionless payment protocols like&nbsp;<a href=\"https://www.hel.io/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Helio</a>&nbsp;and&nbsp;<a href=\"https://www.decaf.so/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Decaf</a>&nbsp;that avoid the high fees of traditional payment rails;&nbsp;<a href=\"https://hellohelium.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Helium’s</a>&nbsp;decentralized mobile network, which is migrating to Solana; the decentralized ridesharing platform&nbsp;<a href=\"https://teleport.xyz/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Teleport</a>; the community-run order book&nbsp;<a href=\"https://twitter.com/openbookdex?lang=en&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">OpenBook</a>; Solana Mobile’s web3-first&nbsp;<a href=\"https://solanamobile.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Saga</a>&nbsp;phone; the censorship-resistant publishing platform&nbsp;<a href=\"https://www.wordcelclub.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Wordcel</a>;&nbsp;<a href=\"https://pyth.network/about?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Pyth’s</a>&nbsp;high-fidelity market data; and&nbsp;<a href=\"http://solana.com/ecosystem?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">many, many more.</a></p><p>We believe&nbsp;<a href=\"https://solana.com/news/the-values-that-got-us-here-solana-2023?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">2023</a>&nbsp;will be a year where the Solana community continues to take the reins and continues to build the framework for a decentralized and permissionless economy. As two members of that community, here is our vision for how we can all move together and make that dream a reality.</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-594979cab52f45118611c6794c69cf9b",
+            "component": {
+              "name": "Text",
+              "options": {
+                "text": "<ol><li>As many users as possible must be educated about self-custody and developers who are building self-custody solutions should be supported. Without self-sovereignty, crypto will never reach its promise.</li><li><br></li><li>We want to have one billion people in the world self-custody their private keys. This is not easy because there is still a lot of friction preventing non-technical users from holding their own keys. But we are confident that solutions such as&nbsp;<a href=\"https://solanamobile.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Mobile</a>’s seed vault will help break down those barriers.</li><li>In order to move toward a better, decentralized web, we need to ensure that on-chain transactions are as fast as a centralized database is able to process. This is incredibly important not only because it enables developers to build better user experiences for those who are used to web2 applications, but also because speed is the key to fairness in finance. In the future we are building, a person living in the most remote part of the world should be able to get real-time data at the same moment as a Wall Street broker.</li><li><br></li><li>Solana can process thousands of transactions per second on its base layer and can afford to spend its efforts on the application layer rather than on scaling solutions such as&nbsp;<a href=\"https://www.coindesk.com/learn/what-are-layer-2s-and-why-are-they-important/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">L2s</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Zero-knowledge_proof?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">zero-knowledge</a>, or&nbsp;<a href=\"https://www.techtarget.com/searchoracle/definition/sharding?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">sharding</a>. This also gives Solana a leg up on other networks in terms of user experience: a Solana user will only have to interact with the main blockchain and not get lost in sidechains and L2s. Solana is not and will never be a settlement network but instead runs as a single-state machine where the data propagation ensures speed, security, and scalability.</li><li>Lastly, we believe that on-chain transactions should remain cheap and affordable. The spirit of web3 is about inclusion and the ecosystem should be accessible to everyone across the world. If on-chain transactions are too costly, users will end up choosing centralized solutions that offer competitive rates. Solana has always been among the cheapest blockchains, and it’s paramount to keep it that way.</li></ol><p>For people who are new to all this, getting started in crypto can be confusing and intimidating. That’s why so many people had their funds on centralized platforms last year rather than holding their own private keys. We are investing a significant portion of our time into making the onboarding of the next wave of users as easy as possible, while still remaining true to the principles of web3.</p><p>That means you won’t see the Solana Foundation forking over cash to convince established brands to build on the network. (In our experience, if someone is being paid to be there, they will leave the moment the money stops.) Instead, the homespun projects and established experimenters that come to Solana for the innovative technology and the envelope-pushing use cases — like the ones building experiences with web3-native companies like&nbsp;<a href=\"https://primitives.xyz/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Primitives</a>&nbsp;or building in-house solutions like ASICS’ Solana-inspired&nbsp;<a href=\"https://ui.asics.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">UI shoe collection</a>&nbsp;– will be the focus. We welcome them into the decentralized, thriving community.</p><p>That community is already stepping up. From community-run hackathons like&nbsp;<a href=\"https://www.sandstormhackathon.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Sandstorm</a>&nbsp;by LamportDAO, spearheaded by the founder of Helius, to conferences like&nbsp;<a href=\"https://www.solanacrossroads.com/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Solana Crossroads</a>&nbsp;by Step Finance, to the decentralize community group&nbsp;<a href=\"https://superteam.fun/?ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">Superteam</a>, we’re seeing the community assuming progressively larger and larger roles in the greater Solana ecosystem (and if you’re hosting some sort of Solana event,&nbsp;<a href=\"https://twitter.com/intent/tweet?text=Hey+%40Solana%2C+I%27m+working+on...&amp;ref=solana.ghost.io\" rel=\"noopener noreferrer\" target=\"_blank\">let us know!</a>&nbsp;We want to help get the word out). This is actually the ultimate goal, and a sign of healthy, organic growth.</p><p>Solana is more than any one person or entity. It’s a community that will outlive us all. This bear market is a fantastic opportunity for all of us to improve the Solana network and contribute to the broader web3 space, without the noise that comes with over-hyped bull markets.</p><p>As builders ourselves, our bet will always be on the builders in the Solana community. We are very excited about the years ahead of us — expect much more to come soon!</p>"
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "lineHeight": "normal",
+                "height": "auto"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "983ae1dad0ba4ca4ac6dd4ac310edee1_cae3647488a54a1f8ffd55aa9b31c4b5",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F79c2d63d67a04c54a546a22ff9b4847f",
+  "lastUpdated": 1694189928666,
+  "variations": {},
+  "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_eba3e89de4cc41d7ae17b0602151f83a",
+  "lastUpdatedBy": "6GvakQAYwcPfcEbpsKxTUjHecF22",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1687590772363,
+  "@originId": "eba3e89de4cc41d7ae17b0602151f83a",
+  "testRatio": 1,
+  "createdDate": 1687362415183,
+  "createdBy": "AmQlet2K3ihDy7VCo3GG4DPZBHl2",
+  "meta": {
+    "lastPreviewUrl": "https://solana.com/api/preview?secret=micky-mouse&builder.space=ce0c7323a97a4d91bd0baa7490ec9139&builder.cachebust=true&builder.preview=post&builder.noCache=true&__builder_editing__=true&builder.overrides.post=eba3e89de4cc41d7ae17b0602151f83a&builder.overrides.eba3e89de4cc41d7ae17b0602151f83a=eba3e89de4cc41d7ae17b0602151f83a&builder.options.includeRefs=true&builder.options.locale=Default",
+    "kind": "component",
+    "componentsUsed": {
+      "Section Molecule": 1
+    },
+    "hasLinks": false
+  },
+  "name": "The Values That Got Us Here",
+  "@originModelId": "cae3647488a54a1f8ffd55aa9b31c4b5",
+  "@originOrgId": "ce0c7323a97a4d91bd0baa7490ec9139",
+  "rev": "onaw8wpsk8o"
+}
