@@ -1,0 +1,241 @@
+[
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_9dca858dc8014e7dabae57d397f13be2",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "undefined-undefined",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_01356600688c43e88106a4ae9a2d346f"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_24029d0c6cca4c85bd33e3e6e9f05c8a",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/solana-foundation-solana-identity-group",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_8c74b815b89541e6b846edf4c5e12e4d"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_287c3d7a52a047c1a86c2052b0ebd515",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/akshay-bd-ellie-platis",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_28935bc1bd4f42e196f9d6aa91e5efbe"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_d77d440d611740938a437715cb680274",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/onchain-holiday-authors",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_c87ef5d087774c6787f52417cf641bc1"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e6c6d3e7982f4da696be96d90a238c6b",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/akshay-bd",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_9ceb6d4df2094237b3174824729349e8"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3ad1982cf7754c3daaefae9a66650284",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/nick-ducoff",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_4dce3719835e4538ae818034bc9e39ee"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_2e24167937a34dca9e0254b881c629dc",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/colosseum",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_dd93cfb64dcb46988f7a0f5d74239f7d",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_1e93030834d048b3b1dcc3f244100b85"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_b96fb19ef99546e0bc54fef686059df6",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/only-possible-on-solana",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_2d81464c2ec242d9ba3bc01ec6d6ff1b",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_8704a73644004e6cb43574d914da90d9",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_18fef12d54774e23916ff35beb1232ab"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_16e80be9358446b1931ac8fe261183ee",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/jon-wong",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_c8f7ab10333340898127722b933b4de3",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_bd4f5ea96fb44dacb7345fe8dbfdb818",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_65c50c049ceb422b983e5efdfd13dd13"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_7936d8cf751d43dcbc38a1bb3e3c6afc",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/anza",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_b10d96218ff24705a7632b5aa9cd0bb2",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_1b70a822156149db9a0b281d2561490f"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_947846597fe840b2a1153e86acbda648",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/solana-foundation-polygon-labs",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_3e35ddeb7e044298a0141bab0771c02f"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_3a33a87d837e401da5dfb4ca7c1ca0b2",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/matt-sorg",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_5659c32827fc4ac680edc27e47226cc7"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_91ef520c9f3848e7825cd1c610a3f92c",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/jacob-creech",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_e982141c520645f483a3b14a2b8403e7"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_522ee32e37324ea3a406ecad62c51937",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/sean-young",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_b6d854f25bc045dcaf01e25a429b6fb4"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_e4e93f3f7e6549629c15a31c9012072d",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "undefined-undefined",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_0c31dd4e54c34ebfa6e43e5c620dbca1",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_aef5f9dad31244139c0d77ce6995c230"
+    ]
+  },
+  {
+    "id": "983ae1dad0ba4ca4ac6dd4ac310edee1_f2138d44442d4e47885fe25f4514707e",
+    "model": "author",
+    "name": "undefined undefined",
+    "slug": "/solana-foundation",
+    "locale": "en",
+    "usedByIds": [
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_04a2e379aefe44f8ae25f7e1f2a7e7fd",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_ed490919a3a14f059f524c3dea601d5d",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_3cb7d43fa3be46b99c0c6caecea6fd04",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_626a3c8858a04b50b908476fb9ba4323",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_ce0f860b682549caac7bbb8492b390dd",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_854339342ba64deda6efaed2e7bf36a9",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_cd7f6176972f4ed7a450a7f7c0566219",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_12b2eb838ab54b6399493fdd85e61a1d",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_ae8bd88c606648edb557728b1b2caae4",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_fdc7961f1b294150b5682cf34739a08b",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_a323e7a4deb2425e98a11d0236f7fa7d",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_28ac97127dda45b09f39f5d4ae6e1828",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_81ef8cd1312a47b298c6eff26305b77d",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_22003aa0ab4e439580749b3645d1685a",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_fb3256aeaf0d41f18b479c22dcb8b6c2",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_bbeab267774f4b8fa10ad0abe89cc149",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_e62554d4c7bc42ff8e14f96f14a6bb43",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_465affb35f104e64b3338dd6efef919a",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_304eba3c120d4d35be172796d01d5f41",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_31746d09b3e2443a9ce8b8a3679bb455",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_88ee9a3579454cf2aed49963bff7f466",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_5487be2d64a142e1a010fe97ee21b321",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_6c0fa072b4e64b5388db6b824d5e14e9",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_5799b5af57eb490c8e82302902aced09",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_22dfcd1023b54a49b29f2eeed355654b",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_847431981d514939a558cca7aedc1909",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_6d91554ecfd44261bb838f8517620933",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_8f7c9a19fa8348c8b7a109bdf86ac98d",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_5a43fe373f30499e87ac9016e3cb8531",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_629220400d0e46a3850ffd75d283f219",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_49bc92027dc44c659cbccbf3817f724a",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_590aefe3d7b74eb98bf46039f4d37513",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_dd7fba721da24f5596653a6d00007e42",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_0297dcb8fbc046f894768679b0a4d2c1",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_bac214ce33e9494bb5dcd0c75f94275f",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_d0edf376d26a4fbd88052493cdc5d786",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_6bd798de18e94eed9c9e6f05bae1b331",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_ec6fb6763af144bba4796fa5f9add151",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_376bfef54bcf4c6d8e5fc8119a37e49c",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_ce68449c257746419772cc94cdc952c5",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_415e1bc8b34341959242b22695313952",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_a7b5cb506bb44edf92a2a057ca2ce319",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_7f4a3011748d42d09bb8469a0d107305",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_4a715baeab2e4643a5ed49519d919d69",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_f3607b1df4bc494183e6a9888c2abb3c",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_c6d10b9c2b404f9c95707650c28f1add",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_936bbf03c08b40ccbada51d4e962e3ea",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_f4d4a5d14416466ebf69fc1c57c6f81a",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_f989f7fb5b0d4324b7da85d99b36747d",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_64f0b2ce02b244dabef87737d95a0631",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_712ad87284cb4e93ad46ec5d73bcc6ae",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_e15b46ab47e94a15ad1ea9389666139d",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_39482f4d49b8488b8ddc04743c2bc5a4",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_56e442dde615450cad734a463dfec9d4",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_4d643d2ef4ac42fab674e75b74fd2eaf",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_98cd4afb474749248cca733a57b9b3d9",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_95882e1482a748a29ed1a586809cff39",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_865663122a02413f8c985b864df1ab3c",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_8fdcef76a8ef4701b892e06acaab09ea",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_933c6aeb1b48478081dd8770b5f0f842",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_36648cd0570f4a81afb557a81e2c5cfb",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_ec9264680c6748cf8aa01b7135af1b02",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_cce2333f508c4695b1dc4d842b57e215",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_b77ffd0de83841d0aabc3fdccf3df24d",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_27c62e7ff1544bfe84e448a500b7f27b",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_dc0d9c13d8204cffbf65cd2a174c56da",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_82d7fbed5f54457c823b6736b619fc21",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_cc418ef1dd5441d286087383d30bd51f",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_d19e384f4c9c4a778bac9c1a963b6084",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_8bb96d15d8944ff0bf911f469f45ba44",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_c172d2ab0cfe4d3bb15cad815342cc31",
+      "983ae1dad0ba4ca4ac6dd4ac310edee1_033032c4762044379bd6a9f97cf0746a"
+    ],
+    "avatar": "https://cdn.builder.io/api/v1/image/assets%2Fce0c7323a97a4d91bd0baa7490ec9139%2F3d518d42383a462b897dcb237df9b503"
+  }
+]
