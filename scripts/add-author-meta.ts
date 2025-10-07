@@ -1,4 +1,4 @@
-/* scripts/add-authors-to-posts.ts */
+/* scripts/add-author-meta.ts */
 import fs from "node:fs/promises";
 import path from "node:path";
 import matter from "gray-matter";
@@ -14,7 +14,9 @@ type AuthorIndex = Record<
   }
 >;
 
-type BuilderIndex = Array<{
+type PostToAuthorsMap = Record<string, string[]>;
+
+type BuilderIndexEntry = {
   id: string;
   file: string;
   name?: string;
@@ -22,20 +24,6 @@ type BuilderIndex = Array<{
   locale?: string;
   published?: string | null;
   date?: string | number | null;
-}>;
-
-type BuilderPost = {
-  id: string;
-  data?: {
-    author?: {
-      "@type": "@builder.io/core:Reference";
-      id: string;
-      model?: string;
-    };
-    slug?: string;
-    [key: string]: any;
-  };
-  [key: string]: any;
 };
 
 /** ---------------------- Config ---------------------- */
@@ -46,9 +34,17 @@ const AUTHOR_INDEX_PATH = path.join(
   SOLANA_NEWS_PATH,
   "@builder/authors-entity/resolved-author-index.json"
 );
-const BUILDER_DIR = path.join(SOLANA_NEWS_PATH, "@builder");
+const POST_TO_AUTHORS_PATH = path.join(
+  SOLANA_NEWS_PATH,
+  "@builder/authors-entity/post-to-authors.json"
+);
+const BUILDER_INDEX_PATH = path.join(SOLANA_NEWS_PATH, "@builder/index.json");
 const POSTS_DIR = path.join(TINA_NEWS_PATH, "content/posts");
 const AUTHORS_DIR = path.join(TINA_NEWS_PATH, "content/authors");
+
+// Fallback author for posts without a matched author
+const FALLBACK_AUTHOR_PATH = "content/authors/solana-foundation.md";
+const FALLBACK_AUTHOR_SLUG = "solana-foundation";
 
 /** ---------------------- Utils ---------------------- */
 function cleanSlug(slug: string): string {
@@ -67,20 +63,14 @@ async function loadAuthorIndex(): Promise<AuthorIndex> {
   return JSON.parse(content);
 }
 
-async function loadBuilderPost(filename: string): Promise<BuilderPost | null> {
-  try {
-    const filePath = path.join(BUILDER_DIR, filename);
-    const content = await fs.readFile(filePath, "utf8");
-    return JSON.parse(content);
-  } catch (error) {
-    console.warn(`Could not load builder post: ${filename}`);
-    return null;
-  }
+async function loadPostToAuthors(): Promise<PostToAuthorsMap> {
+  const content = await fs.readFile(POST_TO_AUTHORS_PATH, "utf8");
+  return JSON.parse(content);
 }
 
-async function getAllBuilderFiles(): Promise<string[]> {
-  const files = await fs.readdir(BUILDER_DIR);
-  return files.filter((f) => f.endsWith(".json") && f.startsWith("en__"));
+async function loadBuilderIndex(): Promise<BuilderIndexEntry[]> {
+  const content = await fs.readFile(BUILDER_INDEX_PATH, "utf8");
+  return JSON.parse(content);
 }
 
 async function getMDXFiles(): Promise<string[]> {
@@ -153,50 +143,71 @@ avatar: /uploads/authors/default-avatar.png
 async function main() {
   console.log("🚀 Starting author mapping process...\n");
 
-  // Step 1: Load author index
-  console.log("📖 Loading author index...");
-  const authorIndex = await loadAuthorIndex();
-  console.log(`Found ${Object.keys(authorIndex).length} authors\n`);
+  // Step 1: Load all required data
+  console.log("📖 Loading data files...");
+  const [authorIndex, postToAuthors, builderIndex] = await Promise.all([
+    loadAuthorIndex(),
+    loadPostToAuthors(),
+    loadBuilderIndex(),
+  ]);
+  console.log(`  ✓ Loaded ${Object.keys(authorIndex).length} authors`);
+  console.log(
+    `  ✓ Loaded ${Object.keys(postToAuthors).length} post-author mappings`
+  );
+  console.log(`  ✓ Loaded ${builderIndex.length} builder posts\n`);
 
-  // Step 2: Get all builder files
-  console.log("📂 Scanning builder files...");
-  const builderFiles = await getAllBuilderFiles();
-  console.log(`Found ${builderFiles.length} builder files\n`);
-
-  // Step 3: Build a map of slug -> author
-  console.log("🔗 Building slug to author mapping...");
-  const slugToAuthor = new Map<string, { id: string; slug: string }>();
-
-  for (const filename of builderFiles) {
-    const post = await loadBuilderPost(filename);
-    if (!post?.data) continue;
-
-    const postSlug = post.data.slug;
-    const authorRef = post.data.author;
-
-    if (postSlug && authorRef?.id) {
-      const authorInfo = authorIndex[authorRef.id];
-      if (authorInfo) {
-        slugToAuthor.set(postSlug, {
-          id: authorRef.id,
-          slug: authorInfo.slug,
-        });
-      }
+  // Step 2: Build a map of post ID -> slug from builder index
+  console.log("🔗 Building post ID to slug mapping...");
+  const postIdToSlug = new Map<string, string>();
+  for (const entry of builderIndex) {
+    if (entry.slug) {
+      postIdToSlug.set(entry.id, entry.slug);
     }
   }
+  console.log(`Mapped ${postIdToSlug.size} post IDs to slugs\n`);
 
-  console.log(`Mapped ${slugToAuthor.size} posts to authors\n`);
+  // Step 3: Build a map of slug -> author info
+  console.log("🔗 Building slug to author mapping...");
+  const slugToAuthor = new Map<
+    string,
+    { authorId: string; authorSlug: string }
+  >();
 
-  // Step 4: Get all MDX files
+  for (const [postId, authorIds] of Object.entries(postToAuthors)) {
+    // Get the post slug
+    const postSlug = postIdToSlug.get(postId);
+    if (!postSlug) continue;
+
+    // Get the first author (most posts have one author)
+    if (authorIds.length === 0) continue;
+    const authorId = authorIds[0];
+
+    // Get author info
+    const authorInfo = authorIndex[authorId];
+    if (authorInfo) {
+      slugToAuthor.set(postSlug, {
+        authorId: authorId,
+        authorSlug: authorInfo.slug,
+      });
+    }
+  }
+  console.log(`Mapped ${slugToAuthor.size} slugs to authors\n`);
+
+  // Step 4: Ensure fallback author exists
+  console.log("📝 Ensuring fallback author exists...");
+  await ensureAuthorFileExists(FALLBACK_AUTHOR_SLUG);
+  console.log();
+
+  // Step 5: Get all MDX files
   console.log("📄 Scanning MDX posts...");
   const mdxFiles = await getMDXFiles();
   console.log(`Found ${mdxFiles.length} MDX files\n`);
 
-  // Step 5: Update MDX files
+  // Step 6: Update MDX files
   console.log("✏️  Updating MDX files with author metadata...\n");
   let updatedCount = 0;
   let skippedCount = 0;
-  let notFoundCount = 0;
+  let fallbackCount = 0;
 
   for (const mdxFile of mdxFiles) {
     // Extract slug from filename (remove .mdx extension)
@@ -207,10 +218,10 @@ async function main() {
 
     if (authorInfo) {
       // Ensure author file exists
-      await ensureAuthorFileExists(authorInfo.slug);
+      await ensureAuthorFileExists(authorInfo.authorSlug);
 
       // Update the MDX file
-      const authorPath = slugToAuthorPath(authorInfo.slug);
+      const authorPath = slugToAuthorPath(authorInfo.authorSlug);
       const updated = await updateMDXFile(mdxFile, authorPath);
 
       if (updated) {
@@ -219,8 +230,16 @@ async function main() {
         skippedCount++;
       }
     } else {
-      notFoundCount++;
-      console.log(`  ⚠️  No author found for: ${mdxFile}`);
+      // Use fallback author
+      console.log(`  🔄 Using fallback author for: ${mdxFile}`);
+      const updated = await updateMDXFile(mdxFile, FALLBACK_AUTHOR_PATH);
+
+      if (updated) {
+        fallbackCount++;
+        updatedCount++;
+      } else {
+        skippedCount++;
+      }
     }
   }
 
@@ -228,11 +247,14 @@ async function main() {
   console.log("\n" + "=".repeat(60));
   console.log("📊 Summary:");
   console.log("=".repeat(60));
-  console.log(`✅ Updated:  ${updatedCount} posts`);
-  console.log(`⏭️  Skipped:  ${skippedCount} posts (already had authors)`);
-  console.log(`⚠️  Not found: ${notFoundCount} posts (no matching author)`);
+  console.log(
+    `✅ Updated with matched authors:  ${updatedCount - fallbackCount} posts`
+  );
+  console.log(`🔄 Updated with fallback author:  ${fallbackCount} posts`);
+  console.log(`⏭️  Skipped (already had authors):  ${skippedCount} posts`);
+  console.log(`📝 Total updated:                  ${updatedCount} posts`);
   console.log("=".repeat(60));
-  console.log("\n✨ Done!");
+  console.log(`\n✨ Done! All posts now have authors.`);
 }
 
 main().catch((err) => {
